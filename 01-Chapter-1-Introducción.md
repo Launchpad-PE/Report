@@ -169,4 +169,6 @@ Una propuesta con estas características puede contribuir significativamente a *
 
 #### 1.2.2.4. Lean UX Canvas
 
+<img src="resources/Images/Chapter-1/Lean UX Canvas/Lean UX Canvas.png" alt="Lean UX Canvas" width="auto" height="550"/>
+
 ## 1.3. Segmentos objetivo
