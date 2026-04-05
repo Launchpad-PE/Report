@@ -1,6 +1,9 @@
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
+
+En esta sección se realizará el análisis competitivo de los competidores identificados en la sección inicial con el objetivo de tener una idea más clara sobre nuestro producto frente a los competidores y aprender para mejorar nuestro producto.
+
 <table>
 <thead>
   <tr>
@@ -340,6 +343,32 @@
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+En esta sección se analizarán las estrategias y tácticas que se usarán para aprovechar las debilidades de la competencia y afrontar sus fortalezas. De la misma forma con las amenazas y oportunidades de la competencia.
+ 
+Hemos empleado el análisis FODA para identificar las oportunidades y amenazas en el mercado, así como para evaluar nuestras fortalezas y debilidades internas. Este enfoque nos ha permitido concebir estrategias y tácticas adecuadas en consonancia con nuestro entorno y los recursos disponibles en base a nuestros dos segmentos objetivos.
+ 
+- **Estrategia de Diferenciación**
+ 
+  La estrategia de diferenciación de la aplicación de crowdfunding colaborativo se centra en posicionarla como un ecosistema único de colaboración integral, en el que los usuarios no solo aportan dinero, sino también habilidades, tiempo e ideas. A diferencia de otras plataformas tradicionales como Kickstarter, Indiegogo y GoFundMe, esta propuesta de valor busca que cada proyecto cuente con un equipo multidisciplinario, donde los participantes puedan asumir roles como programadores, diseñadores, comunicadores o mentores, generando así un valor añadido más allá del financiamiento económico.
+ 
+  Adicionalmente, Foundly incorpora un **módulo de monitoreo de impacto ambiental con integración IoT**, que permite a proyectos con enfoque sostenible visualizar métricas en tiempo real como calidad del aire, humedad y participación ciudadana. Este diferenciador tecnológico no existe en ninguna plataforma de crowdfunding competidora en la región, lo que refuerza nuestra propuesta de valor frente a un mercado en creciente interés por la sostenibilidad.
+ 
+  - **Tácticas:** Para lograrlo, la plataforma implementa un modelo freemium accesible, que permite a los usuarios crear hasta cinco proyectos de manera gratuita, lo que reduce las barreras de entrada y fomenta la participación masiva. Además, se incorpora un espacio comunitario con herramientas de interacción, foros y networking, acompañado de dinámicas de gamificación (insignias, reconocimientos y recompensas virtuales) que incentivan la colaboración y el sentido de pertenencia. El módulo IoT estará disponible para todos los proyectos con enfoque ambiental, funcionando como un argumento de credibilidad ante potenciales financiadores.
+ 
+- **Estrategia de Entrada al Mercado Local (Perú – LATAM)**
+ 
+  La estrategia de entrada al mercado local de la aplicación se enfoca en iniciar operaciones en Perú, como país piloto, para luego escalar progresivamente hacia otros países de Latinoamérica con características de mercado similares. El punto de partida está en aprovechar el vacío existente en la región, ya que las principales plataformas internacionales de crowdfunding (como Kickstarter, Indiegogo y GoFundMe) no tienen presencia oficial en gran parte de Sudamérica, lo que representa una oportunidad concreta de posicionamiento.
+ 
+  - **Tácticas:** En su fase inicial, la estrategia contempla una campaña de educación y sensibilización del público peruano acerca de qué es el crowdfunding y cómo puede ser una alternativa real de financiamiento. Esto se logrará mediante talleres, webinars gratuitos, alianzas con universidades, incubadoras de negocios, coworkings y ONGs locales. Con ello, se busca no solo captar usuarios, sino también posicionar la marca como pionera en el financiamiento colaborativo adaptado al contexto latinoamericano.
+ 
+- **Estrategia de Marketing Digital Segmentado**
+ 
+  La estrategia de marketing digital segmentado de la aplicación se orienta a alcanzar de manera efectiva a los distintos públicos objetivo: emprendedores, comunidades sociales, profesionales colaboradores y donantes. Para ello, se implementarán campañas diferenciadas en redes sociales como Facebook, Instagram, TikTok y LinkedIn, aprovechando la capacidad de estas plataformas para segmentar por edad, intereses, ubicación y afinidad con el emprendimiento o las causas sociales.
+ 
+  - **Tácticas:** El enfoque será eminentemente visual y narrativo, utilizando videos cortos, reels e historias que muestren casos reales de proyectos financiados, tutoriales rápidos sobre cómo crear una campaña y testimonios de usuarios que hayan tenido éxito. De esta manera, se busca generar confianza, educar sobre el concepto de crowdfunding y motivar la participación de nuevos usuarios.
+
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
