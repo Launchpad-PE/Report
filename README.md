@@ -8,10 +8,8 @@
 **Ingeniería de Software**
 
 **Ciclo:** 2026-1
-
-**Curso:** Desarrollo de Aplicaciones Open Source
-
-**Código del Curso:** 1ASI0729
+ 
+1ASI0729 - Desarrollo de Aplicaciones Open Source 
 
 **NRC:** 10177
 
