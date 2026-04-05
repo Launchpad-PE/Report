@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td colspan="2"><div align="center">Logo</div></td>
-    <td><div align="center"><img src="resources/imgs/logo/logo.png" width="150"></div></td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/competidores/Foundly-Logo.png" width="250"></div></td>
     <td><div align="center"><img src="https://assets.vg247.com/current/2014/02/kickstarter.jpg" width="150"></div></td>
     <td><div align="center"><img src="https://www.tckpublishing.com/wp-content/uploads/2017/05/indiegogo_logo_detail.png" width="150"></div></td>
     <td><div align="center"><img src="https://www.gofundme.com/g/GFM-1200x628-1.png" width="150"></div></td>
