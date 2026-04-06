@@ -115,6 +115,73 @@ Finalmente indicó que sí estaría dispuesto a utilizar Foundly y a recomendár
 </tbody>
 </table>
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Didier Sebastian</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Meza Solórzano</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Villa Maria del Triunfo</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>WhatsApp, Github, KickStarter</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Usar una plataforma clara, intuitiva y que lo ayude a organizarse mejor.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Desorden en la comunicación al depender de WhatsApp (información perdida entre mensajes).</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-didier-meza.png" alt="Entrevista a Didier Meza"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQBYjsQz0dfJQ5cJSAmi7NBpAZKE6jIVLX_3Q7VbDHe8adc?e=dAxnxt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
+	</td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>0:00 min - 10:53 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+		Didier Meza es un emprendedor en etapa temprana que financia sus proyectos principalmente con ahorros propios y apoyo cercano de familiares o amigos, lo cual considera limitado para avanzar. Ha probado plataformas como Kickstarter, pero su experiencia fue negativa por la falta de visibilidad, la necesidad de invertir en publicidad externa y las barreras para proyectos de Perú, lo que lo desmotivó.
+
+Su mayor dificultad es formar equipos comprometidos: muchos interesados abandonan al poco tiempo y le resulta complejo conectar con personas con habilidades en áreas que no domina (diseño, marketing). Además, coordinar por WhatsApp le genera frustración debido al desorden y la pérdida de información en los chats.
+
+Lo que más le preocupa al buscar financiamiento en línea es la seguridad del dinero y la seriedad de los proyectos, ya que la falta de confianza desanima tanto a él como a los posibles aportantes. Para una plataforma ideal valora que sea clara, fácil de usar, que permita mostrar bien la propuesta, ofrecer reportes de avance visibles, sistemas de reputación/verificación y herramientas para organizar tareas con métricas claras.
+
+Didier ve como beneficios principales el alcance mayor, la posibilidad de recibir feedback de personas con experiencia y el acceso a colaboradores que complementen sus habilidades. Considera crítico contar con un equipo sólido desde el inicio, porque sin él la validación de ideas y el financiamiento se vuelven inviables.
+
+</td>
+  </tr>
+</tbody>
+</table>
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
