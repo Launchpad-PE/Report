@@ -54,7 +54,6 @@ Muchas gracias por su tiempo y comentarios. Su aporte nos ayudará a crear una p
 En esta sección presentamos los registros de las entrevistas que hicimos para cada segmento objetivo de nuestra aplicación.
 
 **Segmento 1:**
-En esta sección presentamos los registros de las entrevistas que hicimos para cada segmento objetivo de nuestra aplicación.
 
 <table>
 <colgroup>
@@ -177,6 +176,71 @@ Lo que más le preocupa al buscar financiamiento en línea es la seguridad del d
 
 Didier ve como beneficios principales el alcance mayor, la posibilidad de recibir feedback de personas con experiencia y el acceso a colaboradores que complementen sus habilidades. Considera crítico contar con un equipo sólido desde el inicio, porque sin él la validación de ideas y el financiamiento se vuelven inviables.
 
+</td>
+  </tr>
+</tbody>
+</table>
+
+**Segmento 2:**
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Kael Valentino</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Lagos Rivera</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Surquillo</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td> WhatsApp, GitHub</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Ganar experiencia práctica en proyectos reales.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Dificultad para encontrar proyectos alineados a sus intereses o perfiles compatibles.</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt="Entrevista a Kael Lagos"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>
+		<p><a target="_blank"  href="" title="Title">Microsoft Stream</p>
+	</td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>
+		0:00 min - 10:16 min
+	</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+		Kael Lagos es un estudiante joven que participa activamente en proyectos universitarios, talleres y trabajos personales. Lo motiva principalmente ganar experiencia y construir un portafolio que le abra puertas laborales, además de generar networking y posibles ingresos. Sus frustraciones se centran en la falta de organización en las herramientas actuales, la dificultad de encontrar equipos compatibles y la poca certeza sobre la valoración de su aporte. Busca una plataforma que ofrezca orden, transparencia y reconocimiento, facilitando su crecimiento profesional de manera práctica y colaborativa.
 </td>
   </tr>
 </tbody>
