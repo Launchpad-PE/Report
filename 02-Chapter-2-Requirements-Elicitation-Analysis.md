@@ -223,12 +223,12 @@ Didier ve como beneficios principales el alcance mayor, la posibilidad de recibi
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt="Entrevista a Kael Lagos"></div></td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-kael-lagos.png" alt="Entrevista a Kael Lagos"></div></td>
   </tr>
   <tr>
     <td>Link</td>
     <td>
-		<p><a target="_blank"  href="" title="Title">Microsoft Stream</p>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQABmhcLE9j_QJz9uAhlFPCsAWkLGBXR2v4Kfjcw82JcgQY?e=JEZdGi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
 	</td>
   </tr>
   <tr>
