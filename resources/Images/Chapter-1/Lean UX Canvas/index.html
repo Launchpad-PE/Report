@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Lean Canvas</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; background: #fff; padding: 24px; }
+  h1 { font-size: 20px; font-weight: 600; color: #1a1a1a; margin-bottom: 18px; text-align: center; letter-spacing: 0.02em; }
+  .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+  .card { border-radius: 10px; padding: 14px 16px; border: 1px solid; page-break-inside: avoid; }
+  .card-title { font-size: 12.5px; font-weight: 600; margin-bottom: 10px; text-align: center; }
+  .card-body { font-size: 11.5px; line-height: 1.65; }
+  .card-body ul { padding-left: 15px; }
+  .card-body li { margin-bottom: 5px; }
+  .card-body p { margin-bottom: 7px; }
+
+  .purple { background: #EEEDFE; border-color: #534AB7; color: #26215C; }
+  .purple .card-title { color: #3C3489; }
+  .teal { background: #E1F5EE; border-color: #0F6E56; color: #085041; }
+  .teal .card-title { color: #085041; }
+  .coral { background: #FAECE7; border-color: #993C1D; color: #4A1B0C; }
+  .coral .card-title { color: #712B13; }
+  .pink { background: #FBEAF0; border-color: #993556; color: #4B1528; }
+  .pink .card-title { color: #72243E; }
+  .blue { background: #E6F1FB; border-color: #185FA5; color: #042C53; }
+  .blue .card-title { color: #0C447C; }
+  .amber { background: #FAEEDA; border-color: #854F0B; color: #412402; }
+  .amber .card-title { color: #633806; }
+
+  @media print {
+    body { padding: 12px; }
+    .grid { gap: 8px; }
+  }
+</style>
+</head>
+<body>
+
+<h1>Lean Canvas</h1>
+
+<div class="grid">
+
+  <div class="card purple">
+    <p class="card-title">Problema de negocio</p>
+    <div class="card-body">
+      <p>En Latinoamérica, cerca del <strong>75% de las startups fracasan</strong> antes de dos años por:</p>
+      <ul>
+        <li>Falta de financiamiento accesible (29%)</li>
+        <li>Equipos fundadores sin cohesión (23%)</li>
+        <li>Gestión ineficiente de recursos (20%)</li>
+        <li>Ausencia de plataformas que integren crowdfunding, equipos y seguimiento transparente</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card teal">
+    <p class="card-title">Ideas de solución</p>
+    <div class="card-body">
+      <ul>
+        <li>Plataforma web de <strong>crowdfunding colaborativo</strong></li>
+        <li>Módulo de <strong>creación y gestión de proyectos</strong> con campañas de financiamiento</li>
+        <li>Sistema de <strong>hitos, reportes y reputación</strong> para usuarios y proyectos</li>
+        <li><strong>Módulo IoT</strong> de monitoreo de impacto ambiental en tiempo real</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card coral">
+    <p class="card-title">Resultados comerciales</p>
+    <div class="card-body">
+      <ul>
+        <li>Validar el modelo freemium alcanzando al menos <strong>15% de conversión</strong> a premium en el primer año</li>
+        <li>Lograr <strong>2,000 usuarios activos</strong> y <strong>500 proyectos publicados</strong> en seis meses</li>
+        <li>Asegurar sostenibilidad financiera mediante planes premium y comisiones</li>
+        <li>Que <strong>40% de proyectos ambientales</strong> activen el módulo IoT en los primeros seis meses</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card pink">
+    <p class="card-title">Usuarios y clientes</p>
+    <div class="card-body">
+      <ul>
+        <li><strong>Emprendedores:</strong> personas con ideas innovadoras que buscan financiamiento y colaboradores</li>
+        <li><strong>Estudiantes universitarios:</strong> interesados en participar en proyectos reales y aplicar habilidades</li>
+        <li><strong>Profesionales independientes:</strong> expertos que desean aportar conocimiento y unirse a proyectos</li>
+        <li><strong>Proyectos sostenibles:</strong> equipos con enfoque ambiental que buscan medir su impacto</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card blue">
+    <p class="card-title">Lo más importante que necesitamos aprender primero</p>
+    <div class="card-body">
+      <p>Debemos validar si los usuarios realmente valoran una plataforma que combine <strong>crowdfunding colaborativo</strong> y <strong>formación de equipos multidisciplinarios</strong> en un solo ecosistema, y si el módulo IoT es un diferenciador real frente a soluciones actuales.</p>
+    </div>
+  </div>
+
+  <div class="card teal">
+    <p class="card-title">Beneficios del usuario</p>
+    <div class="card-body">
+      <ul>
+        <li>Mayor acceso a financiamiento colectivo</li>
+        <li>Creación de equipos sólidos y multidisciplinarios</li>
+        <li>Confianza y transparencia mediante seguimiento de hitos y reputaciones verificadas</li>
+        <li>Oportunidades de networking y expansión de redes</li>
+        <li>Visibilidad del impacto ambiental de proyectos sostenibles vía IoT</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card coral">
+    <p class="card-title">Hipótesis</p>
+    <div class="card-body">
+      <ul>
+        <li>Si ofrecemos <strong>campañas fáciles de crear</strong>, los usuarios impulsarán proyectos sin depender de inversionistas tradicionales</li>
+        <li>Si habilitamos <strong>funcionalidades de equipos</strong>, los proyectos tendrán mayor probabilidad de éxito</li>
+        <li>Si desarrollamos una <strong>interfaz intuitiva y atractiva</strong>, más usuarios adoptarán la plataforma</li>
+        <li>Si incluimos <strong>seguimiento de hitos y reputación</strong>, generaremos confianza y participación recurrente</li>
+        <li>Si incorporamos el <strong>módulo IoT</strong>, los proyectos ambientales obtendrán mayor financiamiento</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card amber">
+    <p class="card-title">La menor cantidad de trabajo para aprender</p>
+    <div class="card-body">
+      <ul>
+        <li><strong>Entrevistas en profundidad</strong> con al menos 2 usuarios potenciales para entender necesidades y frustraciones</li>
+        <li><strong>Encuestas masivas</strong> en comunidades de emprendedores y universidades para medir interés en funcionalidades clave</li>
+        <li><strong>Prototipos interactivos de baja fidelidad</strong> para evaluar cómo los usuarios priorizan funcionalidades</li>
+        <li><strong>Prueba piloto del módulo IoT</strong> con proyectos ambientales reales para validar su valor diferencial</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card purple">
+    <p class="card-title">Modelo de negocio</p>
+    <div class="card-body">
+      <ul>
+        <li><strong>Freemium:</strong> hasta 5 postulaciones o publicaciones gratuitas</li>
+        <li><strong>Premium:</strong> métricas avanzadas, postulaciones ilimitadas y mayor visibilidad</li>
+        <li><strong>Comisión</strong> sobre fondos recaudados exitosamente</li>
+        <li>Inversión inicial estimada: <strong>USD $18,000</strong></li>
+      </ul>
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>
