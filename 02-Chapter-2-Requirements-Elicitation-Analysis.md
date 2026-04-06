@@ -51,6 +51,70 @@ Buenos días/tardes/noches, mi nombre es [Nombre del entrevistador]. Hoy entrevi
 Muchas gracias por su tiempo y comentarios. Su aporte nos ayudará a crear una plataforma más útil y atractiva para jóvenes con interés en colaborar y aprender de proyectos reales.
 
 ### 2.2.2. Registro de entrevistas
+En esta sección presentamos los registros de las entrevistas que hicimos para cada segmento objetivo de nuestra aplicación.
+
+**Segmento 1:**
+En esta sección presentamos los registros de las entrevistas que hicimos para cada segmento objetivo de nuestra aplicación.
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Diana Lucia</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Briceño Huarcaya</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Barranco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Microsoft Stream</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Conseguir colaboradores con habilidades complementarias.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Dificultad para encontrar colaboradores comprometidos y confiables.</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-diana-briceño.png" alt="Entrevista a Diana Briceño"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQB-pW1mSnVFRrnYXrmZb_zqAYfSIXqhAS_soBgVYZph2FE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8kAkXJ" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>0:00 min - 10:18 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+			En la entrevista con Diana Briceño, logramos conocer su opinión acerca de qué le pareció nuestra landing page y nuestra aplicación web. Indicó que le llamó la mucho la atención nuestra landing page, que le pareció muy bien organizada y fácil de comprender y leer, e incluso dijo que nuestra aplicación web le sorprendió buenamente, ya que le encantó lo tan detallada que está y su facilidad de usar, indicó que tal vez podríamos mejorar el tamaño de las letras pero que todo lo demás le había gustado y parecía excelente.
+Finalmente indicó que sí estaría dispuesto a utilizar Foundly y a recomendársela a sus amigos y familiares.
+</td>
+  </tr>
+</tbody>
+</table>
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
