@@ -344,30 +344,63 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-En esta sección se analizarán las estrategias y tácticas que se usarán para aprovechar las debilidades de la competencia y afrontar sus fortalezas. De la misma forma con las amenazas y oportunidades de la competencia.
- 
-Hemos empleado el análisis FODA para identificar las oportunidades y amenazas en el mercado, así como para evaluar nuestras fortalezas y debilidades internas. Este enfoque nos ha permitido concebir estrategias y tácticas adecuadas en consonancia con nuestro entorno y los recursos disponibles en base a nuestros dos segmentos objetivos.
- 
-- **Estrategia de Diferenciación**
- 
-  La estrategia de diferenciación de la aplicación de crowdfunding colaborativo se centra en posicionarla como un ecosistema único de colaboración integral, en el que los usuarios no solo aportan dinero, sino también habilidades, tiempo e ideas. A diferencia de otras plataformas tradicionales como Kickstarter, Indiegogo y GoFundMe, esta propuesta de valor busca que cada proyecto cuente con un equipo multidisciplinario, donde los participantes puedan asumir roles como programadores, diseñadores, comunicadores o mentores, generando así un valor añadido más allá del financiamiento económico.
- 
-  Adicionalmente, Foundly incorpora un **módulo de monitoreo de impacto ambiental con integración IoT**, que permite a proyectos con enfoque sostenible visualizar métricas en tiempo real como calidad del aire, humedad y participación ciudadana. Este diferenciador tecnológico no existe en ninguna plataforma de crowdfunding competidora en la región, lo que refuerza nuestra propuesta de valor frente a un mercado en creciente interés por la sostenibilidad.
- 
-  - **Tácticas:** Para lograrlo, la plataforma implementa un modelo freemium accesible, que permite a los usuarios crear hasta cinco proyectos de manera gratuita, lo que reduce las barreras de entrada y fomenta la participación masiva. Además, se incorpora un espacio comunitario con herramientas de interacción, foros y networking, acompañado de dinámicas de gamificación (insignias, reconocimientos y recompensas virtuales) que incentivan la colaboración y el sentido de pertenencia. El módulo IoT estará disponible para todos los proyectos con enfoque ambiental, funcionando como un argumento de credibilidad ante potenciales financiadores.
- 
-- **Estrategia de Entrada al Mercado Local (Perú – LATAM)**
- 
-  La estrategia de entrada al mercado local de la aplicación se enfoca en iniciar operaciones en Perú, como país piloto, para luego escalar progresivamente hacia otros países de Latinoamérica con características de mercado similares. El punto de partida está en aprovechar el vacío existente en la región, ya que las principales plataformas internacionales de crowdfunding (como Kickstarter, Indiegogo y GoFundMe) no tienen presencia oficial en gran parte de Sudamérica, lo que representa una oportunidad concreta de posicionamiento.
- 
-  - **Tácticas:** En su fase inicial, la estrategia contempla una campaña de educación y sensibilización del público peruano acerca de qué es el crowdfunding y cómo puede ser una alternativa real de financiamiento. Esto se logrará mediante talleres, webinars gratuitos, alianzas con universidades, incubadoras de negocios, coworkings y ONGs locales. Con ello, se busca no solo captar usuarios, sino también posicionar la marca como pionera en el financiamiento colaborativo adaptado al contexto latinoamericano.
- 
-- **Estrategia de Marketing Digital Segmentado**
- 
-  La estrategia de marketing digital segmentado de la aplicación se orienta a alcanzar de manera efectiva a los distintos públicos objetivo: emprendedores, comunidades sociales, profesionales colaboradores y donantes. Para ello, se implementarán campañas diferenciadas en redes sociales como Facebook, Instagram, TikTok y LinkedIn, aprovechando la capacidad de estas plataformas para segmentar por edad, intereses, ubicación y afinidad con el emprendimiento o las causas sociales.
- 
-  - **Tácticas:** El enfoque será eminentemente visual y narrativo, utilizando videos cortos, reels e historias que muestren casos reales de proyectos financiados, tutoriales rápidos sobre cómo crear una campaña y testimonios de usuarios que hayan tenido éxito. De esta manera, se busca generar confianza, educar sobre el concepto de crowdfunding y motivar la participación de nuevos usuarios.
+En esta sección se presentan las estrategias y tácticas preliminares que aplicará Foundly para afrontar las fortalezas de la competencia, aprovechar sus debilidades, capitalizar las oportunidades del entorno y mitigar las amenazas identificadas en el análisis FODA.
 
+---
+
+##### Estrategias para aprovechar las debilidades de los competidores
+
+Los principales competidores identificados Kickstarter, Indiegogo y GoFundMe presentan debilidades concretas que Foundly puede explotar de manera directa:
+
+- **Kickstarter e Indiegogo no tienen presencia oficial en Perú ni en gran parte de Sudamérica.** Foundly aprovechará este vacío posicionándose como la primera plataforma de crowdfunding colaborativo adaptada al contexto latinoamericano, con soporte en español, métodos de pago locales y una propuesta de valor orientada a las necesidades del emprendedor peruano.
+
+- **Kickstarter aplica un proceso de revisión de proyectos de 1 a 3 días hábiles**, lo que retrasa el lanzamiento de campañas. Foundly ofrecerá publicación inmediata de proyectos, reduciendo la fricción de entrada y permitiendo que los emprendedores actúen con mayor agilidad.
+
+- **Kickstarter e Indiegogo cobran comisiones de entre 5% y 8% más tarifas de procesamiento**, lo que encarece el crowdfunding para proyectos pequeños. El modelo freemium de Foundly con hasta 5 proyectos gratuitos representa una alternativa de menor costo de entrada, especialmente atractiva para emprendedores en etapas tempranas.
+
+- **Ningún competidor integra formación de equipos multidisciplinarios ni monitoreo de impacto ambiental con IoT.** Foundly se diferencia al ofrecer ambas funcionalidades en un solo ecosistema, cubriendo necesidades que las plataformas globales ignoran por completo.
+
+- **Táctica:** Campañas de comunicación directa destacando las ventajas comparativas frente a la competencia, usando mensajes como "sin listas de espera", "sin comisiones al inicio" y "el equipo también importa", dirigidas a emprendedores que ya conocen Kickstarter o Indiegogo pero no pueden acceder a ellas desde Perú.
+
+---
+
+##### Estrategias para afrontar las fortalezas de los competidores
+
+Kickstarter, Indiegogo y GoFundMe cuentan con marcas globalmente reconocidas, grandes bases de usuarios y modelos consolidados de confianza. Para afrontar estas fortalezas:
+
+- **Estrategia de Diferenciación:** Foundly no compite en el mismo terreno que los competidores globales, sino que construye una categoría propia: el crowdfunding colaborativo con formación de equipos. A diferencia de las plataformas tradicionales donde el usuario solo aporta dinero, Foundly permite aportar habilidades, tiempo e ideas, generando valor más allá del financiamiento económico.
+
+- **Módulo IoT como diferenciador tecnológico único:** Foundly incorpora un módulo de monitoreo de impacto ambiental con integración IoT que permite a proyectos sostenibles visualizar métricas en tiempo real como calidad del aire, humedad y participación ciudadana. Ningún competidor directo ofrece esta funcionalidad, lo que refuerza la propuesta de valor frente a un mercado con creciente interés en la sostenibilidad.
+
+- **Táctica:** Implementar un sistema de verificación de usuarios y proyectos, junto con seguimiento de hitos y un sistema de reputación, para construir confianza progresiva entre los usuarios y compensar la menor trayectoria de marca frente a competidores consolidados.
+
+---
+
+##### Estrategias para capitalizar las oportunidades del entorno
+
+- **Estrategia de Entrada al Mercado Local (Perú – LATAM):** Foundly iniciará operaciones en Perú como mercado piloto, aprovechando la ausencia de competidores globales con presencia oficial en la región. Una vez validado el modelo, se escalará progresivamente hacia otros países de Latinoamérica con características de mercado similares.
+
+- **Táctica:** En la fase inicial se ejecutará una campaña de educación y sensibilización sobre qué es el crowdfunding y cómo funciona, mediante talleres, webinars gratuitos y alianzas con universidades, incubadoras de negocios, coworkings y ONGs locales. El objetivo es posicionar a Foundly como pionera en financiamiento colaborativo adaptado al contexto latinoamericano antes de que los competidores globales decidan expandirse.
+
+- **Estrategia de Marketing Digital Segmentado:** Se implementarán campañas diferenciadas en Facebook, Instagram, TikTok y LinkedIn, segmentadas por edad, intereses y afinidad con el emprendimiento o causas sociales, orientadas a los dos segmentos objetivos: emprendedores en etapa temprana y colaboradores profesionales.
+
+- **Táctica:** Contenido visual y narrativo videos cortos, reels, historias y testimonios de usuarios reales que muestren casos de proyectos financiados exitosamente, tutoriales sobre cómo crear una campaña y el funcionamiento del módulo IoT para proyectos ambientales.
+
+---
+
+##### Estrategias para mitigar las amenazas del entorno
+
+- **Amenaza: expansión de competidores globales a Latinoamérica.** Si Kickstarter o Indiegogo deciden ingresar a la región, Foundly ya contará con una base de usuarios establecida, alianzas institucionales y una propuesta de valor que va más allá del crowdfunding tradicional. La velocidad de entrada al mercado es la principal defensa.
+
+  - **Táctica:** Acelerar la captación de usuarios y la generación de alianzas con universidades e incubadoras durante los primeros 12 meses, creando barreras de fidelización antes de que los competidores globales puedan reaccionar.
+
+- **Amenaza: casos de fraude que afectan la reputación del crowdfunding en general.** El ecosistema de crowdfunding a nivel global enfrenta desconfianza derivada de proyectos incumplidos o campañas fraudulentas, lo que puede afectar a Foundly aunque no sea directamente responsable.
+
+  - **Táctica:** Implementar desde el lanzamiento un sistema de verificación de identidad, validación de proyectos y seguimiento obligatorio de hitos con evidencias. El módulo de reputación permitirá que los usuarios evalúen proyectos y equipos, generando transparencia y disuadiendo comportamientos fraudulentos.
+
+- **Amenaza: ausencia de regulación clara sobre crowdfunding en Perú.** La falta de un marco legal específico puede derivar en regulaciones futuras que limiten la operación de plataformas de financiamiento colectivo.
+
+  - **Táctica:** Desde el inicio, Foundly operará bajo estándares de transparencia financiera y cumplimiento normativo general, documentando todos los flujos de fondos y manteniendo comunicación con asociaciones de emprendimiento y organismos regulatorios, de modo que la plataforma esté preparada para adaptarse a cualquier cambio regulatorio sin interrupciones.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
