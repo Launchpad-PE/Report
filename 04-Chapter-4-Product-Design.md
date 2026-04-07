@@ -145,8 +145,17 @@ Su propósito principal es proporcionar una visión clara y basada en datos del 
 <img src="resources/Images/Chapter-4/bounded-context/Analaytics.png" alt="Analytics">
 
 ### 4.6.2. Software Architecture Context Diagram
+
+<img src="resources/Images/Chapter-4/C4 MODEL/structurizr-109610-SystemContext-001.svg" alt="Contexto">
+
 ### 4.6.3. Software Architecture Container Diagrams
+
+<img src="resources/Images/Chapter-4/C4 MODEL/structurizr-109610-Container-001.svg" alt="Contenedor">
+
 ### 4.6.4. Software Architecture Components Diagrams
+
+<img src="resources/Images/Chapter-4/C4 MODEL/structurizr-109610-Component-001.svg" alt="Conmponente">
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ## 4.8. Database Design
