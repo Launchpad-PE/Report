@@ -246,6 +246,68 @@ Didier ve como beneficios principales el alcance mayor, la posibilidad de recibi
 </tbody>
 </table>
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Diego Alonso</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Esquicha Alcántara</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td> WhatsApp</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Generar soluciones tecnológicas con impacto real en el entorno.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Fallas críticas en comunicación y falta de metodologías de organización.</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Diego-Esquicha.png" alt="Entrevista a Diego Esquicha"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/personal/u202417423_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202417423%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202610%2D1ASI0729%2D2610%2DLaunchpad%2DPE%2Dneedfinding%2Dsprint%2D1%2Emov&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4354b9c5%2Daf95%2D45e9%2Db524%2D9d4386a3eec6" title="Title">Microsoft Stream</p>
+	</td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>
+		0:00 min - 11:08 min
+	</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+    Diego es un estudiante con trayectoria en proyectos académicos de enfoque tecnológico, destacando su experiencia en la integración de soluciones IoT y su compromiso social a través del voluntariado. Su principal motor para participar en emprendimientos digitales es la creación de tecnología con propósito e impacto social. Sin embargo, su experiencia previa se ha visto limitada por barreras operativas: la rigidez en la asignación de roles, deficiencias en los canales de comunicación grupal y una marcada falta de estructura organizativa. Diego ve en Foundly una oportunidad estratégica para obtener experiencia práctica verificable, buscando que la plataforma no solo facilite la gestión del proyecto, sino que actúe como un catalizador para fortalecer su portafolio profesional.
+</td>
+  </tr>
+</tbody>
+</table>
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
