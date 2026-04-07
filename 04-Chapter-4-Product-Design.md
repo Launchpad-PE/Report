@@ -33,23 +33,50 @@ El desarrollo del proceso del Domain-Driven Design se realizó en la aplicación
 
 **IAM (Identify Acces Management):**
 
+<img src="resources/Images/Chapter-4/bounded-context/IAM.png" alt="IAM">
+
 **Profile Management:**
+
+<img src="resources/Images/Chapter-4/bounded-context/Profile-management.png" alt="Profile">
 
 **Project Management:**
 
+<img src="resources/Images/Chapter-4/bounded-context/Project-management.png" alt="Project">
+
+
 **Subscription Management:**
+
+<img src="resources/Images/Chapter-4/bounded-context/Subscription-managment.png" alt="Subscription">
+
 
 **Notification Management:**
 
+<img src="resources/Images/Chapter-4/bounded-context/Notification-management.png" alt="Notification">
+
+
 **Milestone Management:**
 
-**Task Management**
+<img src="resources/Images/Chapter-4/bounded-context/milestone.png" alt="Milestone">
+
+
+**Task Management:**
+
+<img src="resources/Images/Chapter-4/bounded-context/task.png" alt="Task">
+
 
 **Contribution Management:**
 
-**IOT**
+<img src="resources/Images/Chapter-4/bounded-context/contribution.png" alt="Contribution">
+
+
+**IOT:**
+
+<img src="resources/Images/Chapter-4/bounded-context/Iot.png" alt="Iot">
+
 
 **Analytics:**
+
+<img src="resources/Images/Chapter-4/bounded-context/Analaytics.png" alt="Analytics">
 
 ### 4.6.2. Software Architecture Context Diagram
 ### 4.6.3. Software Architecture Container Diagrams
