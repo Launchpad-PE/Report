@@ -31,7 +31,25 @@ El desarrollo del proceso del Domain-Driven Design se realizó en la aplicación
 
 <p><a target="_blank"  href="https://miro.com/welcomeonboard/cHVMcFFueFZFQjcyVWkrMUNzNWVjSGZYSDhFaEpXSUlRV0FZYnF3QTAzczloRXhSTFlFbkVIcThvM044OWZBWjYxNTlQSFRFbk1TbzRUSkpJNG9YOFBmdzQ3QVkzWmFoalVhN1FnMGw5YWlnYVpwYUllM1N0TTdtanFXTytoaE5zVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=425540868454" title="Title">Miro</p></td>
 
+**IAM (Identify Acces Management):**
 
+**Profile Management:**
+
+**Project Management:**
+
+**Subscription Management:**
+
+**Notification Management:**
+
+**Milestone Management:**
+
+**Task Management**
+
+**Contribution Management:**
+
+**IOT**
+
+**Analytics:**
 
 ### 4.6.2. Software Architecture Context Diagram
 ### 4.6.3. Software Architecture Container Diagrams
