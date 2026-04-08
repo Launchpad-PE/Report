@@ -30,3 +30,43 @@
 **Diagrama de Base de datos Completo:**
 <img src="resources/Images/Chapter-4/Base de datos/Base de datos general/Base de datos.png" alt ="Data Base General">
 
+<h3><strong>Diagrama de base de datos dividido por contextos:</strong></h3>
+
+<h4>IAM</h4>
+
+<img src="resources/Images/Chapter-4/Base de datos/bounden-context/IAM/IAM.png" alt="IAM Data Base">
+
+<h4>Profile</h4>
+
+<img src="resources/Images/Chapter-4/Base de datos/bounden-context/Profile/Profile.png" alt ="Profile Data Base">
+
+<h4>Subscription</h4>
+
+<img src="resources/Images/Chapter-4/Base de datos/bounden-context/Subscription/Subscription.png" alt="Subscription Data Base">
+
+<h4>Project</h4>
+
+<img src="resources/Images/Chapter-4/Base de datos/bounden-context/Proyect/Proyect.png" alt="Project">
+
+<h4>Milestone</h4>
+
+<img src="resources/Images/Chapter-4/Base de datos/bounden-context/Milestones/Milestones.png" alt="Milestones">
+
+<h4>Task</h4>
+
+<img src="resources/Images/Chapter-4/Base de datos/bounden-context/Task/Task.png" alt="Task">
+
+<h4>Notification</h4>
+
+<img src="resources/Images/Chapter-4/Base de datos/bounden-context/Notification/Notification.png" alt = "Notification">
+
+<h4>Contribution</h4>
+
+<img src = "resources/Images/Chapter-4/Base de datos/bounden-context/contribution/contribution.png" alt= "Contribution">
+
+<h4>Iot</h4>
+ <img src="resources/Images/Chapter-4/Base de datos/bounden-context/Iot/Iot.png" alt="Iot">
+
+ 
+<h4>Analytics</h4>
+<img src="resources/Images/Chapter-4/Base de datos/bounden-context/Analytics/Analytics.png" alt ="Analytics">
