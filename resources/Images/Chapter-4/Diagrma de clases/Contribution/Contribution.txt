@@ -1,0 +1,153 @@
+package "Contribution Module" {
+
+' ========================
+' 🔷 DOMAIN
+' ========================
+
+class Contribution {
+    -id: ContributionId
+    -projectId: ProjectId
+    -userId: UserId
+    -amount: Money
+    -status: ContributionStatus
+    -createdAt: Date
+
+    +create()
+    +confirmPayment()
+    +failPayment()
+}
+
+Contribution --|> AggregateRoot
+
+enum ContributionStatus {
+    PENDING
+    CONFIRMED
+    FAILED
+}
+
+' ========================
+' 🔷 VALUE OBJECTS
+' ========================
+
+class ContributionId {
+    -value: Long
+}
+
+class Money {
+    -amount: Double
+    -currency: String
+}
+
+' ========================
+' 🔷 COMMANDS
+' ========================
+
+class CreateContributionCommand {
+    +projectId: Long
+    +userId: Long
+    +amount: Double
+}
+
+class ConfirmPaymentCommand {
+    +contributionId: Long
+}
+
+class FailPaymentCommand {
+    +contributionId: Long
+}
+
+' ========================
+' 🔷 QUERIES
+' ========================
+
+class GetContributionsByProjectQuery {
+    +projectId: Long
+}
+
+class GetContributionsByUserQuery {
+    +userId: Long
+}
+
+' ========================
+' 🔷 SERVICES
+' ========================
+
+class ContributionCommandService {
+    +create(cmd: CreateContributionCommand)
+    +confirm(cmd: ConfirmPaymentCommand)
+    +fail(cmd: FailPaymentCommand)
+}
+
+class ContributionQueryService {
+    +getByProject(query: GetContributionsByProjectQuery): List<Contribution>
+    +getByUser(query: GetContributionsByUserQuery): List<Contribution>
+}
+
+' ========================
+' 🔷 REPOSITORY
+' ========================
+
+interface ContributionRepository {
+    +save(contribution: Contribution)
+    +findByProject(projectId: ProjectId): List<Contribution>
+    +findByUser(userId: UserId): List<Contribution>
+}
+
+' ========================
+' 🔷 OUTBOUND SERVICE (EXTERNO)
+' ========================
+
+interface PaymentGateway {
+    +processPayment(amount: Money): boolean
+}
+
+class StripeService {
+    +processPayment(amount: Money): boolean
+}
+
+PaymentGateway <|.. StripeService
+
+' ========================
+' 🔷 APPLICATION
+' ========================
+
+class ContributionFacade {
+    +createContribution()
+    +confirmPayment()
+}
+
+' ========================
+' 🔷 PRESENTATION
+' ========================
+
+class ContributionController {
+    +create()
+    +confirm()
+    +getByProject()
+}
+
+' ========================
+' 🔗 RELACIONES
+' ========================
+
+ContributionController --> ContributionFacade
+
+ContributionFacade --> ContributionCommandService
+ContributionFacade --> ContributionQueryService
+
+ContributionCommandService --> ContributionRepository
+ContributionQueryService --> ContributionRepository
+
+ContributionCommandService --> Contribution
+
+CreateContributionCommand --> ContributionCommandService
+ConfirmPaymentCommand --> ContributionCommandService
+FailPaymentCommand --> ContributionCommandService
+
+GetContributionsByProjectQuery --> ContributionQueryService
+GetContributionsByUserQuery --> ContributionQueryService
+
+ContributionCommandService --> PaymentGateway 
+PaymentGateway --> StripeService
+
+}

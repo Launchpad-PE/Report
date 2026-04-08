@@ -1,0 +1,79 @@
+package "Shared Domain" {
+
+' 🔷 BASE CLASSES
+
+abstract class BaseEntity {
+    +id: Long
+    +createdAt: Date
+    +updatedAt: Date
+}
+
+abstract class AggregateRoot {
+    +id: Long
+}
+
+' 🔷 VALUE OBJECTS
+
+class Email {
+    -value: String
+    +validate(): boolean
+}
+
+class Password {
+    -hashedValue: String
+    +matches(raw: String): boolean
+}
+
+class UserId {
+    -value: Long
+}
+
+class ProjectId {
+    -value: Long
+}
+
+class Money {
+    -amount: Double
+    -currency: String
+}
+
+class DateRange {
+    -startDate: Date
+    -endDate: Date
+}
+
+' 🔷 DOMAIN EVENTS
+
+abstract class DomainEvent {
+    +occurredOn: Date
+}
+
+class UserRegisteredEvent
+class ProjectCreatedEvent
+class ContributionMadeEvent
+
+DomainEvent <|-- UserRegisteredEvent
+DomainEvent <|-- ProjectCreatedEvent
+DomainEvent <|-- ContributionMadeEvent
+
+' 🔷 EXCEPTIONS
+
+class DomainException {
+    +message: String
+}
+
+class ValidationException
+
+DomainException <|-- ValidationException
+
+' 🔷 UTILS
+
+class UUIDGenerator {
+    +generate(): String
+}
+
+class DateUtils {
+    +now(): Date
+}
+
+}

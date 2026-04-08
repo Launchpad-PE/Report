@@ -1,0 +1,125 @@
+package "IAM Module" {
+
+' ========================
+' 🔷 DOMAIN
+' ========================
+
+class User {
+    -id: UserId
+    -email: Email
+    -password: Password
+    -role: String
+    -createdAt: Date
+
+    +register()
+    +changePassword()
+}
+
+User --|> AggregateRoot
+
+' ========================
+' 🔷 COMMANDS
+' ========================
+
+class RegisterUserCommand {
+    +email: String
+    +password: String
+}
+
+class ResetPasswordCommand {
+    +email: String
+}
+
+' ========================
+' 🔷 QUERIES
+' ========================
+
+class LoginUserQuery {
+    +email: String
+    +password: String
+}
+
+class GetUserByEmailQuery {
+    +email: String
+}
+
+' ========================
+' 🔷 SERVICES
+' ========================
+
+class IAMCommandService {
+    +register(cmd: RegisterUserCommand)
+    +resetPassword(cmd: ResetPasswordCommand)
+}
+
+class IAMQueryService {
+    +login(query: LoginUserQuery): String
+    +getUser(query: GetUserByEmailQuery): User
+}
+
+' ========================
+' 🔷 SECURITY
+' ========================
+
+class PasswordHasher {
+    +hash(raw: String): Password
+    +verify(raw: String, hashed: Password): boolean
+}
+
+class TokenService {
+    +generate(user: User): String
+}
+
+' ========================
+' 🔷 REPOSITORY
+' ========================
+
+interface UserRepository {
+    +save(user: User)
+    +findByEmail(email: Email): User
+}
+
+' ========================
+' 🔷 APPLICATION
+' ========================
+
+class IAMFacade {
+    +register()
+    +login()
+}
+
+' ========================
+' 🔷 PRESENTATION
+' ========================
+
+class IAMController {
+    +register()
+    +login()
+    +resetPassword()
+}
+
+' ========================
+' 🔗 RELACIONES
+' ========================
+
+IAMController --> IAMFacade
+IAMFacade --> IAMCommandService
+IAMFacade --> IAMQueryService
+
+IAMCommandService --> UserRepository
+IAMQueryService --> UserRepository
+
+IAMCommandService --> PasswordHasher
+IAMQueryService --> PasswordHasher
+IAMQueryService --> TokenService
+
+IAMCommandService --> User
+IAMQueryService --> User
+
+RegisterUserCommand --> IAMCommandService
+ResetPasswordCommand --> IAMCommandService
+
+LoginUserQuery --> IAMQueryService
+GetUserByEmailQuery --> IAMQueryService
+
+}

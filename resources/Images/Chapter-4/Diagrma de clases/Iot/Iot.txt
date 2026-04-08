@@ -1,0 +1,148 @@
+@startuml
+package IoT Module {
+
+' ========================
+' 🔷 DOMAIN
+' ========================
+
+class IoTMetric {
+    -id IoTMetricId
+    -projectId ProjectId
+    -deviceId DeviceId
+    -type MetricType
+    -value Double
+    -timestamp Date
+
+    +record()
+}
+
+IoTMetric -- AggregateRoot
+
+enum MetricType {
+    TEMPERATURE
+    HUMIDITY
+    AIR_QUALITY
+    NOISE
+}
+
+' ========================
+' 🔷 VALUE OBJECTS
+' ========================
+
+class IoTMetricId {
+    -value Long
+}
+
+class DeviceId {
+    -value String
+}
+
+class MetricValue {
+    -value Double
+}
+
+class Timestamp {
+    -value Date
+}
+
+' ========================
+' 🔷 COMMANDS
+' ========================
+
+class RecordMetricCommand {
+    +projectId Long
+    +deviceId String
+    +type String
+    +value Double
+}
+
+class ActivateMonitoringCommand {
+    +projectId Long
+}
+
+' ========================
+' 🔷 QUERIES
+' ========================
+
+class GetMetricsByProjectQuery {
+    +projectId Long
+}
+
+class GetMetricsByTypeQuery {
+    +type String
+}
+
+' ========================
+' 🔷 SERVICES
+' ========================
+
+class IoTCommandService {
+    +recordMetric(cmd RecordMetricCommand)
+    +activateMonitoring(cmd ActivateMonitoringCommand)
+}
+
+class IoTQueryService {
+    +getByProject(query GetMetricsByProjectQuery) ListIoTMetric
+    +getByType(query GetMetricsByTypeQuery) ListIoTMetric
+}
+
+' ========================
+' 🔷 REPOSITORY
+' ========================
+
+interface IoTRepository {
+    +save(metric IoTMetric)
+    +findByProject(projectId ProjectId) ListIoTMetric
+    +findByType(type MetricType) ListIoTMetric
+}
+
+' ========================
+' 🔷 OUTBOUND  INBOUND
+' ========================
+
+interface IoTDeviceGateway {
+    +receiveData() RecordMetricCommand
+}
+
+' ========================
+' 🔷 APPLICATION
+' ========================
+
+class IoTFacade {
+    +recordMetric()
+    +getMetrics()
+}
+
+' ========================
+' 🔷 PRESENTATION
+' ========================
+
+class IoTController {
+    +receiveMetric()
+    +getMetrics()
+}
+
+' ========================
+' 🔗 RELACIONES
+' ========================
+
+IoTController -- IoTFacade
+
+IoTFacade -- IoTCommandService
+IoTFacade -- IoTQueryService
+
+IoTCommandService -- IoTRepository
+IoTQueryService -- IoTRepository
+
+IoTCommandService -- IoTMetric
+
+RecordMetricCommand -- IoTCommandService
+ActivateMonitoringCommand -- IoTCommandService
+
+GetMetricsByProjectQuery -- IoTQueryService
+GetMetricsByTypeQuery -- IoTQueryService
+
+IoTDeviceGateway -- IoTCommandService
+
+}
+@enduml

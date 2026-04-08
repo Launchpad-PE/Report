@@ -1,0 +1,54 @@
+package Profile Module {
+
+class Profile {
+    -id ProfileId
+    -userId UserId
+    -name String
+    -bio String
+    -imageUrl String
+
+    +updateProfile()
+}
+
+Profile -- AggregateRoot
+
+class ProfileId {
+    -value Long
+}
+
+class UpdateProfileCommand {
+    +userId Long
+    +name String
+    +bio String
+}
+
+class GetProfileQuery {
+    +userId Long
+}
+
+class ProfileCommandService {
+    +update(cmd UpdateProfileCommand)
+}
+
+class ProfileQueryService {
+    +get(query GetProfileQuery) Profile
+}
+
+interface ProfileRepository {
+    +save(profile Profile)
+    +findByUser(userId UserId) Profile
+}
+
+
+
+ProfileController -- ProfileFacade
+ProfileFacade -- ProfileCommandService
+ProfileFacade -- ProfileQueryService
+
+UpdateProfileCommand  - ProfileCommandService
+GetProfileQuery - ProfileQueryService 
+
+ProfileCommandService -- ProfileRepository
+ProfileQueryService -- ProfileRepository
+
+}

@@ -1,0 +1,162 @@
+package "Milestone Module" {
+
+' ========================
+' 🔷 DOMAIN
+' ========================
+class MilestoneTask {
+    -id: MilestoneTaskId 
+    -Title: String 
+    -AssignedTo : int
+    -description: String
+    -status: String
+    -dueDate: Date
+
+    +UpdateProgress()
+    +MarkAsCompleted()
+    +AddChecklistItem()
+    +RemoveChecklistItem()
+    +AddAttachment()
+    +RemoveAttachment()
+}
+
+
+class Milestone {
+    -id: MilestoneId
+    -projectId: ProjectId
+    -title: String
+    -description: String
+    -status: MilestoneStatus
+    -dueDate: Date
+    -milestoneTask: List<MilestoneTask>
+
+    +create()
+    +complete()
+    +extendDeadline()
+}
+
+Milestone --|> AggregateRoot
+
+enum MilestoneStatus {
+    PENDING
+    IN_PROGRESS
+    COMPLETED
+}
+
+' ========================
+' 🔷 VALUE OBJECTS
+' ========================
+
+class MilestoneId {
+    -value: Long
+}
+
+class Deadline {
+    -dueDate: Date
+}
+
+' ========================
+' 🔷 COMMANDS
+' ========================
+
+class CreateMilestoneCommand {
+    +projectId: Long
+    +title: String
+    +description: String
+    +dueDate: Date
+}
+
+class AddTaskToMilestoneCommand {
+    +milestoneId: Long
+    +taskId: Long
+}
+
+class CompleteMilestoneCommand {
+    +milestoneId: Long
+}
+
+class ExtendMilestoneDeadlineCommand {
+    +milestoneId: Long
+    +newDate: Date
+}
+
+' ========================
+' 🔷 QUERIES
+' ========================
+
+class GetMilestonesByProjectQuery {
+    +projectId: Long
+}
+
+class GetMilestoneByIdQuery {
+    +milestoneId: Long
+}
+
+' ========================
+' 🔷 SERVICES
+' ========================
+
+class MilestoneCommandService {
+    +create(cmd: CreateMilestoneCommand)
+    +addTask(cmd: AddTaskToMilestoneCommand)
+    +complete(cmd: CompleteMilestoneCommand)
+    +extend(cmd: ExtendMilestoneDeadlineCommand)
+}
+
+class MilestoneQueryService {
+    +getByProject(query: GetMilestonesByProjectQuery): List<Milestone>
+    +getById(query: GetMilestoneByIdQuery): Milestone
+}
+
+' ========================
+' 🔷 REPOSITORY
+' ========================
+
+interface MilestoneRepository {
+    +save(milestone: Milestone)
+    +findByProject(projectId: ProjectId): List<Milestone>
+    +findById(id: MilestoneId): Milestone
+}
+
+' ========================
+' 🔷 APPLICATION
+' ========================
+
+class MilestoneFacade {
+    +createMilestone()
+    +completeMilestone()
+}
+
+' ========================
+' 🔷 PRESENTATION
+' ========================
+
+class MilestoneController {
+    +create()
+    +addTask()
+    +complete()
+    +extendDeadline()
+}
+
+' ========================
+' 🔗 RELACIONES
+' ========================
+
+MilestoneController --> MilestoneFacade
+
+MilestoneFacade --> MilestoneCommandService
+MilestoneFacade --> MilestoneQueryService
+
+MilestoneCommandService --> MilestoneRepository
+MilestoneQueryService --> MilestoneRepository
+
+MilestoneCommandService --> Milestone
+
+CreateMilestoneCommand --> MilestoneCommandService
+AddTaskToMilestoneCommand --> MilestoneCommandService
+CompleteMilestoneCommand --> MilestoneCommandService
+ExtendMilestoneDeadlineCommand --> MilestoneCommandService
+
+GetMilestonesByProjectQuery --> MilestoneQueryService
+GetMilestoneByIdQuery --> MilestoneQueryService
+
+}

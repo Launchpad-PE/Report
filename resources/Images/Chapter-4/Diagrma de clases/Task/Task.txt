@@ -1,0 +1,96 @@
+@startuml
+package "Task Module" {
+
+class Task {
+    -id: TaskId
+    -milestoneId: MilestoneId
+    -assignedTo: UserId
+    -title: String
+    -description: String
+    -status: TaskStatus
+    -dueDate: Date
+    -evidence: Evidence
+
+    +create()
+    +assign()
+    +submitEvidence()
+    +approve()
+    +reject()
+    +extendDeadline()
+}
+
+Task --|> AggregateRoot
+
+enum TaskStatus {
+    PENDING
+    IN_PROGRESS
+    SUBMITTED
+    APPROVED
+    REJECTED
+}
+
+class TaskId {
+    -value: Long
+}
+
+class Evidence {
+    -url: String
+}
+
+class CreateTaskCommand {
+    +milestoneId: Long
+    +title: String
+    +description: String
+    +assignedTo: Long
+}
+
+class SubmitTaskCommand {
+    +taskId: Long
+    +evidenceUrl: String
+}
+
+class ApproveTaskCommand {
+    +taskId: Long
+}
+
+class RejectTaskCommand {
+    +taskId: Long
+}
+
+class GetTasksByIdQuery {
+    +TaskId: Long
+}
+
+class TaskCommandService {
+    +create(cmd)
+    +submit(cmd)
+    +approve(cmd)
+    +reject(cmd)
+}
+
+class TaskQueryService {
+    +getByMilestone(query)
+}
+
+interface TaskRepository {
+    +save(task)
+    +findByMilestone(milestoneId)
+}
+
+class TaskFacade
+class TaskController
+
+TaskController --> TaskFacade
+TaskFacade --> TaskCommandService
+TaskFacade --> TaskQueryService
+CreateTaskCommand  -> TaskCommandService
+SubmitTaskCommand  -> TaskCommandService
+ApproveTaskCommand  -> TaskCommandService
+RejectTaskCommand  -> TaskCommandService
+GetTasksByIdQuery  -> TaskQueryService 
+
+TaskCommandService --> TaskRepository
+TaskQueryService --> TaskRepository
+
+}
+@enduml
