@@ -179,6 +179,18 @@ Este diseño permite gestionar de manera eficiente la comunicación con los usua
 
 <img src = "resources/Images/Chapter-4/Base de datos/bounden-context/contribution/contribution.png" alt= "Contribution">
 
+El bounded context **Contribution** es el encargado de gestionar los aportes económicos realizados por los usuarios hacia los proyectos dentro de la plataforma Foundly.
+
+En este contexto se define la siguiente tabla:
+
+- **contributions:** almacena la información de cada aporte realizado. Incluye el proyecto al que pertenece (`project_id`), el usuario que realiza la contribución (`user_id`), el monto, la moneda, el estado del pago y la fecha de creación.
+
+Cada contribución representa una transacción dentro del sistema, permitiendo financiar proyectos y apoyar su desarrollo.
+
+La relación con **projects** permite asociar cada aporte a un proyecto específico, mientras que la relación con **users** identifica al usuario que realizó la contribución.
+
+Este diseño facilita el seguimiento de los aportes, el control del estado de los pagos y la gestión del financiamiento dentro de la plataforma.
+
 <h4>Iot</h4>
  <img src="resources/Images/Chapter-4/Base de datos/bounden-context/Iot/Iot.png" alt="Iot">
 
