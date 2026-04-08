@@ -131,6 +131,18 @@ Este diseño facilita la colaboración dentro de la plataforma, permitiendo orga
 
 <img src="resources/Images/Chapter-4/Base de datos/bounden-context/Milestones/Milestones.png" alt="Milestones">
 
+El bounded context **Milestone** es el encargado de gestionar el trabajo colaborativo dentro de los proyectos, organizándolo en hitos y tareas asociadas a dichos hitos.
+
+En este contexto se definen las siguientes tablas:
+
+- **milestones:** representa los hitos de un proyecto. Cada hito agrupa un conjunto de actividades que deben completarse para alcanzar un objetivo específico dentro del proyecto. Contiene información como título, descripción, estado y fecha límite.
+
+- **milestone_tasks:** almacena las tareas asociadas a cada hito. Estas tareas representan el trabajo específico que deben realizar los colaboradores para cumplir con el hito. Incluyen información como el usuario asignado, estado, progreso, comentarios y fechas.
+
+La relación entre ambas tablas permite que un hito tenga múltiples tareas asociadas, facilitando la organización del trabajo en equipo y el seguimiento del avance.
+
+Este diseño separa claramente las tareas colaborativas (milestone_tasks) de las tareas individuales del sistema, permitiendo una mejor gestión del trabajo grupal dentro de los proyectos.
+
 <h4>Task</h4>
 
 <img src="resources/Images/Chapter-4/Base de datos/bounden-context/Task/Task.png" alt="Task">
