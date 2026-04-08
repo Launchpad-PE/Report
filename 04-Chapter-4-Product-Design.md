@@ -532,6 +532,83 @@ Este diseño permite modelar correctamente el trabajo colaborativo dentro de los
 
 **Task Management:**
 
+El diagrama de clases del módulo **Task** representa la estructura encargada de la gestión de tareas individuales dentro de la plataforma Foundly. Estas tareas corresponden a actividades personales asignadas a usuarios dentro de un proyecto y son independientes de los hitos (Milestones), los cuales gestionan tareas grupales en un contexto diferente.
+
+Este módulo sigue los principios de **Domain-Driven Design (DDD)** y aplica el patrón **CQRS (Command Query Responsibility Segregation)** para separar operaciones de escritura y lectura.
+
+#### Componentes principales
+
+- **TaskController:** actúa como punto de entrada del módulo, exponiendo endpoints REST para la creación, asignación, envío de evidencias, aprobación y rechazo de tareas.
+
+- **TaskFacade:** capa de orquestación que coordina la interacción entre el controlador y los servicios del dominio.
+
+#### Dominio
+
+- **Task (Aggregate Root):** entidad principal del módulo que representa una tarea individual. Contiene atributos como `id`, `assignedTo`, `title`, `description`, `status`, `dueDate` y `evidence`.  
+  Define comportamientos clave:
+  - `create()`
+  - `assign()`
+  - `submitEvidence()`
+  - `approve()`
+  - `reject()`
+  - `extendDeadline()`
+
+- **TaskId:** value object que encapsula el identificador de la tarea.
+
+- **Evidence:** value object que representa la evidencia asociada a la tarea (por ejemplo, una URL de archivo o imagen).
+
+- **TaskStatus (enum):** define los estados de la tarea:
+  - `PENDING`
+  - `IN_PROGRESS`
+  - `SUBMITTED`
+  - `APPROVED`
+  - `REJECTED`
+
+#### Manejo de comandos (Command Side)
+
+- **CreateTaskCommand:** encapsula los datos necesarios para crear una tarea (título, descripción y usuario asignado).
+
+- **SubmitTaskCommand:** permite que el usuario envíe evidencia de la tarea realizada.
+
+- **ApproveTaskCommand:** representa la aprobación de la tarea.
+
+- **RejectTaskCommand:** representa el rechazo de la tarea.
+
+- **TaskCommandService:** ejecuta la lógica de negocio relacionada con la gestión del ciclo de vida de la tarea.
+
+#### Manejo de consultas (Query Side)
+
+- **GetTasksByIdQuery:** permite obtener información de una tarea específica o listar tareas por usuario.
+
+- **TaskQueryService:** se encarga de recuperar información de tareas desde la base de datos.
+
+#### Persistencia
+
+- **TaskRepository:** interfaz que define las operaciones de acceso a datos, incluyendo:
+  - `save(task)`
+  - `findById(taskId)`
+  - `findByUser(userId)`
+
+#### Relación con otros módulos
+
+- El módulo **Task** está relacionado con el módulo **Project**, ya que las tareas pertenecen a un proyecto y se asignan a usuarios participantes.
+
+- A diferencia del módulo **Milestone**, las tareas aquí definidas son **individuales**, mientras que las tareas grupales se gestionan mediante la entidad **MilestoneTask** dentro del módulo Milestone.
+
+#### Flujo general
+
+1. El usuario interactúa desde la **SPA** enviando solicitudes al **TaskController**.
+2. El controlador delega la operación al **TaskFacade**.
+3. Dependiendo del tipo de operación:
+   - Para modificaciones → se utiliza el **TaskCommandService**.
+   - Para consultas → se utiliza el **TaskQueryService**.
+4. El **TaskCommandService** aplica las reglas de negocio sobre el agregado **Task**.
+5. El **TaskRepository** gestiona la persistencia de los datos.
+6. El estado de la tarea evoluciona a lo largo de su ciclo de vida (PENDING → IN_PROGRESS → SUBMITTED → APPROVED/REJECTED).
+
+Este diseño permite modelar correctamente la gestión de tareas individuales dentro del sistema, diferenciándolas claramente del trabajo colaborativo gestionado en los hitos, asegurando una arquitectura coherente y alineada con el dominio.
+
+
 <img src="resources/Images/Chapter-4/Diagrma de clases/Task/Task.png" alt = "Task">
 
 **Contribution Management:**
