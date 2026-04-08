@@ -23,6 +23,29 @@ Se tomó en cuenta que estos usuarios buscan principalmente adquirir experiencia
 <img src="resources/Images/Chapter-2/user-personas-ux/Jesli Bautista.png" alt ="Jesli Bautista">
 
 ### 2.3.2. User Task Matrix
+
+La seccion User Task Matrix permite identificar y comparar las tareas más relevantes que realizan los usuarios representados en nuestras User Personas. En esta matriz se organiza cada tarea según su frecuencia (qué tan seguido la realizan) y su importancia (qué tan crítica resulta para alcanzar sus objetivos).
+
+**Usuario Colaborador**
+
+| USER TASK                              | Frecuencia | Importancia |
+|----------------------------------------|------------|-------------|
+| Explorar proyectos disponibles         | Alta       | Crítica     |
+| Filtrar proyectos por intereses        | Alta       | Alta        |
+| Revisar detalles del proyecto          | Alta       | Crítica     |
+| Postular / Unirse a un proyecto        | Alta       | Crítica     |
+| Definir su rol y responsabilidades     | Media      | Alta        |
+| Coordinar tareas con el equipo         | Alta       | Importante  |
+| Comunicarse con el equipo              | Alta       | Crítica     |
+| Aportar en el proyecto (trabajo)       | Alta       | Crítica     |
+| Subir evidencias de trabajo            | Media      | Alta        |
+| Hacer seguimiento del progreso         | Media      | Importante  |
+| Recibir notificaciones                 | Alta       | Alta        |
+| Trabajar Proyectos con Iot             | Alta       | Alta        |                           
+
+
+Se observa que las actividades más críticas se concentran en la exploración de proyectos, la participación activa en equipos y la contribución al desarrollo de soluciones, especialmente en proyectos relacionados con tecnologías como IoT. Asimismo, tareas como la comunicación, la coordinación y el seguimiento del progreso resultan fundamentales para garantizar una experiencia colaborativa organizada.
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ## 2.4. Big Picture Event Storming
