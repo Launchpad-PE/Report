@@ -27,6 +27,24 @@
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
+Nuestro diagrama de base de datos representa cómo se organiza toda la información dentro de la plataforma **Foundly**.
+
+En el centro del sistema se encuentran los **usuarios**, quienes pueden crear proyectos, participar en ellos y realizar contribuciones. Cada usuario cuenta con un perfil y un rol dentro de la plataforma.
+
+Los **proyectos** son el núcleo del sistema. A partir de ellos se conectan múltiples funcionalidades:
+- Los usuarios pueden unirse como miembros.
+- Se pueden realizar **contribuciones económicas** para financiarlos.
+- Se gestionan **tareas individuales**.
+- También existen **hitos (milestones)** que agrupan trabajo colaborativo.
+
+Además, el sistema incorpora un componente innovador: el módulo **IoT**, donde se registran datos provenientes de dispositivos como sensores. Esta información es utilizada por el módulo de **Analytics**, el cual genera reportes e insights que ayudan a comprender mejor el comportamiento de los proyectos.
+
+También se incluyen funcionalidades complementarias como:
+- **Suscripciones**, para gestionar los planes de los usuarios.
+- **Notificaciones**, que mantienen informados a los usuarios sobre eventos importantes dentro de la plataforma.
+
+En conjunto, este diseño permite que toda la información esté conectada de manera ordenada, facilitando la interacción entre usuarios, proyectos y datos, y asegurando que el sistema sea escalable y fácil de mantener.
+
 **Diagrama de Base de datos Completo:**
 <img src="resources/Images/Chapter-4/Base de datos/Base de datos general/Base de datos.png" alt ="Data Base General">
 
