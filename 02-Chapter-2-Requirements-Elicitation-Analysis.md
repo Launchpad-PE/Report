@@ -290,7 +290,7 @@ Didier ve como beneficios principales el alcance mayor, la posibilidad de recibi
   <tr>
     <td>Link</td>
     <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/personal/u202417423_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202417423%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202610%2D1ASI0729%2D2610%2DLaunchpad%2DPE%2Dneedfinding%2Dsprint%2D1%2Emov&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4354b9c5%2Daf95%2D45e9%2Db524%2D9d4386a3eec6" title="Title">Microsoft Stream</p>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417423_upc_edu_pe/IQDHAEJTjDWVSpa3Ff3v1raWAZwRTq2154dAM_0rNHySpoo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rceFXT" title="Title">Microsoft Stream</p>
 	</td>
   </tr>
   <tr>
@@ -352,7 +352,7 @@ Didier ve como beneficios principales el alcance mayor, la posibilidad de recibi
   <tr>
     <td>Link</td>
     <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/personal/u202417423_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202417423%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202610%2D1ASI0729%2D2610%2DLaunchpad%2DPE%2Dneedfinding%2Dsprint%2D1%2D%2Emov&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Edcee5607%2D773d%2D4f38%2D9dd4%2Dee90235bee15" title="Title">Microsoft Stream</p>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417423_upc_edu_pe/IQB4aDJimvXqQKbgDFDGBt64ASFzL6ko9USbw4EuNMjMSro?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Gfs0xO" title="Title">Microsoft Stream</p>
 	</td>
   </tr>
   <tr>
