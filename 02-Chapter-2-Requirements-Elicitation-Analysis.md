@@ -372,6 +372,8 @@ Didier ve como beneficios principales el alcance mayor, la posibilidad de recibi
 			
 ### 2.2.3. Análisis de entrevistas
 
+En esta sección presentaremos el análisis de cada entrevista realizada por cada segmento objetivo. Con el fin de tener una información concisa para el desarrollo de nuestro proyecto.
+
 **Segmento 1**
 
 **Segmento 2**
