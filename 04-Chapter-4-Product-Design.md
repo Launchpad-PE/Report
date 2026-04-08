@@ -441,6 +441,93 @@ Este diseño permite desacoplar el envío de notificaciones de su almacenamiento
 
 **Milestone Management:**
 
+El diagrama de clases del módulo **Milestone** representa la estructura encargada de la gestión de los hitos dentro de los proyectos en la plataforma Foundly. Los hitos representan etapas clave del progreso de un proyecto y agrupan tareas colaborativas denominadas **MilestoneTask**.
+
+Este módulo sigue los principios de **Domain-Driven Design (DDD)** y aplica el patrón **CQRS**, separando las operaciones de modificación del estado (commands) de las operaciones de consulta (queries).
+
+#### Componentes principales
+
+- **MilestoneController:** actúa como punto de entrada del módulo, exponiendo endpoints REST para:
+  - Crear hitos (`create()`)
+  - Agregar tareas al hito (`addTask()`)
+  - Completar hitos (`complete()`)
+  - Extender fechas límite (`extendDeadline()`)
+
+- **MilestoneFacade:** capa de orquestación que centraliza las operaciones del módulo, delegando la lógica a los servicios correspondientes.
+
+#### Dominio
+
+- **Milestone (Aggregate Root):** entidad principal que representa un hito dentro de un proyecto. Contiene atributos como `id`, `projectId`, `title`, `description`, `status` y `dueDate`.  
+  Además, mantiene una colección de tareas grupales:
+  - `milestoneTasks: List<MilestoneTask>`
+
+  Incluye comportamientos clave:
+  - `create()`
+  - `complete()`
+  - `extendDeadline()`
+
+- **MilestoneTask:** entidad que representa tareas colaborativas dentro de un hito. A diferencia del módulo Task, estas tareas pertenecen exclusivamente al contexto del hito.  
+  Incluye atributos como título, descripción, asignado, estado, progreso y evidencia, así como comportamientos:
+  - `updateProgress()`
+  - `markAsCompleted()`
+  - `addChecklistItem()`
+  - `addAttachment()`
+
+- **MilestoneId:** value object que encapsula el identificador del hito.
+
+- **Deadline:** value object que representa la fecha límite del hito.
+
+- **MilestoneStatus (enum):** define los estados del hito:
+  - `PENDING`
+  - `IN_PROGRESS`
+  - `COMPLETED`
+
+#### Manejo de comandos (Command Side)
+
+- **CreateMilestoneCommand:** encapsula los datos necesarios para crear un hito.
+
+- **AddTaskToMilestoneCommand:** permite agregar tareas grupales al hito.
+
+- **CompleteMilestoneCommand:** marca un hito como completado.
+
+- **ExtendMilestoneDeadlineCommand:** permite modificar la fecha límite del hito.
+
+- **MilestoneCommandService:** ejecuta la lógica de negocio relacionada con la gestión de hitos y sus tareas internas.
+
+#### Manejo de consultas (Query Side)
+
+- **GetMilestonesByProjectQuery:** permite obtener todos los hitos de un proyecto.
+
+- **GetMilestoneByIdQuery:** permite obtener un hito específico.
+
+- **MilestoneQueryService:** gestiona las operaciones de lectura del módulo.
+
+#### Persistencia
+
+- **MilestoneRepository:** interfaz que define las operaciones de acceso a datos, incluyendo:
+  - `save(milestone)`
+  - `findByProject(projectId)`
+  - `findById(milestoneId)`
+
+#### Relación con otros módulos
+
+- El módulo **Milestone** está directamente relacionado con el módulo **Project**, ya que cada hito pertenece a un proyecto (`projectId`).
+
+- Las **MilestoneTask** son independientes del módulo **Task**, ya que representan trabajo grupal dentro de un hito y no tareas individuales del proyecto.
+
+#### Flujo general
+
+1. El usuario interactúa desde la **SPA** enviando solicitudes al **MilestoneController**.
+2. El controlador delega las operaciones al **MilestoneFacade**.
+3. Dependiendo del tipo de operación:
+   - Para modificaciones → se utiliza el **MilestoneCommandService**.
+   - Para consultas → se utiliza el **MilestoneQueryService**.
+4. El **MilestoneCommandService** aplica las reglas de negocio sobre el agregado **Milestone**.
+5. El **MilestoneRepository** gestiona la persistencia de los datos.
+6. Las tareas grupales (**MilestoneTask**) se gestionan dentro del agregado, asegurando consistencia.
+
+Este diseño permite modelar correctamente el trabajo colaborativo dentro de los proyectos, diferenciándolo de las tareas individuales y garantizando una gestión estructurada del progreso mediante hitos.
+
 <img src="resources/Images/Chapter-4/Diagrma de clases/Milestone/Milestone.png" alt = "Milestone">
 
 **Task Management:**
