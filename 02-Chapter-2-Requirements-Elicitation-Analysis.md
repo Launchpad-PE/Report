@@ -396,6 +396,7 @@ En ese sentido, los entrevistados consideran indispensables en una plataforma fu
 | **Álvaro Rocha** | Proyectos académicos de software (APIs web) y un proyecto grupal de monitoreo de salud mental con GitHub. |
 | **Kael Lagos**   | Proyectos académicos como parte de cursos y proyectos personales tipo taller, generalmente individuales. |
 
+<img src="resources/Images/Chapter-2/Estadistica/Tipos de Proyectos en los que Participan Actualmente.png" alt="Tipos de Proyectos en los que Participan Actualmente">
 
 WhatsApp y GitHub son las herramientas más usadas (66.7% cada una), pero ambas de forma parcial y desconectada. Ningún entrevistado usa una plataforma que unifique comunicación, gestión de tareas y seguimiento en un solo espacio, lo que representa la oportunidad central de Foundly.
 
@@ -407,6 +408,7 @@ WhatsApp y GitHub son las herramientas más usadas (66.7% cada una), pero ambas 
 | **Álvaro Rocha** | Ganar experiencia real para el portafolio y conocer personas con intereses similares. |
 | **Kael Lagos**   | Adquirir experiencia, obtener posibles ingresos y ampliar horizontes en el mundo emprendedor. |
 
+<img src="resources/Images/Chapter-2/Estadistica/Motivaciones Principales para Unirse a Proyectos en Línea.png" alt="Motivaciones Principales para Unirse a Proyectos en Línea">
 
 La experiencia práctica y el networking comparten el primer lugar con un 30% cada uno, seguidos por el portafolio profesional (20%) y los ingresos económicos (20%). Estos datos validan que Foundly debe comunicar explícitamente cómo cada proyecto aporta experiencia real y contactos valiosos.
 
@@ -418,6 +420,7 @@ La experiencia práctica y el networking comparten el primer lugar con un 30% ca
 | **Álvaro Rocha** | Proyectos mal organizados que no se ajustan al nivel de aprendizaje que busca el colaborador. |
 | **Kael Lagos**   | Intereses no coincidentes con las oportunidades disponibles y perfiles poco convincentes. |
 
+<img src="resources/Images/Chapter-2/Estadistica/Dificultades al Buscar Oportunidades de Colaboración.png" alt="Dificultades al Buscar Oportunidades de Colaboración">
 
 La falta de claridad en objetivos, roles y compromiso es la barrera más crítica (100% de los entrevistados). Le siguen la desalineación de intereses y la ausencia de seguimiento, ambas con 66.7%. Esto refuerza la necesidad de una ficha de proyecto detallada y transparente en Foundly.
 
@@ -429,7 +432,7 @@ La falta de claridad en objetivos, roles y compromiso es la barrera más crític
 | **Álvaro Rocha** | Filtros de habilidades, roles bien definidos y herramientas de seguimiento del avance. |
 | **Kael Lagos**   | Organización de la comunicación sin solapamientos y mejor coordinación entre integrantes. |
 
-
+<img src="resources/Images/Chapter-2/Estadistica/Funciones Más Valoradas en una Plataforma.png" alt = "Funciones Más Valoradas en una Plataforma">
 
 Los perfiles con habilidades/roles definidos y las métricas de avance son considerados indispensables por el 100% de los entrevistados. Los filtros por área, la comunicación organizada y los mecanismos de reputación son valorados por el 66.7%. Foundly debe priorizar estas funciones en su MVP.
 
