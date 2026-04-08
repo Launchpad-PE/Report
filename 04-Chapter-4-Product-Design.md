@@ -25,6 +25,71 @@
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
+**Shared**
+
+### Shared Module – Class Diagram Description
+
+El diagrama de clases del módulo **Shared** representa el conjunto de componentes transversales reutilizables dentro del sistema Foundly. Este módulo concentra elementos comunes del dominio que son utilizados por múltiples bounded contexts, promoviendo la consistencia, reutilización y desacoplamiento en la arquitectura.
+
+El diseño sigue principios de **Domain-Driven Design (DDD)**, proporcionando clases base, value objects, utilidades y eventos de dominio.
+
+#### Componentes principales
+
+- **BaseEntity:** clase base para todas las entidades del sistema. Contiene atributos comunes como `id`, `createdAt` y `updatedAt`, permitiendo estandarizar el manejo de entidades en todos los contextos.
+
+- **AggregateRoot:** representa la raíz de agregado en DDD. Todas las entidades principales del dominio (como User, Project, etc.) heredan de esta clase, asegurando control sobre las invariantes del agregado.
+
+#### Value Objects
+
+- **Email:** encapsula el valor del correo electrónico y su validación mediante el método `validate()`, garantizando consistencia en el dominio.
+
+- **Password:** representa la contraseña del usuario en su forma segura (hash). Incluye lógica para comparar contraseñas mediante `matches()`.
+
+- **UserId y ProjectId:** identificadores tipados que encapsulan valores primitivos (Long), evitando el uso directo de tipos básicos y reduciendo errores en el dominio.
+
+- **Money:** representa valores monetarios incluyendo monto y moneda, facilitando el manejo de transacciones en el sistema.
+
+- **DateRange:** encapsula un rango de fechas (`startDate`, `endDate`), útil para representar periodos en diferentes contextos como suscripciones o hitos.
+
+#### Eventos de dominio
+
+- **DomainEvent:** clase base para eventos del dominio, incluyendo la fecha de ocurrencia (`occurredOn`).
+
+- **UserRegisteredEvent:** evento que se dispara cuando un usuario se registra en el sistema.
+
+- **ProjectCreatedEvent:** evento que representa la creación de un proyecto.
+
+- **ContributionMadeEvent:** evento generado cuando un usuario realiza una contribución económica.
+
+Estos eventos permiten implementar arquitecturas reactivas o basadas en eventos, facilitando la integración entre módulos.
+
+#### Manejo de excepciones
+
+- **DomainException:** clase base para excepciones del dominio.
+
+- **ValidationException:** representa errores relacionados con validaciones de reglas de negocio.
+
+Estas clases permiten manejar errores de manera estructurada y coherente en todo el sistema.
+
+#### Utilidades
+
+- **UUIDGenerator:** proporciona la generación de identificadores únicos.
+
+- **DateUtils:** ofrece funciones relacionadas con fechas, como la obtención de la fecha actual.
+
+#### Importancia del módulo Shared
+
+El módulo Shared cumple un rol fundamental en la arquitectura, ya que:
+
+- Evita la duplicación de código entre bounded contexts.
+- Centraliza reglas comunes del dominio.
+- Mejora la consistencia en la modelación del sistema.
+- Facilita la mantenibilidad y escalabilidad de la solución.
+
+De esta manera, el Shared Module actúa como la base sobre la cual se construyen los demás módulos del sistema Foundly, asegurando cohesión y estandarización en toda la arquitectura.
+
+<img src="resources/Images/Chapter-4/Diagrma de clases/Shared/Shared.png" alt="Shared">
+
 **IAM (Identify Acces Management):**
 
 El diagrama de clases del módulo **IAM (Identity and Access Management)** representa la estructura interna encargada de la autenticación, gestión de usuarios y control de acceso dentro del sistema Foundly.
