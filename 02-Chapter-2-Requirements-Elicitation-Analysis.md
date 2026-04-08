@@ -308,6 +308,67 @@ Didier ve como beneficios principales el alcance mayor, la posibilidad de recibi
 </tbody>
 </table>
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Alvaro</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Rocha Cotrina</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Chorrillos</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>GitHub</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Crecimiento profesional y preparación para el mundo laboral.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Desorden estructural y Búsqueda ineficiente de proyectos.</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-ALvaro-Rocha.png" alt="Entrevista a Alvaro Rocha"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/personal/u202417423_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202417423%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202610%2D1ASI0729%2D2610%2DLaunchpad%2DPE%2Dneedfinding%2Dsprint%2D1%2D%2Emov&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Edcee5607%2D773d%2D4f38%2D9dd4%2Dee90235bee15" title="Title">Microsoft Stream</p>
+	</td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>
+		0:00 min - 06:34 min
+	</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+   Alvaro es un estudiante de ingeniería con sólida base técnica en desarrollo de software, adquirida a través de diversos proyectos académicos. A pesar de su capacidad de ejecución, identifica una brecha crítica en la gestión operativa, señalando la falta de comunicación y organización como los principales obstáculos en sus colaboraciones previas. Su motivación central es la transición exitosa al mercado laboral mediante la construcción de un portafolio de alto impacto. Actualmente, enfrenta la dificultad de encontrar proyectos que no solo estén bien estructurados, sino que se alineen específicamente con sus objetivos de aprendizaje. Alvaro visualiza a Foundly como una solución que ofrezca claridad a través de roles definidos y herramientas de seguimiento de progreso, permitiéndole enfocarse en el crecimiento técnico mientras se adapta a las dinámicas del mundo profesional.
+</td>
+  </tr>
+</tbody>
+</table>
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
