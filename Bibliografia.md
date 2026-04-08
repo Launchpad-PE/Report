@@ -1,6 +1,5 @@
 ## 📚 Bibliografía
 
----
 
 **Akerele, J. I., Uzoka, A., Ojukwu, P. U., & Olamijuwon, O. J. (2024).**
 Increasing software deployment speed in agile environments through automated configuration management.
@@ -129,3 +128,9 @@ Public complaint information system in government to improve web public services
 Pengembangan user interface halaman utama pada Wicaraku sebagai media pengenalan terapi gangguan berbicara.
 *BARIK – Jurnal S1 Desain Komunikasi Visual, 6*(1), 233–247.
 🔗 [Ver artículo](https://ejournal.unesa.ac.id/index.php/JDKV/article/view/62835)
+
+---
+
+**Cómo crear un user journey map: Una guía. Coursera (2023)**
+
+🔗[Ver Articulo](https://www.coursera.org/mx/articles/creating-user-journey-maps-a-guide?msockid=35f7cd24a3526d172d46db55a2476cea)
