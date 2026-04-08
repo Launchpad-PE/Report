@@ -26,3 +26,7 @@
 ### 4.7.1. Class Diagrams
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+
+**Diagrama de Base de datos Completo:**
+<img src="resources/Images/Chapter-4/Base de datos/Base de datos general/Base de datos.png" alt ="Data Base General">
+
