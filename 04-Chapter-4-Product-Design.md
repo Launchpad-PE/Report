@@ -356,6 +356,87 @@ Este diseño permite desacoplar la lógica de negocio del proveedor de pagos, fa
 
 **Notification Management:**
 
+El diagrama de clases del módulo **Notification** representa la estructura encargada de la gestión y envío de notificaciones dentro del sistema Foundly, permitiendo informar a los usuarios sobre eventos relevantes como tareas, hitos, postulaciones y estados de proyectos.
+
+Este módulo sigue los principios de **Domain-Driven Design (DDD)** y aplica el patrón **CQRS**, separando las operaciones de escritura (envío y actualización) de las operaciones de lectura (consulta de notificaciones).
+
+#### Componentes principales
+
+- **NotificationController:** actúa como punto de entrada del módulo, exponiendo endpoints REST para:
+  - Enviar notificaciones (`send()`)
+  - Obtener notificaciones de un usuario (`getByUser()`)
+  - Marcar notificaciones como leídas (`markAsRead()`)
+
+- **NotificationFacade:** capa de orquestación que centraliza las operaciones del módulo, delegando las acciones a los servicios de comandos y consultas.
+
+#### Dominio
+
+- **Notification (Aggregate Root):** entidad principal que representa una notificación. Contiene atributos como `id`, `userId`, `message`, `type` e `isRead`.  
+  Incluye comportamiento como:
+  - `markAsRead()`
+
+- **NotificationId:** value object que encapsula el identificador de la notificación.
+
+- **NotificationType (enum):** define los tipos de eventos que generan notificaciones:
+  - `TASK_NEW`
+  - `TASK_COMPLETED`
+  - `MILESTONE_NEW`
+  - `MILESTONE_COMPLETED`
+  - `TASK_OVERDUE`
+  - `MILESTONE_OVERDUE`
+  - `NEW_APPLICANT`
+  - `APPLICANT_ACCEPTED`
+  - `APPLICANT_REJECTED`
+
+Este enum permite categorizar las notificaciones y facilitar su procesamiento.
+
+#### Manejo de comandos (Command Side)
+
+- **SendNotificationCommand:** encapsula la información necesaria para enviar una notificación (usuario, mensaje y tipo).
+
+- **MarkAsReadCommand:** representa la acción de marcar una notificación como leída.
+
+- **NotificationCommandService:** ejecuta la lógica de envío y actualización de notificaciones.  
+  Este servicio interactúa con:
+  - **NotificationRepository:** para persistencia.
+  - **NotificationSender:** para el envío real de la notificación.
+
+#### Manejo de consultas (Query Side)
+
+- **GetNotificationsQuery:** permite obtener las notificaciones asociadas a un usuario.
+
+- **NotificationQueryService:** se encarga de recuperar las notificaciones desde la base de datos.
+
+#### Persistencia
+
+- **NotificationRepository:** interfaz que define las operaciones de acceso a datos, incluyendo:
+  - `save(notification)`
+  - `findByUser(userId)`
+  - `findById(notificationId)`
+
+#### Integración con servicios externos
+
+- **NotificationSender:** interfaz que define el contrato para el envío de notificaciones.
+
+- **EmailService:** implementación concreta que permite enviar notificaciones mediante correo electrónico.
+
+Este diseño permite extender fácilmente el sistema para soportar otros canales como SMS o notificaciones push.
+
+#### Flujo general
+
+1. Un evento del sistema (por ejemplo, una tarea completada) genera una solicitud de notificación.
+2. La solicitud llega al **NotificationController**.
+3. El controlador delega la operación al **NotificationFacade**.
+4. Para el envío:
+   - Se utiliza el **NotificationCommandService**.
+   - Se persiste la notificación en el **NotificationRepository**.
+   - Se envía mediante el **NotificationSender**.
+5. Para consultas:
+   - Se utiliza el **NotificationQueryService**.
+6. El usuario puede marcar notificaciones como leídas, actualizando su estado en el dominio.
+
+Este diseño permite desacoplar el envío de notificaciones de su almacenamiento, facilita la extensibilidad del sistema y asegura una gestión eficiente de eventos relevantes dentro de Foundly.
+
 <img src="resources/Images/Chapter-4/Diagrma de clases/Notification/Notification.png" alt = "Notification">
 
 **Milestone Management:**
