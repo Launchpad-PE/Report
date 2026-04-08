@@ -163,6 +163,18 @@ Este diseño permite gestionar de forma clara y estructurada el trabajo individu
 
 <img src="resources/Images/Chapter-4/Base de datos/bounden-context/Notification/Notification.png" alt = "Notification">
 
+El bounded context **Notification** es el encargado de gestionar las notificaciones dentro de la plataforma Foundly, permitiendo mantener informados a los usuarios sobre eventos relevantes.
+
+En este contexto se definen las siguientes tablas:
+
+- **notification_types:** almacena los diferentes tipos de notificaciones que existen en el sistema, como por ejemplo tareas nuevas, tareas completadas, hitos o actualizaciones importantes. Cada tipo incluye un nombre y una descripción.
+
+- **notifications:** registra las notificaciones enviadas a los usuarios. Contiene información como el usuario destinatario (`user_id`), el tipo de notificación (`type_id`), el mensaje, su estado de lectura (`is_read`) y la fecha de creación.
+
+La relación entre ambas tablas permite clasificar cada notificación según su tipo, facilitando la organización y el manejo de distintos eventos dentro del sistema.
+
+Este diseño permite gestionar de manera eficiente la comunicación con los usuarios, asegurando que reciban información relevante sobre lo que ocurre en sus proyectos y actividades.
+
 <h4>Contribution</h4>
 
 <img src = "resources/Images/Chapter-4/Base de datos/bounden-context/contribution/contribution.png" alt= "Contribution">
