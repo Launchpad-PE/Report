@@ -147,6 +147,18 @@ Este diseño separa claramente las tareas colaborativas (milestone_tasks) de las
 
 <img src="resources/Images/Chapter-4/Base de datos/bounden-context/Task/Task.png" alt="Task">
 
+El bounded context **Task** es el encargado de gestionar las tareas individuales dentro de los proyectos en la plataforma Foundly.
+
+En este contexto se define la siguiente tabla:
+
+- **tasks:** almacena las tareas asignadas a usuarios dentro de un proyecto. Cada tarea contiene información como el proyecto al que pertenece (`project_id`), el usuario asignado (`assigned_to`), el título, descripción, estado, fecha límite y evidencia asociada.
+
+Estas tareas representan actividades individuales que cada usuario debe completar de manera independiente, a diferencia de las tareas colaborativas gestionadas en el módulo de Milestones.
+
+La relación con la tabla **projects** permite organizar las tareas dentro del contexto de un proyecto específico, mientras que el campo `assigned_to` vincula la tarea con el usuario responsable.
+
+Este diseño permite gestionar de forma clara y estructurada el trabajo individual dentro de los proyectos, facilitando el seguimiento del progreso y la asignación de responsabilidades.
+
 <h4>Notification</h4>
 
 <img src="resources/Images/Chapter-4/Base de datos/bounden-context/Notification/Notification.png" alt = "Notification">
