@@ -24,5 +24,46 @@
 ### 4.6.4. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+**IAM (Identify Acces Management):**
+
+<img src="resources/Images/Chapter-4/Diagrma de clases/Iam/IAM.png" alt = "Iam">
+
+**Profile Management:**
+
+<img src="resources/Images/Chapter-4/Diagrma de clases/Profile/Profile.png" alt = "Profile">
+
+**Project Management:**
+
+<img src="resources/Images/Chapter-4/Diagrma de clases/Project/Project.png" alt = "Project">
+
+**Subscription Management:**
+
+<img src="resources/Images/Chapter-4/Diagrma de clases/Subscription/Subscription.png" alt = "Subscription">
+
+**Notification Management:**
+
+<img src="resources/Images/Chapter-4/Diagrma de clases/Notification/Notification.png" alt = "Notification">
+
+**Milestone Management:**
+
+<img src="resources/Images/Chapter-4/Diagrma de clases/Milestone/Milestone.png" alt = "Milestone">
+
+**Task Management:**
+
+<img src="resources/Images/Chapter-4/Diagrma de clases/Task/Task.png" alt = "Task">
+
+**Contribution Management:**
+
+<img src="resources/Images/Chapter-4/Diagrma de clases/Contribution/Contribution.png" alt = "Contribution">
+
+**IOT:**
+
+<img src="resources/Images/Chapter-4/Diagrma de clases/Iot/Iot.png" alt = "Iot">
+
+**Analytics:**
+
+<img src="resources/Images/Chapter-4/Diagrma de clases/Analytics/Analytics.png" alt = "Analytics">
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
