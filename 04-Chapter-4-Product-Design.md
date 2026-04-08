@@ -150,9 +150,128 @@ Este diseño permite una clara separación de responsabilidades, facilita la man
 
 **Profile Management:**
 
+El diagrama de clases del módulo **Profile** representa la estructura encargada de la gestión de la información personal de los usuarios dentro del sistema Foundly.
+
+Este módulo sigue los principios de **Domain-Driven Design (DDD)** y aplica una separación clara entre comandos (*commands*) y consultas (*queries*), permitiendo una mejor organización y escalabilidad del sistema.
+
+#### Componentes principales
+
+- **ProfileController:** actúa como punto de entrada del módulo, exponiendo endpoints REST para la gestión del perfil del usuario. Recibe las solicitudes desde la SPA y las delega al facade correspondiente.
+
+- **ProfileFacade:** funciona como una capa de orquestación que simplifica la interacción entre el controlador y los servicios del dominio. Coordina las operaciones de actualización y consulta del perfil.
+
+#### Dominio
+
+- **Profile (Aggregate Root):** entidad principal del módulo que representa la información del perfil del usuario. Contiene atributos como `id`, `userId`, `name`, `bio` e `imageUrl`, así como el comportamiento `updateProfile()`. Esta entidad actúa como la raíz del agregado, garantizando la consistencia de los datos del perfil.
+
+- **ProfileId:** value object que encapsula el identificador del perfil, evitando el uso directo de tipos primitivos y mejorando la seguridad del dominio.
+
+#### Manejo de comandos (Command Side)
+
+- **UpdateProfileCommand:** encapsula los datos necesarios para actualizar el perfil del usuario (userId, nombre y biografía).
+
+- **ProfileCommandService:** ejecuta la lógica de modificación del perfil, aplicando las reglas de negocio necesarias y persistiendo los cambios mediante el repositorio.
+
+#### Manejo de consultas (Query Side)
+
+- **GetProfileQuery:** representa la solicitud para obtener la información del perfil de un usuario.
+
+- **ProfileQueryService:** se encarga de las operaciones de lectura, recuperando la información del perfil desde la capa de persistencia.
+
+#### Persistencia
+
+- **ProfileRepository:** interfaz que define las operaciones de acceso a datos para el perfil, como guardar (`save`) y buscar por usuario (`findByUser`). Permite desacoplar la lógica del dominio de la infraestructura.
+
+#### Flujo general
+
+1. El usuario realiza una solicitud desde la **SPA** hacia el **ProfileController**.
+2. El controlador delega la operación al **ProfileFacade**.
+3. Dependiendo del tipo de operación:
+   - Para actualización → se utiliza el **ProfileCommandService**.
+   - Para consulta → se utiliza el **ProfileQueryService**.
+4. Los servicios interactúan con el **ProfileRepository** para persistir o recuperar información.
+5. La entidad **Profile** asegura la consistencia del dominio mediante su comportamiento interno.
+
+Este diseño permite una clara separación de responsabilidades, facilita la mantenibilidad del sistema y asegura que la gestión de perfiles se mantenga desacoplada de otros módulos del sistema.
+
 <img src="resources/Images/Chapter-4/Diagrma de clases/Profile/Profile.png" alt = "Profile">
 
 **Project Management:**
+
+El diagrama de clases del módulo **Project** representa la estructura encargada de la creación, gestión y ciclo de vida de los proyectos dentro de la plataforma Foundly.
+
+Este módulo sigue los principios de **Domain-Driven Design (DDD)**, donde la entidad **Project** actúa como *Aggregate Root*, y se aplica el patrón **CQRS (Command Query Responsibility Segregation)** para separar las operaciones de escritura y lectura.
+
+#### Componentes principales
+
+- **ProjectController:** actúa como punto de entrada del módulo, exponiendo endpoints REST para operaciones como creación de proyectos, postulación, aceptación de miembros, activación de monitoreo IoT y finalización del proyecto.
+
+- **ProjectFacade:** capa de orquestación que coordina la interacción entre el controlador y los servicios de aplicación, simplificando el acceso a las funcionalidades del módulo.
+
+#### Dominio
+
+- **Project (Aggregate Root):** entidad principal del módulo que encapsula la información y comportamiento del proyecto. Incluye atributos como `id`, `name`, `description`, `status`, `ownerId` y `members`.  
+  Además, define comportamientos clave como:
+  - `create()`
+  - `addMember()`
+  - `removeMember()`
+  - `activateIoT()`
+  - `complete()`
+
+- **ProjectId:** value object que representa el identificador del proyecto.
+
+- **ProjectName:** value object que encapsula el nombre del proyecto.
+
+- **ProjectStatus (enum):** define los estados posibles del proyecto:
+  - `DRAFT`
+  - `ACTIVE`
+  - `COMPLETED`
+
+#### Manejo de comandos (Command Side)
+
+- **CreateProjectCommand:** contiene los datos necesarios para crear un proyecto (nombre, descripción y propietario).
+
+- **ApplyToProjectCommand:** permite que un usuario solicite unirse a un proyecto.
+
+- **AcceptMemberCommand:** representa la aceptación de un colaborador dentro del proyecto.
+
+- **ActivateIoTCommand:** activa el monitoreo IoT asociado al proyecto.
+
+- **CompleteProjectCommand:** marca el proyecto como finalizado.
+
+- **ProjectCommandService:** ejecuta la lógica de negocio relacionada con la modificación del estado del proyecto, gestionando el flujo completo del ciclo de vida.
+
+#### Manejo de consultas (Query Side)
+
+- **GetProjectByIdQuery:** permite obtener un proyecto específico.
+
+- **GetProjectsByUserQuery:** permite listar los proyectos asociados a un usuario.
+
+- **GetAllProjectsQuery:** permite obtener todos los proyectos disponibles.
+
+- **ProjectQueryService:** gestiona las operaciones de lectura del sistema, accediendo a la información persistida sin modificar el estado del dominio.
+
+#### Persistencia
+
+- **ProjectRepository:** interfaz que define las operaciones de acceso a datos del agregado Project, incluyendo:
+  - `save(project)`
+  - `findById(projectId)`
+  - `findByUser(userId)`
+
+Este repositorio desacopla la lógica de dominio de la infraestructura de persistencia.
+
+#### Flujo general
+
+1. El usuario interactúa desde la **SPA** enviando una solicitud al **ProjectController**.
+2. El controlador delega la operación al **ProjectFacade**.
+3. Dependiendo de la operación:
+   - Para cambios de estado → se utiliza el **ProjectCommandService**.
+   - Para consultas → se utiliza el **ProjectQueryService**.
+4. El **ProjectCommandService** aplica las reglas de negocio sobre el agregado **Project**.
+5. El **ProjectRepository** persiste o recupera la información desde la base de datos.
+6. Las transiciones de estado del proyecto (DRAFT → ACTIVE → COMPLETED) son controladas por el dominio.
+
+Este diseño permite encapsular toda la lógica del ciclo de vida del proyecto dentro de un único agregado, asegurando consistencia, mantenibilidad y alineación con los principios de arquitectura basada en dominios.
 
 <img src="resources/Images/Chapter-4/Diagrma de clases/Project/Project.png" alt = "Project">
 
