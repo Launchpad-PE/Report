@@ -277,6 +277,81 @@ Este diseño permite encapsular toda la lógica del ciclo de vida del proyecto d
 
 **Subscription Management:**
 
+El diagrama de clases del módulo **Subscription** representa la estructura encargada de la gestión de planes y suscripciones de los usuarios dentro de la plataforma Foundly.
+
+Este módulo sigue los principios de **Domain-Driven Design (DDD)** y aplica el patrón **CQRS (Command Query Responsibility Segregation)**, separando claramente las operaciones de escritura y lectura.
+
+#### Componentes principales
+
+- **SubscriptionController:** actúa como punto de entrada del módulo, exponiendo endpoints REST para operaciones como crear suscripciones, cancelarlas, renovarlas y consultar el estado de la suscripción de un usuario.
+
+- **SubscriptionFacade:** capa de orquestación que centraliza las operaciones principales del módulo, delegando la lógica a los servicios correspondientes.
+
+#### Dominio
+
+- **Subscription (Aggregate Root):** entidad principal que representa la suscripción de un usuario. Contiene atributos como `id`, `userId`, `plan`, `status`, `startDate` y `endDate`.  
+  Además, encapsula comportamientos clave:
+  - `activate()`
+  - `cancel()`
+  - `expire()`
+
+- **SubscriptionId:** value object que encapsula el identificador de la suscripción.
+
+- **PlanType (enum):** define los tipos de planes disponibles:
+  - `FREE`
+  - `PREMIUM`
+
+- **SubscriptionStatus (enum):** define los estados de la suscripción:
+  - `ACTIVE`
+  - `CANCELED`
+  - `EXPIRED`
+
+#### Manejo de comandos (Command Side)
+
+- **CreateSubscriptionCommand:** contiene la información necesaria para crear una suscripción (usuario y tipo de plan).
+
+- **CancelSubscriptionCommand:** representa la cancelación de una suscripción existente.
+
+- **RenewSubscriptionCommand:** permite renovar una suscripción activa o expirada.
+
+- **SubscriptionCommandService:** ejecuta la lógica de negocio relacionada con la creación, cancelación y renovación de suscripciones.  
+  Este servicio interactúa con:
+  - **SubscriptionRepository:** para persistencia.
+  - **BillingGateway:** para procesar pagos.
+
+#### Manejo de consultas (Query Side)
+
+- **GetSubscriptionQuery:** permite obtener la suscripción asociada a un usuario.
+
+- **SubscriptionQueryService:** se encarga de recuperar la información de suscripciones desde la base de datos.
+
+#### Persistencia
+
+- **SubscriptionRepository:** interfaz que define las operaciones de acceso a datos para la entidad Subscription, como:
+  - `save(subscription)`
+  - `findByUser(userId)`
+  - `findById(subscriptionId)`
+
+#### Integración con sistemas externos
+
+- **BillingGateway:** interfaz que define la operación de cobro (`charge`), desacoplando la lógica del dominio del proveedor de pagos.
+
+- **StripeBillingService:** implementación concreta del gateway que integra el sistema con **Stripe** para procesar pagos de suscripciones.
+
+#### Flujo general
+
+1. El usuario realiza una acción desde la **SPA** (crear, cancelar o renovar suscripción).
+2. La solicitud llega al **SubscriptionController**.
+3. El controlador delega la operación al **SubscriptionFacade**.
+4. Dependiendo de la operación:
+   - Para cambios → se utiliza el **SubscriptionCommandService**.
+   - Para consultas → se utiliza el **SubscriptionQueryService**.
+5. El **SubscriptionCommandService** interactúa con el **BillingGateway** para procesar pagos cuando es necesario.
+6. Los datos se persisten mediante el **SubscriptionRepository**.
+7. El agregado **Subscription** garantiza la consistencia del estado de la suscripción.
+
+Este diseño permite desacoplar la lógica de negocio del proveedor de pagos, facilitar la escalabilidad del sistema y mantener un control claro sobre el ciclo de vida de las suscripciones dentro de Foundly.
+
 <img src="resources/Images/Chapter-4/Diagrma de clases/Subscription/Subscription.png" alt = "Subscription">
 
 **Notification Management:**
