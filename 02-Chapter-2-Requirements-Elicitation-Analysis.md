@@ -28,6 +28,8 @@ La seccion User Task Matrix permite identificar y comparar las tareas más relev
 
 **Usuario Colaborador**
 
+<div align="center">
+
 | USER TASK                              | Frecuencia | Importancia |
 |----------------------------------------|------------|-------------|
 | Explorar proyectos disponibles         | Alta       | Crítica     |
@@ -43,6 +45,7 @@ La seccion User Task Matrix permite identificar y comparar las tareas más relev
 | Recibir notificaciones                 | Alta       | Alta        |
 | Trabajar Proyectos con Iot             | Alta       | Alta        |                           
 
+</div>
 
 Se observa que las actividades más críticas se concentran en la exploración de proyectos, la participación activa en equipos y la contribución al desarrollo de soluciones, especialmente en proyectos relacionados con tecnologías como IoT. Asimismo, tareas como la comunicación, la coordinación y el seguimiento del progreso resultan fundamentales para garantizar una experiencia colaborativa organizada.
 
