@@ -707,6 +707,95 @@ Este diseño permite modelar correctamente el flujo de pagos dentro del sistema,
 
 **IOT:**
 
+El diagrama de clases del módulo **IoT** representa la estructura encargada de la captura, gestión y consulta de métricas provenientes de dispositivos IoT dentro de la plataforma Foundly.
+
+Este módulo permite integrar datos del mundo físico (sensores) con el sistema digital, facilitando el monitoreo en tiempo real de variables como temperatura, humedad, calidad del aire y ruido en los proyectos.
+
+El diseño sigue principios de **Domain-Driven Design (DDD)** y aplica el patrón **CQRS**, separando las operaciones de escritura (registro de métricas) de las operaciones de lectura (consulta de datos).
+
+#### Componentes principales
+
+- **IoTController:** actúa como punto de entrada del módulo, exponiendo endpoints REST para:
+  - Recepción de métricas (`receiveMetric()`)
+  - Consulta de métricas (`getMetrics()`)
+
+- **IoTFacade:** capa de orquestación que centraliza las operaciones del módulo, delegando la lógica a los servicios correspondientes.
+
+#### Dominio
+
+- **IoTMetric (Aggregate Root):** entidad principal que representa una métrica capturada desde un dispositivo IoT.  
+  Contiene atributos como:
+  - `id`
+  - `projectId`
+  - `deviceId`
+  - `type`
+  - `value`
+  - `timestamp`
+
+  Incluye comportamiento:
+  - `record()`
+
+- **IoTMetricId:** value object que encapsula el identificador de la métrica.
+
+- **DeviceId:** value object que representa el identificador del dispositivo IoT.
+
+- **MetricType (enum):** define los tipos de métricas capturadas:
+  - `TEMPERATURE`
+  - `HUMIDITY`
+  - `AIR_QUALITY`
+  - `NOISE`
+
+- **MetricValue:** value object que representa el valor numérico de la métrica.
+
+- **Timestamp:** value object que representa el momento en que se registra la métrica.
+
+#### Manejo de comandos (Command Side)
+
+- **RecordMetricCommand:** encapsula la información necesaria para registrar una métrica (proyecto, dispositivo, tipo y valor).
+
+- **ActivateMonitoringCommand:** permite activar el monitoreo IoT para un proyecto específico.
+
+- **IoTCommandService:** ejecuta la lógica de negocio relacionada con la recepción y registro de métricas.
+
+#### Manejo de consultas (Query Side)
+
+- **GetMetricsByProjectQuery:** permite obtener métricas asociadas a un proyecto.
+
+- **GetMetricsByTypeQuery:** permite filtrar métricas según su tipo.
+
+- **IoTQueryService:** gestiona las operaciones de lectura de métricas.
+
+#### Persistencia
+
+- **IoTRepository:** interfaz que define las operaciones de acceso a datos, incluyendo:
+  - `save(metric)`
+  - `findByProject(projectId)`
+  - `findByType(type)`
+
+#### Integración con dispositivos externos
+
+- **IoTDeviceGateway:** interfaz que define el contrato para la recepción de datos provenientes de dispositivos físicos.
+
+Este componente desacopla la lógica del dominio de la fuente de datos IoT, permitiendo integrar diferentes tipos de dispositivos o protocolos.
+
+#### Relación con otros módulos
+
+- El módulo **IoT** está directamente relacionado con el módulo **Project**, ya que las métricas se registran en el contexto de un proyecto (`projectId`).
+
+- El módulo **Analytics** consume los datos generados por IoT para procesar información, generar reportes e identificar patrones o insights.
+
+#### Flujo general
+
+1. Un dispositivo IoT envía datos al sistema.
+2. La solicitud es recibida por el **IoTController**.
+3. El controlador delega la operación al **IoTFacade**.
+4. El **IoTCommandService** registra la métrica mediante el agregado **IoTMetric**.
+5. La información se persiste a través del **IoTRepository**.
+6. Las consultas de métricas se realizan mediante el **IoTQueryService**.
+7. Los datos pueden ser consumidos por el módulo **Analytics** para su procesamiento.
+
+Este diseño permite integrar dispositivos IoT de manera desacoplada, manejar grandes volúmenes de datos en tiempo real y proporcionar una base sólida para análisis avanzados dentro de Foundly.
+
 <img src="resources/Images/Chapter-4/Diagrma de clases/Iot/Iot.png" alt = "Iot">
 
 **Analytics:**
