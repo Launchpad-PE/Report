@@ -210,4 +210,21 @@ La relación entre estas tablas permite que un dispositivo genere múltiples mé
 Este diseño permite integrar datos del mundo físico dentro del sistema, facilitando el monitoreo de condiciones en los proyectos y proporcionando información clave para su posterior análisis en el módulo de Analytics.
  
 <h4>Analytics</h4>
+
 <img src="resources/Images/Chapter-4/Base de datos/bounden-context/Analytics/Analytics.png" alt ="Analytics">
+
+El bounded context **Analytics** es el encargado de procesar y analizar la información generada dentro de la plataforma Foundly, especialmente los datos provenientes del módulo IoT, con el objetivo de generar conocimiento útil para la toma de decisiones.
+
+En este contexto se definen las siguientes tablas:
+
+- **analytics_reports:** almacena los reportes generados para cada proyecto. Cada reporte incluye el proyecto asociado (`project_id`) y la fecha en la que fue generado.
+
+- **metric_summaries:** contiene los resúmenes estadísticos de las métricas analizadas en cada reporte. Incluye información como el tipo de métrica, el promedio, el valor máximo y el mínimo.
+
+- **insights:** registra los hallazgos o conclusiones obtenidas a partir del análisis de los datos. Cada insight está asociado a un proyecto e incluye una descripción y su fecha de creación.
+
+La relación entre estas tablas permite que un reporte tenga múltiples resúmenes de métricas, mientras que los insights representan información clave derivada del análisis.
+
+Este diseño permite transformar datos en información valiosa, facilitando la comprensión del comportamiento de los proyectos y apoyando la toma de decisiones basada en datos dentro de la plataforma.
+
+
