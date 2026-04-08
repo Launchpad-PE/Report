@@ -50,6 +50,20 @@ En conjunto, este diseño permite que toda la información esté conectada de ma
 
 <h3><strong>Diagrama de base de datos dividido por contextos:</strong></h3>
 
+A continuación, se presenta la organización de la base de datos segmentada por **bounded contexts**, siguiendo los principios de **Domain-Driven Design (DDD)**.
+
+En lugar de manejar una única estructura monolítica, el diseño de la base de datos se divide en diferentes contextos, donde cada uno representa una parte específica del dominio del sistema Foundly. Esto permite una mejor organización, separación de responsabilidades y mayor claridad en la gestión de la información.
+
+Cada bounded context agrupa sus propias tablas, las cuales están directamente relacionadas con sus funcionalidades dentro del sistema. Por ejemplo, existen contextos dedicados a la gestión de usuarios, proyectos, contribuciones, tareas, IoT y analytics, entre otros.
+
+Esta segmentación facilita:
+- La comprensión del sistema.
+- La mantenibilidad del código y la base de datos.
+- La escalabilidad del sistema a futuro.
+- La independencia entre módulos.
+
+En las siguientes secciones se detallan los diagramas de base de datos correspondientes a cada bounded context, mostrando sus tablas, atributos y relaciones principales.
+
 <h4>IAM</h4>
 
 <img src="resources/Images/Chapter-4/Base de datos/bounden-context/IAM/IAM.png" alt="IAM Data Base">
