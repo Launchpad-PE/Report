@@ -174,7 +174,7 @@ Su mayor dificultad es formar equipos comprometidos: muchos interesados abandona
 
 Lo que más le preocupa al buscar financiamiento en línea es la seguridad del dinero y la seriedad de los proyectos, ya que la falta de confianza desanima tanto a él como a los posibles aportantes. Para una plataforma ideal valora que sea clara, fácil de usar, que permita mostrar bien la propuesta, ofrecer reportes de avance visibles, sistemas de reputación/verificación y herramientas para organizar tareas con métricas claras.
 
-Didier ve como beneficios principales el alcance mayor, la posibilidad de recibir feedback de personas con experiencia y el acceso a colaboradores que complementen sus habilidades. Considera crítico contar con un equipo sólido desde el inicio, porque sin él la validación de ideas y el financiamiento se vuelven inviables.
+Didier ve como beneficios principales el alcance mayor, la posibilidad de recibir comentarios de personas con experiencia y el acceso a colaboradores que complementen sus habilidades. Considera crítico contar con un equipo sólido desde el inicio, porque sin él la validación de ideas y el financiamiento se vuelven inviables.
 
 </td>
   </tr>
@@ -371,6 +371,66 @@ Didier ve como beneficios principales el alcance mayor, la posibilidad de recibi
 </table>
 			
 ### 2.2.3. Análisis de entrevistas
+
+**Segmento 1**
+
+**Segmento 2**
+
+Las entrevistas realizadas muestran que los estudiantes y profesionales jóvenes suelen involucrarse en proyectos académicos, voluntariados y pequeñas iniciativas personales, generalmente vinculadas a sus carreras o intereses. Sin embargo, gran parte de estas experiencias se desarrollan de manera informal y con herramientas poco específicas, lo que limita la organización y el aprendizaje real que pueden obtener. Plataformas como WhatsApp, Slack, Discord, GitHub o LinkedIn son usadas frecuentemente, pero los entrevistados coinciden en que la información tiende a dispersarse, lo que genera desorden y falta de seguimiento en las tareas.
+
+En cuanto a sus motivaciones, los tres entrevistados destacaron que lo que más los impulsa a unirse a proyectos en línea es la experiencia práctica que les permita aplicar sus conocimientos en contextos reales. Además, valoran la posibilidad de ampliar su portafolio profesional, generar networking y establecer contactos que puedan abrirles puertas a oportunidades laborales futuras. Los ingresos son vistos como un beneficio adicional, pero no constituyen la principal razón de participación.
+
+Las principales dificultades que enfrentan están relacionadas con la falta de claridad en la información de los proyectos y la incertidumbre sobre el compromiso de los participantes. En muchos casos, los equipos no definen claramente los objetivos, los roles o el nivel de dedicación esperado, lo que genera frustración y abandono temprano de las iniciativas. Esta falta de transparencia también hace difícil que los jóvenes encuentren oportunidades de colaboración realmente alineadas con sus perfiles e intereses.
+
+En ese sentido, los entrevistados consideran indispensables en una plataforma funciones como perfiles con habilidades destacadas, roles bien definidos, filtros por áreas de interés, métricas de avance y mecanismos de reputación. También resaltaron la necesidad de espacios de comunicación organizados que reemplacen la informalidad de los chats grupales, y de herramientas que garanticen que su aporte sea valorado y reconocido, como reportes de avance o incluso certificados digitales que respalden su participación.
+
+**Plataformas Utilizadas Para Colaborar**
+
+### Tipos de Proyectos en los que Participan Actualmente
+
+| Integrante     | Descripción |
+|---------------|------------|
+| **Diego Alonso** | Proyectos académicos con IoT (monitoreo de cultivos) y voluntariado en albergue canino sin plataforma tecnológica. |
+| **Álvaro Rocha** | Proyectos académicos de software (APIs web) y un proyecto grupal de monitoreo de salud mental con GitHub. |
+| **Kael Lagos**   | Proyectos académicos como parte de cursos y proyectos personales tipo taller, generalmente individuales. |
+
+
+WhatsApp y GitHub son las herramientas más usadas (66.7% cada una), pero ambas de forma parcial y desconectada. Ningún entrevistado usa una plataforma que unifique comunicación, gestión de tareas y seguimiento en un solo espacio, lo que representa la oportunidad central de Foundly.
+
+### Motivaciones Principales para Unirse a Proyectos en Línea
+
+| Integrante       | Objetivo / Motivación |
+|------------------|----------------------|
+| **Diego Alonso** | Validar soluciones tecnológicas con impacto real (IoT en agricultura) y trabajar con perfiles complementarios. |
+| **Álvaro Rocha** | Ganar experiencia real para el portafolio y conocer personas con intereses similares. |
+| **Kael Lagos**   | Adquirir experiencia, obtener posibles ingresos y ampliar horizontes en el mundo emprendedor. |
+
+
+La experiencia práctica y el networking comparten el primer lugar con un 30% cada uno, seguidos por el portafolio profesional (20%) y los ingresos económicos (20%). Estos datos validan que Foundly debe comunicar explícitamente cómo cada proyecto aporta experiencia real y contactos valiosos.
+
+### Dificultades al Buscar Oportunidades de Colaboración
+
+| Integrante       | Dificultades |
+|------------------|--------------|
+| **Diego Alonso** | Equipos sin roles claros y definidos, especialmente en proyectos tecnológicos como IoT. |
+| **Álvaro Rocha** | Proyectos mal organizados que no se ajustan al nivel de aprendizaje que busca el colaborador. |
+| **Kael Lagos**   | Intereses no coincidentes con las oportunidades disponibles y perfiles poco convincentes. |
+
+
+La falta de claridad en objetivos, roles y compromiso es la barrera más crítica (100% de los entrevistados). Le siguen la desalineación de intereses y la ausencia de seguimiento, ambas con 66.7%. Esto refuerza la necesidad de una ficha de proyecto detallada y transparente en Foundly.
+
+### Funciones Más Valoradas en una Plataforma
+
+| Integrante       | Necesidades / Requerimientos |
+|------------------|----------------------------|
+| **Diego Alonso** | Almacenamiento y gestión de datos del proyecto (ej. métricas de sensores IoT) para no perder el avance histórico. |
+| **Álvaro Rocha** | Filtros de habilidades, roles bien definidos y herramientas de seguimiento del avance. |
+| **Kael Lagos**   | Organización de la comunicación sin solapamientos y mejor coordinación entre integrantes. |
+
+
+
+Los perfiles con habilidades/roles definidos y las métricas de avance son considerados indispensables por el 100% de los entrevistados. Los filtros por área, la comunicación organizada y los mecanismos de reputación son valorados por el 66.7%. Foundly debe priorizar estas funciones en su MVP.
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
