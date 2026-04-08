@@ -613,6 +613,96 @@ Este diseño permite modelar correctamente la gestión de tareas individuales de
 
 **Contribution Management:**
 
+El diagrama de clases del módulo **Contribution** representa la estructura encargada de la gestión de aportes económicos realizados por los usuarios hacia los proyectos dentro de la plataforma Foundly.
+
+Este módulo modela el flujo completo de una contribución, desde su creación hasta la confirmación o fallo del pago, siguiendo principios de **Domain-Driven Design (DDD)** y aplicando el patrón **CQRS** para separar operaciones de escritura y lectura.
+
+#### Componentes principales
+
+- **ContributionController:** actúa como punto de entrada del módulo, exponiendo endpoints REST para:
+  - Crear contribuciones (`create()`)
+  - Confirmar pagos (`confirm()`)
+  - Consultar contribuciones por proyecto (`getByProject()`)
+
+- **ContributionFacade:** capa de orquestación que centraliza las operaciones del módulo, delegando la lógica a los servicios correspondientes.
+
+#### Dominio
+
+- **Contribution (Aggregate Root):** entidad principal que representa un aporte económico realizado por un usuario. Contiene atributos como `id`, `projectId`, `userId`, `amount`, `status` y `createdAt`.  
+  Define comportamientos clave:
+  - `create()`
+  - `confirmPayment()`
+  - `failPayment()`
+
+- **ContributionId:** value object que encapsula el identificador de la contribución.
+
+- **Money:** value object que representa el monto y la moneda de la contribución, asegurando consistencia en operaciones financieras.
+
+- **ContributionStatus (enum):** define los estados de la contribución:
+  - `PENDING`
+  - `CONFIRMED`
+  - `FAILED`
+
+Estos estados permiten modelar el ciclo de vida del pago.
+
+#### Manejo de comandos (Command Side)
+
+- **CreateContributionCommand:** encapsula los datos necesarios para crear una contribución (proyecto, usuario y monto).
+
+- **ConfirmPaymentCommand:** representa la confirmación exitosa de un pago.
+
+- **FailPaymentCommand:** representa un fallo en el proceso de pago.
+
+- **ContributionCommandService:** ejecuta la lógica de negocio relacionada con el procesamiento de contribuciones.  
+  Este servicio interactúa con:
+  - **ContributionRepository:** para persistencia.
+  - **PaymentGateway:** para procesar pagos externos.
+
+#### Manejo de consultas (Query Side)
+
+- **GetContributionsByProjectQuery:** permite obtener las contribuciones asociadas a un proyecto.
+
+- **GetContributionsByUserQuery:** permite obtener las contribuciones realizadas por un usuario.
+
+- **ContributionQueryService:** gestiona las operaciones de lectura del módulo.
+
+#### Persistencia
+
+- **ContributionRepository:** interfaz que define las operaciones de acceso a datos, incluyendo:
+  - `save(contribution)`
+  - `findByProject(projectId)`
+  - `findByUser(userId)`
+
+#### Integración con sistemas externos
+
+- **PaymentGateway:** interfaz que define el contrato para el procesamiento de pagos (`processPayment`), desacoplando la lógica del dominio del proveedor externo.
+
+- **StripeService:** implementación concreta del gateway que integra el sistema con **Stripe** para ejecutar los pagos.
+
+Este enfoque permite cambiar el proveedor de pagos sin afectar la lógica del dominio.
+
+#### Relación con otros módulos
+
+- El módulo **Contribution** está directamente relacionado con el módulo **Project**, ya que cada contribución está asociada a un proyecto específico.
+
+- También se relaciona con el módulo **User (IAM)** a través del `userId`, representando al usuario que realiza el aporte.
+
+#### Flujo general
+
+1. El usuario realiza una contribución desde la **SPA**.
+2. La solicitud llega al **ContributionController**.
+3. El controlador delega la operación al **ContributionFacade**.
+4. El **ContributionCommandService**:
+   - Crea la contribución en estado `PENDING`.
+   - Invoca al **PaymentGateway** para procesar el pago.
+5. Dependiendo del resultado:
+   - Si el pago es exitoso → `CONFIRMED`.
+   - Si falla → `FAILED`.
+6. La información se persiste mediante el **ContributionRepository**.
+7. Las consultas se realizan mediante el **ContributionQueryService**.
+
+Este diseño permite modelar correctamente el flujo de pagos dentro del sistema, desacoplar la lógica del proveedor externo y garantizar consistencia en las transacciones financieras de Foundly.
+
 <img src="resources/Images/Chapter-4/Diagrma de clases/Contribution/Contribution.png" alt = "Contribution">
 
 **IOT:**
