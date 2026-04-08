@@ -27,8 +27,6 @@
 
 **IAM (Identify Acces Management):**
 
-### IAM Module – Class Diagram Description
-
 El diagrama de clases del módulo **IAM (Identity and Access Management)** representa la estructura interna encargada de la autenticación, gestión de usuarios y control de acceso dentro del sistema Foundly.
 
 Este módulo sigue los principios de **Domain-Driven Design (DDD)** y una separación clara entre comandos (*commands*), consultas (*queries*), servicios de aplicación y lógica de dominio.
