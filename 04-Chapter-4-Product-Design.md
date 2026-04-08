@@ -84,6 +84,16 @@ Este diseño asegura que la autenticación y autorización estén centralizadas,
 
 <img src="resources/Images/Chapter-4/Base de datos/bounden-context/Profile/Profile.png" alt ="Profile Data Base">
 
+El bounded context **Profile** es el encargado de gestionar la información personal y pública de los usuarios dentro de la plataforma Foundly.
+
+En este contexto se define la siguiente tabla:
+
+- **profiles:** almacena los datos del perfil de cada usuario, como su nombre, biografía e imagen. Esta información complementa los datos básicos almacenados en el módulo IAM, permitiendo una mejor representación del usuario dentro de la plataforma.
+
+Cada perfil está asociado a un usuario mediante el campo `user_id`, lo que establece una relación directa entre la identidad del usuario y su información personal.
+
+Este diseño permite separar claramente la gestión de autenticación (IAM) de la información del perfil, facilitando la organización del sistema y permitiendo una mayor flexibilidad en la evolución de cada módulo.
+
 <h4>Subscription</h4>
 
 <img src="resources/Images/Chapter-4/Base de datos/bounden-context/Subscription/Subscription.png" alt="Subscription Data Base">
