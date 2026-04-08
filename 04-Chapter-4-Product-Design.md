@@ -800,6 +800,105 @@ Este diseño permite integrar dispositivos IoT de manera desacoplada, manejar gr
 
 **Analytics:**
 
+El diagrama de clases del módulo **Analytics** representa la estructura encargada del procesamiento, análisis e interpretación de datos dentro de la plataforma Foundly.
+
+Este módulo tiene como objetivo transformar datos crudos (principalmente provenientes del módulo IoT) en información útil mediante la generación de reportes y la detección de insights que apoyan la toma de decisiones.
+
+El diseño sigue principios de **Domain-Driven Design (DDD)** y aplica el patrón **CQRS**, separando claramente la generación de datos analíticos de su consulta.
+
+#### Componentes principales
+
+- **AnalyticsController:** actúa como punto de entrada del módulo, exponiendo endpoints REST para:
+  - Generación de reportes (`generateReport()`)
+  - Consulta de reportes (`getReport()`)
+  - Consulta de insights (`getInsights()`)
+
+- **AnalyticsFacade:** capa de orquestación que centraliza las operaciones del módulo, delegando la lógica a los servicios del dominio.
+
+#### Dominio
+
+- **AnalyticsReport (Aggregate Root):** entidad que representa un reporte analítico generado para un proyecto.  
+  Contiene:
+  - `id`
+  - `projectId`
+  - `generatedAt`
+  - `metrics` (lista de resúmenes)
+
+  Comportamiento:
+  - `generate()`
+
+- **Insight (Aggregate Root):** entidad que representa un hallazgo relevante detectado a partir del análisis de datos.  
+  Contiene:
+  - `id`
+  - `projectId`
+  - `description`
+  - `createdAt`
+
+  Comportamiento:
+  - `detect()`
+
+- **ReportId / InsightId:** value objects que encapsulan los identificadores.
+
+- **MetricSummary:** value object que representa un resumen estadístico de métricas, incluyendo:
+  - `type`
+  - `average`
+  - `max`
+  - `min`
+
+#### Manejo de comandos (Command Side)
+
+- **GenerateReportCommand:** encapsula la solicitud para generar un reporte analítico de un proyecto.
+
+- **DetectInsightCommand:** permite ejecutar procesos de detección de patrones o anomalías.
+
+- **AnalyticsCommandService:** ejecuta la lógica de negocio del análisis, incluyendo:
+  - Agregación de métricas
+  - Generación de reportes
+  - Detección de insights
+
+#### Manejo de consultas (Query Side)
+
+- **GetReportByProjectQuery:** permite obtener el reporte analítico de un proyecto.
+
+- **GetInsightsByProjectQuery:** permite obtener los insights generados.
+
+- **AnalyticsQueryService:** gestiona las operaciones de lectura del módulo.
+
+#### Persistencia
+
+- **AnalyticsRepository:** interfaz que define las operaciones de acceso a datos:
+  - `saveReport(report)`
+  - `saveInsight(insight)`
+  - `findReportsByProject(projectId)`
+  - `findInsightsByProject(projectId)`
+
+#### Integración con otros módulos
+
+- **IoTDataProvider:** interfaz que permite obtener métricas desde el módulo IoT (`getMetrics(projectId)`).
+
+Esta integración desacopla el módulo Analytics del origen de los datos, permitiendo flexibilidad en futuras integraciones.
+
+#### Relación con otros módulos
+
+- El módulo **Analytics** depende directamente del módulo **IoT**, ya que utiliza las métricas recolectadas para generar reportes e insights.
+
+- También está relacionado con el módulo **Project**, ya que el análisis se realiza en el contexto de un proyecto específico.
+
+#### Flujo general
+
+1. Se solicita la generación de un reporte desde la **SPA**.
+2. La solicitud llega al **AnalyticsController**.
+3. El controlador delega la operación al **AnalyticsFacade**.
+4. El **AnalyticsCommandService**:
+   - Obtiene datos mediante el **IoTDataProvider**.
+   - Procesa las métricas.
+   - Genera un **AnalyticsReport**.
+   - Detecta posibles **Insights**.
+5. Los resultados se almacenan mediante el **AnalyticsRepository**.
+6. Las consultas posteriores se realizan mediante el **AnalyticsQueryService**.
+
+Este diseño permite transformar datos crudos en información valiosa, facilitando la toma de decisiones basada en datos y aportando inteligencia al sistema Foundly.
+
 <img src="resources/Images/Chapter-4/Diagrma de clases/Analytics/Analytics.png" alt = "Analytics">
 
 ## 4.8. Database Design
