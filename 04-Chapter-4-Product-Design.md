@@ -192,8 +192,22 @@ La relación con **projects** permite asociar cada aporte a un proyecto específ
 Este diseño facilita el seguimiento de los aportes, el control del estado de los pagos y la gestión del financiamiento dentro de la plataforma.
 
 <h4>Iot</h4>
+
  <img src="resources/Images/Chapter-4/Base de datos/bounden-context/Iot/Iot.png" alt="Iot">
 
+El bounded context **IoT** es el encargado de gestionar la información proveniente de dispositivos físicos conectados a la plataforma Foundly, permitiendo el monitoreo de variables en tiempo real dentro de los proyectos.
+
+En este contexto se definen las siguientes tablas:
+
+- **devices:** almacena los dispositivos IoT registrados en el sistema. Cada dispositivo está asociado a un proyecto (`project_id`) y contiene información como su nombre, ubicación, estado e instalación.
+
+- **iot_metrics:** registra las métricas capturadas por los dispositivos. Incluye el proyecto, el dispositivo, el tipo de métrica (`type_id`), el valor registrado y el momento en que fue capturada.
+
+- **iot_metric_types:** define los diferentes tipos de métricas que pueden ser registradas, como temperatura, humedad, calidad del aire, entre otros, incluyendo su unidad de medida y descripción.
+
+La relación entre estas tablas permite que un dispositivo genere múltiples métricas, y que cada métrica esté clasificada según su tipo.
+
+Este diseño permite integrar datos del mundo físico dentro del sistema, facilitando el monitoreo de condiciones en los proyectos y proporcionando información clave para su posterior análisis en el módulo de Analytics.
  
 <h4>Analytics</h4>
 <img src="resources/Images/Chapter-4/Base de datos/bounden-context/Analytics/Analytics.png" alt ="Analytics">
