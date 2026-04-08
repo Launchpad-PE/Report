@@ -347,7 +347,7 @@ Didier ve como beneficios principales el alcance mayor, la posibilidad de recibi
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-ALvaro-Rocha.png" alt="Entrevista a Alvaro Rocha"></div></td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Alvaro-Rocha.png" alt="Entrevista a Alvaro Rocha"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -369,6 +369,7 @@ Didier ve como beneficios principales el alcance mayor, la posibilidad de recibi
   </tr>
 </tbody>
 </table>
+			
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
