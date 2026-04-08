@@ -20,7 +20,7 @@ Para el segmento de colaboradores se elaboró el User Persona representativo de 
 Se tomó en cuenta que estos usuarios buscan principalmente adquirir experiencia práctica real, fortalecer su portafolio profesional y generar contactos (networking) que les permitan mejorar sus oportunidades laborales. Asimismo, se identificó su interés en participar en proyectos con impacto real, especialmente aquellos relacionados con tecnología aplicada como desarrollo de software o IoT.
 
 
-
+<img src="resources/Images/Chapter-2/user-personas-ux/Jesli Bautista.png" alt ="Jesli Bautista">
 
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
