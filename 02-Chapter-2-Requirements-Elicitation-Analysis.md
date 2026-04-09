@@ -455,8 +455,6 @@ Las principales dificultades que enfrentan están relacionadas con la falta de c
 
 En ese sentido, los entrevistados consideran indispensables en una plataforma funciones como perfiles con habilidades destacadas, roles bien definidos, filtros por áreas de interés, métricas de avance y mecanismos de reputación. También resaltaron la necesidad de espacios de comunicación organizados que reemplacen la informalidad de los chats grupales, y de herramientas que garanticen que su aporte sea valorado y reconocido, como reportes de avance o incluso certificados digitales que respalden su participación.
 
-**Plataformas Utilizadas Para Colaborar**
-
 ### Tipos de Proyectos en los que Participan Actualmente
 
 | Integrante     | Descripción |
