@@ -5,6 +5,9 @@
 
 ## 3.3. Product Backlog
 
+>En el Product Backlog presentamos una lista priorizada de nuestras User Stories según el valor para el negocio, esencial para el enfoque ágil. Para estimar el esfuerzo utilizamos la secuencia de Fibonacci (1, 2, 3, 5, 8).
+
+
 | Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
 |---|---|---|---|---|
 | 1 | US012 | Landing Page - Información general | Como visitante quiero visualizar información general de la plataforma para conocer su propuesta de valor. | 3 |
