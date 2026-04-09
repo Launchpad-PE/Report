@@ -446,11 +446,38 @@ Por estas razones, los tres emprendedores coincidieron en que una plataforma loc
 
 ### Etapa en la que necesitan ayuda
 
+| Integrante     | Descripción |
+|---------------|------------|
+| **Gonzalo Quintanilla** | Al formar el equipo: puede programar por su cuenta, pero para escalar el negocio necesita socios. Considera que si el equipo es sólido, el dinero llegará después. |
+| **Didier Meza** | Al formar el equipo, porque sin personas que apoyen desde el inicio el proyecto no avanza. El financiamiento es clave, pero secundario sin un grupo sólido. |
+| **Diana Briceño**   | Al formar el equipo, ya que es más difícil encontrar personas aptas con los perfiles correctos para iniciar el proyecto que validar la idea o conseguir dinero. |
+
+
+
+
 ### Formas de financiamiento actual
+
+| Integrante     | Descripción |
+|---------------|------------|
+| **Gonzalo Quintanilla** | Ahorros propios y apoyo de familiares o amigos. No ha usado crowdfunding por el esfuerzo de marketing que requiere y la falta de comunidad previa. |
+| **Didier Meza** | Ahorros personales y apoyo del entorno cercano. Intentó usar Kickstarter sin éxito por falta de visibilidad y por ser una plataforma orientada a mercados extranjeros. |
+| **Diana Briceño**   | Ahorros personales y apoyo familiar limitado. No ha usado crowdfunding por la falta de opciones locales confiables y los procesos complicados de plataformas extranjeras. |
 
 ### Mecanismo de transparencia que generan confianza
 
+| Integrante     | Descripción |
+|---------------|------------|
+| **Gonzalo Quintanilla** | Sistema de reputación o reseñas entre fundadores, y exigencia de pruebas reales de avance como repositorios de código, encuestas o prototipos. |
+| **Didier Meza** | Proyectos con reportes de avance obligatorios, verificación de equipos, sistema de calificaciones y un historial similar al de GitHub con commits. |
+| **Diana Briceño**   | Reportes de avance visibles en todo momento, hitos validados, historial de aportes y posibilidad de que la comunidad deje comentarios y valoraciones. |
+
 ### Tipos de proyectos en los que participan actualmente
+
+| Integrante     | Descripción |
+|---------------|------------|
+| **Gonzalo Quintanilla** | Proyectos de software/tecnología como desarrollador independiente, en etapa temprana sin equipo comercial. |
+| **Didier Meza** | Proyectos académicos y personales de emprendimiento digital, organizados principalmente por WhatsApp. |
+| **Diana Briceño**   | Proyectos personales de emprendimiento e iniciativas estudiantiles con foco en colaboración y financiamiento. |
 
 **Segmento 2**
 
