@@ -35,6 +35,30 @@ Se tomó en cuenta que estos usuarios buscan principalmente adquirir experiencia
 
 La seccion User Task Matrix permite identificar y comparar las tareas más relevantes que realizan los usuarios representados en nuestras User Personas. En esta matriz se organiza cada tarea según su frecuencia (qué tan seguido la realizan) y su importancia (qué tan crítica resulta para alcanzar sus objetivos).
 
+**Usuario Emprededor**
+
+ <div align="center">
+
+| USER TASK | Frecuencia | Importancia |
+|---|---|---|
+| Publicar o registrar un proyecto | Alta | Crítica |
+| Buscar colaboradores por habilidades | Alta | Crítica |
+| Revisar perfiles y portafolios de candidatos | Alta | Crítica |
+| Seleccionar y confirmar integrantes del equipo | Media | Crítica |
+| Definir roles y responsabilidades en el proyecto | Media | Alta |
+| Lanzar una campaña de financiamiento | Media | Crítica |
+| Establecer hitos y metas del proyecto | Media | Alta |
+| Coordinar tareas y asignar responsabilidades | Alta | Importante |
+| Publicar reportes o evidencias de avance | Media | Alta |
+| Hacer seguimiento del progreso del proyecto | Alta | Importante |
+| Recibir aportes o financiamiento por hitos | Media | Crítica |
+| Recibir notificaciones de postulantes o avances | Alta | Alta |
+
+</div> 
+
+Se observa que las tareas más críticas para el emprendedor se concentran en la publicación del proyecto, la búsqueda y selección de colaboradores con habilidades complementarias, y el acceso a financiamiento liberado por hitos. La comunicación interna y el seguimiento del progreso son actividades de alta frecuencia, lo que evidencia la necesidad de herramientas integradas dentro de la plataforma que eliminen la dependencia de canales informales como WhatsApp. Asimismo, la definición de roles desde el inicio y la publicación de reportes de avance resultan fundamentales para garantizar la transparencia y seriedad del proyecto ante colaboradores e inversores.
+
+
 **Usuario Colaborador**
 
 <div align="center">
