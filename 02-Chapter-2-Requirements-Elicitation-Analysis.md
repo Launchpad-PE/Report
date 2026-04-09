@@ -13,6 +13,15 @@ Para crear un producto que cumpla con las necesidades específicas de un cliente
 
 Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea es definir el perfil del usuario ideal con el que estamos tratando. Hemos elaborado los perfiles de usuario teniendo en cuenta las personalidades y cualidades identificadas en cada entrevista. A continuación, se presentan las user personas resultantes de la investigación:
 
+**Usuario Emprededor**
+
+Para el segmento de emprendedores se elaboró el User Persona representativo de jóvenes desarrolladores y emprendedores tecnológicos en etapa temprana interesados en lanzar sus proyectos de forma colaborativa. Para su construcción se consideraron los hallazgos obtenidos en el análisis de entrevistas realizadas a este segmento, incluyendo factores como su perfil técnico, las formas de financiamiento que utilizan, las dificultades para conformar equipos y el uso de herramientas digitales como WhatsApp, GitHub y Kickstarter.
+
+Se tomó en cuenta que estos usuarios buscan principalmente encontrar cofundadores o socios con habilidades complementarias a las suyas, acceder a mecanismos de financiamiento accesibles desde el Perú y reducir los meses de búsqueda que implica el networking presencial tradicional. Asimismo, se identificó su alta frustración con plataformas extranjeras que no están pensadas para emprendedores en etapa cero sin comunidad previa, y su necesidad de una solución local que combine formación de equipos con financiamiento colaborativo transparente.
+
+<img src="resources/Images/Chapter-2/user-personas-ux/Juan Fernandez.png" alt ="Juan Fernandez">
+
+
 **Usuario Colaborador**
 
 Para el segmento de colaboradores se elaboró el User Persona representativo de estudiantes universitarios y jóvenes profesionales interesados en participar en proyectos colaborativos. Para su construcción se consideraron los hallazgos obtenidos en el análisis de entrevistas realizadas a este segmento, incluyendo factores como su edad, formación en áreas tecnológicas, participación en proyectos académicos y uso de herramientas digitales como GitHub, WhatsApp y Google Docs.
