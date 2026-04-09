@@ -116,6 +116,15 @@
 | US061 | Visualización de métricas de sensores IoT | Como usuario (emprendedor o financiador) quiero visualizar las métricas de los sensores IoT de un proyecto para evaluar el comportamiento del prototipo en tiempo real. |**Scenario 1: Métricas IoT visibles en tiempo real**<br>**Dado que** el proyecto tiene un panel IoT activo. Y el dispositivo está enviando datos de sensores (temperatura, humedad u otros).<br> **Cuando** el usuario accede a la vista del proyecto.<br> **Entonces** el sistema muestra las métricas actuales con su unidad correspondiente. Y actualiza la información automáticamente en tiempo real. <br><br> **Scenario 2: Sin datos disponibles del dispositivo**<br>**Dado que** el panel IoT está activo. Pero el dispositivo no ha enviado datos aún. <br>**Cuando** el usuario accede al panel. <br>**Entonces** el sistema muestra un mensaje indicando que no hay datos disponibles.  | EP-02 |
 
 ## 3.2. Impact Mapping
+>A continuación, se presentan los mapas de impacto correspondientes a los segmentos objetivo definidos. El Impact Mapping es una metodología visual estratégica que permite alinear los objetivos de negocio con los entregables específicos del proyecto.
+
+#### Segmento 1: Emprededores y Startups en Etapa Temprana (Emprendedor)
+<img src="resources/Images/Chapter-3/Impact Mapping/Impact Map 1 - Juan Fernandez (Emprendedor).png" >
+<br>
+
+#### Segmento 2: Estudiantes Universitarios y Profesionales (Colaborador)
+<img src="resources/Images/Chapter-3/Impact Mapping/Impact Map 2 - Jesli Bautista (Colaborador).png" >
+
 ## 3.3. Product Backlog
 
 ## 3.3. Product Backlog
