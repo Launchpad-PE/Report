@@ -65,5 +65,12 @@ Este análisis evidencia oportunidades de mejora en cada etapa del proceso (Desc
 
 
 ### 2.3.4. Empathy Mapping
+
+Para la elaboración de los Empathy Maps, el equipo partió del conocimiento y observaciones recolectadas durante el análisis de los User Persona. Se colocó al centro de cada mapa al usuario correspondiente y se respondieron las preguntas claves sobre su entorno, emociones, comportamientos y necesidades.
+
+**Segmento 2 - Colaborador**
+
+
+
 ## 2.4. Big Picture Event Storming
 ## 2.5. Ubiquitous Language
