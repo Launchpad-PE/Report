@@ -70,6 +70,16 @@ Para la elaboración de los Empathy Maps, el equipo partió del conocimiento y o
 
 **Segmento 2 - Colaborador**
 
+ <img src="resources/Images/Chapter-2/Empathy Mapping/Empathy map - Colaborador.png" alt ="Colaborador">
+
+El Empathy Mapping del usuario colaborador (Jesli Bautista) permite comprender de manera integral su experiencia, considerando lo que piensa, siente, ve, escucha, dice y hace dentro del contexto de participación en proyectos colaborativos.
+
+A partir del análisis, se identifica que Jesli es una estudiante motivada por adquirir experiencia práctica y construir un portafolio profesional, pero enfrenta múltiples dificultades debido a la desorganización de los equipos, la falta de claridad en roles y la dispersión de herramientas de comunicación. Estas condiciones generan frustración, incertidumbre y una percepción de poco reconocimiento hacia su trabajo.
+
+El mapa evidencia que, aunque existe una alta motivación por participar en proyectos reales, los principales dolores del usuario están relacionados con la falta de estructura, comunicación ineficiente y dificultad para encontrar oportunidades adecuadas. Asimismo, resalta la necesidad de una plataforma centralizada que facilite la colaboración, el seguimiento de tareas y el reconocimiento de aportes individuales.
+
+Este análisis permite identificar oportunidades clave de mejora enfocadas en la organización de proyectos, la claridad en la asignación de roles, la integración de herramientas y la generación de mecanismos de reputación, los cuales son fundamentales para diseñar una solución centrada en el usuario colaborador.
+
 
 
 ## 2.4. Big Picture Event Storming
