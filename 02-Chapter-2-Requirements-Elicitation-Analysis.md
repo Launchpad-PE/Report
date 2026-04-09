@@ -50,6 +50,20 @@ La seccion User Task Matrix permite identificar y comparar las tareas más relev
 Se observa que las actividades más críticas se concentran en la exploración de proyectos, la participación activa en equipos y la contribución al desarrollo de soluciones, especialmente en proyectos relacionados con tecnologías como IoT. Asimismo, tareas como la comunicación, la coordinación y el seguimiento del progreso resultan fundamentales para garantizar una experiencia colaborativa organizada.
 
 ### 2.3.3. User Journey Mapping
+
+**Segmento 2 - Colaborador**
+
+El User Journey Mapping del colaborador representa el recorrido actual que experimentan los estudiantes y jóvenes profesionales al buscar, unirse y participar en proyectos colaborativos. Este mapa describe el proceso completo, desde la exploración de oportunidades hasta la obtención de resultados como experiencia y reconocimiento.
+
+En la situación actual (As-Is), el colaborador enfrenta un proceso fragmentado y poco estructurado: busca proyectos en múltiples plataformas (redes sociales, recomendaciones, grupos), evalúa información incompleta, y se integra a equipos donde la comunicación y organización dependen de herramientas dispersas como WhatsApp, Google Drive o Discord. Esto genera desorden, falta de claridad en roles y dificultades para hacer seguimiento al progreso.
+
+El journey permite identificar los principales puntos críticos de su experiencia, incluyendo la falta de filtros adecuados para encontrar proyectos relevantes, la escasa transparencia en los procesos de selección, la desorganización en la colaboración y la ausencia de mecanismos formales de reconocimiento del trabajo realizado.
+
+Este análisis evidencia oportunidades de mejora en cada etapa del proceso (Descubrimiento, Registro, Exploración, Postulación, Colaboración y Resultados), y sirve como base para diseñar una solución como Foundly, que centralice la gestión de proyectos, mejore la comunicación, proporcione visibilidad del progreso y permita validar las contribuciones del colaborador mediante sistemas de reputación.
+
+<img src = "resources/Images/Chapter-2/user-journey-mapping/User-Journey-Mapping-Colaborador.png" alt = "Colaborado - User-Journey Mapping">
+
+
 ### 2.3.4. Empathy Mapping
 ## 2.4. Big Picture Event Storming
 ## 2.5. Ubiquitous Language
