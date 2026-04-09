@@ -1,5 +1,8 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+En esta sección, se presentan las guías de estilos para nuestro landing page y aplicación web de nuestro startup. Estas guías permiten establecer estilos previo al
+desarrollo de nuestra página web. Además, los estilos seleccionados permitirán al usuario navegar por la página de manera sencilla, comoda y que atraiga
+visualmente, junto con recursos visuales que muestran nuestra propuesta de solución a la problemática.
 ### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
