@@ -86,6 +86,14 @@ Se observa que las actividades más críticas se concentran en la exploración d
 
 **Segmento 1 - Emprededor**
 
+El User Journey Mapping del emprendedor representa el recorrido actual que experimentan los jóvenes desarrolladores y emprendedores tecnológicos al intentar dar forma a sus ideas de negocio, conformar un equipo y acceder a financiamiento. Este mapa describe el proceso completo, desde la búsqueda inicial de referencias y plataformas hasta la gestión y cierre del proyecto con resultados concretos.
+
+En la situación actual (As-Is), el emprendedor enfrenta un proceso fragmentado y lleno de fricciones: busca información en múltiples canales dispersos (redes sociales, conocidos, Google), intenta registrarse en plataformas internacionales que no están adaptadas al contexto peruano, publica su proyecto con herramientas poco profesionales y de baja visibilidad, y trata de conformar un equipo contactando a personas de su entorno cercano sin garantías de compromiso real. Todo esto genera desorden, pérdida de tiempo y una sensación creciente de inseguridad y desánimo conforme avanza el proceso.
+
+El journey permite identificar los principales puntos críticos de su experiencia, incluyendo la dificultad para encontrar plataformas confiables y accesibles desde Perú, la escasa visibilidad de sus proyectos frente a una gran cantidad de contenido competidor, la falta de herramientas integradas para gestionar equipos y comunicación, y la desconfianza en los mecanismos de financiamiento informales que lo limitan a su círculo más cercano.
+
+Este análisis evidencia oportunidades de mejora en cada etapa del proceso (Descubrimiento, Registro y Creación de Perfil, Publicación del Proyecto, Formación de Equipo, Validación y Financiamiento, y Gestión y Cierre del Proyecto), y sirve como base para diseñar una solución como Foundly, que centralice la búsqueda de colaboradores por habilidades, simplifique el registro adaptado a la realidad local, ofrezca plantillas profesionales para presentar ideas, integre herramientas de comunicación y coordinación dentro de la plataforma, y garantice transparencia en el financiamiento mediante reportes de avance y liberación de fondos por hitos cumplidos.
+
 <img src = "resources/Images/Chapter-2/user-journey-mapping/User-Journey-Mapping-Emprededor.png" alt = "Emprededor - User-Journey Mapping">
 
 **Segmento 2 - Colaborador**
