@@ -444,6 +444,13 @@ En cuanto al financiamiento digital, los entrevistados comentaron que han tenido
 
 Por estas razones, los tres emprendedores coincidieron en que una plataforma local que combine financiamiento colaborativo con herramientas de formación y gestión de equipos sería de gran valor. Consideran indispensable que la aplicación sea fácil de usar, transparente, con reportes de avance, sistemas de reputación y verificación de equipos, además de incluir métricas y herramientas de organización.
 
+### Etapa en la que necesitan ayuda
+
+### Formas de financiamiento actual
+
+### Mecanismo de transparencia que generan confianza
+
+### Tipos de proyectos en los que participan actualmente
 
 **Segmento 2**
 
