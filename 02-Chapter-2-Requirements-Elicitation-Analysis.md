@@ -436,6 +436,15 @@ En esta sección presentaremos el análisis de cada entrevista realizada por cad
 
 **Segmento 1**
 
+El propósito es identificar los principales problemas, necesidades y expectativas de este grupo con relación a las herramientas digitales y plataformas de financiamiento colaborativo. Con esta información podremos obtener una base sólida para definir las características más relevantes que deberá tener nuestra aplicación.
+
+Lo que hemos podido observar después de realizar las entrevistas a los emprendedores de este segmento, es que la mayoría financia sus ideas iniciales con ahorros personales y apoyo cercano de familiares y amigos, lo cual limita el alcance de sus proyectos. Además, enfrentan grandes dificultades para encontrar colaboradores comprometidos en áreas clave como diseño, tecnología o marketing, lo que genera retrasos y, en muchos casos, el abandono de sus iniciativas.
+
+En cuanto al financiamiento digital, los entrevistados comentaron que han tenido malas experiencias con plataformas extranjeras como Kickstarter o Patreon, principalmente por la falta de visibilidad, barreras de acceso desde Perú y baja confianza en la seguridad de los aportes. A esto se suma que, al organizarse por medios informales como WhatsApp o redes sociales, los proyectos tienden a perder orden, seguimiento y claridad de responsabilidades.
+
+Por estas razones, los tres emprendedores coincidieron en que una plataforma local que combine financiamiento colaborativo con herramientas de formación y gestión de equipos sería de gran valor. Consideran indispensable que la aplicación sea fácil de usar, transparente, con reportes de avance, sistemas de reputación y verificación de equipos, además de incluir métricas y herramientas de organización.
+
+
 **Segmento 2**
 
 Las entrevistas realizadas muestran que los estudiantes y profesionales jóvenes suelen involucrarse en proyectos académicos, voluntariados y pequeñas iniciativas personales, generalmente vinculadas a sus carreras o intereses. Sin embargo, gran parte de estas experiencias se desarrollan de manera informal y con herramientas poco específicas, lo que limita la organización y el aprendizaje real que pueden obtener. Plataformas como WhatsApp, Slack, Discord, GitHub o LinkedIn son usadas frecuentemente, pero los entrevistados coinciden en que la información tiende a dispersarse, lo que genera desorden y falta de seguimiento en las tareas.
