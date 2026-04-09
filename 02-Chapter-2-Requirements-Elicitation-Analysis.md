@@ -84,6 +84,10 @@ Se observa que las actividades más críticas se concentran en la exploración d
 
 ### 2.3.3. User Journey Mapping
 
+**Segmento 1 - Emprededor**
+
+<img src = "resources/Images/Chapter-2/user-journey-mapping/User-Journey-Mapping-Emprededor.png" alt = "Emprededor - User-Journey Mapping">
+
 **Segmento 2 - Colaborador**
 
 El User Journey Mapping del colaborador representa el recorrido actual que experimentan los estudiantes y jóvenes profesionales al buscar, unirse y participar en proyectos colaborativos. Este mapa describe el proceso completo, desde la exploración de oportunidades hasta la obtención de resultados como experiencia y reconocimiento.
