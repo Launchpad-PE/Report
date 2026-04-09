@@ -181,6 +181,66 @@ Didier ve como beneficios principales el alcance mayor, la posibilidad de recibi
 </tbody>
 </table>
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="3">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Gonzalo</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Quintanilla Pozo</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Juan de Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Gonzalo-Quintanilla.png" alt="Entrevista a Gonzalo Quintanilla"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316845_upc_edu_pe/IQAXF8wsm3epTZ4GP-wFb0q2AX8GaYwwCO5TDwZAQXVkDAM?e=Ybj0LP" title="Title">Microsoft Stream</p>
+	</td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>0:00 min - 10:53 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+		
+</td>
+  </tr>
+</tbody>
+</table>
+
 **Segmento 2:**
 
 
