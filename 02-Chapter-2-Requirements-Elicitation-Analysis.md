@@ -452,6 +452,7 @@ Por estas razones, los tres emprendedores coincidieron en que una plataforma loc
 | **Didier Meza** | Al formar el equipo, porque sin personas que apoyen desde el inicio el proyecto no avanza. El financiamiento es clave, pero secundario sin un grupo sólido. |
 | **Diana Briceño**   | Al formar el equipo, ya que es más difícil encontrar personas aptas con los perfiles correctos para iniciar el proyecto que validar la idea o conseguir dinero. |
 
+El 100% de los entrevistados identifica la formación del equipo como la etapa más crítica de su emprendimiento. El 33% añade la validación de la idea como un momento de alta necesidad, mientras que ninguno señala la búsqueda de financiamiento como la prioridad principal. Esto confirma que el mayor valor que puede ofrecer la plataforma es facilitar la conexión con colaboradores comprometidos y con habilidades complementarias.
 
 
 
@@ -463,6 +464,8 @@ Por estas razones, los tres emprendedores coincidieron en que una plataforma loc
 | **Didier Meza** | Ahorros personales y apoyo del entorno cercano. Intentó usar Kickstarter sin éxito por falta de visibilidad y por ser una plataforma orientada a mercados extranjeros. |
 | **Diana Briceño**   | Ahorros personales y apoyo familiar limitado. No ha usado crowdfunding por la falta de opciones locales confiables y los procesos complicados de plataformas extranjeras. |
 
+El 100% de los entrevistados recurre a ahorros personales y el mismo porcentaje recibe apoyo de su entorno cercano. Solo el 33% ha intentado el crowdfunding, con resultados negativos. Este panorama evidencia la ausencia de alternativas accesibles y confiables para emprendedores peruanos en etapa temprana, reforzando la necesidad de una plataforma local adaptada a su realidad.
+
 ### Mecanismo de transparencia que generan confianza
 
 | Integrante     | Descripción |
@@ -471,6 +474,9 @@ Por estas razones, los tres emprendedores coincidieron en que una plataforma loc
 | **Didier Meza** | Proyectos con reportes de avance obligatorios, verificación de equipos, sistema de calificaciones y un historial similar al de GitHub con commits. |
 | **Diana Briceño**   | Reportes de avance visibles en todo momento, hitos validados, historial de aportes y posibilidad de que la comunidad deje comentarios y valoraciones. |
 
+
+El 100% de los entrevistados coincide en que los reportes de avance obligatorios y visibles, así como los hitos validados con historial de aportes, son mecanismos fundamentales de confianza. Un 67% agrega que también necesita un sistema de reputación y reseñas, y pruebas reales de avance como repositorios o prototipos. Estas preferencias señalan que la transparencia activa y verificable es un requisito no negociable para este segmento.
+
 ### Tipos de proyectos en los que participan actualmente
 
 | Integrante     | Descripción |
@@ -478,6 +484,8 @@ Por estas razones, los tres emprendedores coincidieron en que una plataforma loc
 | **Gonzalo Quintanilla** | Proyectos de software/tecnología como desarrollador independiente, en etapa temprana sin equipo comercial. |
 | **Didier Meza** | Proyectos académicos y personales de emprendimiento digital, organizados principalmente por WhatsApp. |
 | **Diana Briceño**   | Proyectos personales de emprendimiento e iniciativas estudiantiles con foco en colaboración y financiamiento. |
+
+El 100% de los entrevistados participa en proyectos académicos como punto de partida. Un 67% los combina con emprendimientos personales, mientras que el 33% también se involucra en voluntariados o iniciativas estudiantiles. Esto refleja que el perfil del segmento es el de personas que están aprendiendo a emprender desde el entorno académico, con aspiraciones de escalar sus ideas a proyectos reales.
 
 **Segmento 2**
 
