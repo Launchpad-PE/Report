@@ -127,8 +127,6 @@
 
 ## 3.3. Product Backlog
 
-## 3.3. Product Backlog
-
 >En el Product Backlog presentamos una lista priorizada de nuestras User Stories según el valor para el negocio, esencial para el enfoque ágil. Para estimar el esfuerzo utilizamos la secuencia de Fibonacci (1, 2, 3, 5, 8).
 
 
