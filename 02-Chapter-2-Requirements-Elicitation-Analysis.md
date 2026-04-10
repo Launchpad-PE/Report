@@ -113,6 +113,16 @@ Este análisis evidencia oportunidades de mejora en cada etapa del proceso (Desc
 
 Para la elaboración de los Empathy Maps, el equipo partió del conocimiento y observaciones recolectadas durante el análisis de los User Persona. Se colocó al centro de cada mapa al usuario correspondiente y se respondieron las preguntas claves sobre su entorno, emociones, comportamientos y necesidades.
 
+**Segmento 1 - Emprededor**
+
+ <img src="resources/Images/Chapter-2/Empathy Mapping/Empathy map - Emprededor.png" alt ="Emprededor">
+
+El Empathy Mapping del usuario emprendedor (Juan Fernandez) permite comprender de manera integral su experiencia, considerando lo que piensa, siente, ve, escucha, dice y hace dentro del contexto de lanzar una idea de negocio en etapa temprana sin los recursos ni el equipo adecuados.
+
+A partir del análisis, se identifica que Juan es un desarrollador motivado por convertir su idea en un negocio escalable, pero enfrenta múltiples obstáculos debido a la dificultad para encontrar socios comprometidos, la falta de plataformas de financiamiento adaptadas al contexto peruano y la desorganización que genera coordinar equipos a través de herramientas informales como WhatsApp. Estas condiciones generan frustración, inseguridad y una sensación de estancamiento que frena el avance de sus proyectos.
+
+Este análisis permite identificar oportunidades clave de mejora enfocadas en la formación estructurada de equipos, la simplificación del registro y publicación de proyectos adaptada a la realidad local, y la integración de herramientas de comunicación y seguimiento, los cuales son fundamentales para diseñar una solución centrada en el usuario emprendedor.
+
 **Segmento 2 - Colaborador**
 
  <img src="resources/Images/Chapter-2/Empathy Mapping/Empathy map - Colaborador.png" alt ="Colaborador">
