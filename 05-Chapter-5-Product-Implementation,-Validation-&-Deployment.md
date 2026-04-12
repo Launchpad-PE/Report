@@ -79,6 +79,7 @@ Además, utilizamos GitHub como repositorio central, aprovechando su función Gi
 desplegar los archivos .html y obtener un enlace web funcional de manera rápida y sencilla.
 En resumen, trabajar únicamente con la rama main nos permitió avanzar con agilidad en el desarrollo de la página de destino y mantener una versión estable y
 actualizada del proyecto sin complicaciones adicionales en la gestión de ramas.
+
 Enlace de la Landing Page en GitHub Pages: https://github.com/Launchpad-PE/Launchpad-PE-Landing-Page
 ![Landing Page](resources/Images/Chapter-5/SourceCodeManagement-Images/LANDINGPAGE.png)
 
