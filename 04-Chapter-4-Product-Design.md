@@ -116,6 +116,13 @@ Dentro del menú principal, un usuario podrá ir a la sección de colaboradores,
 
 
 ### 4.4.3. Web Applications Mock-ups
+
+Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
+
+<img src="resources/Images/Chapter-4/web-aplication/view general/mockup/captura de todo el mockup sin flujo.png">
+
+[Link Figma](https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=0-1&t=pwFb1BAZpRtspezu-1)
+
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
