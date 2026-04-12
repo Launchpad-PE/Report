@@ -87,7 +87,63 @@ Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya q
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+A continuación, se presentan los diagramas de flujo de usuarios relacionados con nuestros objetivos de usuario.
 
+User goal 1: Como colaborador, quiero ver el proyecto antes de postularme donde pueda ver resumen, beneficios, los roles disponibles entre otros para luego poner postularme
+
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 1.jpeg" alt = "UserFlow">
+
+En la pantalla principal del colaborador, podrá ver varios proyectos. Cuando presiona el botón Ver más de un proyecto, podrá ver toda la información publicada sobre el proyecto. Después, puede darle a volver para poder presionar el botón Postular, si desea postularse.
+
+User goal 2: Como emprededor, quiero crear un hito dentro del proyecto para marcar etapas importantes y medir el progreso alcanzado.
+
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 2.jpeg" alt = "UserFlow">
+
+Cuando un emprendedor desea crear un hito en su proyecto, tendrá que ir a la sección Hitos, donde presionará el botón Crear Hito. Completará todos los datos requeridos para un Hito, y finalmente podrá crear y publicar el Hito.
+
+User goal 3: Como emprededor, quiero crear un proyecto y publicarlo para poder recibir postulaciones de colaboradores interesados en unirse.
+
+
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 3.jpeg" alt = "UserFlow">
+
+
+Cuando un emprendedor desea crear un proyecto, tendrá que completar los datos del proyecto, como Nombre, área, etiquetas, nivel académico, habilidades, duración y roles creados. Cuando todos los datos estén completos, el emprendedor podrá crear y publicar su proyecto en la página.
+
+User goal 4: Como emprededor, quiero crear una tarea dentro de mi proyecto para organizar y asignar actividades específicas a los colaboradores.
+
+
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 4.jpeg" alt = "UserFlow">
+
+Cuando un emprendedor desea crear una tarea en su proyecto, tendrá que ir a la sección Tareas, donde presionará el botón Crear Tarea. El emprendedor completará los datos que se requiere, como título de tarea, fecha de entrega, descripción, etc. Cuando todos los datos sean completados, podrá presionar el botón Enviar para enviar la tarea.
+
+User goal 5: Como emprededor, quiero crear una meta de recaudacion y reward para recibir contribuciones de los usuarios que quieran donar de dos forma una en la que el puede poner el monto que quiera y comprando un reward que contiene beneficios.
+
+
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 5.jpeg" alt = "UserFlow">
+
+Cuando un emprendedor desee crear una meta de recaudación o una recompensa (reward), podrá hacerlo desde la sección Contribuciones. Para crear una meta de recaudación, deberá presionar el botón “Añadir una meta”, donde podrá completar los datos necesarios, como el nombre de la meta, el monto a donar y la descripción. Luego podrá guardar o cancelar la meta. Al guardar, la meta aparecerá en la sección Contribuciones. Para crear una recompensa, deberá presionar el botón “Añadir una reward”, donde ingresará los datos correspondientes. Una vez completados todos los campos, podrá presionar el botón “Guardar”, y la recompensa creada se mostrará en la sección Contribuciones.
+
+User goal 6: Como usuario, quiero realizar donaciones a un proyecto que me interese y aportar monetariamente y tambien recibir beneficios.
+
+
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 6.jpeg" alt = "UserFlow">
+
+Cuando un usuario desee donar a un proyecto, deberá presionar el botón “Ver más” en el proyecto publicado. Dentro de la sección del proyecto, deberá seleccionar el botón “Contribuir”, donde aparecerán dos opciones de donación: Reward Tier o Donación rápida. En la opción Reward Tier, se mostrarán los diferentes planes o recompensas disponibles para apoyar el proyecto. En la opción de Donación rápida, el usuario solo deberá ingresar el monto a donar, su nombre y correo electrónico. Una vez completados los datos o seleccionada la recompensa, podrá confirmar su contribución y apoyar el proyecto.
+
+User goal 7: Como colaborador, quiero ver y hacer la tarea que me asigno el emprededor en el proyecto que participo
+
+
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 7.jpeg" alt = "UserFlow">
+
+Cuando un colaborador desee ver o realizar su tarea, podrá acceder a la sección Tareas, donde se mostrarán las tareas asignadas al proyecto. En esta sección habrá dos botones: “Ver tarea” y “Hacer tarea”. Al presionar el botón “Ver tarea”, el colaborador podrá visualizar la descripción de la tarea. Luego, al seleccionar el botón “Hacer tarea”, podrá proceder a realizarla.
+
+User goal 8: Como colaborador, quiero ver las tareas que tengo en un hito y tambien ver las tareas completadas de los miembros de los hitos que estan trabajando conmingo. Tambien hacer las tareas asignadas en el hito por el emprededor.
+
+
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 8.jpeg" alt = "UserFlow">
+
+
+Cuando un colaborador desee ver las tareas dentro de un hito, deberá ir a la sección Hitos, donde podrá visualizar los hitos del proyecto. Al presionar el botón “Ver hito”, podrá acceder a la descripción del mismo. Dentro de esta pantalla, al seleccionar el botón “Ver tareas”, podrá visualizar las tareas relacionadas con ese hito. En la vista de Ver hito, también podrá consultar las tareas completadas por otros colaboradores utilizando el botón “Ver tarea” dentro de cada tarea completada. Si el colaborador desea realizar una tarea pendiente, deberá presionar el botón “Hacer tarea”, donde podrá revisar los requisitos necesarios para completarla. Finalmente, al presionar el botón “Enviar”, podrá enviar la tarea realizada.
 
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
