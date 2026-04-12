@@ -208,15 +208,15 @@ Didier ve como beneficios principales el alcance mayor, la posibilidad de recibi
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Google Collab y Microsoft teams</td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td></td>
+    <td>Obtener experiencia tecnológica sobre proyectos colaborativos </td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td></td>
+    <td>No conseguir personal capacitado para sus proyectos</td>
   </tr>
   <tr>
     <td>Evidencia</td>
@@ -234,7 +234,9 @@ Didier ve como beneficios principales el alcance mayor, la posibilidad de recibi
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>
+    <td>Gonzalo Quintanilla es un emprendedor que financia sus proyectos con ahorros propios y apoyo de familiares o amigos, debido a la dificultad de acceder a crédito tradicional. No ha utilizado crowdfunding porque requiere mucho marketing y una comunidad previa. Su mayor dificultad es encontrar socios en áreas como marketing o ventas dispuestos a asumir riesgos.
+
+Le preocupan el fracaso público y las altas comisiones al buscar financiamiento en línea. Considera importante una plataforma que conecte socios por habilidades, ofrezca transparencia y libere financiamiento por hitos. Señala que el mayor apoyo lo necesita al formar el equipo, ya que un equipo sólido facilita conseguir financiamiento.
 		
 </td>
   </tr>
