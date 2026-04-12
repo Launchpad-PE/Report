@@ -80,9 +80,10 @@ desplegar los archivos .html y obtener un enlace web funcional de manera rápida
 En resumen, trabajar únicamente con la rama main nos permitió avanzar con agilidad en el desarrollo de la página de destino y mantener una versión estable y
 actualizada del proyecto sin complicaciones adicionales en la gestión de ramas.
 Enlace de la Landing Page en GitHub Pages: https://github.com/Launchpad-PE/Launchpad-PE-Landing-Page
-[!Landing Page](resources/Images/Chapter-5/SourceCodeManagement-Images/LANDINGPAGE.png)
+![Landing Page](resources/Images/Chapter-5/SourceCodeManagement-Images/LANDINGPAGE.png)
+
 Repositorio Github de la Landing Page: https://github.com/Launchpad-PE/Launchpad-PE-Landing-Page
-[!Repositorio Github de la Landing Page](resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio-LandingPage-v1.png)
+![Repositorio Github de la Landing Page](resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio-LandingPage-v1.png)
 ### 5.1.3. Source Code Style Guide & Conventions
 En esta sección, estableceremos las convenciones y reglas para el estilo del código y convenciones de programación que usaremos para la creación de nuestra
 aplicación web. Aplicamos estas prácticas con el fin de garantizar la coherencia, legibilidad y calidad del código durante el desarrollo de la aplicación. Como
