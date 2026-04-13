@@ -4,11 +4,11 @@
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 
-En CollabUs, la arquitectura de la información se orienta a estructurar el contenido de manera clara, coherente y accesible tanto en la landing page como en la aplicación web. Nuestro objetivo es que los emprendedores, colaboradores y usuarios interesados en proyectos sostenibles puedan navegar de forma intuitiva, identificar rápidamente las secciones relevantes y acceder sin esfuerzo a las funcionalidades principales, incluyendo el monitoreo de impacto ambiental mediante IoT.
+En Foundly, la arquitectura de la información se orienta a estructurar el contenido de manera clara, coherente y accesible tanto en la landing page como en la aplicación web. Nuestro objetivo es que los emprendedores, colaboradores y usuarios interesados en proyectos sostenibles puedan navegar de forma intuitiva, identificar rápidamente las secciones relevantes y acceder sin esfuerzo a las funcionalidades principales, incluyendo el monitoreo de impacto ambiental mediante IoT.
 
 ### 4.2.1. Organization Systems
 
-En CollabUs, aplicaremos distintos sistemas de organización de información para garantizar que los usuarios encuentren fácilmente lo que necesitan y que la experiencia de navegación sea clara, eficiente y sin confusiones.
+En Foundly, aplicaremos distintos sistemas de organización de información para garantizar que los usuarios encuentren fácilmente lo que necesitan y que la experiencia de navegación sea clara, eficiente y sin confusiones.
 
 Organización visual del contenido:
 
@@ -28,11 +28,11 @@ Según audiencia (Grupos de usuarios): Habrá secciones dirigidas a emprendedore
 
 ### 4.2.2. Labeling Systems
 
-En CollabUs, el sistema de etiquetado organiza la información de forma clara y comprensible para los usuarios. Cada sección de la landing page y la aplicación está identificada con títulos y etiquetas que permiten entender rápidamente el contenido y las funciones.
+En Foundly, el sistema de etiquetado organiza la información de forma clara y comprensible para los usuarios. Cada sección de la landing page y la aplicación está identificada con títulos y etiquetas que permiten entender rápidamente el contenido y las funciones.
 
-Inicio / Home: Presenta una visión general de CollabUs, destacando la conexión entre emprendedores, colaboradores y el monitoreo de impacto ambiental con IoT.
+Inicio / Home: Presenta una visión general de Foundly, destacando la conexión entre emprendedores, colaboradores y el monitoreo de impacto ambiental con IoT.
 
-Nosotros / About Us: Describe al equipo detrás de CollabUs, misión, visión y el impacto que busca generar en el ecosistema emprendedor y sostenible.
+Nosotros / About Us: Describe al equipo detrás de Foundly, misión, visión y el impacto que busca generar en el ecosistema emprendedor y sostenible.
 
 Proyectos / Projects: Permite explorar proyectos disponibles, incluyendo aquellos con monitoreo ambiental IoT.
 
@@ -50,39 +50,47 @@ Registro / Sign Up: Permite crear una cuenta como emprendedor, colaborador o inv
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-Para mejorar la visibilidad de CollabUs y destacar el enfoque IoT y sostenible, implementaremos las siguientes etiquetas:
+Para mejorar la visibilidad de Foundly y destacar el enfoque IoT y sostenible, implementaremos las siguientes etiquetas:
 
 Landing Page
 
 Título:
-<title>CollabUs - Crowdfunding colaborativo con monitoreo IoT</title>
-
+```
+<title>Foundly - Crowdfunding colaborativo con monitoreo IoT</title>
+```
 Descripción:
-<meta name="description" content="CollabUs conecta emprendedores y colaboradores para impulsar proyectos innovadores con financiamiento colaborativo y monitoreo ambiental mediante IoT."/>
-
+```
+<meta name="description" content="Foundly conecta emprendedores y colaboradores para impulsar proyectos innovadores con financiamiento colaborativo y monitoreo ambiental mediante IoT."/>
+```
 Palabras clave:
+```
 <meta name="keywords" content="crowdfunding, emprendimiento, IoT, monitoreo ambiental, startups, colaboración, proyectos sostenibles"/>
-
+```
 Autor:
-<meta name="author" content="CollabUs Startup Team"/>
-
+```
+<meta name="author" content="Foundly Startup Team"/>
+```
 Copyright:
-<meta name="copyright" content="© CollabUs, 2026"/>
-
+```
+<meta name="copyright" content="© Foundly, 2026"/>
+```
 Web Application
 
 Título:
-<title>CollabUs - Plataforma colaborativa con monitoreo IoT</title>
-
+```
+<title>Foundly - Plataforma colaborativa con monitoreo IoT</title>
+```
 Descripción:
-<meta name="description" content="Crea proyectos, forma equipos y monitorea el impacto ambiental mediante IoT con CollabUs."/>
-
+```
+  <meta name="description" content="Crea proyectos, forma equipos y monitorea el impacto ambiental mediante IoT con Foundly."/>
+```
 Palabras clave:
+```
 <meta name="keywords" content="crowdfunding colaborativo, IoT, impacto ambiental, proyectos sostenibles, startups"/>
-
+```
 ### 4.2.4. Searching Systems
 
-El sistema de búsqueda de CollabUs está diseñado para facilitar que los usuarios encuentren proyectos, colaboradores o métricas IoT de forma rápida y precisa:
+El sistema de búsqueda de Foundly está diseñado para facilitar que los usuarios encuentren proyectos, colaboradores o métricas IoT de forma rápida y precisa:
 
 Búsqueda básica: Un campo de búsqueda en la parte superior para localizar proyectos, emprendedores o métricas de impacto mediante palabras clave.
 
@@ -108,7 +116,7 @@ Mientras el usuario escribe, se ofrecerán sugerencias de proyectos o perfiles r
 
 ### 4.2.5. Navigation Systems
 
-CollabUs ofrece una navegación clara e intuitiva para guiar al usuario en cada etapa:
+Foundly ofrece una navegación clara e intuitiva para guiar al usuario en cada etapa:
 
 Menú principal: Inicio, Proyectos, Impacto IoT, Servicios, Nosotros, Contacto y accesos rápidos a Login/Registro.
 
