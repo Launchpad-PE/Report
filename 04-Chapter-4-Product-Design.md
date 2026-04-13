@@ -52,42 +52,29 @@ Registro / Sign Up: Permite crear una cuenta como emprendedor, colaborador o inv
 
 Para mejorar la visibilidad de Foundly y destacar el enfoque IoT y sostenible, implementaremos las siguientes etiquetas:
 
-Landing Page
+### Landing Page SEO Tags and Meta Tags
+```html
+<head>
+    <meta charset="UTF-8" /> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+    <title>Foundly - Crowdfunding colaborativo con monitoreo IoT</title> 
+    <meta name="description" content="Foundly conecta emprendedores y colaboradores para impulsar proyectos innovadores con financiamiento colaborativo y monitoreo ambiental mediante IoT." /> 
+    <meta name="keywords" content="crowdfunding, emprendimiento, IoT, monitoreo ambiental, startups, colaboración, proyectos sostenibles" /> 
+    <meta name="author" content="Foundly Startup Team" /> 
+    <meta name="copyright" content="© Foundly, 2026" /> </head>
 
-Título:
 ```
-<title>Foundly - Crowdfunding colaborativo con monitoreo IoT</title>
+#### Web Application SEO Tags and Meta Tags
+```html
+<head> 
+    <meta charset="UTF-8" /> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+    <title>Foundly - Plataforma colaborativa con monitoreo IoT</title> 
+    <meta name="description" content="Crea proyectos, forma equipos y monitorea el impacto ambiental mediante IoT con Foundly." /> 
+    <meta name="keywords" content="crowdfunding colaborativo, IoT, impacto ambiental, proyectos sostenibles, startups" /> 
+    <meta name="author" content="Foundly Startup Team" /> </head>
 ```
-Descripción:
-```
-<meta name="description" content="Foundly conecta emprendedores y colaboradores para impulsar proyectos innovadores con financiamiento colaborativo y monitoreo ambiental mediante IoT."/>
-```
-Palabras clave:
-```
-<meta name="keywords" content="crowdfunding, emprendimiento, IoT, monitoreo ambiental, startups, colaboración, proyectos sostenibles"/>
-```
-Autor:
-```
-<meta name="author" content="Foundly Startup Team"/>
-```
-Copyright:
-```
-<meta name="copyright" content="© Foundly, 2026"/>
-```
-Web Application
 
-Título:
-```
-<title>Foundly - Plataforma colaborativa con monitoreo IoT</title>
-```
-Descripción:
-```
-  <meta name="description" content="Crea proyectos, forma equipos y monitorea el impacto ambiental mediante IoT con Foundly."/>
-```
-Palabras clave:
-```
-<meta name="keywords" content="crowdfunding colaborativo, IoT, impacto ambiental, proyectos sostenibles, startups"/>
-```
 ### 4.2.4. Searching Systems
 
 El sistema de búsqueda de Foundly está diseñado para facilitar que los usuarios encuentren proyectos, colaboradores o métricas IoT de forma rápida y precisa:
