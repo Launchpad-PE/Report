@@ -119,11 +119,7 @@ Navegación consistente: Estructura uniforme en todas las páginas, manteniendo 
 
 Soporte responsivo: Navegación adaptada a dispositivos móviles y tablets.
 
-### 4.2.1. Organization Systems
-### 4.2.2. Labeling Systems
-### 4.2.3. SEO Tags and Meta Tags
-### 4.2.4. Searching Systems
-### 4.2.5. Navigation Systems
+### 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
