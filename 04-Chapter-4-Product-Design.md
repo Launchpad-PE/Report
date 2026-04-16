@@ -8,45 +8,72 @@ En Foundly, la arquitectura de la información se orienta a estructurar el conte
 
 ### 4.2.1. Organization Systems
 
+## Sistemas de Organización de Información
+
 En Foundly, aplicaremos distintos sistemas de organización de información para garantizar que los usuarios encuentren fácilmente lo que necesitan y que la experiencia de navegación sea clara, eficiente y sin confusiones.
 
-Organización visual del contenido:
+---
 
-Jerárquica (Visual Hierarchy): Se destacará la información más relevante mediante jerarquías visuales que guíen al usuario a través de diferentes niveles de contenido. Por ejemplo, en la página de inicio, la sección de roles permitirá al visitante identificarse como Emprendedor, Colaborador o Inversionista, mostrando en cada tarjeta información diferenciada y priorizada según su perfil. Además, se destacará la sección de monitoreo ambiental, donde se presentarán métricas IoT como calidad del aire, humedad o impacto del proyecto sostenible.
+### Organización Visual del Contenido
 
-Secuencial (Step-by-step): Se aplicará en procesos clave como el registro de usuarios, la creación de proyectos, la conformación de equipos, la creación de campañas de financiamiento y la configuración del monitoreo IoT. Esto permitirá que los usuarios completen sus tareas paso a paso de manera clara y guiada.
+**Jerárquica (Visual Hierarchy)**
+Se destacará la información más relevante mediante jerarquías visuales que guíen al usuario a través de diferentes niveles de contenido:
 
-Matricial (Matrix Organization): Se aplicará en la sección de planes de suscripción y funcionalidades, donde la información se presenta en formato comparativo. Los planes Gratuito y Premium se disponen en columnas paralelas, permitiendo identificar rápidamente diferencias como acceso a métricas IoT avanzadas, mayor visibilidad y herramientas de análisis.
+- En la página de inicio, la sección de roles permitirá al visitante identificarse como *Emprendedor*, *Colaborador* o *Inversionista*, mostrando en cada tarjeta información diferenciada y priorizada según su perfil.
+- En la sección de monitoreo ambiental, se presentarán métricas IoT como calidad del aire, humedad o impacto del proyecto sostenible, destacadas visualmente para facilitar su lectura.
 
-Esquemas de categorización de contenido:
+**Secuencial (Step-by-step)**
+Se aplicará en procesos clave que requieran guiar al usuario de forma clara y ordenada:
 
-Por tópicos: Los proyectos y recursos disponibles se organizarán en categorías temáticas como tecnología, salud, educación, sostenibilidad y medio ambiente, permitiendo identificar rápidamente proyectos con monitoreo IoT.
+- Registro de usuarios
+- Creación de proyectos
+- Conformación de equipos
+- Creación de campañas de financiamiento
+- Configuración del monitoreo IoT
 
-Cronológico: Se empleará en la sección de novedades y actualizaciones, ordenando lanzamientos de proyectos, métricas de impacto y avances en tiempo real.
+**Matricial (Matrix Organization)**
+Se utilizará en la sección de planes de suscripción, presentando la información en formato comparativo para facilitar la toma de decisiones. Los planes **Gratuito** y **Premium** se disponen en columnas paralelas, permitiendo identificar rápidamente diferencias como:
 
-Según audiencia (Grupos de usuarios): Habrá secciones dirigidas a emprendedores, colaboradores e inversionistas, mostrando contenido personalizado según sus intereses y necesidades.
+- Acceso a métricas IoT avanzadas
+- Mayor visibilidad de proyectos
+- Herramientas de análisis
+
+---
+
+### Esquemas de Categorización de Contenido
+
+**Por tópicos**
+Los proyectos y recursos disponibles se organizarán en categorías temáticas, permitiendo identificar rápidamente proyectos con monitoreo IoT activo:
+
+- Tecnología
+- Salud
+- Educación
+- Sostenibilidad
+- Medio Ambiente
+
+**Cronológico**
+Se empleará en la sección de novedades y actualizaciones, ordenando de más reciente a más antiguo los lanzamientos de proyectos, métricas de impacto y avances en tiempo real de campañas activas.
+
+**Según audiencia (Grupos de usuarios)**
+El contenido se personalizará según el tipo de usuario, con secciones adaptadas a sus intereses y necesidades:
+
+- **Emprendedores:** herramientas para crear y gestionar proyectos y campañas.
+- **Colaboradores:** oportunidades para unirse a equipos y contribuir activamente.
+- **Inversionistas:** métricas de rendimiento, impacto y análisis financiero de proyectos.
 
 ### 4.2.2. Labeling Systems
 
-En Foundly, el sistema de etiquetado organiza la información de forma clara y comprensible para los usuarios. Cada sección de la landing page y la aplicación está identificada con títulos y etiquetas que permiten entender rápidamente el contenido y las funciones.
+En Foundly, el sistema de etiquetado organiza la información de forma clara y comprensible para los usuarios. Cada sección de la landing page y la aplicación está identificada con títulos y etiquetas que permiten entender rápidamente el contenido y las funciones disponibles.
 
-Inicio / Home: Presenta una visión general de Foundly, destacando la conexión entre emprendedores, colaboradores y el monitoreo de impacto ambiental con IoT.
-
-Nosotros / About Us: Describe al equipo detrás de Foundly, misión, visión y el impacto que busca generar en el ecosistema emprendedor y sostenible.
-
-Proyectos / Projects: Permite explorar proyectos disponibles, incluyendo aquellos con monitoreo ambiental IoT.
-
-Servicios / Services: Explica los beneficios de la plataforma como formación de equipos, financiamiento colaborativo, gestión de proyectos y monitoreo ambiental.
-
-Impacto IoT / IoT Impact: Muestra métricas ambientales en tiempo real como calidad del aire, humedad o participación del proyecto.
-
-Planes / Plans: Presenta los planes gratuitos y premium con acceso a métricas avanzadas y funcionalidades adicionales.
-
-Empresas / Companies: Muestra organizaciones interesadas en proyectos innovadores y sostenibles.
-
-Contacto / Contact Us: Proporciona medios de comunicación como correo, redes sociales y soporte.
-
-Registro / Sign Up: Permite crear una cuenta como emprendedor, colaborador o inversionista.
+- **Inicio / Home:** Presenta una visión general de Foundly, destacando la conexión entre emprendedores, colaboradores y el monitoreo de impacto ambiental con IoT.
+- **Nosotros / About Us:** Describe al equipo detrás de Foundly, su misión, visión y el impacto que busca generar en el ecosistema emprendedor y sostenible.
+- **Proyectos / Projects:** Permite explorar proyectos disponibles, incluyendo aquellos con monitoreo ambiental IoT activo.
+- **Servicios / Services:** Explica los beneficios de la plataforma, como la formación de equipos, el financiamiento colaborativo, la gestión de proyectos y el monitoreo ambiental.
+- **Impacto IoT / IoT Impact:** Muestra métricas ambientales en tiempo real, como calidad del aire, humedad o nivel de participación del proyecto.
+- **Planes / Plans:** Presenta los planes gratuito y premium con acceso a métricas avanzadas y funcionalidades adicionales.
+- **Empresas / Companies:** Muestra organizaciones interesadas en apoyar proyectos innovadores y sostenibles.
+- **Contacto / Contact Us:** Proporciona los medios de comunicación disponibles, como correo electrónico, redes sociales y soporte técnico.
+- **Registro / Sign Up:** Permite crear una cuenta seleccionando el rol de emprendedor, colaborador o inversionista.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
@@ -77,48 +104,46 @@ Para mejorar la visibilidad de Foundly y destacar el enfoque IoT y sostenible, i
 
 ### 4.2.4. Searching Systems
 
-El sistema de búsqueda de Foundly está diseñado para facilitar que los usuarios encuentren proyectos, colaboradores o métricas IoT de forma rápida y precisa:
+El sistema de búsqueda de Foundly está diseñado para facilitar que los usuarios encuentren proyectos, colaboradores o métricas IoT de forma rápida y precisa.
 
-Búsqueda básica: Un campo de búsqueda en la parte superior para localizar proyectos, emprendedores o métricas de impacto mediante palabras clave.
+- **Búsqueda básica:** Campo de búsqueda ubicado en la parte superior de la plataforma, que permite localizar proyectos, emprendedores o métricas de impacto mediante palabras clave.
 
-Filtros avanzados:
-- Categoría del proyecto
-- Tipo de colaboración
-- Estado de financiamiento
-- Proyectos con monitoreo IoT
-- Nivel de impacto ambiental
+- **Filtros avanzados:** El usuario puede refinar los resultados aplicando uno o más de los siguientes filtros:
+  - Categoría del proyecto
+  - Tipo de colaboración
+  - Estado de financiamiento
+  - Proyectos con monitoreo IoT
+  - Nivel de impacto ambiental
 
-Ordenación de resultados:
-- Relevancia
-- Más recientes
-- Mayor financiamiento
-- Mayor impacto ambiental
-- Más colaboradores
+- **Ordenación de resultados:** Los resultados pueden ordenarse según distintos criterios:
+  - Relevancia
+  - Más recientes
+  - Mayor financiamiento
+  - Mayor impacto ambiental
+  - Más colaboradores
 
-Vista clara de resultados:
-Cada resultado mostrará imagen, título del proyecto, breve descripción, creador, estado del financiamiento, métricas IoT y botones de acción.
+- **Vista de resultados:** Cada resultado mostrará de forma estructurada la imagen del proyecto, título, breve descripción, nombre del creador, estado del financiamiento, métricas IoT disponibles y botones de acción.
 
-Sugerencias en tiempo real:
-Mientras el usuario escribe, se ofrecerán sugerencias de proyectos o perfiles relevantes.
+- **Sugerencias en tiempo real:** A medida que el usuario escribe, la plataforma ofrecerá sugerencias automáticas de proyectos o perfiles relevantes para agilizar la búsqueda.
 
 ### 4.2.5. Navigation Systems
 
-Foundly ofrece una navegación clara e intuitiva para guiar al usuario en cada etapa:
+Foundly ofrece una navegación clara e intuitiva para guiar al usuario en cada etapa de su experiencia dentro de la plataforma.
 
-Menú principal: Inicio, Proyectos, Impacto IoT, Servicios, Nosotros, Contacto y accesos rápidos a Login/Registro.
+- **Menú principal:** Incluye accesos directos a las secciones de Inicio, Proyectos, Impacto IoT, Servicios, Nosotros y Contacto, junto con accesos rápidos a Login y Registro.
 
-Barra de búsqueda destacada: En la parte superior de la landing y de la app para buscar proyectos, colaboradores o métricas IoT.
+- **Barra de búsqueda destacada:** Ubicada en la parte superior de la landing page y de la aplicación, permite buscar proyectos, colaboradores o métricas IoT desde cualquier punto de la plataforma.
 
-Botones de llamada a la acción (CTA):
-- Crear Proyecto
-- Unirse a Proyecto
-- Ver Impacto IoT
-- Financiar Proyecto
+- **Botones de llamada a la acción (CTA):** Se presentan de forma prominente para facilitar las acciones principales:
+  - Crear Proyecto
+  - Unirse a Proyecto
+  - Ver Impacto IoT
+  - Financiar Proyecto
 
-Navegación consistente: Estructura uniforme en todas las páginas, manteniendo el menú fijo y accesos rápidos.
+- **Navegación consistente:** Se mantiene una estructura uniforme en todas las páginas, con el menú fijo y accesos rápidos siempre visibles para garantizar una experiencia predecible y fluida.
 
-Soporte responsivo: Navegación adaptada a dispositivos móviles y tablets.
-
+- **Soporte responsivo:** La navegación se adapta correctamente a dispositivos móviles y tablets, asegurando una experiencia de uso óptima en cualquier pantalla.
+  
 ### 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
