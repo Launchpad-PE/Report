@@ -52,6 +52,10 @@ Hemos finalizado con éxito el mock-up de la página de inicio, aplicando los pr
 
 <img src="resources/Images/Chapter-4/landing-page-desing/mockup/landing-page-mockup.png" alt="Landing Page">
 
+**Landing Page Mobile**
+
+<img src="resources/Images/Chapter-4/landing-page-desing/mockup/LandingPage-Mobile.png" alt="Landing Page Mobile">
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 
