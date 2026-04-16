@@ -4,59 +4,69 @@ En esta sección, se presentan las guías de estilos para nuestro landing page y
 desarrollo de nuestra página web. Además, los estilos seleccionados permitirán al usuario navegar por la página de manera sencilla, comoda y que atraiga
 visualmente, junto con recursos visuales que muestran nuestra propuesta de solución a la problemática.
 ### 4.1.1. General Style Guidelines
-A continuación, se presentan las pautas generales de las guias de estilo que permitirán la atracción visual a los usuarios.
 
-Colors
-Se ha seleccionado una paleta de colores que representará nuestro startup Foundly. Los colores fueron elegidos para lograr un atractivo visual equilibrado sin afectar la facilidad de navegación en la página web. Los cinco colores definidos son:
+A continuación, se presentan las pautas generales que permitirán garantizar una identidad visual coherente y atractiva en toda la plataforma.
 
-Violeta (#5147B7), el cual transmite creatividad, innovación y un enfoque moderno;
-Morado (#8176DC), que complementa al violeta aportando armonía y una sensación de sofisticación;
-Naranja (#EE9D32), que añade dinamismo, energía y llama la atención en puntos clave de la interfaz;
-Gris (#91908C), utilizado para mantener un balance visual, aportando neutralidad y elegancia;
-Blanco (#FFFFFF), que brinda claridad, limpieza y permite que los demás colores destaquen, mejorando la experiencia del usuario.
+---
+
+#### Colores
+
+Se ha seleccionado una paleta de cinco colores que representa la identidad visual de Foundly, buscando un equilibrio entre atractivo visual y facilidad de navegación:
+
+- **Violeta (#5147B7):** Transmite creatividad, innovación y un enfoque moderno.
+- **Morado (#8176DC):** Complementa al violeta aportando armonía y sofisticación.
+- **Naranja (#EE9D32):** Añade dinamismo y energía, destacando puntos clave de la interfaz.
+- **Gris (#91908C):** Aporta neutralidad y elegancia para mantener el balance visual.
+- **Blanco (#FFFFFF):** Brinda claridad y limpieza, permitiendo que los demás colores destaquen.
 
 ![Colores y Estilos - Foundly App](resources/Images/Chapter-4/StyleGuidelines-Images/Colors%20-%20Foundly%20App.png)
 
-Branding
-El branding permite crear la identidad a nuestra marca, la cual se llama Foundly. Nuestra finalidad es permitir la sencilla colaboración entre personas, las cuales
-tienen como fin desarrollar una idea de emprendimiento. Con nuestro logo, queremos demostrar lo rapido y sencillo que es colaborar con otras personas, y que
-estos emprendimientos crezcan, tengan progresos y logren sus metas.
+---
 
-![Branding - FoundlyApp](resources/Images/Chapter-4/StyleGuidelines-Images/Foundly-Logo.png)
+#### Branding
 
-## Typography
+El branding define la identidad de Foundly como marca. El objetivo es transmitir la facilidad y rapidez con la que personas pueden colaborar para desarrollar ideas de emprendimiento, crecer y alcanzar sus metas.
 
-Nuestra elección para la tipografía que se utilizará en nuestro landing page es **Raleway**. Raleway es una tipografía elegante y versátil, con un diseño moderno y que transmite innovación. La tipografía transmitirá al segmento objetivo de emprendedores que somos una plataforma seria y transparente. Por el otro lado, la tipografía demuestra un tono dinámico y fresco, el cual nos ayudará a tener cercanía con el segmento de estudiantes universitarios y profesionales. El tamaño y el peso de la tipografía varía dependiendo del segmento de página y del tipo del dispositivo utilizado al entrar a la página web:
+![Branding - Foundly App](resources/Images/Chapter-4/StyleGuidelines-Images/Foundly-Logo.png)
 
-- **Encabezados principales (H1):** Peso ExtraBold (800) | Tamaño: 48–60 px  
-- **Subtítulos (H2, H3):** Peso SemiBold (600) | Tamaño: 28–36 px  
-- **Texto destacado:** Peso Bold (700) | Tamaño: 18–20 px  
-- **Texto de párrafo / cuerpo (Body):** Peso Regular (400) | Tamaño: 16–18 px  
-- **Texto secundario:** Peso Light (300) | Tamaño: 14–15 px  
+---
 
-### Botones
+#### Tipografía
 
-- **Botón principal:** Texto Raleway Bold 18px  
-- **Botón secundario (links o acciones menores):** Texto Raleway Medium 16px 
+La tipografía seleccionada para la landing page y la aplicación es **Raleway**, elegante, versátil y de diseño moderno, que transmite innovación y profesionalismo sin perder cercanía con el usuario. El tamaño y peso varían según el tipo de elemento y el dispositivo:
 
-### Spacing
+- **Encabezados principales (H1):** ExtraBold (800) — 48 a 60 px
+- **Subtítulos (H2, H3):** SemiBold (600) — 28 a 36 px
+- **Texto destacado:** Bold (700) — 18 a 20 px
+- **Texto de párrafo / cuerpo:** Regular (400) — 16 a 18 px
+- **Texto secundario:** Light (300) — 14 a 15 px
 
-El espaciado es importante para lograr una armonía visual y legibilidad sin incomodar al usuario. Se mantendrá una consistencia en los espaciados para mantener ordenado todas las secciones de la página web, esto se aplica utilizando un espaciado que sea un múltiplo de 8 (8px, 16px, 24px, etc.).
+Para los botones:
 
-- **Secciones principales:** Entre 80–100 px de separación vertical. Para móviles será de 60–80 px.  
-- **Elementos dentro de una sección:** Incluye títulos, párrafos y botones. Entre 24–40 px de separación vertical u horizontal. Para móviles entre 16–24 px.  
-- **Galerías de imágenes:** Entre 16–24 px de separación horizontal entre cada imagen.  
-- **Entre imagen y texto:** Entre 24–40 px de espaciado horizontal o vertical. Para móviles será de 16–24 px.  
+- **Botón principal:** Raleway Bold, 18 px
+- **Botón secundario (links o acciones menores):** Raleway Medium, 16 px
 
-### Dimensions
+---
 
-En esta sección, se presentarán los tonos de comunicación para los dos posibles usuarios planteados previamente. Los tonos de comunicación son importantes para empatizar y comunicar nuestras ideas de manera que los usuarios comprendan lo que ofrecemos y se sientan identificados con nuestra marca.
+#### Espaciado
 
-- **Emprendedores y Startups en Etapa Temprana (Emprendedores):**  
-  Utilizamos un lenguaje inspirador, destacando que sus proyectos actuales y futuros pueden cumplir todas las metas planteadas. Nuestra plataforma se presenta como un impulso para "llegar lejos". El tono será profesional, pero también amigable y cercano, transmitiendo confianza. Además, se enfatiza la colaboración y la facilidad de encontrar personas que apoyen sus startups.
+El espaciado sigue un sistema de múltiplos de 8 (8 px, 16 px, 24 px, etc.) para garantizar armonía visual y legibilidad consistente en todas las secciones:
 
-- **Estudiantes Universitarios y Profesionales (Colaboradores):**  
-  Empleamos un lenguaje inspiracional y motivador, mostrando que pueden crecer profesionalmente utilizando nuestra plataforma. El tono será dinámico, resaltando oportunidades y beneficios, así como la posibilidad de colaborar en distintos emprendimientos.
+- **Secciones principales:** 80 a 100 px de separación vertical (60 a 80 px en móviles).
+- **Elementos dentro de una sección** (títulos, párrafos, botones): 24 a 40 px de separación (16 a 24 px en móviles).
+- **Galerías de imágenes:** 16 a 24 px de separación horizontal entre imágenes.
+- **Entre imagen y texto:** 24 a 40 px de espaciado horizontal o vertical (16 a 24 px en móviles).
+
+---
+
+#### Tono de Comunicación
+
+El tono de comunicación varía según el segmento de usuario al que se dirige el contenido:
+
+- **Emprendedores y Startups en Etapa Temprana:** Se utiliza un lenguaje inspirador y profesional, con un tono amigable y cercano que transmite confianza. Se enfatiza que la plataforma es un impulso para que sus proyectos "lleguen lejos", destacando la colaboración y la facilidad de encontrar personas que los apoyen.
+
+- **Estudiantes Universitarios y Profesionales (Colaboradores):** Se emplea un lenguaje motivador y dinámico, resaltando las oportunidades de crecimiento profesional y los beneficios de colaborar en distintos emprendimientos a través de la plataforma.
+
 ### 4.1.2. Web Style Guidelines
 Para las pautas de estilo web, se aplicarán diversos principios del diseño del landing page para adaptar la lectura de la página a las necesidades del usuario. Se mencionarán los principios utilizados:
 
@@ -68,6 +78,7 @@ Para las pautas de estilo web, se aplicarán diversos principios del diseño del
 
 - **Accesibilidad:**  
   Buscamos garantizar la inclusividad en nuestra página web, especialmente para personas con discapacidad visual. Se incluirán descripciones alternativas en las imágenes y se mantendrá un contraste adecuado entre textos y fondos para asegurar una correcta legibilidad.
+  
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
