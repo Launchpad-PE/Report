@@ -11,25 +11,27 @@ Para crear un producto que cumpla con las necesidades específicas de un cliente
 
 ### 2.3.1. User Personas
 
-Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea es definir el perfil del usuario ideal con el que estamos tratando. Hemos elaborado los perfiles de usuario teniendo en cuenta las personalidades y cualidades identificadas en cada entrevista. A continuación, se presentan las user personas resultantes de la investigación:
+Después de analizar las entrevistas de nuestro segmento objetivo, se definió el perfil del usuario ideal con el que estamos tratando. Los perfiles fueron elaborados teniendo en cuenta las personalidades y cualidades identificadas en cada entrevista.
 
-**Usuario Emprededor**
+---
 
-Para el segmento de emprendedores se elaboró el User Persona representativo de jóvenes desarrolladores y emprendedores tecnológicos en etapa temprana interesados en lanzar sus proyectos de forma colaborativa. Para su construcción se consideraron los hallazgos obtenidos en el análisis de entrevistas realizadas a este segmento, incluyendo factores como su perfil técnico, las formas de financiamiento que utilizan, las dificultades para conformar equipos y el uso de herramientas digitales como WhatsApp, GitHub y Kickstarter.
+### Usuario Emprendedor
 
-Se tomó en cuenta que estos usuarios buscan principalmente encontrar cofundadores o socios con habilidades complementarias a las suyas, acceder a mecanismos de financiamiento accesibles desde el Perú y reducir los meses de búsqueda que implica el networking presencial tradicional. Asimismo, se identificó su alta frustración con plataformas extranjeras que no están pensadas para emprendedores en etapa cero sin comunidad previa, y su necesidad de una solución local que combine formación de equipos con financiamiento colaborativo transparente.
+Para el segmento de emprendedores se elaboró el User Persona representativo de jóvenes desarrolladores y emprendedores tecnológicos en etapa temprana, interesados en lanzar sus proyectos de forma colaborativa. Para su construcción se consideraron los hallazgos obtenidos en las entrevistas realizadas a este segmento, incluyendo factores como su perfil técnico, las formas de financiamiento que utilizan, las dificultades para conformar equipos y el uso de herramientas digitales como WhatsApp, GitHub y Kickstarter.
 
-<img src="resources/Images/Chapter-2/user-personas-ux/Juan Fernandez.png" alt ="Juan Fernandez">
+Se identificó que estos usuarios buscan principalmente encontrar cofundadores o socios con habilidades complementarias, acceder a mecanismos de financiamiento accesibles desde el Perú y reducir los tiempos de búsqueda que implica el networking presencial tradicional. Asimismo, se evidenció una alta frustración con plataformas extranjeras no pensadas para emprendedores en etapa cero sin comunidad previa, y la necesidad de una solución local que combine formación de equipos con financiamiento colaborativo transparente.
 
+<img src="resources/Images/Chapter-2/user-personas-ux/Juan Fernandez.png" alt="Juan Fernandez">
 
-**Usuario Colaborador**
+---
 
-Para el segmento de colaboradores se elaboró el User Persona representativo de estudiantes universitarios y jóvenes profesionales interesados en participar en proyectos colaborativos. Para su construcción se consideraron los hallazgos obtenidos en el análisis de entrevistas realizadas a este segmento, incluyendo factores como su edad, formación en áreas tecnológicas, participación en proyectos académicos y uso de herramientas digitales como GitHub, WhatsApp y Google Docs.
+### Usuario Colaborador
 
-Se tomó en cuenta que estos usuarios buscan principalmente adquirir experiencia práctica real, fortalecer su portafolio profesional y generar contactos (networking) que les permitan mejorar sus oportunidades laborales. Asimismo, se identificó su interés en participar en proyectos con impacto real, especialmente aquellos relacionados con tecnología aplicada como desarrollo de software o IoT.
+Para el segmento de colaboradores se elaboró el User Persona representativo de estudiantes universitarios y jóvenes profesionales interesados en participar en proyectos colaborativos. Para su construcción se consideraron los hallazgos obtenidos en las entrevistas realizadas a este segmento, incluyendo factores como su edad, formación en áreas tecnológicas, participación en proyectos académicos y el uso de herramientas digitales como GitHub, WhatsApp y Google Docs.
 
+Se identificó que estos usuarios buscan principalmente adquirir experiencia práctica real, fortalecer su portafolio profesional y generar contactos que les permitan mejorar sus oportunidades laborales. Asimismo, se evidenció su interés en participar en proyectos con impacto real, especialmente aquellos relacionados con tecnología aplicada como desarrollo de software o IoT.
 
-<img src="resources/Images/Chapter-2/user-personas-ux/Jesli Bautista.png" alt ="Jesli Bautista">
+<img src="resources/Images/Chapter-2/user-personas-ux/Jesli Bautista.png" alt="Jesli Bautista">
 
 ### 2.3.2. User Task Matrix
 
@@ -84,56 +86,61 @@ Se observa que las actividades más críticas se concentran en la exploración d
 
 ### 2.3.3. User Journey Mapping
 
-**Segmento 1 - Emprededor**
+### Segmento 1 - Emprendedor
 
 El User Journey Mapping del emprendedor representa el recorrido actual que experimentan los jóvenes desarrolladores y emprendedores tecnológicos al intentar dar forma a sus ideas de negocio, conformar un equipo y acceder a financiamiento. Este mapa describe el proceso completo, desde la búsqueda inicial de referencias y plataformas hasta la gestión y cierre del proyecto con resultados concretos.
 
-En la situación actual (As-Is), el emprendedor enfrenta un proceso fragmentado y lleno de fricciones: busca información en múltiples canales dispersos (redes sociales, conocidos, Google), intenta registrarse en plataformas internacionales que no están adaptadas al contexto peruano, publica su proyecto con herramientas poco profesionales y de baja visibilidad, y trata de conformar un equipo contactando a personas de su entorno cercano sin garantías de compromiso real. Todo esto genera desorden, pérdida de tiempo y una sensación creciente de inseguridad y desánimo conforme avanza el proceso.
+En la situación actual (As-Is), el emprendedor enfrenta un proceso fragmentado y lleno de fricciones: busca información en múltiples canales dispersos, intenta registrarse en plataformas internacionales no adaptadas al contexto peruano, publica su proyecto con herramientas de baja visibilidad y trata de conformar un equipo contactando a personas de su entorno cercano sin garantías de compromiso real. Todo esto genera desorden, pérdida de tiempo y una sensación creciente de inseguridad conforme avanza el proceso.
 
-El journey permite identificar los principales puntos críticos de su experiencia, incluyendo la dificultad para encontrar plataformas confiables y accesibles desde Perú, la escasa visibilidad de sus proyectos frente a una gran cantidad de contenido competidor, la falta de herramientas integradas para gestionar equipos y comunicación, y la desconfianza en los mecanismos de financiamiento informales que lo limitan a su círculo más cercano.
+El journey permite identificar los principales puntos críticos de su experiencia, entre ellos la dificultad para encontrar plataformas confiables y accesibles desde Perú, la escasa visibilidad de sus proyectos, la falta de herramientas integradas para gestionar equipos y la desconfianza en los mecanismos de financiamiento informales que lo limitan a su círculo más cercano.
 
-Este análisis evidencia oportunidades de mejora en cada etapa del proceso (Descubrimiento, Registro y Creación de Perfil, Publicación del Proyecto, Formación de Equipo, Validación y Financiamiento, y Gestión y Cierre del Proyecto), y sirve como base para diseñar una solución como Foundly, que centralice la búsqueda de colaboradores por habilidades, simplifique el registro adaptado a la realidad local, ofrezca plantillas profesionales para presentar ideas, integre herramientas de comunicación y coordinación dentro de la plataforma, y garantice transparencia en el financiamiento mediante reportes de avance y liberación de fondos por hitos cumplidos.
+Este análisis evidencia oportunidades de mejora en cada etapa del proceso —Descubrimiento, Registro y Creación de Perfil, Publicación del Proyecto, Formación de Equipo, Validación y Financiamiento, y Gestión y Cierre del Proyecto— y sirve como base para diseñar una solución como Foundly que centralice la búsqueda de colaboradores, simplifique el registro local, ofrezca plantillas profesionales para presentar ideas e integre herramientas de comunicación con financiamiento transparente por hitos.
 
-<img src = "resources/Images/Chapter-2/user-journey-mapping/User-Journey-Mapping-Emprededor.png" alt = "Emprededor - User-Journey Mapping">
+<img src="resources/Images/Chapter-2/user-journey-mapping/User-Journey-Mapping-Emprededor.png" alt="Emprendedor - User Journey Mapping">
 
-**Segmento 2 - Colaborador**
+---
+
+### Segmento 2 - Colaborador
 
 El User Journey Mapping del colaborador representa el recorrido actual que experimentan los estudiantes y jóvenes profesionales al buscar, unirse y participar en proyectos colaborativos. Este mapa describe el proceso completo, desde la exploración de oportunidades hasta la obtención de resultados como experiencia y reconocimiento.
 
-En la situación actual (As-Is), el colaborador enfrenta un proceso fragmentado y poco estructurado: busca proyectos en múltiples plataformas (redes sociales, recomendaciones, grupos), evalúa información incompleta, y se integra a equipos donde la comunicación y organización dependen de herramientas dispersas como WhatsApp, Google Drive o Discord. Esto genera desorden, falta de claridad en roles y dificultades para hacer seguimiento al progreso.
+En la situación actual (As-Is), el colaborador enfrenta un proceso fragmentado y poco estructurado: busca proyectos en múltiples plataformas, evalúa información incompleta y se integra a equipos donde la comunicación y organización dependen de herramientas dispersas como WhatsApp, Google Drive o Discord. Esto genera desorden, falta de claridad en roles y dificultades para hacer seguimiento al progreso.
 
 El journey permite identificar los principales puntos críticos de su experiencia, incluyendo la falta de filtros adecuados para encontrar proyectos relevantes, la escasa transparencia en los procesos de selección, la desorganización en la colaboración y la ausencia de mecanismos formales de reconocimiento del trabajo realizado.
 
-Este análisis evidencia oportunidades de mejora en cada etapa del proceso (Descubrimiento, Registro, Exploración, Postulación, Colaboración y Resultados), y sirve como base para diseñar una solución como Foundly, que centralice la gestión de proyectos, mejore la comunicación, proporcione visibilidad del progreso y permita validar las contribuciones del colaborador mediante sistemas de reputación.
+Este análisis evidencia oportunidades de mejora en cada etapa del proceso —Descubrimiento, Registro, Exploración, Postulación, Colaboración y Resultados— y sirve como base para diseñar una solución como Foundly que centralice la gestión de proyectos, mejore la comunicación, proporcione visibilidad del progreso y permita validar las contribuciones del colaborador mediante sistemas de reputación.
 
-<img src = "resources/Images/Chapter-2/user-journey-mapping/User-Journey-Mapping-Colaborador.png" alt = "Colaborado - User-Journey Mapping">
-
+<img src="resources/Images/Chapter-2/user-journey-mapping/User-Journey-Mapping-Colaborador.png" alt="Colaborador - User Journey Mapping">
 
 ### 2.3.4. Empathy Mapping
 
-Para la elaboración de los Empathy Maps, el equipo partió del conocimiento y observaciones recolectadas durante el análisis de los User Persona. Se colocó al centro de cada mapa al usuario correspondiente y se respondieron las preguntas claves sobre su entorno, emociones, comportamientos y necesidades.
+Para la elaboración de los Empathy Maps, el equipo partió del conocimiento y observaciones recolectadas durante el análisis de los User Persona. Se colocó al centro de cada mapa al usuario correspondiente y se respondieron las preguntas clave sobre su entorno, emociones, comportamientos y necesidades.
 
-**Segmento 1 - Emprededor**
+---
 
- <img src="resources/Images/Chapter-2/Empathy Mapping/Empathy map - Emprededor.png" alt ="Emprededor">
+### Segmento 1 - Emprendedor
+
+<img src="resources/Images/Chapter-2/Empathy Mapping/Empathy map - Emprededor.png" alt="Emprendedor - Empathy Map">
 
 El Empathy Mapping del usuario emprendedor (Juan Fernandez) permite comprender de manera integral su experiencia, considerando lo que piensa, siente, ve, escucha, dice y hace dentro del contexto de lanzar una idea de negocio en etapa temprana sin los recursos ni el equipo adecuados.
 
-A partir del análisis, se identifica que Juan es un desarrollador motivado por convertir su idea en un negocio escalable, pero enfrenta múltiples obstáculos debido a la dificultad para encontrar socios comprometidos, la falta de plataformas de financiamiento adaptadas al contexto peruano y la desorganización que genera coordinar equipos a través de herramientas informales como WhatsApp. Estas condiciones generan frustración, inseguridad y una sensación de estancamiento que frena el avance de sus proyectos.
+A partir del análisis, se identifica que Juan es un desarrollador motivado por convertir su idea en un negocio escalable, pero enfrenta múltiples obstáculos debido a la dificultad para encontrar socios comprometidos, la falta de plataformas de financiamiento adaptadas al contexto peruano y la desorganización que genera coordinar equipos a través de herramientas informales. Estas condiciones generan frustración, inseguridad y una sensación de estancamiento que frena el avance de sus proyectos.
 
-Este análisis permite identificar oportunidades clave de mejora enfocadas en la formación estructurada de equipos, la simplificación del registro y publicación de proyectos adaptada a la realidad local, y la integración de herramientas de comunicación y seguimiento, los cuales son fundamentales para diseñar una solución centrada en el usuario emprendedor.
+Este análisis permite identificar oportunidades clave de mejora enfocadas en la formación estructurada de equipos, la simplificación del registro y publicación de proyectos adaptada a la realidad local, y la integración de herramientas de comunicación y seguimiento, aspectos fundamentales para diseñar una solución centrada en el usuario emprendedor.
 
-**Segmento 2 - Colaborador**
+---
 
- <img src="resources/Images/Chapter-2/Empathy Mapping/Empathy map - Colaborador.png" alt ="Colaborador">
+### Segmento 2 - Colaborador
+
+<img src="resources/Images/Chapter-2/Empathy Mapping/Empathy map - Colaborador.png" alt="Colaborador - Empathy Map">
 
 El Empathy Mapping del usuario colaborador (Jesli Bautista) permite comprender de manera integral su experiencia, considerando lo que piensa, siente, ve, escucha, dice y hace dentro del contexto de participación en proyectos colaborativos.
 
-A partir del análisis, se identifica que Jesli es una estudiante motivada por adquirir experiencia práctica y construir un portafolio profesional, pero enfrenta múltiples dificultades debido a la desorganización de los equipos, la falta de claridad en roles y la dispersión de herramientas de comunicación. Estas condiciones generan frustración, incertidumbre y una percepción de poco reconocimiento hacia su trabajo.
+A partir del análisis, se identifica que Jesli es una estudiante motivada por adquirir experiencia práctica y construir un portafolio profesional, pero enfrenta múltiples dificultades debido a la desorganización de los equipos, la falta de claridad en roles y la dispersión de herramientas de comunicación. Estas condiciones generan frustración, incertidumbre y una percepción de escaso reconocimiento hacia su trabajo.
 
-El mapa evidencia que, aunque existe una alta motivación por participar en proyectos reales, los principales dolores del usuario están relacionados con la falta de estructura, comunicación ineficiente y dificultad para encontrar oportunidades adecuadas. Asimismo, resalta la necesidad de una plataforma centralizada que facilite la colaboración, el seguimiento de tareas y el reconocimiento de aportes individuales.
+El mapa evidencia que, aunque existe una alta motivación por participar en proyectos reales, los principales dolores del usuario están relacionados con la falta de estructura, la comunicación ineficiente y la dificultad para encontrar oportunidades adecuadas. Asimismo, resalta la necesidad de una plataforma centralizada que facilite la colaboración, el seguimiento de tareas y el reconocimiento de aportes individuales.
 
-Este análisis permite identificar oportunidades clave de mejora enfocadas en la organización de proyectos, la claridad en la asignación de roles, la integración de herramientas y la generación de mecanismos de reputación, los cuales son fundamentales para diseñar una solución centrada en el usuario colaborador.
+Este análisis permite identificar oportunidades clave de mejora enfocadas en la organización de proyectos, la claridad en la asignación de roles, la integración de herramientas y la generación de mecanismos de reputación, aspectos fundamentales para diseñar una solución centrada en el usuario colaborador.
 
 
 
