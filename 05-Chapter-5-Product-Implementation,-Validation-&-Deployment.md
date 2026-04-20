@@ -30,6 +30,16 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1
 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
+En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los
+colaboradores para este Sprint 1 
+
+|Team Members (Last Name, First Name)|     GitHub Username     |   Landing Page   |
+|------------------------------------|-------------------------|------------------|
+| Almandroz Carbajal, Pierina Marysabel |    pierinaaa29       |        C         |
+| Baca Camargo, Vitaly Arturo        |      Mr-Code-star       |        L         |
+| Bautista Rivera, Jose Diego        |        Gogotes17        |        C         |
+| Pariachi Limahuaya, Sebastian Ubaldo |   SebastianLima-PE    |        C         |
+| Teran Zavala, Mauricio Alejandro   |         mau-tz          |        C         |
 #### 5.2.1.3. Sprint Backlog 1
 #### 5.2.1.4. Development Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
