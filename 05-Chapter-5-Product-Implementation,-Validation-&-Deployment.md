@@ -84,7 +84,7 @@ Enlace de la Landing Page en GitHub Pages: https://launchpad-pe.github.io/Launch
 ![Landing Page](resources/Images/Chapter-5/SourceCodeManagement-Images/LANDINGPAGE.png)
 
 Repositorio Github de la Landing Page: https://github.com/Launchpad-PE/Launchpad-PE-Landing-Page
-![Repositorio Github de la Landing Page](resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio-LandingPage-v1.png)
+![Repositorio Github de la Landing Page](resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio-LandingPage.png)
 ### 5.1.3. Source Code Style Guide & Conventions
 En esta sección, estableceremos las convenciones y reglas para el estilo del código y convenciones de programación que usaremos para la creación de nuestra
 aplicación web. Aplicamos estas prácticas con el fin de garantizar la coherencia, legibilidad y calidad del código durante el desarrollo de la aplicación. Como
@@ -386,6 +386,24 @@ Then debería ver un mensaje de error "Credenciales incorrectas"
 ```
 
 ### 5.1.4. Software Deployment Configuration
+
+Para desplegar nuestro landing page hemos optado por usar Github Pages el cual brinda la posibilidad de alojar sitios web estáticos sin costo alguno.
+
+1. Ingresamos al repositorio de nuestra landing page
+
+![Organización del repositorio](resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio.png)
+
+2. Ingresamos al repositorio de nuestra landing page
+
+![Reposirotio Landing Page](resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio-LandingPage.png) 
+
+3. Ingresamos a la sección de "Settings" del repositorio
+
+![Settings del repositorio](resources/Images/Chapter-5/SourceCodeManagement-Images/LandingPage_Settings.png)
+
+4. En la sección de "Pages", seleccionamos la rama "main" y la carpeta raíz (root) para desplegar nuestro sitio web.
+
+![Configuración de Github Pages](resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio_Github_Pages.png)
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
