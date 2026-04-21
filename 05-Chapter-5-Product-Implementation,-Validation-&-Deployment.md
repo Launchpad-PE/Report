@@ -52,7 +52,7 @@ servicios, modales, páginas de rol, footer, asistente virtual y ajustes de resp
 Enlace: [Enlace Sprint 1](https://upc-team-tohi2bk.atlassian.net/jira/software/projects/FOUN/boards/67/backlog?epics=visible&selectedIssue=FOUN-14&atlOrigin=eyJpIjoiMzI4YjgzNDU5OWYyNDI1MWEwN2U0ZGRhMDliZGRhNjYiLCJwIjoiaiJ9) 
 
 <p align="center">
-  <img src="resources/Images/Chapter-5/Sprint1_Done.png" alt="Sprint Backlog 1" width="250"/>
+  <img src="resources/Images/Chapter-5/Sprint1/Sprint1_Done.png" alt="Sprint Backlog 1" width="250"/>
 </p>
 
 
@@ -114,6 +114,17 @@ el desarrollo de nuestro Sprint 1.
 | Launchpad-PE-Landing-Page | main | ac369b5 | feat: Implement styles components css | Styles for various components | Apr 19, 2026 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+Lo que se logró en el Sprint 1 es desplegar una primera versión de la landing page. En esta logramos desarrollar la barra navegadora, las secciones establecidas
+de la Landing Page y el formulario de contacto. También se adoptó exitosamente la metodología GitFlow, trabajando en la branch principal “main”.
+
+![Inicio](resources/Images/Chapter-5/Execution_Evidence/Inicio.png)
+![Que Ofrecemos](resources/Images/Chapter-5/Execution_Evidence/Que_Ofrecemos.png)
+![Somos Foundly](resources/Images/Chapter-5/Execution_Evidence/Somos_Foundly.png)
+![Rol](resources/Images/Chapter-5/Execution_Evidence/Rol.png)
+![Proyectos IoT](resources/Images/Chapter-5/Execution_Evidence/Proyectos_IoT.png)
+![Proyectos En Vivo](resources/Images/Chapter-5/Execution_Evidence/Proyectos_EnVivo.png)
+![Planes](resources/Images/Chapter-5/Execution_Evidence/Plan.png)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
