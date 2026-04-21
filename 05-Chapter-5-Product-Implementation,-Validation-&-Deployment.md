@@ -140,3 +140,17 @@ Link: https://launchpad-pe.github.io/Launchpad-PE-Landing-Page/
 ![GitHub Pages](resources/Images/Chapter-5/Software_Deployment_Evidence/GitHub_Pages.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica de colaboración del repositorio del landing-page, donde se presenta una
+visualización de la contribución de cada miembro del equipo en el desarrollo del Sprint 1.
+
+**Analíticos de Github**
+
+- **Landing Page** 
+![Contributors](resources/Images/Chapter-5/Team_Colaboration/Contributors.png)
+
+
+<p align="center">
+  <img src="resources/Images/Chapter-5/Team_Colaboration/Top_Commmitters.png" alt="Sprint Backlog 1" width="600"/>
+</p>
+
+En esta imagen, se evidencia los integrantes que han contribuido en el desarrollo del Landing Page. Se evidencia que los 5 integrantes han participado en el despliege del landing page.landing page, siendo el integrante con más commits el integrante con el username “Gogotes17” (Jose Diego Bautista Rivera) con un total de 24 commits, seguido por “SebastianLima-PE” (Sebastian Pariachi) con 19 commits, “mau-tz” (Mauricio Teran) con 18 commits, “Mr-Code-star” (Vitaly Baca) con 17 commits y finalmente “pierinaaa29” (Pierina Almandroz) con 16 commits. Esto refleja una colaboración activa y equitativa entre los miembros del equipo durante el desarrollo del Sprint 1.
