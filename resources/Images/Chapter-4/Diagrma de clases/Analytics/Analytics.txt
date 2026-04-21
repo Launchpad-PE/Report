@@ -1,0 +1,148 @@
+package "Analytics Module" {
+
+' ========================
+' 🔷 DOMAIN
+' ========================
+
+class AnalyticsReport {
+    -id: ReportId
+    -projectId: ProjectId
+    -generatedAt: Date
+    -metrics: List<MetricSummary>
+
+    +generate()
+}
+
+AnalyticsReport --|> AggregateRoot
+
+class Insight {
+    -id: InsightId
+    -projectId: ProjectId
+    -description: String
+    -createdAt: Date
+
+    +detect()
+}
+
+Insight --|> AggregateRoot
+
+' ========================
+' 🔷 VALUE OBJECTS
+' ========================
+
+class ReportId {
+    -value: Long
+}
+
+class InsightId {
+    -value: Long
+}
+
+class MetricSummary {
+    -type: String
+    -average: Double
+    -max: Double
+    -min: Double
+}
+
+' ========================
+' 🔷 COMMANDS
+' ========================
+
+class GenerateReportCommand {
+    +projectId: Long
+}
+
+class DetectInsightCommand {
+    +projectId: Long
+}
+
+' ========================
+' 🔷 QUERIES
+' ========================
+
+class GetReportByProjectQuery {
+    +projectId: Long
+}
+
+class GetInsightsByProjectQuery {
+    +projectId: Long
+}
+
+' ========================
+' 🔷 SERVICES
+' ========================
+
+class AnalyticsCommandService {
+    +generateReport(cmd: GenerateReportCommand)
+    +detectInsight(cmd: DetectInsightCommand)
+}
+
+class AnalyticsQueryService {
+    +getReport(query: GetReportByProjectQuery): AnalyticsReport
+    +getInsights(query: GetInsightsByProjectQuery): List<Insight>
+}
+
+' ========================
+' 🔷 REPOSITORY
+' ========================
+
+interface AnalyticsRepository {
+    +saveReport(report: AnalyticsReport)
+    +saveInsight(insight: Insight)
+    +findReportByProject(projectId: ProjectId): AnalyticsReport
+    +findInsightsByProject(projectId: ProjectId): List<Insight>
+}
+
+' ========================
+' 🔷 DEPENDENCY (IoT)
+' ========================
+
+interface IoTDataProvider {
+    +getMetrics(projectId: ProjectId): List<IoTMetric>
+}
+
+' ========================
+' 🔷 APPLICATION
+' ========================
+
+class AnalyticsFacade {
+    +generateReport()
+    +getDashboard()
+}
+
+' ========================
+' 🔷 PRESENTATION
+' ========================
+
+class AnalyticsController {
+    +generateReport()
+    +getReport()
+    +getInsights()
+}
+
+' ========================
+' 🔗 RELACIONES
+' ========================
+
+AnalyticsController --> AnalyticsFacade
+
+AnalyticsFacade --> AnalyticsCommandService
+AnalyticsFacade --> AnalyticsQueryService
+
+AnalyticsCommandService --> AnalyticsRepository
+AnalyticsQueryService --> AnalyticsRepository
+
+AnalyticsCommandService --> AnalyticsReport
+AnalyticsCommandService --> Insight
+
+GenerateReportCommand --> AnalyticsCommandService
+DetectInsightCommand --> AnalyticsCommandService
+
+GetReportByProjectQuery --> AnalyticsQueryService
+GetInsightsByProjectQuery --> AnalyticsQueryService
+
+AnalyticsCommandService --> IoTDataProvider 
+IoTDataProvider --> AnalyticsCommandService
+
+}

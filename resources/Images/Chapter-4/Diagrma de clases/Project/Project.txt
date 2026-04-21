@@ -1,0 +1,156 @@
+package "Project Module" {
+
+' ========================
+' 🔷 DOMAIN
+' ========================
+
+class Project {
+    -id: ProjectId
+    -name: String
+    -description: String
+    -status: ProjectStatus
+    -ownerId: UserId
+    -members: List<UserId>
+
+    +create()
+    +addMember()
+    +removeMember()
+    +activateIoT()
+    +complete()
+}
+
+Project --|> AggregateRoot
+
+enum ProjectStatus {
+    DRAFT
+    ACTIVE
+    COMPLETED
+}
+
+' ========================
+' 🔷 VALUE OBJECTS
+' ========================
+
+class ProjectId {
+    -value: Long
+}
+
+class ProjectName {
+    -value: String
+}
+
+' ========================
+' 🔷 COMMANDS
+' ========================
+
+class CreateProjectCommand {
+    +name: String
+    +description: String
+    +ownerId: Long
+}
+
+class ApplyToProjectCommand {
+    +projectId: Long
+    +userId: Long
+}
+
+class AcceptMemberCommand {
+    +projectId: Long
+    +userId: Long
+}
+
+class ActivateIoTCommand {
+    +projectId: Long
+}
+
+class CompleteProjectCommand {
+    +projectId: Long
+}
+
+' ========================
+' 🔷 QUERIES
+' ========================
+
+class GetProjectByIdQuery {
+    +projectId: Long
+}
+
+class GetAllProjectsQuery
+
+class GetProjectsByUserQuery {
+    +userId: Long
+}
+
+' ========================
+' 🔷 SERVICES
+' ========================
+
+class ProjectCommandService {
+    +create(cmd: CreateProjectCommand)
+    +apply(cmd: ApplyToProjectCommand)
+    +acceptMember(cmd: AcceptMemberCommand)
+    +activateIoT(cmd: ActivateIoTCommand)
+    +complete(cmd: CompleteProjectCommand)
+}
+
+class ProjectQueryService {
+    +getById(query: GetProjectByIdQuery): Project
+    +getAll(): List<Project>
+    +getByUser(query: GetProjectsByUserQuery): List<Project>
+}
+
+' ========================
+' 🔷 REPOSITORY
+' ========================
+
+interface ProjectRepository {
+    +save(project: Project)
+    +findById(id: ProjectId): Project
+    +findByUser(userId: UserId): List<Project>
+}
+
+' ========================
+' 🔷 APPLICATION
+' ========================
+
+class ProjectFacade {
+    +createProject()
+    +applyToProject()
+    +activateIoT()
+}
+
+' ========================
+' 🔷 PRESENTATION
+' ========================
+
+class ProjectController {
+    +create()
+    +apply()
+    +accept()
+    +activateIoT()
+    +complete()
+}
+
+' ========================
+' 🔗 RELACIONES
+' ========================
+
+ProjectController --> ProjectFacade
+ProjectFacade --> ProjectCommandService
+ProjectFacade --> ProjectQueryService
+
+ProjectCommandService --> ProjectRepository
+ProjectQueryService --> ProjectRepository
+
+ProjectCommandService --> Project
+
+CreateProjectCommand --> ProjectCommandService
+ApplyToProjectCommand --> ProjectCommandService
+AcceptMemberCommand --> ProjectCommandService
+ActivateIoTCommand --> ProjectCommandService
+CompleteProjectCommand --> ProjectCommandService
+
+GetProjectByIdQuery --> ProjectQueryService
+GetProjectsByUserQuery --> ProjectQueryService
+
+}
