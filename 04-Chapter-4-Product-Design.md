@@ -367,6 +367,14 @@ User goal 8: Como colaborador, quiero ver las tareas que tengo en un hito y tamb
 
 Cuando un colaborador desee ver las tareas dentro de un hito, deberá ir a la sección Hitos, donde podrá visualizar los hitos del proyecto. Al presionar el botón “Ver hito”, podrá acceder a la descripción del mismo. Dentro de esta pantalla, al seleccionar el botón “Ver tareas”, podrá visualizar las tareas relacionadas con ese hito. En la vista de Ver hito, también podrá consultar las tareas completadas por otros colaboradores utilizando el botón “Ver tarea” dentro de cada tarea completada. Si el colaborador desea realizar una tarea pendiente, deberá presionar el botón “Hacer tarea”, donde podrá revisar los requisitos necesarios para completarla. Finalmente, al presionar el botón “Enviar”, podrá enviar la tarea realizada.
 
+User goal 9: Como emprendedor, quiero activar el monitoreo IOT en mi proyecto para que mis colaboradores puedan visualizar las métricas ambientales en tiempo real y contribuir al seguimiento del impacto.
+
+
+
+
+
+Este user flow describe el proceso para activar el monitoreo IoT dentro de un proyecto. Inicia con la creación del proyecto, donde el usuario ingresa datos básicos y habilita el monitoreo ambiental. Luego, se accede a un dashboard general que muestra el progreso, tareas y colaboradores. Finalmente, el usuario puede visualizar métricas ambientales en tiempo real (como calidad del aire, temperatura y alertas), permitiendo un seguimiento continuo del impacto y facilitando la toma de decisiones.
+
 ## 4.5. Web Applications Prototyping
 
 A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
