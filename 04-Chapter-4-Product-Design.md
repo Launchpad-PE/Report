@@ -104,7 +104,7 @@ En Foundly se aplican distintos sistemas de organización de la información par
 Se destacará la información más relevante mediante jerarquías visuales que guíen al usuario a través de los distintos niveles de contenido de la plataforma. Algunos ejemplos de aplicación:
 
 - En la página de inicio, la sección de roles permite al visitante identificarse como Emprendedor o Colaborador, mostrando en cada tarjeta información diferenciada y priorizada según su perfil.
-- La sección de monitoreo IoT presenta las métricas de sensores —calidad del aire, humedad, temperatura, entre otras— de forma destacada dentro de cada campaña, facilitando la evaluación rápida del estado del prototipo.
+- La sección de monitoreo IoT presenta las métricas de sensores calidad del aire, humedad, temperatura, entre otras— de forma destacada dentro de cada campaña, facilitando la evaluación rápida del estado del prototipo.
 
 **Secuencial (Step-by-step)**
 
@@ -153,7 +153,7 @@ Las etiquetas siguen un formato bilingüe (español / inglés) para garantizar c
 | **Nosotros / About Us** | Describe al equipo detrás de Foundly, su misión, visión y el impacto que busca generar en el ecosistema emprendedor peruano. |
 | **Servicios / Services** | Explica los beneficios principales de la plataforma: formación de equipos, financiamiento colaborativo, gestión de proyectos y monitoreo IoT. |
 | **Proyectos / Projects** | Permite explorar los proyectos publicados por emprendedores, incluyendo aquellos con panel de monitoreo IoT activo. |
-| **IoT en Vivo / IoT Live** | Muestra métricas de sensores en tiempo real —calidad del aire, humedad, temperatura, entre otras— vinculadas a las campañas activas de la plataforma. |
+| **IoT en Vivo / IoT Live** | Muestra métricas de sensores en tiempo real calidad del aire, humedad, temperatura, entre otras vinculadas a las campañas activas de la plataforma. |
 | **Planes / Plans** | Presenta los planes Gratuito y Premium con sus características, diferencias y precios, permitiendo al usuario elegir el que mejor se adapta a sus necesidades. |
 | **Emprendedor / Entrepreneur** | Sección dirigida al segmento emprendedor, con información sobre cómo crear proyectos, gestionar equipos y activar campañas de financiamiento. |
 | **Colaborador / Collaborator** | Sección dirigida al segmento colaborador, con información sobre cómo postularse a proyectos, publicar evidencias y construir reputación. |
@@ -297,7 +297,7 @@ A continuación se presentan los Wireflow Diagrams que describen los flujos de i
 
 **User Goal 1:** Como usuario, quiero poder iniciar sesión y recuperar mi contraseña en caso de haberla olvidado.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/UserFlow 1.jpg" alt="Wireflow 1 — Inicio de sesión y recuperación de contraseña">
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 1.jpeg" alt="Wireflow 1 — Inicio de sesión y recuperación de contraseña">
 
 Cuando el usuario desea iniciar sesión pero ha olvidado su contraseña, puede seleccionar la opción de recuperación de contraseña. Esta acción abre una ventana emergente donde el usuario completa sus datos de verificación y es redirigido a la pantalla de cambio de contraseña. Una vez actualizada, el usuario puede iniciar sesión con sus nuevas credenciales.
 
@@ -315,13 +315,13 @@ Cuando un colaborador desea explorar un proyecto publicado por un emprendedor, p
 
 <img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 3.jpeg" alt="Wireflow 3 — Cambio de plan de suscripción">
 
-Desde la pantalla de inicio del usuario autenticado, es posible acceder a la opción de cambio de plan. Esta acción redirige a una vista comparativa donde se muestran las distintas opciones de suscripción disponibles —Plan Gratuito y Plan Premium— con sus características, diferencias y precio, permitiendo al usuario seleccionar el que mejor se adapta a sus necesidades.
+Desde la pantalla de inicio del usuario autenticado, es posible acceder a la opción de cambio de plan. Esta acción redirige a una vista comparativa donde se muestran las distintas opciones de suscripción disponibles Plan Gratuito y Plan Premium con sus características, diferencias y precio, permitiendo al usuario seleccionar el que mejor se adapta a sus necesidades.
 
 ---
 
 **User Goal 4:** Como nuevo usuario, quiero poder registrarme en la plataforma para acceder a sus funcionalidades.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 4.jpg" alt="Wireflow 4 — Registro de nuevo usuario">
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 4.jpeg">
 
 Cuando un usuario nuevo desea registrarse, selecciona la opción *¿No tienes cuenta? Regístrate*, donde accede al formulario de registro con sus datos personales y correo electrónico. Al completar y guardar este formulario, es redirigido a una segunda pantalla donde puede configurar su nombre de usuario y foto de perfil. Al finalizar este paso, el usuario obtiene acceso completo a la plataforma.
 
@@ -367,7 +367,7 @@ A continuación se presentan los diagramas de flujo de usuario que describen las
 
 **User Goal 1:** Como colaborador, quiero ver la información completa de un proyecto antes de postularme, incluyendo resumen, beneficios y roles disponibles.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 1.jpeg" alt="User Flow 1 — Revisión y postulación a proyecto">
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/UserFlow 1.jpg">
 
 Desde la pantalla principal del colaborador, se listan los proyectos disponibles. Al seleccionar *Ver más* en un proyecto de interés, el colaborador accede a la vista de detalle con toda la información publicada. Desde allí puede regresar al listado o proceder a presionar el botón *Postular* para enviar su solicitud de participación.
 
@@ -377,7 +377,7 @@ Desde la pantalla principal del colaborador, se listan los proyectos disponibles
 
 <img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 2.jpeg" alt="User Flow 2 — Creación de hito">
 
-El emprendedor accede a la sección *Hitos* dentro de su proyecto y selecciona el botón *Crear Hito*. Completa los datos requeridos —título, descripción, fecha de vencimiento y porcentaje objetivo— y confirma la creación. El hito queda publicado y visible para todos los miembros del equipo.
+El emprendedor accede a la sección *Hitos* dentro de su proyecto y selecciona el botón *Crear Hito*. Completa los datos requeridos título, descripción, fecha de vencimiento y porcentaje objetivo y confirma la creación. El hito queda publicado y visible para todos los miembros del equipo.
 
 ---
 
@@ -391,31 +391,30 @@ El emprendedor completa el formulario de creación de proyecto con los datos req
 
 **User Goal 4:** Como emprendedor, quiero crear una tarea dentro de mi proyecto para organizar y asignar actividades específicas a los colaboradores.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 4.jpeg" alt="User Flow 4 — Creación de tarea">
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 4.jpg" alt="User Flow 4 — Creación de tarea">
 
-El emprendedor accede a la sección *Tareas* de su proyecto y selecciona el botón *Crear Tarea*. Completa los campos requeridos —título, descripción, fecha de entrega, prioridad y colaborador asignado— y presiona *Enviar* para registrar la tarea. El colaborador asignado recibe una notificación con los detalles de la tarea creada.
+El emprendedor accede a la sección *Tareas* de su proyecto y selecciona el botón *Crear Tarea*. Completa los campos requeridos título, descripción, fecha de entrega, prioridad y colaborador asignado y presiona *Enviar* para registrar la tarea. El colaborador asignado recibe una notificación con los detalles de la tarea creada.
 
 ---
 
 **User Goal 5:** Como emprendedor, quiero crear una meta de recaudación y recompensas para recibir contribuciones de los usuarios interesados en apoyar mi proyecto.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 5.jpeg" alt="User Flow 5 — Creación de meta de recaudación y rewards">
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 5.jpg" alt="User Flow 5 — Creación de meta de recaudación y rewards">
 
 Desde la sección *Contribuciones* del proyecto, el emprendedor puede gestionar dos elementos:
 
 - **Meta de recaudación:** Al presionar *Añadir una meta*, completa el nombre, monto objetivo y descripción. Al guardar, la meta queda visible en la sección de contribuciones del proyecto.
-- **Recompensa (Reward):** Al presionar *Añadir un reward*, completa los datos correspondientes —monto mínimo, beneficios incluidos y cupos disponibles—. Al guardar, la recompensa queda publicada y disponible para los aportantes.
+
 
 ---
 
 **User Goal 6:** Como usuario, quiero realizar una donación a un proyecto que me interese y, opcionalmente, recibir beneficios a cambio.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 6.jpeg" alt="User Flow 6 — Donación a proyecto">
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 6.jpg" alt="User Flow 6 — Donación a proyecto">
 
 El usuario accede al detalle de un proyecto mediante *Ver más* y selecciona el botón *Contribuir*. La plataforma presenta dos modalidades de donación:
 
-- **Reward Tier:** El usuario selecciona una recompensa disponible y recibe los beneficios asociados al nivel elegido.
-- **Donación rápida:** El usuario ingresa el monto a donar, su nombre y correo electrónico, y confirma la contribución sin necesidad de seleccionar una recompensa.
+- **Donación rápida:** El usuario ingresa el monto a donar, su nombre y correo electrónico, y confirma la contribución.
 
 En ambos casos, la transacción se procesa y el monto recaudado del proyecto se actualiza automáticamente.
 
@@ -434,7 +433,7 @@ El colaborador accede a la sección *Tareas* del proyecto donde participa. Para 
 
 **User Goal 8:** Como colaborador, quiero ver las tareas de un hito, revisar el avance de mis compañeros y completar las tareas que tengo asignadas.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 8.jpeg" alt="User Flow 8 — Gestión de tareas dentro de un hito">
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 8.jpg" alt="User Flow 8 — Gestión de tareas dentro de un hito">
 
 El colaborador accede a la sección *Hitos* y selecciona el botón *Ver hito* para revisar la descripción y el estado del hito seleccionado. Desde esta vista puede:
 
@@ -448,7 +447,7 @@ El colaborador accede a la sección *Hitos* y selecciona el botón *Ver hito* pa
 
 <img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Sin título.jpg" alt="User Flow 9 — Activación del panel IoT">
 
-El flujo de activación IoT se inicia durante la creación del proyecto, donde el emprendedor habilita la opción de monitoreo de sensores y selecciona la categoría correspondiente —calidad del aire, agua y riego, energía solar o salud y bienestar—. Una vez activado, el panel IoT queda integrado en el dashboard general del proyecto, donde muestra métricas en tiempo real como temperatura, humedad, CO₂ u otras variables según la categoría elegida. Estas métricas se actualizan automáticamente cada 5 segundos, permitiendo a colaboradores y financiadores hacer seguimiento continuo del estado del prototipo y facilitar la toma de decisiones basada en datos.
+El flujo de activación IoT se inicia durante la creación del proyecto, donde el emprendedor habilita la opción de monitoreo de sensores y selecciona la categoría correspondiente calidad del aire, agua y riego, energía solar o salud y bienestar. Una vez activado, el panel IoT queda integrado en el dashboard general del proyecto, donde muestra métricas en tiempo real como temperatura, humedad, CO₂ u otras variables según la categoría elegida. Estas métricas se actualizan automáticamente cada 5 segundos, permitiendo a colaboradores y financiadores hacer seguimiento continuo del estado del prototipo y facilitar la toma de decisiones basada en datos.
 
 ## 4.5. Web Applications Prototyping
 
@@ -504,7 +503,7 @@ Su propósito principal es proporcionar un perfil completo, actualizado y config
 
 El bounded context Project Management se encarga de la gestión completa del ciclo de vida de los proyectos dentro de Foundly, desde su creación hasta su finalización.
 
-Permite a los emprendedores crear proyectos mediante formularios estructurados, definir objetivos y publicarlos para que estén disponibles a otros usuarios. Gestiona la visualización de proyectos —tanto creados como participados—, el proceso de postulación de colaboradores, la evaluación y aceptación o rechazo de solicitudes, y la incorporación o salida de miembros del equipo. Adicionalmente, administra el estado del proyecto (creado, publicado, en progreso o completado) y permite habilitar el monitoreo IoT dentro del proyecto.
+Permite a los emprendedores crear proyectos mediante formularios estructurados, definir objetivos y publicarlos para que estén disponibles a otros usuarios. Gestiona la visualización de proyectos tanto creados como participados, el proceso de postulación de colaboradores, la evaluación y aceptación o rechazo de solicitudes, y la incorporación o salida de miembros del equipo. Adicionalmente, administra el estado del proyecto (creado, publicado, en progreso o completado) y permite habilitar el monitoreo IoT dentro del proyecto.
 
 Su propósito principal es organizar y controlar la gestión de proyectos colaborativos, facilitando la interacción entre emprendedores y colaboradores con un flujo estructurado de principio a fin.
 
@@ -570,7 +569,7 @@ Su propósito principal es facilitar el apoyo a los proyectos mediante contribuc
 
 El bounded context IoT se encarga de la integración y gestión de dispositivos IoT dentro de Foundly, permitiendo el monitoreo de datos del entorno físico asociados a los proyectos de hardware.
 
-Permite activar el monitoreo IoT en los proyectos, gestionar la conexión de dispositivos mediante el broker MQTT de HiveMQ, y registrar los datos capturados como métricas de sensores en tiempo real. Procesa y almacena los indicadores relevantes —calidad del aire, humedad, temperatura, entre otros— que pueden ser utilizados para evaluar el funcionamiento del prototipo y el impacto del proyecto.
+Permite activar el monitoreo IoT en los proyectos, gestionar la conexión de dispositivos mediante el broker MQTT de HiveMQ, y registrar los datos capturados como métricas de sensores en tiempo real. Procesa y almacena los indicadores relevantes calidad del aire, humedad, temperatura, entre otros que pueden ser utilizados para evaluar el funcionamiento del prototipo y el impacto del proyecto.
 
 <img src="resources/Images/Chapter-4/bounded-context/Iot.png" alt="Bounded Context — IoT Environmental Monitoring">
 
