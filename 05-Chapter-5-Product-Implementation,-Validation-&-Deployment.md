@@ -69,34 +69,43 @@ https://pages.github.com/
 - Markdown: Es un lenguaje de marcado ligero que permite escribir texto con un formato fácil de leer y escribir, que luego puede ser convertido a HTML u otros formatos de presentación. Es ampliamente utilizado para documentar proyectos de software debido a su simplicidad y versatilidad. Markdown permite agregar formato básico como encabezados, listas, enlaces e imágenes utilizando una sintaxis sencilla y fácil de recordar.
 ```
 https://www.markdownguide.org/getting-started/
+
 ### 5.1.2. Source Code Management
-Para administrar el progreso del código, optamos por una estrategia más simple en lugar de implementar todo el flujo de Git Flow. En nuestro caso, trabajamos
-directamente con una sola rama principal (main), la cual contiene la versión estable y a la vez en desarrollo de nuestro proyecto.
-De esta manera, todas las nuevas funcionalidades y correcciones fueron integradas directamente en la rama main, sin necesidad de crear ramas adicionales para
-desarrollo o características específicas. Aunque este enfoque es menos modular que Git Flow, resultó práctico para el alcance actual del proyecto, ya que
-permitió un control más directo del avance y evitó la sobrecarga de gestionar múltiples ramas.
-Además, utilizamos GitHub como repositorio central, aprovechando su función GitHub Pages para la visualización de nuestro trabajo. Esto nos permitió
-desplegar los archivos .html y obtener un enlace web funcional de manera rápida y sencilla.
-En resumen, trabajar únicamente con la rama main nos permitió avanzar con agilidad en el desarrollo de la página de destino y mantener una versión estable y
-actualizada del proyecto sin complicaciones adicionales en la gestión de ramas.
 
-Enlace de la Landing Page en GitHub Pages: https://launchpad-pe.github.io/Launchpad-PE-Landing-Page/
-![Landing Page](resources/Images/Chapter-5/SourceCodeManagement-Images/LANDINGPAGE.png)
+Para administrar el progreso del código, el equipo optó por una estrategia simplificada en lugar de implementar el flujo completo de Git Flow. Se trabajó directamente con una sola rama principal (`main`), la cual contiene la versión estable y en desarrollo del proyecto.
 
-Repositorio Github de la Landing Page: https://github.com/Launchpad-PE/Launchpad-PE-Landing-Page
-![Repositorio Github de la Landing Page](resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio-LandingPage.png)
+Todas las nuevas funcionalidades y correcciones fueron integradas directamente en la rama `main`, sin necesidad de crear ramas adicionales para desarrollo o características específicas. Aunque este enfoque es menos modular que Git Flow, resultó práctico para el alcance actual del proyecto, ya que permitió un control más directo del avance y evitó la sobrecarga de gestionar múltiples ramas en paralelo.
+
+Adicionalmente, se utilizó GitHub como repositorio central, aprovechando la funcionalidad de GitHub Pages para la visualización del trabajo desplegado. Esto permitió publicar los archivos `.html` y obtener un enlace web funcional de manera rápida y sencilla.
+
+En resumen, trabajar únicamente con la rama `main` permitió avanzar con agilidad en el desarrollo del Landing Page y mantener una versión estable y actualizada del proyecto sin complejidad adicional en la gestión de ramas.
+
+---
+
+**Landing Page — GitHub Pages**
+
+Enlace de despliegue: https://launchpad-pe.github.io/Launchpad-PE-Landing-Page/
+
+![Landing Page desplegada en GitHub Pages](resources/Images/Chapter-5/SourceCodeManagement-Images/LANDINGPAGE.png)
+
+**Landing Page — Repositorio GitHub**
+
+Enlace del repositorio: https://github.com/Launchpad-PE/Launchpad-PE-Landing-Page
+
+![Repositorio GitHub — Landing Page](resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio-LandingPage.png)
+
 ### 5.1.3. Source Code Style Guide & Conventions
-En esta sección, estableceremos las convenciones y reglas para el estilo del código y convenciones de programación que usaremos para la creación de nuestra
-aplicación web. Aplicamos estas prácticas con el fin de garantizar la coherencia, legibilidad y calidad del código durante el desarrollo de la aplicación. Como
-consecuencia, facilitaran el mantenimiento y la escalabilidad a lo largo del ciclo de vida del proyecto.
-En este proyecto, se emplearan HTML, CSS y JavaScript para desarrollar la aplicación web, por el otro lado, utilizaremos Gherkin para los casos de prueba del
-proyecto. Como se detalla a continuación, se presentarán y explicarna las reglas y convenciones utilizadas para todos los lenguajes mencionados.
+En esta sección se establecen las convenciones y reglas de estilo de código que el equipo aplicará durante el desarrollo de la aplicación web de Foundly. Estas prácticas garantizan la coherencia, legibilidad y calidad del código a lo largo del ciclo de vida del proyecto, facilitando su mantenimiento y escalabilidad.
 
-**Uso de minúsculas y nomenclatura en inglés**
+Los lenguajes empleados en el desarrollo son **HTML**, **CSS** y **JavaScript** para la aplicación web, y **Gherkin** para la especificación de los casos de prueba. A continuación se detallan las reglas y convenciones definidas para cada uno de ellos.
 
-Los nombres asignados a las variables, objetos, funciones y elementos se definiran en idioma inglés, procurando que tengan relación con el propósito o función
-que cumplen. Se evitara el uso de mayúsculas junto a minúsculas, ya que la mezcla de mayúsculas con minúsculas puede disminuir la claridad del código, tal
-como recomienda Google. Por ello, se priorizará el uso de minúsculas de manera uniforme, con el fin de mantener la legibilidad y consistencia del código.
+---
+
+#### Nomenclatura en inglés y uso de minúsculas
+
+Los nombres asignados a variables, objetos, funciones y elementos HTML se definirán en idioma inglés, procurando que reflejen con claridad el propósito o la función que cumplen dentro del sistema.
+
+Se evitará la mezcla de mayúsculas y minúsculas en los identificadores, ya que reduce la legibilidad del código. En su lugar, se priorizará el uso uniforme de minúsculas, siguiendo las recomendaciones de la Guía de Estilo de Google. Esta convención aplica de forma consistente a todos los archivos y lenguajes del proyecto.
 
 Ejemplo:
 ```
@@ -540,17 +549,28 @@ Link: https://launchpad-pe.github.io/Launchpad-PE-Landing-Page/
 ![GitHub Pages](resources/Images/Chapter-5/Software_Deployment_Evidence/GitHub_Pages.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
-Gracias a la sección de Insights en Github, mostraremos la siguiente gráfica de colaboración del repositorio del landing-page, donde se presenta una
-visualización de la contribución de cada miembro del equipo en el desarrollo del Sprint 1.
+Mediante la sección de Insights de GitHub, se presenta a continuación la evidencia de colaboración del repositorio del Landing Page, mostrando la contribución de cada miembro del equipo durante el desarrollo del Sprint 1.
 
-**Analíticos de Github**
+---
 
-- **Landing Page** 
-![Contributors](resources/Images/Chapter-5/Team_Colaboration/Contributors.png)
+#### Analíticos de GitHub — Report
 
+![Gráfica de contribuciones — Landing Page](resources/Images/Chapter-5/Team_Colaboration/Contributors.png)
 
+ #### Analíticos de GitHub — Landing Page
+ 
 <p align="center">
-  <img src="resources/Images/Chapter-5/Team_Colaboration/Top_Commmitters.png" alt="Sprint Backlog 1" width="600"/>
+  <img src="resources/Images/Chapter-5/Team_Colaboration/Top_Commmitters.png" alt="Top Committers — Sprint 1" width="600"/>
 </p>
 
-En esta imagen, se evidencia los integrantes que han contribuido en el desarrollo del Landing Page. Se evidencia que los 5 integrantes han participado en el despliege del landing page.landing page, siendo el integrante con más commits el integrante con el username “Gogotes17” (Jose Diego Bautista Rivera) con un total de 24 commits, seguido por “SebastianLima-PE” (Sebastian Pariachi) con 19 commits, “mau-tz” (Mauricio Teran) con 18 commits, “Mr-Code-star” (Vitaly Baca) con 17 commits y finalmente “pierinaaa29” (Pierina Almandroz) con 16 commits. Esto refleja una colaboración activa y equitativa entre los miembros del equipo durante el desarrollo del Sprint 1.
+Las imágenes evidencian la participación de los cinco integrantes del equipo en el desarrollo y despliegue del Landing Page durante el Sprint 1. La distribución de commits refleja una colaboración activa y equitativa entre todos los miembros:
+
+| Integrante | Usuario GitHub | Commits |
+|---|---|---|
+| Bautista Rivera, Jose Diego | `Gogotes17` | 24 |
+| Pariachi Limahuaya, Sebastián Ubaldo | `SebastianLima-PE` | 19 |
+| Teran Zavala, Mauricio Alejandro | `mau-tz` | 18 |
+| Baca Camargo, Vitaly Arturo | `Mr-Code-star` | 17 |
+| Almandroz Carbajal, Pierina Marysabelh | `pierinaaa29` | 16 |
+
+La distribución de commits confirma que todos los integrantes tuvieron participación activa en el Sprint 1, con una diferencia máxima de 8 commits entre el miembro más activo y el menos activo, lo que evidencia un trabajo colaborativo equilibrado a lo largo del sprint.
