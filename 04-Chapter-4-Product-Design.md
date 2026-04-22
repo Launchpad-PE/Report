@@ -104,7 +104,7 @@ En Foundly se aplican distintos sistemas de organización de la información par
 Se destacará la información más relevante mediante jerarquías visuales que guíen al usuario a través de los distintos niveles de contenido de la plataforma. Algunos ejemplos de aplicación:
 
 - En la página de inicio, la sección de roles permite al visitante identificarse como Emprendedor o Colaborador, mostrando en cada tarjeta información diferenciada y priorizada según su perfil.
-- La sección de monitoreo IoT presenta las métricas de sensores calidad del aire, humedad, temperatura, entre otras— de forma destacada dentro de cada campaña, facilitando la evaluación rápida del estado del prototipo.
+- La sección de monitoreo IoT presenta las métricas de sensores calidad del aire, humedad, temperatura, entre otras de forma destacada dentro de cada campaña, facilitando la evaluación rápida del estado del prototipo.
 
 **Secuencial (Step-by-step)**
 
