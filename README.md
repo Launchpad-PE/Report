@@ -191,13 +191,8 @@ La colaboración fue activa y equitativa, con aportes sustanciales de todos los 
 
 ---
 
-## [Conclusiones](Bibliografia.md#bibliografia)
-1. El equipo demostró capacidad para aplicar metodologías ágiles y de diseño centrado en el usuario de manera efectiva, integrando técnicas como Lean UX, entrevistas cualitativas, user personas y journey mapping para fundamentar decisiones de desarrollo en necesidades reales y no en supuestos.
+## [Conclusiones](Conclusiones.md#Conclusiones)
 
-2. La gestión de configuración y colaboración mediante GitHub fue sólida y profesional, evidenciada por un alto número de commits, distribución equitativa de tareas, uso de ramas temáticas y revisiones cruzadas mediante pull requests, lo que refleja buenas prácticas de trabajo en equipo y control de versiones.
-
-3. Se logró una documentación técnica y visual completa y bien estructurada, abarcando desde la arquitectura de software (DDD, diagramas de clases y base de datos) hasta el diseño de interfaces (wireframes, mockups, prototipos), cumpliendo con los estándares exigidos para un producto software en fase inicial.
----
 
 ## [Bibliografía](Bibliografia.md#bibliografia)
 
