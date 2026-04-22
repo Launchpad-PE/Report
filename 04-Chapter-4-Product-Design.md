@@ -3,60 +3,78 @@
 En esta sección, se presentan las guías de estilos para nuestro landing page y aplicación web de nuestro startup. Estas guías permiten establecer estilos previo al
 desarrollo de nuestra página web. Además, los estilos seleccionados permitirán al usuario navegar por la página de manera sencilla, comoda y que atraiga
 visualmente, junto con recursos visuales que muestran nuestra propuesta de solución a la problemática.
+
 ### 4.1.1. General Style Guidelines
-A continuación, se presentan las pautas generales de las guias de estilo que permitirán la atracción visual a los usuarios.
 
-Colors
-Se ha seleccionado una paleta de colores que representará nuestro startup Foundly. Los colores fueron elegidos para lograr un atractivo visual equilibrado sin afectar la facilidad de navegación en la página web. Los cinco colores definidos son:
+A continuación se presentan las pautas generales de estilo que guiarán la identidad visual de Foundly, asegurando coherencia, atractivo visual y una experiencia de navegación fluida para todos los usuarios.
 
-Violeta (#5147B7), el cual transmite creatividad, innovación y un enfoque moderno;
-Morado (#8176DC), que complementa al violeta aportando armonía y una sensación de sofisticación;
-Naranja (#EE9D32), que añade dinamismo, energía y llama la atención en puntos clave de la interfaz;
-Gris (#91908C), utilizado para mantener un balance visual, aportando neutralidad y elegancia;
-Blanco (#FFFFFF), que brinda claridad, limpieza y permite que los demás colores destaquen, mejorando la experiencia del usuario.
+---
 
-![Colores y Estilos - Foundly App](resources/Images/Chapter-4/StyleGuidelines-Images/Colors%20-%20Foundly%20App.png)
+#### Colors
 
-Branding
-El branding permite crear la identidad a nuestra marca, la cual se llama Foundly. Nuestra finalidad es permitir la sencilla colaboración entre personas, las cuales
-tienen como fin desarrollar una idea de emprendimiento. Con nuestro logo, queremos demostrar lo rapido y sencillo que es colaborar con otras personas, y que
-estos emprendimientos crezcan, tengan progresos y logren sus metas.
+Se ha seleccionado una paleta de cinco colores que representa la identidad de Foundly. Los colores fueron elegidos para lograr un equilibrio visual atractivo sin afectar la facilidad de navegación, transmitiendo los valores de innovación, colaboración y transparencia que definen a la plataforma.
 
-![Branding - FoundlyApp](resources/Images/Chapter-4/StyleGuidelines-Images/Foundly-Logo.png)
+| Color | Hex | Rol en la interfaz |
+|---|---|---|
+| Violeta | `#5147B7` | Color principal. Transmite creatividad, innovación y un enfoque moderno. |
+| Morado | `#8176DC` | Color secundario. Complementa al violeta aportando armonía y sofisticación. |
+| Naranja | `#EE9D32` | Color de acento. Añade dinamismo y energía, atrayendo la atención en puntos clave. |
+| Gris | `#91908C` | Color neutro. Mantiene el balance visual aportando elegancia y neutralidad. |
+| Blanco | `#FFFFFF` | Fondo base. Brinda claridad y limpieza, permitiendo que los demás colores destaquen. |
 
-## Typography
+![Paleta de colores — Foundly](resources/Images/Chapter-4/StyleGuidelines-Images/Colors%20-%20Foundly%20App.png)
 
-Nuestra elección para la tipografía que se utilizará en nuestro landing page es **Raleway**. Raleway es una tipografía elegante y versátil, con un diseño moderno y que transmite innovación. La tipografía transmitirá al segmento objetivo de emprendedores que somos una plataforma seria y transparente. Por el otro lado, la tipografía demuestra un tono dinámico y fresco, el cual nos ayudará a tener cercanía con el segmento de estudiantes universitarios y profesionales. El tamaño y el peso de la tipografía varía dependiendo del segmento de página y del tipo del dispositivo utilizado al entrar a la página web:
+---
 
-- **Encabezados principales (H1):** Peso ExtraBold (800) | Tamaño: 48–60 px  
-- **Subtítulos (H2, H3):** Peso SemiBold (600) | Tamaño: 28–36 px  
-- **Texto destacado:** Peso Bold (700) | Tamaño: 18–20 px  
-- **Texto de párrafo / cuerpo (Body):** Peso Regular (400) | Tamaño: 16–18 px  
-- **Texto secundario:** Peso Light (300) | Tamaño: 14–15 px  
+#### Branding
 
-### Botones
+El branding de Foundly define la identidad visual de la marca con el objetivo de transmitir de forma inmediata su propuesta de valor: facilitar la colaboración entre personas para desarrollar ideas de emprendimiento de manera simple, rápida y efectiva.
 
-- **Botón principal:** Texto Raleway Bold 18px  
-- **Botón secundario (links o acciones menores):** Texto Raleway Medium 16px 
+El logotipo fue diseñado para comunicar dinamismo y crecimiento, reflejando la velocidad con la que los emprendimientos pueden avanzar cuando cuentan con el equipo y las herramientas adecuadas. La marca busca proyectar confianza, modernidad y cercanía con su comunidad de usuarios.
 
-### Spacing
+![Logotipo — Foundly](resources/Images/Chapter-4/StyleGuidelines-Images/Foundly-Logo.png)
 
-El espaciado es importante para lograr una armonía visual y legibilidad sin incomodar al usuario. Se mantendrá una consistencia en los espaciados para mantener ordenado todas las secciones de la página web, esto se aplica utilizando un espaciado que sea un múltiplo de 8 (8px, 16px, 24px, etc.).
+---
 
-- **Secciones principales:** Entre 80–100 px de separación vertical. Para móviles será de 60–80 px.  
-- **Elementos dentro de una sección:** Incluye títulos, párrafos y botones. Entre 24–40 px de separación vertical u horizontal. Para móviles entre 16–24 px.  
-- **Galerías de imágenes:** Entre 16–24 px de separación horizontal entre cada imagen.  
-- **Entre imagen y texto:** Entre 24–40 px de espaciado horizontal o vertical. Para móviles será de 16–24 px.  
+#### Typography
 
-### Dimensions
+La tipografía principal seleccionada para el Landing Page y la Web Application es **Playfair Display** para encabezados y **Lora** para el cuerpo de texto. Ambas son tipografías serif que transmiten elegancia, seriedad y modernidad, proyectando una imagen profesional y confiable hacia el segmento de emprendedores, al tiempo que mantienen un tono cercano y accesible para los colaboradores.
 
-En esta sección, se presentarán los tonos de comunicación para los dos posibles usuarios planteados previamente. Los tonos de comunicación son importantes para empatizar y comunicar nuestras ideas de manera que los usuarios comprendan lo que ofrecemos y se sientan identificados con nuestra marca.
+El tamaño y peso tipográfico varía según el nivel jerárquico del contenido y el tipo de dispositivo utilizado:
 
-- **Emprendedores y Startups en Etapa Temprana (Emprendedores):**  
-  Utilizamos un lenguaje inspirador, destacando que sus proyectos actuales y futuros pueden cumplir todas las metas planteadas. Nuestra plataforma se presenta como un impulso para "llegar lejos". El tono será profesional, pero también amigable y cercano, transmitiendo confianza. Además, se enfatiza la colaboración y la facilidad de encontrar personas que apoyen sus startups.
+| Elemento | Tipografía | Peso | Tamaño |
+|---|---|---|---|
+| Encabezado principal (H1) | Playfair Display | Bold (700) | 48–60 px |
+| Subtítulos (H2, H3) | Playfair Display | Regular (400) | 28–36 px |
+| Texto destacado | Lora | SemiBold (600) | 18–20 px |
+| Texto de párrafo / cuerpo | Lora | Regular (400) | 16–18 px |
+| Texto secundario | Lora | Regular (400) | 14–15 px |
+| Botón principal | Lora | Bold (700) | 18 px |
+| Botón secundario | Lora | Medium (500) | 16 px |
 
-- **Estudiantes Universitarios y Profesionales (Colaboradores):**  
-  Empleamos un lenguaje inspiracional y motivador, mostrando que pueden crecer profesionalmente utilizando nuestra plataforma. El tono será dinámico, resaltando oportunidades y beneficios, así como la posibilidad de colaborar en distintos emprendimientos.
+---
+
+#### Spacing
+
+El espaciado garantiza armonía visual y legibilidad en todas las secciones de la plataforma. Se utiliza un sistema de espaciado basado en múltiplos de 8 px (8, 16, 24, 32, 40...) para mantener consistencia y orden en todos los componentes.
+
+| Elemento | Escritorio | Móvil |
+|---|---|---|
+| Separación entre secciones principales | 80–100 px | 60–80 px |
+| Separación entre elementos dentro de una sección | 24–40 px | 16–24 px |
+| Separación entre imágenes en galerías | 16–24 px | 16 px |
+| Separación entre imagen y texto | 24–40 px | 16–24 px |
+
+---
+
+#### Tone of Voice
+
+Los tonos de comunicación definen cómo Foundly se dirige a cada segmento, con el objetivo de generar empatía, transmitir la propuesta de valor con claridad y lograr que los usuarios se identifiquen con la marca.
+
+- **Emprendedores y Startups en Etapa Temprana:** Se utiliza un lenguaje inspirador y profesional que destaca el potencial de sus proyectos y el impulso que Foundly puede brindarles para alcanzar sus metas. El tono es confiable, cercano y orientado a la acción, enfatizando la facilidad de encontrar colaboradores y acceder a financiamiento dentro de una sola plataforma.
+
+- **Estudiantes Universitarios y Profesionales (Colaboradores):** Se emplea un lenguaje motivacional y dinámico que resalta las oportunidades de crecimiento profesional, la posibilidad de adquirir experiencia práctica real y los beneficios de colaborar en proyectos con impacto. El tono es fresco, accesible y orientado al desarrollo personal y profesional.
+  
 ### 4.1.2. Web Style Guidelines
 Para las pautas de estilo web, se aplicarán diversos principios del diseño del landing page para adaptar la lectura de la página a las necesidades del usuario. Se mencionarán los principios utilizados:
 
@@ -68,51 +86,80 @@ Para las pautas de estilo web, se aplicarán diversos principios del diseño del
 
 - **Accesibilidad:**  
   Buscamos garantizar la inclusividad en nuestra página web, especialmente para personas con discapacidad visual. Se incluirán descripciones alternativas en las imágenes y se mantendrá un contraste adecuado entre textos y fondos para asegurar una correcta legibilidad.
+  
 ## 4.2. Information Architecture
 
 En Foundly, la arquitectura de la información se orienta a estructurar el contenido de manera clara, coherente y accesible tanto en la landing page como en la aplicación web. Nuestro objetivo es que los emprendedores, colaboradores y usuarios interesados en proyectos sostenibles puedan navegar de forma intuitiva, identificar rápidamente las secciones relevantes y acceder sin esfuerzo a las funcionalidades principales, incluyendo el monitoreo de impacto ambiental mediante IoT.
 
 ### 4.2.1. Organization Systems
 
-En Foundly, aplicaremos distintos sistemas de organización de información para garantizar que los usuarios encuentren fácilmente lo que necesitan y que la experiencia de navegación sea clara, eficiente y sin confusiones.
+En Foundly se aplican distintos sistemas de organización de la información para garantizar que los usuarios encuentren lo que necesitan de forma rápida, clara y sin fricciones, independientemente del dispositivo desde el que accedan a la plataforma.
 
-Organización visual del contenido:
+---
 
-Jerárquica (Visual Hierarchy): Se destacará la información más relevante mediante jerarquías visuales que guíen al usuario a través de diferentes niveles de contenido. Por ejemplo, en la página de inicio, la sección de roles permitirá al visitante identificarse como Emprendedor, Colaborador o Inversionista, mostrando en cada tarjeta información diferenciada y priorizada según su perfil. Además, se destacará la sección de monitoreo ambiental, donde se presentarán métricas IoT como calidad del aire, humedad o impacto del proyecto sostenible.
+#### Organización visual del contenido
 
-Secuencial (Step-by-step): Se aplicará en procesos clave como el registro de usuarios, la creación de proyectos, la conformación de equipos, la creación de campañas de financiamiento y la configuración del monitoreo IoT. Esto permitirá que los usuarios completen sus tareas paso a paso de manera clara y guiada.
+**Jerárquica (Visual Hierarchy)**
 
-Matricial (Matrix Organization): Se aplicará en la sección de planes de suscripción y funcionalidades, donde la información se presenta en formato comparativo. Los planes Gratuito y Premium se disponen en columnas paralelas, permitiendo identificar rápidamente diferencias como acceso a métricas IoT avanzadas, mayor visibilidad y herramientas de análisis.
+Se destacará la información más relevante mediante jerarquías visuales que guíen al usuario a través de los distintos niveles de contenido de la plataforma. Algunos ejemplos de aplicación:
 
-Esquemas de categorización de contenido:
+- En la página de inicio, la sección de roles permite al visitante identificarse como Emprendedor o Colaborador, mostrando en cada tarjeta información diferenciada y priorizada según su perfil.
+- La sección de monitoreo IoT presenta las métricas de sensores —calidad del aire, humedad, temperatura, entre otras— de forma destacada dentro de cada campaña, facilitando la evaluación rápida del estado del prototipo.
 
-Por tópicos: Los proyectos y recursos disponibles se organizarán en categorías temáticas como tecnología, salud, educación, sostenibilidad y medio ambiente, permitiendo identificar rápidamente proyectos con monitoreo IoT.
+**Secuencial (Step-by-step)**
 
-Cronológico: Se empleará en la sección de novedades y actualizaciones, ordenando lanzamientos de proyectos, métricas de impacto y avances en tiempo real.
+Se aplica en todos los procesos clave que requieren que el usuario complete una serie de pasos en orden para alcanzar un objetivo. Los flujos que siguen este esquema son:
 
-Según audiencia (Grupos de usuarios): Habrá secciones dirigidas a emprendedores, colaboradores e inversionistas, mostrando contenido personalizado según sus intereses y necesidades.
+- Registro e inicio de sesión de usuarios.
+- Creación y publicación de proyectos.
+- Conformación y gestión de equipos colaborativos.
+- Configuración de campañas de financiamiento con metas y recompensas.
+- Activación y configuración del panel de monitoreo IoT.
+
+**Matricial (Matrix Organization)**
+
+Se aplica en la sección de planes de suscripción, donde la información se presenta en formato comparativo. Los planes Gratuito y Premium se disponen en columnas paralelas, permitiendo al usuario identificar rápidamente las diferencias entre ambas opciones, como el acceso a métricas IoT avanzadas, el número de proyectos permitidos, la visibilidad en el ranking y las herramientas de análisis disponibles.
+
+---
+
+#### Esquemas de categorización del contenido
+
+**Por tópicos**
+
+Los proyectos y recursos disponibles en la plataforma se organizan en categorías temáticas que facilitan la exploración y el descubrimiento de iniciativas afines. Las categorías principales incluyen tecnología, salud, educación, sostenibilidad y medio ambiente, con una subcategoría destacada para proyectos con monitoreo IoT activo.
+
+**Cronológico**
+
+Se emplea en la sección de novedades y actualizaciones de la plataforma, ordenando los lanzamientos de proyectos, las métricas de impacto publicadas y los avances registrados en tiempo real por orden de aparición, de modo que los usuarios visualicen siempre la información más reciente en primer lugar.
+
+**Según audiencia (Grupos de usuarios)**
+
+El contenido de la plataforma se adapta al perfil del usuario autenticado, mostrando secciones y funcionalidades personalizadas según su rol:
+
+- **Emprendedor:** Acceso al panel de gestión de proyectos, hitos, tareas, campañas de financiamiento y panel IoT.
+- **Colaborador:** Acceso al explorador de proyectos, historial de postulaciones, panel de tareas asignadas y perfil de reputación.
 
 ### 4.2.2. Labeling Systems
 
-En Foundly, el sistema de etiquetado organiza la información de forma clara y comprensible para los usuarios. Cada sección de la landing page y la aplicación está identificada con títulos y etiquetas que permiten entender rápidamente el contenido y las funciones.
+En Foundly, el sistema de etiquetado organiza la información de forma clara y comprensible para todos los usuarios, independientemente de su nivel de experiencia con plataformas digitales. Cada sección del Landing Page y de la Web Application está identificada con títulos y etiquetas que permiten comprender de forma inmediata el contenido disponible y las acciones posibles.
 
-Inicio / Home: Presenta una visión general de Foundly, destacando la conexión entre emprendedores, colaboradores y el monitoreo de impacto ambiental con IoT.
+Las etiquetas siguen un formato bilingüe (español / inglés) para garantizar coherencia entre el sitio estático y la aplicación web, y están alineadas con la terminología utilizada en los menús de navegación, los botones de acción y los encabezados de sección.
 
-Nosotros / About Us: Describe al equipo detrás de Foundly, misión, visión y el impacto que busca generar en el ecosistema emprendedor y sostenible.
+---
 
-Proyectos / Projects: Permite explorar proyectos disponibles, incluyendo aquellos con monitoreo ambiental IoT.
-
-Servicios / Services: Explica los beneficios de la plataforma como formación de equipos, financiamiento colaborativo, gestión de proyectos y monitoreo ambiental.
-
-Impacto IoT / IoT Impact: Muestra métricas ambientales en tiempo real como calidad del aire, humedad o participación del proyecto.
-
-Planes / Plans: Presenta los planes gratuitos y premium con acceso a métricas avanzadas y funcionalidades adicionales.
-
-Empresas / Companies: Muestra organizaciones interesadas en proyectos innovadores y sostenibles.
-
-Contacto / Contact Us: Proporciona medios de comunicación como correo, redes sociales y soporte.
-
-Registro / Sign Up: Permite crear una cuenta como emprendedor, colaborador o inversionista.
+| Etiqueta | Descripción |
+|---|---|
+| **Inicio / Home** | Presenta una visión general de Foundly, destacando la conexión entre emprendedores y colaboradores, y el monitoreo de prototipos con IoT en tiempo real. |
+| **Nosotros / About Us** | Describe al equipo detrás de Foundly, su misión, visión y el impacto que busca generar en el ecosistema emprendedor peruano. |
+| **Servicios / Services** | Explica los beneficios principales de la plataforma: formación de equipos, financiamiento colaborativo, gestión de proyectos y monitoreo IoT. |
+| **Proyectos / Projects** | Permite explorar los proyectos publicados por emprendedores, incluyendo aquellos con panel de monitoreo IoT activo. |
+| **IoT en Vivo / IoT Live** | Muestra métricas de sensores en tiempo real —calidad del aire, humedad, temperatura, entre otras— vinculadas a las campañas activas de la plataforma. |
+| **Planes / Plans** | Presenta los planes Gratuito y Premium con sus características, diferencias y precios, permitiendo al usuario elegir el que mejor se adapta a sus necesidades. |
+| **Emprendedor / Entrepreneur** | Sección dirigida al segmento emprendedor, con información sobre cómo crear proyectos, gestionar equipos y activar campañas de financiamiento. |
+| **Colaborador / Collaborator** | Sección dirigida al segmento colaborador, con información sobre cómo postularse a proyectos, publicar evidencias y construir reputación. |
+| **Contacto / Contact Us** | Proporciona los medios de comunicación disponibles: correo electrónico, WhatsApp y redes sociales del equipo. |
+| **Registro / Sign Up** | Permite crear una cuenta en la plataforma eligiendo el rol de Emprendedor o Colaborador para personalizar la experiencia desde el inicio. |
+| **Iniciar sesión / Log In** | Permite a los usuarios registrados acceder a su cuenta y retomar su actividad en la plataforma. |
 
 ### 4.2.3. SEO Tags and Meta Tags
 
@@ -243,137 +290,165 @@ Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayu
 [Link del Figma](https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=37-30&t=idjFXcEp21eRWifQ-1)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-A continuación, se presentan los wireflows que competen a nuestros user goals.
 
-User goal 1: Como usuario, quiero poder iniciar sesión y poder recuperar mi contraseña en caso de pérdida.
+A continuación se presentan los Wireflow Diagrams que describen los flujos de interacción del usuario para cada User Goal identificado. Cada wireflow combina la secuencia de pantallas con las decisiones y acciones que el usuario realiza para completar una tarea específica dentro de la aplicación.
 
+---
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 1.jpeg">
+**User Goal 1:** Como usuario, quiero poder iniciar sesión y recuperar mi contraseña en caso de haberla olvidado.
 
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 1.jpeg" alt="Wireflow 1 — Inicio de sesión y recuperación de contraseña">
 
-Cuando el usuario desea iniciar sesión, pero ha olvidado su contraseña, podrá darle al botón de recuperar contraseña. Este botón abre una ventana emergente que, al completar los datos, te redirigirá a la pantalla de cambio de contraseña. Finalmente, el usuario podrá iniciar sesión con su nueva contraseña.
+Cuando el usuario desea iniciar sesión pero ha olvidado su contraseña, puede seleccionar la opción de recuperación de contraseña. Esta acción abre una ventana emergente donde el usuario completa sus datos de verificación y es redirigido a la pantalla de cambio de contraseña. Una vez actualizada, el usuario puede iniciar sesión con sus nuevas credenciales.
 
-User goal 2: Como colaborador, quiero poder revisar información detallada del proyecto de un emprendedor que puedo colaborar.
+---
 
+**User Goal 2:** Como colaborador, quiero poder revisar la información detallada de un proyecto al que puedo postularme.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 2.jpeg">
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 2.jpeg" alt="Wireflow 2 — Revisión de detalle de proyecto">
 
+Cuando un colaborador desea explorar un proyecto publicado por un emprendedor, puede seleccionarlo desde el listado de proyectos disponibles. Esta acción lo redirige a una vista de detalle donde puede visualizar toda la información relevante del proyecto, incluyendo descripción, equipo actual, hitos definidos y, de estar activo, el panel de monitoreo IoT.
 
-Cuando un colaborador desea revisar un proyecto de un emprendedor, podrá presionar un botón para poder ingresar a una nueva ventana donde logrará visualizar toda la información disponible sobre el proyecto del emprendedor.
+---
 
-User goal 3: Como usuario, quiero poder tener la posibilidad de suscribirse a un plan y de esta forma obtener mejores resultados.
+**User Goal 3:** Como usuario, quiero poder suscribirme a un plan para acceder a funcionalidades adicionales.
 
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 3.jpeg" alt="Wireflow 3 — Cambio de plan de suscripción">
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 3.jpeg">
+Desde la pantalla de inicio del usuario autenticado, es posible acceder a la opción de cambio de plan. Esta acción redirige a una vista comparativa donde se muestran las distintas opciones de suscripción disponibles —Plan Gratuito y Plan Premium— con sus características, diferencias y precio, permitiendo al usuario seleccionar el que mejor se adapta a sus necesidades.
 
+---
 
-En la pantalla de inicio del usuario, el usuario podrá presionar el botón Cambiar de plan para ingresar a una nueva página donde se muestra las diferentes opciones de suscripción que puede obtener el usuario.
+**User Goal 4:** Como nuevo usuario, quiero poder registrarme en la plataforma para acceder a sus funcionalidades.
 
-User goal 4: Como usuario, quiero poder registrarme como nuevo usuario que soy y de esta forma acceder a la plataforma.
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 4.jpeg" alt="Wireflow 4 — Registro de nuevo usuario">
 
+Cuando un usuario nuevo desea registrarse, selecciona la opción *¿No tienes cuenta? Regístrate*, donde accede al formulario de registro con sus datos personales y correo electrónico. Al completar y guardar este formulario, es redirigido a una segunda pantalla donde puede configurar su nombre de usuario y foto de perfil. Al finalizar este paso, el usuario obtiene acceso completo a la plataforma.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 4.jpeg">
+---
 
+**User Goal 5:** Como colaborador, quiero poder visualizar los hitos de un proyecto en el que estoy participando.
 
-Cuando un usuario desea registrarse, tendrá que presionar el botón ¿No tienes cuenta? Regístrate, donde accedera a una nueva página de registro con sus datos personales y correo electrónico. Al rellenar el formulario y presionar el botón Guardar, le redirigirá a la siguiente página del formulario, donde ingresara su nombre de usuario y foto de perfil. Finalmente, presionará el botón de guardar y podrá acceder a la página.
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 5.jpeg" alt="Wireflow 5 — Visualización de hitos del colaborador">
 
-User goal 5: Como colaborador, quiero poder ver los hitos que estoy participando de un proyecto que asigno el emprededor
+El colaborador accede a la sección *Proyectos*, donde puede ver todos los proyectos en los que participa actualmente. Al ingresar a un proyecto específico, navega a la pestaña *Hitos*, donde visualiza el listado de hitos registrados. Si desea ampliar la información de un hito en particular, puede seleccionarlo para acceder a su vista de detalle con toda la información asociada.
 
+---
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 5.jpeg">
+**User Goal 6:** Como colaborador, quiero poder ver las tareas que tengo asignadas en un proyecto.
 
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 6.jpeg" alt="Wireflow 6 — Visualización de tareas del colaborador">
 
-Cuando el colaborador, que participa en uno o varios proyectos, desee ver los hitos asignados por uno o varios emprendedores, tendrá que ir a la sección Proyectos donde podrá ver los proyectos en el que el colaborador ha participado. Al ingresar a uno de los proyectos, tendrá que ir a la seccion Hitos, donde podrá ver los hitos que realizo, y, si desea mas información, podrá presionar un hito y ver toda la información relacionada al hito presionado.
+El colaborador accede a la sección *Proyectos* y selecciona el proyecto del que desea revisar sus tareas pendientes. Dentro del proyecto, navega a la pestaña *Tareas*, donde puede visualizar el listado de tareas asignadas a su perfil, junto con su estado actual, prioridad y fecha de vencimiento.
 
-User goal 6: Como colaborador, quiero poder ver las tareas que debo hacer de un proyecto que asigno el emprededor
+---
 
+**User Goal 7:** Como usuario, quiero poder visitar el perfil de otro usuario para conocer los proyectos en los que ha participado.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 6.jpeg">
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 7.jpeg" alt="Wireflow 7 — Visualización de perfil de colaborador">
 
+Desde el menú principal, el usuario puede acceder a la sección de *Colaboradores*, donde se presentan dos vistas: el listado general de colaboradores registrados y el ranking de colaboradores destacados. Al seleccionar a cualquier colaborador en alguna de estas vistas, accede a su perfil público, donde puede revisar sus proyectos, habilidades, evidencias publicadas y puntuación de reputación.
 
-Cuando el colaborador, que participa en uno o varios proyectos, desee ver las tareas asignados por uno o varios emprendedores, tendrá que ir a la sección Proyectos donde podrá ver los proyectos en el que el colaborador ha participado. Al ingresar a uno de los proyectos, tendrá que ir a la sección Tareas, dondre podrá ver las tareas asignadas al colaborador.
-
-User goal 7: Como usuario, quiero poder ver el perfil de otro usuario donde pueda ver los proyecto que realizo
-
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 7.jpeg">
-
-Dentro del menú principal, un usuario podrá ir a la sección de colaboradores, donde podrá ver los colaboradores registrados en la aplicación. Además, existe una lista de ranking de colaboradores, al presionar cualquier colaborador en las 2 listas, podrá ingresar al perfil de colaborador presionado.
+---
 
 ### 4.4.3. Web Applications Mock-ups
 
-Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
+Los mockups constituyen una representación visual de alta fidelidad de la interfaz de Foundly, permitiendo visualizar la apariencia final, la disposición de los componentes y la consistencia visual antes de iniciar el desarrollo. Fueron elaborados en Figma siguiendo los lineamientos de la paleta de colores, tipografía y sistema de espaciado definidos en las Style Guidelines.
 
-<img src="resources/Images/Chapter-4/web-aplication/view general/mockup/captura de todo el mockup sin flujo.png">
+<img src="resources/Images/Chapter-4/web-aplication/view general/mockup/captura de todo el mockup sin flujo.png" alt="Web Application Mock-ups — Vista general Foundly">
 
-[Link Figma](https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=0-1&t=pwFb1BAZpRtspezu-1)
+[Ver mockups completos en Figma](https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=0-1&t=pwFb1BAZpRtspezu-1)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-A continuación, se presentan los diagramas de flujo de usuarios relacionados con nuestros objetivos de usuario.
+A continuación se presentan los diagramas de flujo de usuario que describen las rutas de navegación e interacción para cada objetivo identificado. Los User Flow Diagrams complementan los Wireflows al representar, de forma más detallada, las decisiones y bifurcaciones que puede tomar el usuario durante el uso de la aplicación.
 
-User goal 1: Como colaborador, quiero ver el proyecto antes de postularme donde pueda ver resumen, beneficios, los roles disponibles entre otros para luego poner postularme
+---
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 1.jpeg" alt = "UserFlow">
+**User Goal 1:** Como colaborador, quiero ver la información completa de un proyecto antes de postularme, incluyendo resumen, beneficios y roles disponibles.
 
-En la pantalla principal del colaborador, podrá ver varios proyectos. Cuando presiona el botón Ver más de un proyecto, podrá ver toda la información publicada sobre el proyecto. Después, puede darle a volver para poder presionar el botón Postular, si desea postularse.
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 1.jpeg" alt="User Flow 1 — Revisión y postulación a proyecto">
 
-User goal 2: Como emprededor, quiero crear un hito dentro del proyecto para marcar etapas importantes y medir el progreso alcanzado.
+Desde la pantalla principal del colaborador, se listan los proyectos disponibles. Al seleccionar *Ver más* en un proyecto de interés, el colaborador accede a la vista de detalle con toda la información publicada. Desde allí puede regresar al listado o proceder a presionar el botón *Postular* para enviar su solicitud de participación.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 2.jpeg" alt = "UserFlow">
+---
 
-Cuando un emprendedor desea crear un hito en su proyecto, tendrá que ir a la sección Hitos, donde presionará el botón Crear Hito. Completará todos los datos requeridos para un Hito, y finalmente podrá crear y publicar el Hito.
+**User Goal 2:** Como emprendedor, quiero crear un hito dentro de mi proyecto para marcar etapas importantes y medir el progreso alcanzado.
 
-User goal 3: Como emprededor, quiero crear un proyecto y publicarlo para poder recibir postulaciones de colaboradores interesados en unirse.
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 2.jpeg" alt="User Flow 2 — Creación de hito">
 
+El emprendedor accede a la sección *Hitos* dentro de su proyecto y selecciona el botón *Crear Hito*. Completa los datos requeridos —título, descripción, fecha de vencimiento y porcentaje objetivo— y confirma la creación. El hito queda publicado y visible para todos los miembros del equipo.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 3.jpeg" alt = "UserFlow">
+---
 
+**User Goal 3:** Como emprendedor, quiero crear y publicar un proyecto para recibir postulaciones de colaboradores interesados.
 
-Cuando un emprendedor desea crear un proyecto, tendrá que completar los datos del proyecto, como Nombre, área, etiquetas, nivel académico, habilidades, duración y roles creados. Cuando todos los datos estén completos, el emprendedor podrá crear y publicar su proyecto en la página.
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 3.jpeg" alt="User Flow 3 — Creación y publicación de proyecto">
 
-User goal 4: Como emprededor, quiero crear una tarea dentro de mi proyecto para organizar y asignar actividades específicas a los colaboradores.
+El emprendedor completa el formulario de creación de proyecto con los datos requeridos: nombre, área, etiquetas, nivel académico requerido, habilidades buscadas, duración estimada y roles disponibles. Una vez completados todos los campos, confirma la publicación y el proyecto queda visible en la plataforma para que los colaboradores puedan encontrarlo y postularse.
 
+---
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 4.jpeg" alt = "UserFlow">
+**User Goal 4:** Como emprendedor, quiero crear una tarea dentro de mi proyecto para organizar y asignar actividades específicas a los colaboradores.
 
-Cuando un emprendedor desea crear una tarea en su proyecto, tendrá que ir a la sección Tareas, donde presionará el botón Crear Tarea. El emprendedor completará los datos que se requiere, como título de tarea, fecha de entrega, descripción, etc. Cuando todos los datos sean completados, podrá presionar el botón Enviar para enviar la tarea.
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 4.jpeg" alt="User Flow 4 — Creación de tarea">
 
-User goal 5: Como emprededor, quiero crear una meta de recaudacion y reward para recibir contribuciones de los usuarios que quieran donar de dos forma una en la que el puede poner el monto que quiera y comprando un reward que contiene beneficios.
+El emprendedor accede a la sección *Tareas* de su proyecto y selecciona el botón *Crear Tarea*. Completa los campos requeridos —título, descripción, fecha de entrega, prioridad y colaborador asignado— y presiona *Enviar* para registrar la tarea. El colaborador asignado recibe una notificación con los detalles de la tarea creada.
 
+---
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 5.jpeg" alt = "UserFlow">
+**User Goal 5:** Como emprendedor, quiero crear una meta de recaudación y recompensas para recibir contribuciones de los usuarios interesados en apoyar mi proyecto.
 
-Cuando un emprendedor desee crear una meta de recaudación o una recompensa (reward), podrá hacerlo desde la sección Contribuciones. Para crear una meta de recaudación, deberá presionar el botón “Añadir una meta”, donde podrá completar los datos necesarios, como el nombre de la meta, el monto a donar y la descripción. Luego podrá guardar o cancelar la meta. Al guardar, la meta aparecerá en la sección Contribuciones. Para crear una recompensa, deberá presionar el botón “Añadir una reward”, donde ingresará los datos correspondientes. Una vez completados todos los campos, podrá presionar el botón “Guardar”, y la recompensa creada se mostrará en la sección Contribuciones.
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 5.jpeg" alt="User Flow 5 — Creación de meta de recaudación y rewards">
 
-User goal 6: Como usuario, quiero realizar donaciones a un proyecto que me interese y aportar monetariamente y tambien recibir beneficios.
+Desde la sección *Contribuciones* del proyecto, el emprendedor puede gestionar dos elementos:
 
+- **Meta de recaudación:** Al presionar *Añadir una meta*, completa el nombre, monto objetivo y descripción. Al guardar, la meta queda visible en la sección de contribuciones del proyecto.
+- **Recompensa (Reward):** Al presionar *Añadir un reward*, completa los datos correspondientes —monto mínimo, beneficios incluidos y cupos disponibles—. Al guardar, la recompensa queda publicada y disponible para los aportantes.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 6.jpeg" alt = "UserFlow">
+---
 
-Cuando un usuario desee donar a un proyecto, deberá presionar el botón “Ver más” en el proyecto publicado. Dentro de la sección del proyecto, deberá seleccionar el botón “Contribuir”, donde aparecerán dos opciones de donación: Reward Tier o Donación rápida. En la opción Reward Tier, se mostrarán los diferentes planes o recompensas disponibles para apoyar el proyecto. En la opción de Donación rápida, el usuario solo deberá ingresar el monto a donar, su nombre y correo electrónico. Una vez completados los datos o seleccionada la recompensa, podrá confirmar su contribución y apoyar el proyecto.
+**User Goal 6:** Como usuario, quiero realizar una donación a un proyecto que me interese y, opcionalmente, recibir beneficios a cambio.
 
-User goal 7: Como colaborador, quiero ver y hacer la tarea que me asigno el emprededor en el proyecto que participo
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 6.jpeg" alt="User Flow 6 — Donación a proyecto">
 
+El usuario accede al detalle de un proyecto mediante *Ver más* y selecciona el botón *Contribuir*. La plataforma presenta dos modalidades de donación:
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 7.jpeg" alt = "UserFlow">
+- **Reward Tier:** El usuario selecciona una recompensa disponible y recibe los beneficios asociados al nivel elegido.
+- **Donación rápida:** El usuario ingresa el monto a donar, su nombre y correo electrónico, y confirma la contribución sin necesidad de seleccionar una recompensa.
 
-Cuando un colaborador desee ver o realizar su tarea, podrá acceder a la sección Tareas, donde se mostrarán las tareas asignadas al proyecto. En esta sección habrá dos botones: “Ver tarea” y “Hacer tarea”. Al presionar el botón “Ver tarea”, el colaborador podrá visualizar la descripción de la tarea. Luego, al seleccionar el botón “Hacer tarea”, podrá proceder a realizarla.
+En ambos casos, la transacción se procesa y el monto recaudado del proyecto se actualiza automáticamente.
 
-User goal 8: Como colaborador, quiero ver las tareas que tengo en un hito y tambien ver las tareas completadas de los miembros de los hitos que estan trabajando conmingo. Tambien hacer las tareas asignadas en el hito por el emprededor.
+---
 
+**User Goal 7:** Como colaborador, quiero ver y completar las tareas que me ha asignado el emprendedor en el proyecto en el que participo.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 8.jpeg" alt = "UserFlow">
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 7.jpeg" alt="User Flow 7 — Visualización y realización de tarea">
 
+El colaborador accede a la sección *Tareas* del proyecto donde participa. Para cada tarea asignada dispone de dos acciones:
 
-Cuando un colaborador desee ver las tareas dentro de un hito, deberá ir a la sección Hitos, donde podrá visualizar los hitos del proyecto. Al presionar el botón “Ver hito”, podrá acceder a la descripción del mismo. Dentro de esta pantalla, al seleccionar el botón “Ver tareas”, podrá visualizar las tareas relacionadas con ese hito. En la vista de Ver hito, también podrá consultar las tareas completadas por otros colaboradores utilizando el botón “Ver tarea” dentro de cada tarea completada. Si el colaborador desea realizar una tarea pendiente, deberá presionar el botón “Hacer tarea”, donde podrá revisar los requisitos necesarios para completarla. Finalmente, al presionar el botón “Enviar”, podrá enviar la tarea realizada.
+- **Ver tarea:** Muestra la descripción completa, fecha de entrega y requisitos de la tarea.
+- **Hacer tarea:** Permite al colaborador completar y enviar la tarea una vez que ha revisado los requisitos.
 
-User goal 9: Como emprendedor, quiero activar el monitoreo IOT en mi proyecto para que mis colaboradores puedan visualizar las métricas ambientales en tiempo real y contribuir al seguimiento del impacto.
+---
 
+**User Goal 8:** Como colaborador, quiero ver las tareas de un hito, revisar el avance de mis compañeros y completar las tareas que tengo asignadas.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Sin título.jpg">
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 8.jpeg" alt="User Flow 8 — Gestión de tareas dentro de un hito">
 
+El colaborador accede a la sección *Hitos* y selecciona el botón *Ver hito* para revisar la descripción y el estado del hito seleccionado. Desde esta vista puede:
 
-Este user flow describe el proceso para activar el monitoreo IoT dentro de un proyecto. Inicia con la creación del proyecto, donde el usuario ingresa datos básicos y habilita el monitoreo ambiental. Luego, se accede a un dashboard general que muestra el progreso, tareas y colaboradores. Finalmente, el usuario puede visualizar métricas ambientales en tiempo real (como calidad del aire, temperatura y alertas), permitiendo un seguimiento continuo del impacto y facilitando la toma de decisiones.
+- Seleccionar *Ver tareas* para visualizar todas las tareas asociadas al hito.
+- Consultar las tareas completadas por otros colaboradores mediante el botón *Ver tarea* dentro de cada entrega.
+- Completar sus tareas pendientes seleccionando *Hacer tarea*, revisando los requisitos y enviando su entrega mediante el botón *Enviar*.
+
+---
+
+**User Goal 9:** Como emprendedor, quiero activar el monitoreo IoT en mi proyecto para que los colaboradores y financiadores puedan visualizar las métricas de sensores en tiempo real.
+
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Sin título.jpg" alt="User Flow 9 — Activación del panel IoT">
+
+El flujo de activación IoT se inicia durante la creación del proyecto, donde el emprendedor habilita la opción de monitoreo de sensores y selecciona la categoría correspondiente —calidad del aire, agua y riego, energía solar o salud y bienestar—. Una vez activado, el panel IoT queda integrado en el dashboard general del proyecto, donde muestra métricas en tiempo real como temperatura, humedad, CO₂ u otras variables según la categoría elegida. Estas métricas se actualizan automáticamente cada 5 segundos, permitiendo a colaboradores y financiadores hacer seguimiento continuo del estado del prototipo y facilitar la toma de decisiones basada en datos.
 
 ## 4.5. Web Applications Prototyping
 
@@ -391,124 +466,125 @@ En las siguientes secciones se presenta cada nivel del modelo, explicando la est
 
 ### 4.6.1. Design-Level Event Storming
 
-Para identificar los eventos de dominio, es recomendable realizar una sesión de Event Storming. Esta técnica permite visualizar y comprender el flujo de eventos dentro del dominio, facilitando la identificación de los Bounded Context.
+Para identificar los eventos de dominio, el equipo realizó una sesión de Event Storming. Esta técnica permite visualizar y comprender el flujo de eventos dentro del dominio, facilitando la identificación de los Bounded Contexts y sus responsabilidades dentro de la arquitectura de Foundly.
 
-El desarrollo del proceso del Domain-Driven Design se realizó en la aplicación Miro: 
+El desarrollo del proceso de Domain-Driven Design se realizó en la herramienta Miro:
 
-<p><a target="_blank"  href="https://miro.com/welcomeonboard/cHVMcFFueFZFQjcyVWkrMUNzNWVjSGZYSDhFaEpXSUlRV0FZYnF3QTAzczloRXhSTFlFbkVIcThvM044OWZBWjYxNTlQSFRFbk1TbzRUSkpJNG9YOFBmdzQ3QVkzWmFoalVhN1FnMGw5YWlnYVpwYUllM1N0TTdtanFXTytoaE5zVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=425540868454" title="Title">Miro</p></td>
+[Ver Event Storming en Miro](https://miro.com/welcomeonboard/cHVMcFFueFZFQjcyVWkrMUNzNWVjSGZYSDhFaEpXSUlRV0FZYnF3QTAzczloRXhSTFlFbkVIcThvM044OWZBWjYxNTlQSFRFbk1TbzRUSkpJNG9YOFBmdzQ3QVkzWmFoalVhN1FnMGw5YWlnYVpwYUllM1N0TTdtanFXTytoaE5zVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=425540868454)
 
-**IAM (Identify Acces Management):**
+A partir de este proceso se identificaron los siguientes Bounded Contexts:
 
-El bounded context IAM (Identity and Access Management) es responsable de la gestión de la identidad de los usuarios dentro de la plataforma Foundly, asegurando procesos seguros de autenticación y acceso al sistema.
+---
 
-Este contexto administra funcionalidades clave como el registro de nuevos usuarios, inicio y cierre de sesión, gestión de credenciales, recuperación y restablecimiento de contraseñas, así como la actualización de datos personales. Además, valida la información ingresada por los usuarios y garantiza la correcta persistencia de los datos.
+#### IAM — Identity & Access Management
 
-El IAM permite identificar y autenticar a los usuarios dentro de la plataforma, estableciendo una base segura para su interacción con las funcionalidades de Foundly, como la creación de proyectos, participación en equipos y gestión de contribuciones.
+El bounded context IAM es responsable de la gestión de la identidad de los usuarios dentro de Foundly, asegurando procesos seguros de autenticación y control de acceso al sistema.
 
-Su propósito principal es garantizar un acceso confiable, seguro y controlado, protegiendo la información del sistema y asegurando que únicamente usuarios autorizados puedan acceder a los recursos de la plataforma.
+Administra funcionalidades clave como el registro de nuevos usuarios, inicio y cierre de sesión, gestión de credenciales, recuperación y restablecimiento de contraseñas, y actualización de datos personales. Valida la información ingresada y garantiza la correcta persistencia de los datos de autenticación.
 
-<img src="resources/Images/Chapter-4/bounded-context/IAM.png" alt="IAM">
+Su propósito principal es garantizar un acceso confiable, seguro y controlado, protegiendo la información del sistema y asegurando que únicamente usuarios autorizados puedan interactuar con los recursos de la plataforma.
 
-**Profile Management:**
+<img src="resources/Images/Chapter-4/bounded-context/IAM.png" alt="Bounded Context — IAM">
 
-El bounded context Profile Management se encarga de la gestión de la información personal y configuración de los usuarios dentro de la plataforma Foundly, permitiendo construir y mantener su identidad digital.
+---
 
-Este contexto administra procesos como la creación del perfil de usuario, el registro y actualización de datos personales, la carga de imagen de perfil y la gestión de preferencias. Asimismo, permite que los cambios realizados por el usuario se almacenen automáticamente, garantizando la consistencia de la información.
+#### Profile Management
 
-El Profile Management facilita la personalización de la experiencia dentro de la plataforma, permitiendo que los usuarios definan sus intereses, preferencias y datos relevantes que influyen en su interacción con proyectos, equipos y oportunidades.
+El bounded context Profile Management se encarga de la gestión de la información personal y la configuración de los usuarios dentro de Foundly, permitiendo construir y mantener su identidad digital dentro de la plataforma.
+
+Administra procesos como la creación del perfil de usuario, el registro y actualización de datos personales, la carga de imagen de perfil y la gestión de preferencias. Los cambios realizados por el usuario se almacenan automáticamente, garantizando la consistencia de la información.
 
 Su propósito principal es proporcionar un perfil completo, actualizado y configurable que represente al usuario dentro del ecosistema de Foundly, mejorando la experiencia de uso y la conexión con otros participantes.
 
-<img src="resources/Images/Chapter-4/bounded-context/Profile-management.png" alt="Profile">
+<img src="resources/Images/Chapter-4/bounded-context/Profile-management.png" alt="Bounded Context — Profile Management">
 
-**Project Management:**
+---
 
-El bounded context Project Management se encarga de la gestión completa del ciclo de vida de los proyectos dentro de la plataforma Foundly, desde su creación hasta su finalización.
+#### Project Management
 
-Este contexto permite a los emprendedores crear proyectos mediante formularios estructurados, definir sus objetivos y publicarlos para que estén disponibles a otros usuarios. Asimismo, gestiona la visualización de proyectos, tanto creados como participados, facilitando la exploración y el acceso a oportunidades de colaboración.
+El bounded context Project Management se encarga de la gestión completa del ciclo de vida de los proyectos dentro de Foundly, desde su creación hasta su finalización.
 
-El sistema administra el proceso de postulación de colaboradores, incluyendo el envío de solicitudes, su evaluación y la decisión de aceptación o rechazo por parte del emprendedor. Además, maneja eventos como la incorporación de nuevos miembros al proyecto o su salida voluntaria.
+Permite a los emprendedores crear proyectos mediante formularios estructurados, definir objetivos y publicarlos para que estén disponibles a otros usuarios. Gestiona la visualización de proyectos —tanto creados como participados—, el proceso de postulación de colaboradores, la evaluación y aceptación o rechazo de solicitudes, y la incorporación o salida de miembros del equipo. Adicionalmente, administra el estado del proyecto (creado, publicado, en progreso o completado) y permite habilitar el monitoreo IoT dentro del proyecto.
 
-Adicionalmente, este contexto permite habilitar el monitoreo del proyecto, gestionar su estado (creado, publicado, en progreso o completado) y dar seguimiento a su evolución hasta su finalización.
+Su propósito principal es organizar y controlar la gestión de proyectos colaborativos, facilitando la interacción entre emprendedores y colaboradores con un flujo estructurado de principio a fin.
 
-Su propósito principal es organizar y controlar la gestión de proyectos colaborativos dentro de Foundly, facilitando la interacción entre emprendedores y colaboradores, y asegurando un flujo estructurado desde la creación hasta la culminación del proyecto.
+<img src="resources/Images/Chapter-4/bounded-context/Project-management.png" alt="Bounded Context — Project Management">
 
-<img src="resources/Images/Chapter-4/bounded-context/Project-management.png" alt="Project">
+---
 
+#### Subscription Management
 
-**Subscription Management:**
+El bounded context Subscription Management se encarga de la gestión de los planes de suscripción dentro de Foundly, permitiendo a los usuarios acceder a funcionalidades adicionales mediante un modelo de pago recurrente.
 
-El bounded context Subscription Management se encarga de la gestión de los planes de suscripción dentro de la plataforma Foundly, permitiendo a los usuarios acceder a funcionalidades adicionales mediante un modelo de pago recurrente.
+Administra procesos como la selección de planes, el registro y validación de datos de pago, y la ejecución de transacciones mediante servicios externos como Stripe. Gestiona el ciclo de vida completo de la suscripción, incluyendo su activación, renovación automática, expiración y cancelación.
 
-Este contexto administra procesos como la selección de planes de suscripción, el registro y validación de los datos de pago, y la ejecución de transacciones mediante servicios externos como Stripe. Asimismo, gestiona el ciclo de vida de la suscripción, incluyendo su activación, renovación automática, expiración y cancelación.
+<img src="resources/Images/Chapter-4/bounded-context/Subscription-managment.png" alt="Bounded Context — Subscription Management">
 
-<img src="resources/Images/Chapter-4/bounded-context/Subscription-managment.png" alt="Subscription">
+---
 
+#### Notification Management
 
-**Notification Management:**
+El bounded context Notification Management se encarga de la generación y envío de notificaciones dentro de Foundly, manteniendo a los usuarios informados sobre eventos relevantes relacionados con su actividad en la plataforma.
 
-El bounded context Notification Management se encarga de la generación y envío de notificaciones dentro de la plataforma Foundly, permitiendo mantener informados a los usuarios sobre eventos relevantes relacionados con su actividad.
+Administra la creación de notificaciones a partir de distintos eventos del sistema, como nuevas postulaciones, aceptación o rechazo de solicitudes, asignación y finalización de tareas, y progreso de hitos. Gestiona el envío de estas notificaciones a los usuarios correspondientes y permite visualizar el historial de notificaciones generadas.
 
-Este contexto administra la creación de notificaciones a partir de distintos eventos del sistema, como nuevas postulaciones a proyectos, aceptación o rechazo de solicitudes, asignación y finalización de tareas, así como el progreso de hitos (milestones). Además, gestiona el envío de estas notificaciones hacia los usuarios correspondientes y permite visualizar el historial de notificaciones generadas.
+Su propósito es asegurar que cada usuario reciba información oportuna sobre los cambios en los proyectos en los que participa, facilitando la coordinación y la toma de decisiones dentro del entorno colaborativo.
 
-El sistema asegura que cada usuario reciba información oportuna sobre cambios en los proyectos en los que participa, facilitando la coordinación, el seguimiento de actividades y la toma de decisiones dentro del entorno colaborativo.
+<img src="resources/Images/Chapter-4/bounded-context/Notification-management.png" alt="Bounded Context — Notification Management">
 
-<img src="resources/Images/Chapter-4/bounded-context/Notification-management.png" alt="Notification">
+---
 
+#### Milestone Management
 
-**Milestone Management:**
+El bounded context Milestone Management se encarga de la gestión de hitos dentro de los proyectos en Foundly, permitiendo organizar el trabajo a nivel grupal y controlar el cumplimiento de objetivos intermedios.
 
-El bounded context Milestone Management se encarga de la gestión de hitos dentro de los proyectos en la plataforma Foundly, permitiendo organizar el trabajo a nivel grupal y controlar el cumplimiento de objetivos intermedios.
+Permite a los emprendedores crear hitos mediante formularios estructurados, definir tareas asociadas y asignarlas a los colaboradores del equipo. Gestiona el ciclo de vida completo del hito, incluyendo su creación, asignación, envío de tareas, revisión y aprobación o rechazo de las actividades realizadas. Contempla además funcionalidades como la carga de evidencias por parte de los colaboradores, la extensión de fechas límite, la eliminación de hitos y la visualización del estado de avance.
 
-Este contexto permite a los emprendedores crear hitos mediante formularios estructurados, definir tareas asociadas y asignarlas a los colaboradores del equipo. Asimismo, gestiona el ciclo de vida de los hitos, incluyendo su creación, asignación, envío de tareas, revisión y aprobación o rechazo de las actividades realizadas.
+<img src="resources/Images/Chapter-4/bounded-context/milestone.png" alt="Bounded Context — Milestone Management">
 
-El sistema también permite a los colaboradores subir evidencias del trabajo realizado dentro de un hito, las cuales pueden ser evaluadas por el emprendedor antes de ser aprobadas. Además, se contemplan funcionalidades como la extensión de fechas límite, eliminación de hitos y visualización del estado de avance.
+---
 
-<img src="resources/Images/Chapter-4/bounded-context/milestone.png" alt="Milestone">
+#### Task Management
 
+El bounded context Task Management se encarga de la gestión de tareas individuales dentro de los proyectos en Foundly, permitiendo organizar, asignar y dar seguimiento al trabajo de cada colaborador.
 
-**Task Management:**
+Permite a los emprendedores crear tareas específicas, asignarlas a los miembros del equipo y definir sus fechas de entrega. Los colaboradores pueden subir el trabajo realizado como evidencia, el cual es evaluado y aprobado o rechazado por el emprendedor. Gestiona el ciclo de vida completo de la tarea e incluye funcionalidades como la extensión de fechas límite, la eliminación de tareas y la visualización del estado actualizado de cada actividad.
 
-El bounded context Task Management se encarga de la gestión de tareas individuales dentro de los proyectos en la plataforma Foundly, permitiendo organizar, asignar y dar seguimiento al trabajo de cada colaborador.
+<img src="resources/Images/Chapter-4/bounded-context/task.png" alt="Bounded Context — Task Management">
 
-Este contexto permite a los emprendedores crear tareas específicas mediante formularios estructurados, asignarlas a los miembros del equipo y definir sus fechas de entrega. Asimismo, los colaboradores pueden subir el trabajo realizado como evidencia, el cual es evaluado posteriormente.
+---
 
-El sistema gestiona el ciclo de vida de las tareas, incluyendo su creación, asignación, envío, revisión y decisión de aprobación o rechazo. Además, contempla funcionalidades como la extensión de fechas límite, eliminación de tareas y visualización del estado actualizado de cada actividad.
+#### Contribution Management
 
-<img src="resources/Images/Chapter-4/bounded-context/task.png" alt="Task">
+El bounded context Contribution Management se encarga de la gestión de las contribuciones realizadas por los usuarios dentro de Foundly, permitiendo apoyar el desarrollo de los proyectos mediante aportes económicos.
 
+Permite a los emprendedores definir objetivos de financiamiento (*funding goals*) y establecer recompensas (*rewards*) asociadas a distintos niveles de contribución. Gestiona el proceso de aporte de los usuarios, registrando cada contribución y confirmando su ejecución. Controla el progreso del financiamiento, permite visualizar el avance hacia la meta establecida y notifica cuando el objetivo ha sido alcanzado.
 
-**Contribution Management:**
+Su propósito principal es facilitar el apoyo a los proyectos mediante contribuciones estructuradas, asegurando transparencia en el seguimiento del financiamiento y promoviendo la participación activa de la comunidad.
 
-El bounded context Contribution Management se encarga de la gestión de las contribuciones realizadas por los usuarios dentro de la plataforma Foundly, permitiendo apoyar el desarrollo de los proyectos mediante aportes.
+<img src="resources/Images/Chapter-4/bounded-context/contribution.png" alt="Bounded Context — Contribution Management">
 
-Este contexto permite a los emprendedores definir objetivos de financiamiento (funding goals) y establecer beneficios asociados a las contribuciones. Asimismo, gestiona el proceso mediante el cual los usuarios pueden realizar aportes a los proyectos, registrando cada contribución y confirmando su ejecución.
+---
 
-El sistema controla el progreso del financiamiento, permitiendo visualizar el avance hacia la meta establecida y notificando cuando el objetivo ha sido alcanzado. Además, facilita la consulta de las contribuciones realizadas por los usuarios, promoviendo la transparencia y confianza dentro de la plataforma.
+#### IoT — Environmental Monitoring
 
-Su propósito principal es facilitar el apoyo a los proyectos mediante contribuciones estructuradas, asegurando el seguimiento del financiamiento y promoviendo la participación activa de la comunidad.
+El bounded context IoT se encarga de la integración y gestión de dispositivos IoT dentro de Foundly, permitiendo el monitoreo de datos del entorno físico asociados a los proyectos de hardware.
 
-<img src="resources/Images/Chapter-4/bounded-context/contribution.png" alt="Contribution">
+Permite activar el monitoreo IoT en los proyectos, gestionar la conexión de dispositivos mediante el broker MQTT de HiveMQ, y registrar los datos capturados como métricas de sensores en tiempo real. Procesa y almacena los indicadores relevantes —calidad del aire, humedad, temperatura, entre otros— que pueden ser utilizados para evaluar el funcionamiento del prototipo y el impacto del proyecto.
 
+<img src="resources/Images/Chapter-4/bounded-context/Iot.png" alt="Bounded Context — IoT Environmental Monitoring">
 
-**IOT:**
+---
 
-El bounded context IoT (Environmental Monitoring) se encarga de la integración y gestión de dispositivos IoT dentro de la plataforma Foundly, permitiendo el monitoreo de datos del entorno físico asociados a los proyectos.
+#### Analytics
 
-Este contexto permite activar el monitoreo IoT en los proyectos, gestionar la conexión de dispositivos y registrar datos capturados como métricas ambientales. Asimismo, procesa la información obtenida, almacenando indicadores relevantes que pueden ser utilizados para evaluar el impacto del proyecto.
+El bounded context Analytics se encarga del procesamiento y análisis de los datos generados dentro de Foundly, permitiendo transformar información en indicadores útiles para la toma de decisiones.
 
-<img src="resources/Images/Chapter-4/bounded-context/Iot.png" alt="Iot">
+Permite resumir métricas, detectar información significativa y generar reportes reflejados en dashboards actualizados, facilitando la visualización del rendimiento de los proyectos y el impacto generado.
 
+Su propósito principal es proporcionar una visión clara y basada en datos del comportamiento del sistema, permitiendo a los usuarios evaluar el progreso, optimizar decisiones y evidenciar resultados de manera efectiva.
 
-**Analytics:**
-
-El bounded context Analytics se encarga del procesamiento y análisis de los datos generados dentro de la plataforma Foundly, permitiendo transformar información en indicadores útiles para la toma de decisiones.
-
-El sistema permite resumir métricas, detectar información significativa y generar reportes que son reflejados en dashboards actualizados, facilitando la visualización del rendimiento de los proyectos y el impacto generado.
-
-Su propósito principal es proporcionar una visión clara y basada en datos del comportamiento del sistema, permitiendo a los usuarios y organizadores evaluar el progreso, optimizar decisiones y evidenciar resultados de manera efectiva.
-
-<img src="resources/Images/Chapter-4/bounded-context/Analaytics.png" alt="Analytics">
+<img src="resources/Images/Chapter-4/bounded-context/Analaytics.png" alt="Bounded Context — Analytics">
 
 ### 4.6.2. Software Architecture Context Diagram
 
