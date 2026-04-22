@@ -40,9 +40,57 @@
 
 <div class="page"></div>
 
-## Registro de Versiones del Informe
+<br>
+
+# Registro de Versiones del Informe
+
+<br>
 
 # Project Report Collaboration Insights
+
+Para el desarrollo del **Project Report**, el equipo utiliza un repositorio dentro de la organización en GitHub. A continuación, se presenta la evidencia de colaboración correspondiente al **TB1**, en coherencia con el **Registro de Versiones del Informe**.
+
+**Repositorio del informe del proyecto:** https://github.com/DevWebUPC/report
+
+- **Total de commits:** 257
+- **Autores contribuyentes:**
+  - Vitaly Arturo Baca Camargo ( `Mr-Code-star` )
+  - Bautista Rivera, Jose Diego ( `Gogotes17` )
+  - Sebastián Ubaldo Pariachi Limahuaya ( `SebastianLima-PE` )
+  - Ariana Lizeth Ramírez Carrasco ( `pierinaaa29` )
+  - Mauricio Alejandro Teran Zavala ( `mau-tz` )
+- La actividad se distribuyó en ramas temáticas por secciones del informe, asegurando revisiones cruzadas mediante *pull requests*.
+
+---
+
+## AV1 — Informe inicial (Semana 4)
+
+Durante esta fase, el equipo elaboró el **informe inicial**, que incluyó los siguientes aspectos:
+
+- **Carátula** con información institucional y de la startup.
+- **Registro de Versiones del Informe**, documentando los cambios realizados.
+- **Contenido preliminar** con tabla de contenidos, *Student Outcomes* y Capítulo I (*Introducción*).
+- **Capítulo II** con los primeros avances en *Requirements Elicitation & Analysis*.
+- **Capítulo III** con la especificación de requisitos, User Stories y Product Backlog.
+- **Capítulo IV** con los avances en *Product Design*, incluyendo Style Guidelines, wireframes y mockups.<
+- **Capítulo V** con los avnces del Product Implementation, Validation & Deployment.
+- *\*Conclusiones preliminares, bibliografía y anexos.*
+
+A continuación se presenta la captura de los analíticos de colaboración y commits en GitHub para este entregable:
+
+![Project Report Collaboration Insights TB1](resources/Images/Collaboration%20Insights/Project%20Report%20Collaboration%20Insights(AV1).png)
+
+| Integrante | Usuario GitHub | Commits | Adiciones | Eliminaciones |
+|---|---|---|---|---|
+| Vitaly Arturo Baca Camargo | `Mr-Code-star` | 189 | 4872 | 419 |
+| Bautista Rivera, Jose Diego | `Gogotes17` | 34 | 630 | 20 |
+| Sebastián Ubaldo Pariachi Limahuaya | `SebastianLima-PE` | 23 | 382 | 75 |
+| Ariana Lizeth Ramírez Carrasco | `pierinaaa29` | 6 | 247 | 49 |
+| Mauricio Alejandro Teran Zavala | `mau-tz` | 5 | 127 | 4 |
+
+La colaboración fue activa y equitativa, con aportes sustanciales de todos los integrantes en la redacción y organización del informe.
+
+<>br
 
 # Tabla de Contenidos
 
@@ -152,6 +200,8 @@
 ---
 
 ## [Anexos](Anexos.md#anexos)
+
+<br>
 
 # ABET – EAC - Student Outcome 3
 
