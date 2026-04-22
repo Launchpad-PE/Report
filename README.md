@@ -138,45 +138,12 @@
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5218-team-collaboration-insights-during-sprint)
-  - [5.2.2. Sprint 2](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#522-sprint-2)
-    - [5.2.2.1. Sprint Planning 2](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5221-sprint-planning-2)
-    - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
-    - [5.2.2.3. Sprint Backlog 2](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5223-sprint-backlog-2)
-    - [5.2.2.4. Development Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5224-development-evidence-for-sprint-review)
-    - [5.2.2.5. Execution Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5225-execution-evidence-for-sprint-review)
-    - [5.2.2.6. Services Documentation Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5226-services-documentation-evidence-for-sprint-review)
-    - [5.2.2.7. Software Deployment Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5227-software-deployment-evidence-for-sprint-review)
-    - [5.2.2.8. Team Collaboration Insights during Sprint](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5228-team-collaboration-insights-during-sprint)
-  - [5.2.3. Sprint 3](#523-sprint-3)
-    - [5.2.3.1. Sprint Planning 3](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5231-sprint-planning-3)
-    - [5.2.3.2. Aspect Leaders and Collaborators](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5232-aspect-leaders-and-collaborators)
-    - [5.2.3.3. Sprint Backlog 3](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5233-sprint-backlog-3)
-    - [5.2.3.4. Development Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5234-development-evidence-for-sprint-review)
-    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
-    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
-    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
-    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-  - [5.2.4. Sprint 4](#524-sprint-4)
-    - [5.2.4.1. Sprint Planning 4](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5241-sprint-planning-4)
-    - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
-    - [5.2.4.3. Sprint Backlog 4](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5243-sprint-backlog-4)
-    - [5.2.4.4. Development Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5244-development-evidence-for-sprint-review)
-    - [5.2.4.5. Execution Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5245-execution-evidence-for-sprint-review)
-    - [5.2.4.6. Services Documentation Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5246-services-documentation-evidence-for-sprint-review)
-    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
-    - [5.2.4.8. Team Collaboration Insights during Sprint](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5248-team-collaboration-insights-during-sprint)
-- [5.3. Validation Interviews](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#53-validation-interviews)
-  - [5.3.1. Diseño de entrevistas](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#531-diseño-de-entrevistas)
-  - [5.3.2. Registro de entrevistas](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#532-registro-de-entrevistas)
-  - [5.3.3. Evaluaciones según heurísticas](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#533-evaluaciones-según-heurísticas)
-- [5.4. Video About-the-Product](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#54-video-about-the-product)
 
 ---
 
 ## [Conclusiones](Bibliografia.md#bibliografia)
 
 - [Conclusiones y recomendaciones](Conclusiones.md#conclusiones-y-recomendaciones)
-- [Video About-the-Team](Conclusiones.md#video-about-team)
 
 ---
 
@@ -186,6 +153,14 @@
 
 ## [Anexos](Anexos.md#anexos)
 
-# Student Outcome
+# ABET – EAC - Student Outcome 3
 
+**Criterio:** *Capacidad de comunicarse efectivamente con un rango de audiencias.*
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+|---|---|---|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Baca Camargo, Vitaly Arturo<br>AV1<br>Diagram DataBase y Diagram Class: Desarrolló habilidades de modelado de datos para representar la arquitectura del sistema de forma estructurada.<br>Definición de Bounded Context y EventStorming: Aplicó técnicas de diseño orientado al dominio para delimitar responsabilidades del sistema.<br>Deployment Landing Page: Adquirió competencias de despliegue web para poner en producción la página del proyecto.<br><br>Bautista Rivera, Jose Diego<br>AV1<br>Chapter 4 - Style Guidelines: Aprendió a definir y documentar estándares visuales y de diseño para el equipo.<br>Chapter 5 - Software Configuration Management y Sprint 1: Aplicó metodologías de gestión de configuración y planificación ágil.<br>Landing Page Mock-up Mobile Responsive: Desarrolló habilidades de diseño adaptable para distintos dispositivos.<br><br>Pariachi Limahuaya, Sebastián Ubaldo<br>AV1<br>Impact Mapping: Aplicó técnicas de alineación estratégica entre objetivos del negocio y funcionalidades del producto.<br>User Stories: Adquirió habilidades para traducir necesidades del usuario en requerimientos funcionales claros.<br>Product Backlog: Desarrolló competencias de priorización y gestión de tareas en entornos ágiles.<br><br>Teran Zavala, Mauricio Alejandro<br>AV1<br>Landing Page mock-up: Aplicó principios de diseño UI/UX para estructurar visualmente la propuesta del producto.<br>Landing Page implementation: Adquirió habilidades de desarrollo frontend para llevar el diseño a código funcional.<br><br>Almandroz Carbajal, Pierina Marysabel<br>AV1<br>Entrevistas: Aplicó técnicas de investigación cualitativa para identificar necesidades reales de los usuarios objetivo.<br>Wireframes: Desarrolló habilidades de prototipado para estructurar visualmente los flujos de interacción del producto.<br>Landing Page (parcial): Adquirió competencias de desarrollo frontend aplicando los lineamientos de diseño definidos por el equipo. | El grupo demostró capacidad de comunicación oral efectiva al exponer los avances del proyecto ante diferentes audiencias, incluyendo docentes y compañeros. Durante el AV1, cada integrante presentó sus contribuciones de forma clara y estructurada, adaptando el nivel técnico del discurso según el contexto. Las exposiciones reflejaron dominio del tema y coherencia con los objetivos del proyecto. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | Baca Camargo, Vitaly Arturo<br>AV1<br>Diagram DataBase y Diagram Class: Desarrolló habilidades de modelado de datos para representar la arquitectura del sistema de forma estructurada.<br>Definición de Bounded Context y EventStorming: Aplicó técnicas de diseño orientado al dominio para delimitar responsabilidades del sistema.<br>Deployment Landing Page: Adquirió competencias de despliegue web para poner en producción la página del proyecto.<br><br>Bautista Rivera, Jose Diego<br>AV1<br>Chapter 4 - Style Guidelines: Aprendió a definir y documentar estándares visuales y de diseño para el equipo.<br>Chapter 5 - Software Configuration Management y Sprint 1: Aplicó metodologías de gestión de configuración y planificación ágil.<br>Landing Page Mock-up Mobile Responsive: Desarrolló habilidades de diseño adaptable para distintos dispositivos.<br><br>Pariachi Limahuaya, Sebastián Ubaldo<br>AV1<br>Impact Mapping: Aplicó técnicas de alineación estratégica entre objetivos del negocio y funcionalidades del producto.<br>User Stories: Adquirió habilidades para traducir necesidades del usuario en requerimientos funcionales claros.<br>Product Backlog: Desarrolló competencias de priorización y gestión de tareas en entornos ágiles.<br><br>Teran Zavala, Mauricio Alejandro<br>AV1<br>Landing Page mock-up: Aplicó principios de diseño UI/UX para estructurar visualmente la propuesta del producto.<br>Landing Page implementation: Adquirió habilidades de desarrollo frontend para llevar el diseño a código funcional.<br><br>Almandroz Carbajal, Pierina Marysabel<br>AV1<br>Entrevistas: Aplicó técnicas de investigación cualitativa para identificar necesidades reales de los usuarios objetivo.<br>Wireframes: Desarrolló habilidades de prototipado para estructurar visualmente los flujos de interacción del producto.<br>Landing Page (parcial): Adquirió competencias de desarrollo frontend aplicando los lineamientos de diseño definidos por el equipo. | A lo largo del AV1, el grupo elaboró documentación técnica y visual de calidad, incluyendo diagramas, guidelines, mockups, user stories y el product backlog. Estos entregables evidencian la capacidad del equipo para comunicarse por escrito con precisión, empleando formatos adecuados para distintas audiencias: técnica (diagramas, bounded context) y de usuario final (landing page, entrevistas). La redacción fue clara, organizada y alineada a los estándares del curso. |
 
