@@ -370,7 +370,7 @@ Cuando un colaborador desee ver las tareas dentro de un hito, deberá ir a la se
 User goal 9: Como emprendedor, quiero activar el monitoreo IOT en mi proyecto para que mis colaboradores puedan visualizar las métricas ambientales en tiempo real y contribuir al seguimiento del impacto.
 
 
-
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Sin título.jpg">
 
 
 Este user flow describe el proceso para activar el monitoreo IoT dentro de un proyecto. Inicia con la creación del proyecto, donde el usuario ingresa datos básicos y habilita el monitoreo ambiental. Luego, se accede a un dashboard general que muestra el progreso, tareas y colaboradores. Finalmente, el usuario puede visualizar métricas ambientales en tiempo real (como calidad del aire, temperatura y alertas), permitiendo un seguimiento continuo del impacto y facilitando la toma de decisiones.
