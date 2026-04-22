@@ -43,7 +43,9 @@
 <br>
 
 # Registro de Versiones del Informe
-
+| Versión | Fecha | Autores | Descripción de modificación |
+|---------|-------|---------|-----------------------------|
+| AV1 | 15/03/2026 | Almandroz Carbajal, Pierina Marysabel<br>Baca Camargo, Vitaly Arturo<br>Bautista Rivera, Jose Diego<br>Pariachi Limahuaya, Sebastian Ubaldo<br>Teran Zavala, Mauricio Alejandro | Para la AV1, se creó la estructura completa del informe incluyendo carátula, registro de versiones, tabla de contenidos y Student Outcomes. Se redactó el Capítulo I (Introducción) con Startup Profile, Solution Profile, Lean UX Process y segmentos objetivo. Se elaboró el Capítulo II (Requirements Elicitation & Analysis) con análisis de competidores, diseño y registro de entrevistas, needfinding (user personas, task matrix, journey mapping, empathy mapping), Big Picture Event Storming y Ubiquitous Language. Se desarrolló el Capítulo III (Requirements Specification) con User Stories, Impact Mapping y Product Backlog. Se completó el Capítulo IV (Product Design) incluyendo Style Guidelines, Information Architecture, Landing Page UI Design, Web Applications UX/UI Design, Web Prototyping, Domain-Driven Software Architecture, Software Object-Oriented Design y Database Design. Se realizó el Capítulo V (Product Implementation, Validation & Deployment) con Software Configuration Management, evidencia del Sprint 1 (planning, backlog, development evidence, execution evidence, services documentation, deployment evidence, collaboration insights). Finalmente, se añadieron conclusiones preliminares, bibliografía y anexos. |
 <br>
 
 # Project Report Collaboration Insights
@@ -190,9 +192,11 @@ La colaboración fue activa y equitativa, con aportes sustanciales de todos los 
 ---
 
 ## [Conclusiones](Bibliografia.md#bibliografia)
+1. El equipo demostró capacidad para aplicar metodologías ágiles y de diseño centrado en el usuario de manera efectiva, integrando técnicas como Lean UX, entrevistas cualitativas, user personas y journey mapping para fundamentar decisiones de desarrollo en necesidades reales y no en supuestos.
 
-- [Conclusiones y recomendaciones](Conclusiones.md#conclusiones-y-recomendaciones)
+2. La gestión de configuración y colaboración mediante GitHub fue sólida y profesional, evidenciada por un alto número de commits, distribución equitativa de tareas, uso de ramas temáticas y revisiones cruzadas mediante pull requests, lo que refleja buenas prácticas de trabajo en equipo y control de versiones.
 
+3. Se logró una documentación técnica y visual completa y bien estructurada, abarcando desde la arquitectura de software (DDD, diagramas de clases y base de datos) hasta el diseño de interfaces (wireframes, mockups, prototipos), cumpliendo con los estándares exigidos para un producto software en fase inicial.
 ---
 
 ## [Bibliografía](Bibliografia.md#bibliografia)
