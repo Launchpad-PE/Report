@@ -52,7 +52,7 @@
 
 Para el desarrollo del **Project Report**, el equipo utiliza un repositorio dentro de la organización en GitHub. A continuación, se presenta la evidencia de colaboración correspondiente al **TB1**, en coherencia con el **Registro de Versiones del Informe**.
 
-**Repositorio del informe del proyecto:** https://github.com/DevWebUPC/report
+**Repositorio del informe del proyecto:** https://github.com/Launchpad-PE/Report
 
 - **Total de commits:** 257
 - **Autores contribuyentes:**
