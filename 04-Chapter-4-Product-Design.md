@@ -297,7 +297,7 @@ A continuación se presentan los Wireflow Diagrams que describen los flujos de i
 
 **User Goal 1:** Como usuario, quiero poder iniciar sesión y recuperar mi contraseña en caso de haberla olvidado.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 1.jpeg" alt="Wireflow 1 — Inicio de sesión y recuperación de contraseña">
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/UserFlow 1.jpg" alt="Wireflow 1 — Inicio de sesión y recuperación de contraseña">
 
 Cuando el usuario desea iniciar sesión pero ha olvidado su contraseña, puede seleccionar la opción de recuperación de contraseña. Esta acción abre una ventana emergente donde el usuario completa sus datos de verificación y es redirigido a la pantalla de cambio de contraseña. Una vez actualizada, el usuario puede iniciar sesión con sus nuevas credenciales.
 
@@ -321,7 +321,7 @@ Desde la pantalla de inicio del usuario autenticado, es posible acceder a la opc
 
 **User Goal 4:** Como nuevo usuario, quiero poder registrarme en la plataforma para acceder a sus funcionalidades.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 4.jpeg" alt="Wireflow 4 — Registro de nuevo usuario">
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 4.jpg" alt="Wireflow 4 — Registro de nuevo usuario">
 
 Cuando un usuario nuevo desea registrarse, selecciona la opción *¿No tienes cuenta? Regístrate*, donde accede al formulario de registro con sus datos personales y correo electrónico. Al completar y guardar este formulario, es redirigido a una segunda pantalla donde puede configurar su nombre de usuario y foto de perfil. Al finalizar este paso, el usuario obtiene acceso completo a la plataforma.
 
