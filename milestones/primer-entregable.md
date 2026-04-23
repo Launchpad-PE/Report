@@ -400,9 +400,9 @@ Una propuesta con estas características puede contribuir significativamente a *
   **Sabremos que es cierto** cuando **al menos el 40%** de los proyectos con enfoque ambiental activen y utilicen el módulo IoT durante los **primeros seis meses**, y dichos proyectos obtengan una tasa de financiamiento **al menos 20% superior** al promedio general de la plataforma.
 
 #### 1.2.2.4. Lean UX Canvas
-
+<div align="center">
 <img src="../resources/Images/Chapter-1/Lean UX Canvas/Lean UX Canvas.png" alt="Lean UX Canvas" width="auto" height="550"/>
-
+</div>
 ## 1.3. Segmentos objetivo
 
 Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características geográficas y demográficas. Por lo tanto, con el fin de desarrollar un producto para satisfacer las necesidades de nuestros clientes, DevWeb se enfocará en los siguientes segmentos de la población:
@@ -1286,8 +1286,9 @@ Los tres emprendedores entrevistados coincidieron en que una plataforma local qu
 | **Didier Meza** | Al formar el equipo, porque sin personas que apoyen desde el inicio el proyecto no avanza. El financiamiento es clave, pero secundario sin un grupo sólido. |
 | **Diana Briceño**   | Al formar el equipo, ya que es más difícil encontrar personas aptas con los perfiles correctos para iniciar el proyecto que validar la idea o conseguir dinero. |
 
+<div align="center">
 <img src="../resources/Images/Chapter-2/Estadistica/Etapa en la que necesitan ayuda.png" alt="Formas de financiamiento actual.png">
-
+</div>
 El 100% de los entrevistados identifica la formación del equipo como la etapa más crítica de su emprendimiento. El 33% añade la validación de la idea como un momento de alta necesidad, mientras que ninguno señala la búsqueda de financiamiento como la prioridad principal. Esto confirma que el mayor valor que puede ofrecer la plataforma es facilitar la conexión con colaboradores comprometidos y con habilidades complementarias.
 
 
@@ -1299,7 +1300,10 @@ El 100% de los entrevistados identifica la formación del equipo como la etapa m
 | **Didier Meza** | Ahorros personales y apoyo del entorno cercano. Intentó usar Kickstarter sin éxito por falta de visibilidad y por ser una plataforma orientada a mercados extranjeros. |
 | **Diana Briceño**   | Ahorros personales y apoyo familiar limitado. No ha usado crowdfunding por la falta de opciones locales confiables y los procesos complicados de plataformas extranjeras. |
 
+
+<div align="center">
 <img src="../resources/Images/Chapter-2/Estadistica/Formas de financiamiento actual.png" alt="Formas de financiamiento actual.png">
+</div>
 
 El 100% de los entrevistados recurre a ahorros personales y el mismo porcentaje recibe apoyo de su entorno cercano. Solo el 33% ha intentado el crowdfunding, con resultados negativos. Este panorama evidencia la ausencia de alternativas accesibles y confiables para emprendedores peruanos en etapa temprana, reforzando la necesidad de una plataforma local adaptada a su realidad.
 
@@ -1312,8 +1316,9 @@ El 100% de los entrevistados recurre a ahorros personales y el mismo porcentaje 
 | **Diana Briceño**   | Reportes de avance visibles en todo momento, hitos validados, historial de aportes y posibilidad de que la comunidad deje comentarios y valoraciones. |
 
 
+<div align="center">
 <img src="../resources/Images/Chapter-2/Estadistica/Mecanismo de transparencia que generan confianza.png" alt="Mecanismo de transparencia que generan confianza.png">
-
+</div>
 El 100% de los entrevistados coincide en que los reportes de avance obligatorios y visibles, así como los hitos validados con historial de aportes, son mecanismos fundamentales de confianza. Un 67% agrega que también necesita un sistema de reputación y reseñas, y pruebas reales de avance como repositorios o prototipos. Estas preferencias señalan que la transparencia activa y verificable es un requisito no negociable para este segmento.
 
 ### Tipos de proyectos en los que participan actualmente
@@ -1324,7 +1329,10 @@ El 100% de los entrevistados coincide en que los reportes de avance obligatorios
 | **Didier Meza** | Proyectos académicos y personales de emprendimiento digital, organizados principalmente por WhatsApp. |
 | **Diana Briceño**   | Proyectos personales de emprendimiento e iniciativas estudiantiles con foco en colaboración y financiamiento. |
 
+
+<div align="center">
 <img src="../resources/Images/Chapter-2/Estadistica/Tipos de proyectos en los que participan actualmente.png" alt="Tipo de Proyecto">
+</div>
 
 El 100% de los entrevistados participa en proyectos académicos como punto de partida. Un 67% los combina con emprendimientos personales, mientras que el 33% también se involucra en voluntariados o iniciativas estudiantiles. Esto refleja que el perfil del segmento es el de personas que están aprendiendo a emprender desde el entorno académico, con aspiraciones de escalar sus ideas a proyectos reales.
 
@@ -1354,7 +1362,10 @@ Los tres entrevistados coincidieron en que una plataforma de colaboración efect
 | **Álvaro Rocha** | Proyectos académicos de software (APIs web) y un proyecto grupal de monitoreo de salud mental con GitHub. |
 | **Kael Lagos**   | Proyectos académicos como parte de cursos y proyectos personales tipo taller, generalmente individuales. |
 
+
+<div align="center">
 <img src="../resources/Images/Chapter-2/Estadistica/Tipos de Proyectos en los que Participan Actualmente.png" alt="Tipos de Proyectos en los que Participan Actualmente">
+</div>
 
 WhatsApp y GitHub son las herramientas más usadas (66.7% cada una), pero ambas de forma parcial y desconectada. Ningún entrevistado usa una plataforma que unifique comunicación, gestión de tareas y seguimiento en un solo espacio, lo que representa la oportunidad central de Foundly.
 
@@ -1366,7 +1377,10 @@ WhatsApp y GitHub son las herramientas más usadas (66.7% cada una), pero ambas 
 | **Álvaro Rocha** | Ganar experiencia real para el portafolio y conocer personas con intereses similares. |
 | **Kael Lagos**   | Adquirir experiencia, obtener posibles ingresos y ampliar horizontes en el mundo emprendedor. |
 
+
+<div align="center">
 <img src="../resources/Images/Chapter-2/Estadistica/Motivaciones Principales para Unirse a Proyectos en Línea.png" alt="Motivaciones Principales para Unirse a Proyectos en Línea">
+</div>
 
 La experiencia práctica y el networking comparten el primer lugar con un 30% cada uno, seguidos por el portafolio profesional (20%) y los ingresos económicos (20%). Estos datos validan que Foundly debe comunicar explícitamente cómo cada proyecto aporta experiencia real y contactos valiosos.
 
@@ -1378,7 +1392,10 @@ La experiencia práctica y el networking comparten el primer lugar con un 30% ca
 | **Álvaro Rocha** | Proyectos mal organizados que no se ajustan al nivel de aprendizaje que busca el colaborador. |
 | **Kael Lagos**   | Intereses no coincidentes con las oportunidades disponibles y perfiles poco convincentes. |
 
+
+<div align="center">
 <img src="../resources/Images/Chapter-2/Estadistica/Dificultades al Buscar Oportunidades de Colaboración.png" alt="Dificultades al Buscar Oportunidades de Colaboración">
+</div>
 
 La falta de claridad en objetivos, roles y compromiso es la barrera más crítica (100% de los entrevistados). Le siguen la desalineación de intereses y la ausencia de seguimiento, ambas con 66.7%. Esto refuerza la necesidad de una ficha de proyecto detallada y transparente en Foundly.
 
@@ -1390,7 +1407,10 @@ La falta de claridad en objetivos, roles y compromiso es la barrera más crític
 | **Álvaro Rocha** | Filtros de habilidades, roles bien definidos y herramientas de seguimiento del avance. |
 | **Kael Lagos**   | Organización de la comunicación sin solapamientos y mejor coordinación entre integrantes. |
 
+
+<div align="center">
 <img src="../resources/Images/Chapter-2/Estadistica/Funciones Más Valoradas en una Plataforma.png" alt = "Funciones Más Valoradas en una Plataforma">
+</div>
 
 Los perfiles con habilidades/roles definidos y las métricas de avance son considerados indispensables por el 100% de los entrevistados. Los filtros por área, la comunicación organizada y los mecanismos de reputación son valorados por el 66.7%. Foundly debe priorizar estas funciones en su MVP.
 
@@ -1413,7 +1433,10 @@ Para el segmento de emprendedores se elaboró el User Persona representativo de 
 
 Este perfil evidencia la necesidad de una solución local que combine formación de equipos con financiamiento colaborativo transparente, eliminando las barreras de entrada que enfrentan los emprendedores sin comunidad previa.
 
+
+<div align="center">
 <img src="../resources/Images/Chapter-2/user-personas-ux/Juan Fernandez.png" alt="User Persona — Juan Fernández (Segmento Emprendedor)">
+</div>
 
 ---
 
@@ -1428,7 +1451,10 @@ Para el segmento de colaboradores se elaboró el User Persona representativo de 
 
 Este perfil evidencia la necesidad de una plataforma que centralice la búsqueda de proyectos, estructure la colaboración y proporcione mecanismos formales de reconocimiento que validen el aporte de cada colaborador.
 
+
+<div align="center">
 <img src="../resources/Images/Chapter-2/user-personas-ux/Jesli Bautista.png" alt="User Persona — Jesli Bautista (Segmento Colaborador)">
+</div>
 
 ### 2.3.2. User Task Matrix
 
@@ -1507,7 +1533,10 @@ Estos factores generan desorden, pérdida de tiempo y una sensación creciente d
 
 Este análisis evidencia oportunidades de mejora en cada etapa del proceso —Descubrimiento, Registro, Publicación del Proyecto, Formación de Equipo, Validación y Financiamiento, y Gestión y Cierre— y sienta las bases para el diseño de Foundly como solución que centraliza la búsqueda de colaboradores por habilidades, simplifica el registro adaptado al contexto local, ofrece plantillas profesionales para presentar ideas, integra herramientas de coordinación dentro de la plataforma y garantiza transparencia en el financiamiento mediante reportes de avance y liberación de fondos por hitos cumplidos.
 
+
+<div align="center">
 <img src="../resources/Images/Chapter-2/user-journey-mapping/User-Journey-Mapping-Emprededor.png" alt="User Journey Mapping — Segmento Emprendedor">
+</div>
 
 ---
 
@@ -1531,7 +1560,10 @@ Los principales puntos críticos identificados son:
 
 Este análisis evidencia oportunidades de mejora en cada etapa del proceso —Descubrimiento, Registro, Exploración, Postulación, Colaboración y Resultados— y sienta las bases para el diseño de Foundly como solución que centraliza la gestión de proyectos, mejora la comunicación interna, proporciona visibilidad del progreso mediante hitos y tareas, y permite validar las contribuciones del colaborador a través de un sistema de reputación basado en evidencias.
 
+
+<div align="center">
 <img src="../resources/Images/Chapter-2/user-journey-mapping/User-Journey-Mapping-Colaborador.png" alt="User Journey Mapping — Segmento Colaborador">
+</div>
 
 ### 2.3.4. Empathy Mapping
 
@@ -1541,7 +1573,10 @@ Para la elaboración de los Empathy Maps, el equipo partió del conocimiento y l
 
 #### Segmento 1: Emprendedor
 
+
+<div align="center">
 <img src="../resources/Images/Chapter-2/Empathy Mapping/Empathy map - Emprededor.png" alt="Empathy Map — Segmento Emprendedor">
+</div>
 
 El Empathy Map del emprendedor (Juan Fernández) permite comprender de manera integral su experiencia al intentar lanzar una idea de negocio en etapa temprana sin los recursos ni el equipo adecuados, considerando lo que piensa, siente, ve, escucha, dice y hace en ese contexto.
 
@@ -1557,7 +1592,10 @@ Este análisis permite identificar oportunidades clave de mejora enfocadas en la
 
 #### Segmento 2: Colaborador
 
+
+<div align="center">
 <img src="../resources/Images/Chapter-2/Empathy Mapping/Empathy map - Colaborador.png" alt="Empathy Map — Segmento Colaborador">
+</div>
 
 El Empathy Map del colaborador (Jesli Bautista) permite comprender de manera integral su experiencia al participar en proyectos colaborativos, considerando lo que piensa, siente, ve, escucha, dice y hace dentro de ese contexto.
 
@@ -1579,13 +1617,18 @@ Este análisis permite identificar oportunidades clave de mejora enfocadas en la
 
 En esta primera etapa, el equipo realizó una sesión de lluvia de ideas para capturar todos los eventos relevantes dentro del dominio, sin preocuparse por el orden o la jerarquía. El objetivo principal fue representar los acontecimientos reales del negocio, de manera independiente a cualquier función técnica o relacionada con un sistema.
 
+
+<div align="center">
 <img src="../resources/Images/Chapter-2/big-event-storming/eventos.png" alt="Events"/>
+</div>
 
 **Step 2 – Structured Organization**
 
 Después de listar los eventos, el equipo los organizó en flujos de negocio lógicos que reflejan las principales etapas en la creacion, colaboracion, gestion de los proyectos. Esta estructura ayudó a identificar los procesos clave y las áreas de mejora que posteriormente podrían abordarse mediante soluciones digitales o de gestión.
 
+<div align="center">
 <img src="../resources/Images/Chapter-2/big-event-storming/time-lines.png" alt="time-lines"/>
+</div>
 
 ## 2.5. Ubiquitous Language
 
@@ -1729,11 +1772,19 @@ En esta sección se establece un glosario de términos clave del dominio de nego
 >A continuación, se presentan los mapas de impacto correspondientes a los segmentos objetivo definidos. El Impact Mapping es una metodología visual estratégica que permite alinear los objetivos de negocio con los entregables específicos del proyecto.
 
 #### Segmento 1: Emprededores y Startups en Etapa Temprana (Emprendedor)
+
+<div align="center">
 <img src="../resources/Images/Chapter-3/Impact Mapping/Impact Map 1 - Juan Fernandez (Emprendedor).png" >
+</div>
+
 <br>
 
 #### Segmento 2: Estudiantes Universitarios y Profesionales (Colaborador)
+
+
+<div align="center">
 <img src="../resources/Images/Chapter-3/Impact Mapping/Impact Map 2 - Jesli Bautista (Colaborador).png" >
+</div>
 
 ## 3.3. Product Backlog
 
@@ -1839,7 +1890,10 @@ Se ha seleccionado una paleta de cinco colores que representa la identidad de Fo
 | Gris | `#91908C` | Color neutro. Mantiene el balance visual aportando elegancia y neutralidad. |
 | Blanco | `#FFFFFF` | Fondo base. Brinda claridad y limpieza, permitiendo que los demás colores destaquen. |
 
-![Paleta de colores — Foundly](../resources/Images/Chapter-4/StyleGuidelines-Images/Colors%20-%20Foundly%20App.png)
+
+<div align="center">
+<img src="../resources/Images/Chapter-4/StyleGuidelines-Images/Colors%20-%20Foundly%20App.png">
+</div>
 
 ---
 
@@ -1849,7 +1903,10 @@ El branding de Foundly define la identidad visual de la marca con el objetivo de
 
 El logotipo fue diseñado para comunicar dinamismo y crecimiento, reflejando la velocidad con la que los emprendimientos pueden avanzar cuando cuentan con el equipo y las herramientas adecuadas. La marca busca proyectar confianza, modernidad y cercanía con su comunidad de usuarios.
 
-![Logotipo — Foundly](../resources/Images/Chapter-4/StyleGuidelines-Images/Foundly-Logo.png)
+<div align="center">
+<img src="../resources/Images/Chapter-4/StyleGuidelines-Images/Foundly-Logo.png">
+</div>
+
 
 ---
 
@@ -2056,7 +2113,9 @@ Para elaborar nuestro prototipo de baja fidelidad, hemos utilizado la plataforma
 
 **Landing Page Desktop**
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/escritorio/Landing page-wireframe.png" alt ="Landing page wireframe">
+</div>
 
 **Landing Page Movil**
 
@@ -2113,7 +2172,9 @@ Hemos finalizado con éxito el mock-up de la página de inicio, aplicando los pr
 
 Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos 'Figma' para crear los wireframes de manera eficiente y colaborativa.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/view general/wirefame/WIREFRAME FIGMA.png" alt ="WireFrame Figma Web Aplication">
+</div>
 
 [Link del Figma](https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=37-30&t=idjFXcEp21eRWifQ-1)
 
@@ -2125,7 +2186,9 @@ A continuación se presentan los Wireflow Diagrams que describen los flujos de i
 
 **User Goal 1:** Como usuario, quiero poder iniciar sesión y recuperar mi contraseña en caso de haberla olvidado.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 1.jpeg" alt="Wireflow 1 — Inicio de sesión y recuperación de contraseña">
+</div>
 
 Cuando el usuario desea iniciar sesión pero ha olvidado su contraseña, puede seleccionar la opción de recuperación de contraseña. Esta acción abre una ventana emergente donde el usuario completa sus datos de verificación y es redirigido a la pantalla de cambio de contraseña. Una vez actualizada, el usuario puede iniciar sesión con sus nuevas credenciales.
 
@@ -2133,7 +2196,9 @@ Cuando el usuario desea iniciar sesión pero ha olvidado su contraseña, puede s
 
 **User Goal 2:** Como colaborador, quiero poder revisar la información detallada de un proyecto al que puedo postularme.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 2.jpeg" alt="Wireflow 2 — Revisión de detalle de proyecto">
+</div>
 
 Cuando un colaborador desea explorar un proyecto publicado por un emprendedor, puede seleccionarlo desde el listado de proyectos disponibles. Esta acción lo redirige a una vista de detalle donde puede visualizar toda la información relevante del proyecto, incluyendo descripción, equipo actual, hitos definidos y, de estar activo, el panel de monitoreo IoT.
 
@@ -2141,7 +2206,9 @@ Cuando un colaborador desea explorar un proyecto publicado por un emprendedor, p
 
 **User Goal 3:** Como usuario, quiero poder suscribirme a un plan para acceder a funcionalidades adicionales.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 3.jpeg" alt="Wireflow 3 — Cambio de plan de suscripción">
+</div>
 
 Desde la pantalla de inicio del usuario autenticado, es posible acceder a la opción de cambio de plan. Esta acción redirige a una vista comparativa donde se muestran las distintas opciones de suscripción disponibles Plan Gratuito y Plan Premium con sus características, diferencias y precio, permitiendo al usuario seleccionar el que mejor se adapta a sus necesidades.
 
@@ -2149,7 +2216,9 @@ Desde la pantalla de inicio del usuario autenticado, es posible acceder a la opc
 
 **User Goal 4:** Como nuevo usuario, quiero poder registrarme en la plataforma para acceder a sus funcionalidades.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 4.jpeg">
+</div>
 
 Cuando un usuario nuevo desea registrarse, selecciona la opción *¿No tienes cuenta? Regístrate*, donde accede al formulario de registro con sus datos personales y correo electrónico. Al completar y guardar este formulario, es redirigido a una segunda pantalla donde puede configurar su nombre de usuario y foto de perfil. Al finalizar este paso, el usuario obtiene acceso completo a la plataforma.
 
@@ -2157,7 +2226,9 @@ Cuando un usuario nuevo desea registrarse, selecciona la opción *¿No tienes cu
 
 **User Goal 5:** Como colaborador, quiero poder visualizar los hitos de un proyecto en el que estoy participando.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 5.jpeg" alt="Wireflow 5 — Visualización de hitos del colaborador">
+</div>
 
 El colaborador accede a la sección *Proyectos*, donde puede ver todos los proyectos en los que participa actualmente. Al ingresar a un proyecto específico, navega a la pestaña *Hitos*, donde visualiza el listado de hitos registrados. Si desea ampliar la información de un hito en particular, puede seleccionarlo para acceder a su vista de detalle con toda la información asociada.
 
@@ -2165,7 +2236,9 @@ El colaborador accede a la sección *Proyectos*, donde puede ver todos los proye
 
 **User Goal 6:** Como colaborador, quiero poder ver las tareas que tengo asignadas en un proyecto.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 6.jpeg" alt="Wireflow 6 — Visualización de tareas del colaborador">
+</div>
 
 El colaborador accede a la sección *Proyectos* y selecciona el proyecto del que desea revisar sus tareas pendientes. Dentro del proyecto, navega a la pestaña *Tareas*, donde puede visualizar el listado de tareas asignadas a su perfil, junto con su estado actual, prioridad y fecha de vencimiento.
 
@@ -2173,7 +2246,9 @@ El colaborador accede a la sección *Proyectos* y selecciona el proyecto del que
 
 **User Goal 7:** Como usuario, quiero poder visitar el perfil de otro usuario para conocer los proyectos en los que ha participado.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 7.jpeg" alt="Wireflow 7 — Visualización de perfil de colaborador">
+</div>
 
 Desde el menú principal, el usuario puede acceder a la sección de *Colaboradores*, donde se presentan dos vistas: el listado general de colaboradores registrados y el ranking de colaboradores destacados. Al seleccionar a cualquier colaborador en alguna de estas vistas, accede a su perfil público, donde puede revisar sus proyectos, habilidades, evidencias publicadas y puntuación de reputación.
 
@@ -2183,7 +2258,9 @@ Desde el menú principal, el usuario puede acceder a la sección de *Colaborador
 
 Los mockups constituyen una representación visual de alta fidelidad de la interfaz de Foundly, permitiendo visualizar la apariencia final, la disposición de los componentes y la consistencia visual antes de iniciar el desarrollo. Fueron elaborados en Figma siguiendo los lineamientos de la paleta de colores, tipografía y sistema de espaciado definidos en las Style Guidelines.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/view general/mockup/captura de todo el mockup sin flujo.png" alt="Web Application Mock-ups — Vista general Foundly">
+</div>
 
 [Ver mockups completos en Figma](https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=0-1&t=pwFb1BAZpRtspezu-1)
 
@@ -2195,7 +2272,9 @@ A continuación se presentan los diagramas de flujo de usuario que describen las
 
 **User Goal 1:** Como colaborador, quiero ver la información completa de un proyecto antes de postularme, incluyendo resumen, beneficios y roles disponibles.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/UserFlow 1.jpg">
+</div>
 
 Desde la pantalla principal del colaborador, se listan los proyectos disponibles. Al seleccionar *Ver más* en un proyecto de interés, el colaborador accede a la vista de detalle con toda la información publicada. Desde allí puede regresar al listado o proceder a presionar el botón *Postular* para enviar su solicitud de participación.
 
@@ -2203,7 +2282,9 @@ Desde la pantalla principal del colaborador, se listan los proyectos disponibles
 
 **User Goal 2:** Como emprendedor, quiero crear un hito dentro de mi proyecto para marcar etapas importantes y medir el progreso alcanzado.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 2.jpeg" alt="User Flow 2 — Creación de hito">
+</div>
 
 El emprendedor accede a la sección *Hitos* dentro de su proyecto y selecciona el botón *Crear Hito*. Completa los datos requeridos título, descripción, fecha de vencimiento y porcentaje objetivo y confirma la creación. El hito queda publicado y visible para todos los miembros del equipo.
 
@@ -2211,7 +2292,9 @@ El emprendedor accede a la sección *Hitos* dentro de su proyecto y selecciona e
 
 **User Goal 3:** Como emprendedor, quiero crear y publicar un proyecto para recibir postulaciones de colaboradores interesados.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 3.jpeg" alt="User Flow 3 — Creación y publicación de proyecto">
+</div>
 
 El emprendedor completa el formulario de creación de proyecto con los datos requeridos: nombre, área, etiquetas, nivel académico requerido, habilidades buscadas, duración estimada y roles disponibles. Una vez completados todos los campos, confirma la publicación y el proyecto queda visible en la plataforma para que los colaboradores puedan encontrarlo y postularse.
 
@@ -2219,7 +2302,9 @@ El emprendedor completa el formulario de creación de proyecto con los datos req
 
 **User Goal 4:** Como emprendedor, quiero crear una tarea dentro de mi proyecto para organizar y asignar actividades específicas a los colaboradores.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 4.jpg" alt="User Flow 4 — Creación de tarea">
+</div>
 
 El emprendedor accede a la sección *Tareas* de su proyecto y selecciona el botón *Crear Tarea*. Completa los campos requeridos título, descripción, fecha de entrega, prioridad y colaborador asignado y presiona *Enviar* para registrar la tarea. El colaborador asignado recibe una notificación con los detalles de la tarea creada.
 
@@ -2227,7 +2312,9 @@ El emprendedor accede a la sección *Tareas* de su proyecto y selecciona el bot�
 
 **User Goal 5:** Como emprendedor, quiero crear una meta de recaudación y recompensas para recibir contribuciones de los usuarios interesados en apoyar mi proyecto.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 5.jpg" alt="User Flow 5 — Creación de meta de recaudación y rewards">
+</div>
 
 Desde la sección *Contribuciones* del proyecto, el emprendedor puede gestionar dos elementos:
 
@@ -2238,7 +2325,9 @@ Desde la sección *Contribuciones* del proyecto, el emprendedor puede gestionar 
 
 **User Goal 6:** Como usuario, quiero realizar una donación a un proyecto que me interese y, opcionalmente, recibir beneficios a cambio.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 6.jpg" alt="User Flow 6 — Donación a proyecto">
+</div>
 
 El usuario accede al detalle de un proyecto mediante *Ver más* y selecciona el botón *Contribuir*. La plataforma presenta dos modalidades de donación:
 
@@ -2250,7 +2339,9 @@ En ambos casos, la transacción se procesa y el monto recaudado del proyecto se 
 
 **User Goal 7:** Como colaborador, quiero ver y completar las tareas que me ha asignado el emprendedor en el proyecto en el que participo.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 7.jpeg" alt="User Flow 7 — Visualización y realización de tarea">
+</div>
 
 El colaborador accede a la sección *Tareas* del proyecto donde participa. Para cada tarea asignada dispone de dos acciones:
 
@@ -2261,7 +2352,9 @@ El colaborador accede a la sección *Tareas* del proyecto donde participa. Para 
 
 **User Goal 8:** Como colaborador, quiero ver las tareas de un hito, revisar el avance de mis compañeros y completar las tareas que tengo asignadas.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 8.jpg" alt="User Flow 8 — Gestión de tareas dentro de un hito">
+</div>
 
 El colaborador accede a la sección *Hitos* y selecciona el botón *Ver hito* para revisar la descripción y el estado del hito seleccionado. Desde esta vista puede:
 
@@ -2273,7 +2366,9 @@ El colaborador accede a la sección *Hitos* y selecciona el botón *Ver hito* pa
 
 **User Goal 9:** Como emprendedor, quiero activar el monitoreo IoT en mi proyecto para que los colaboradores y financiadores puedan visualizar las métricas de sensores en tiempo real.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Sin título.jpg" alt="User Flow 9 — Activación del panel IoT">
+</div>
 
 El flujo de activación IoT se inicia durante la creación del proyecto, donde el emprendedor habilita la opción de monitoreo de sensores y selecciona la categoría correspondiente calidad del aire, agua y riego, energía solar o salud y bienestar. Una vez activado, el panel IoT queda integrado en el dashboard general del proyecto, donde muestra métricas en tiempo real como temperatura, humedad, CO₂ u otras variables según la categoría elegida. Estas métricas se actualizan automáticamente cada 5 segundos, permitiendo a colaboradores y financiadores hacer seguimiento continuo del estado del prototipo y facilitar la toma de decisiones basada en datos.
 
@@ -2281,7 +2376,9 @@ El flujo de activación IoT se inicia durante la creación del proyecto, donde e
 
 A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/Prototyping/Prototyping.png">
+</div>
 
 [Link de Figma](https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=0-1&t=pwFb1BAZpRtspezu-1)
 
@@ -2311,7 +2408,9 @@ Administra funcionalidades clave como el registro de nuevos usuarios, inicio y c
 
 Su propósito principal es garantizar un acceso confiable, seguro y controlado, protegiendo la información del sistema y asegurando que únicamente usuarios autorizados puedan interactuar con los recursos de la plataforma.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/bounded-context/IAM.png" alt="Bounded Context — IAM">
+</div>
 
 ---
 
@@ -2323,7 +2422,9 @@ Administra procesos como la creación del perfil de usuario, el registro y actua
 
 Su propósito principal es proporcionar un perfil completo, actualizado y configurable que represente al usuario dentro del ecosistema de Foundly, mejorando la experiencia de uso y la conexión con otros participantes.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/bounded-context/Profile-management.png" alt="Bounded Context — Profile Management">
+</div>
 
 ---
 
@@ -2335,7 +2436,9 @@ Permite a los emprendedores crear proyectos mediante formularios estructurados, 
 
 Su propósito principal es organizar y controlar la gestión de proyectos colaborativos, facilitando la interacción entre emprendedores y colaboradores con un flujo estructurado de principio a fin.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/bounded-context/Project-management.png" alt="Bounded Context — Project Management">
+</div>
 
 ---
 
@@ -2345,7 +2448,9 @@ El bounded context Subscription Management se encarga de la gestión de los plan
 
 Administra procesos como la selección de planes, el registro y validación de datos de pago, y la ejecución de transacciones mediante servicios externos como Stripe. Gestiona el ciclo de vida completo de la suscripción, incluyendo su activación, renovación automática, expiración y cancelación.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/bounded-context/Subscription-managment.png" alt="Bounded Context — Subscription Management">
+</div>
 
 ---
 
@@ -2357,7 +2462,9 @@ Administra la creación de notificaciones a partir de distintos eventos del sist
 
 Su propósito es asegurar que cada usuario reciba información oportuna sobre los cambios en los proyectos en los que participa, facilitando la coordinación y la toma de decisiones dentro del entorno colaborativo.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/bounded-context/Notification-management.png" alt="Bounded Context — Notification Management">
+</div>
 
 ---
 
@@ -2367,7 +2474,9 @@ El bounded context Milestone Management se encarga de la gestión de hitos dentr
 
 Permite a los emprendedores crear hitos mediante formularios estructurados, definir tareas asociadas y asignarlas a los colaboradores del equipo. Gestiona el ciclo de vida completo del hito, incluyendo su creación, asignación, envío de tareas, revisión y aprobación o rechazo de las actividades realizadas. Contempla además funcionalidades como la carga de evidencias por parte de los colaboradores, la extensión de fechas límite, la eliminación de hitos y la visualización del estado de avance.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/bounded-context/milestone.png" alt="Bounded Context — Milestone Management">
+</div>
 
 ---
 
@@ -2377,7 +2486,9 @@ El bounded context Task Management se encarga de la gestión de tareas individua
 
 Permite a los emprendedores crear tareas específicas, asignarlas a los miembros del equipo y definir sus fechas de entrega. Los colaboradores pueden subir el trabajo realizado como evidencia, el cual es evaluado y aprobado o rechazado por el emprendedor. Gestiona el ciclo de vida completo de la tarea e incluye funcionalidades como la extensión de fechas límite, la eliminación de tareas y la visualización del estado actualizado de cada actividad.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/bounded-context/task.png" alt="Bounded Context — Task Management">
+</div>
 
 ---
 
@@ -2389,8 +2500,9 @@ Permite a los emprendedores definir objetivos de financiamiento (*funding goals*
 
 Su propósito principal es facilitar el apoyo a los proyectos mediante contribuciones estructuradas, asegurando transparencia en el seguimiento del financiamiento y promoviendo la participación activa de la comunidad.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/bounded-context/contribution.png" alt="Bounded Context — Contribution Management">
-
+</div>
 ---
 
 #### IoT — Environmental Monitoring
@@ -2399,7 +2511,9 @@ El bounded context IoT se encarga de la integración y gestión de dispositivos 
 
 Permite activar el monitoreo IoT en los proyectos, gestionar la conexión de dispositivos mediante el broker MQTT de HiveMQ, y registrar los datos capturados como métricas de sensores en tiempo real. Procesa y almacena los indicadores relevantes calidad del aire, humedad, temperatura, entre otros que pueden ser utilizados para evaluar el funcionamiento del prototipo y el impacto del proyecto.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/bounded-context/Iot.png" alt="Bounded Context — IoT Environmental Monitoring">
+</div>
 
 ---
 
@@ -2411,7 +2525,9 @@ Permite resumir métricas, detectar información significativa y generar reporte
 
 Su propósito principal es proporcionar una visión clara y basada en datos del comportamiento del sistema, permitiendo a los usuarios evaluar el progreso, optimizar decisiones y evidenciar resultados de manera efectiva.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/bounded-context/Analaytics.png" alt="Bounded Context — Analytics">
+</div>
 
 ### 4.6.2. Software Architecture Context Diagram
 
@@ -2435,7 +2551,9 @@ En el diagrama se representan las relaciones entre estos elementos, destacando q
 
 Esta vista permite comprender el alcance del sistema, sus límites de responsabilidad y el ecosistema tecnológico en el que se integra Foundly, antes de profundizar en niveles más detallados de la arquitectura.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/C4 MODEL/structurizr-109610-SystemContext-001.svg" alt="Contexto">
+</div>
 
 ### 4.6.3. Software Architecture Container Diagrams
 
@@ -2467,7 +2585,9 @@ En el diagrama se observa que:
 
 Esta vista permite entender cómo se distribuyen las responsabilidades entre la capa de presentación (Landing Page y SPA), la capa de lógica de negocio (API Application) y la capa de persistencia (Database), así como las integraciones externas que enriquecen la funcionalidad de Foundly.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/C4 MODEL/structurizr-109610-Container-001.svg" alt="Contenedor">
+</div>
 
 ### 4.6.4. Software Architecture Components Diagrams
 
@@ -2515,7 +2635,9 @@ En el diagrama se refleja cómo:
 
 De esta manera, el component diagram permite visualizar cómo la API Application se descompone en módulos alineados al dominio, mostrando claramente las responsabilidades de cada uno y la forma en que colaboran para implementar la funcionalidad completa de Foundly.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/C4 MODEL/structurizr-109610-Component-001.svg" alt="Conmponente">
+</div>
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
@@ -2583,7 +2705,9 @@ El módulo Shared cumple un rol fundamental en la arquitectura, ya que:
 
 De esta manera, el Shared Module actúa como la base sobre la cual se construyen los demás módulos del sistema Foundly, asegurando cohesión y estandarización en toda la arquitectura.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/Diagrma de clases/Shared/Shared.png" alt="Shared">
+</div>
 
 **IAM (Identify Acces Management):**
 
@@ -2641,7 +2765,9 @@ Este módulo sigue los principios de **Domain-Driven Design (DDD)** y una separa
 
 Este diseño permite una clara separación de responsabilidades, facilita la mantenibilidad del sistema y asegura la escalabilidad del módulo IAM dentro de la arquitectura de Foundly.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/Diagrma de clases/Iam/IAM.png" alt = "Iam">
+</div>
 
 **Profile Management:**
 
@@ -2689,7 +2815,9 @@ Este módulo sigue los principios de **Domain-Driven Design (DDD)** y aplica una
 
 Este diseño permite una clara separación de responsabilidades, facilita la mantenibilidad del sistema y asegura que la gestión de perfiles se mantenga desacoplada de otros módulos del sistema.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/Diagrma de clases/Profile/Profile.png" alt = "Profile">
+</div>
 
 **Project Management:**
 
@@ -2768,7 +2896,9 @@ Este repositorio desacopla la lógica de dominio de la infraestructura de persis
 
 Este diseño permite encapsular toda la lógica del ciclo de vida del proyecto dentro de un único agregado, asegurando consistencia, mantenibilidad y alineación con los principios de arquitectura basada en dominios.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/Diagrma de clases/Project/Project.png" alt = "Project">
+</div>
 
 **Subscription Management:**
 
@@ -2847,7 +2977,9 @@ Este módulo sigue los principios de **Domain-Driven Design (DDD)** y aplica el 
 
 Este diseño permite desacoplar la lógica de negocio del proveedor de pagos, facilitar la escalabilidad del sistema y mantener un control claro sobre el ciclo de vida de las suscripciones dentro de Foundly.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/Diagrma de clases/Subscription/Subscription.png" alt = "Subscription">
+</div>
 
 **Notification Management:**
 
@@ -2932,7 +3064,9 @@ Este diseño permite extender fácilmente el sistema para soportar otros canales
 
 Este diseño permite desacoplar el envío de notificaciones de su almacenamiento, facilita la extensibilidad del sistema y asegura una gestión eficiente de eventos relevantes dentro de Foundly.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/Diagrma de clases/Notification/Notification.png" alt = "Notification">
+</div>
 
 **Milestone Management:**
 
@@ -3023,7 +3157,9 @@ Este módulo sigue los principios de **Domain-Driven Design (DDD)** y aplica el 
 
 Este diseño permite modelar correctamente el trabajo colaborativo dentro de los proyectos, diferenciándolo de las tareas individuales y garantizando una gestión estructurada del progreso mediante hitos.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/Diagrma de clases/Milestone/Milestone.png" alt = "Milestone">
+</div>
 
 **Task Management:**
 
@@ -3103,8 +3239,9 @@ Este módulo sigue los principios de **Domain-Driven Design (DDD)** y aplica el 
 
 Este diseño permite modelar correctamente la gestión de tareas individuales dentro del sistema, diferenciándolas claramente del trabajo colaborativo gestionado en los hitos, asegurando una arquitectura coherente y alineada con el dominio.
 
-
+<div align ="center">
 <img src="../resources/Images/Chapter-4/Diagrma de clases/Task/Task.png" alt = "Task">
+</div>
 
 **Contribution Management:**
 
@@ -3198,7 +3335,9 @@ Este enfoque permite cambiar el proveedor de pagos sin afectar la lógica del do
 
 Este diseño permite modelar correctamente el flujo de pagos dentro del sistema, desacoplar la lógica del proveedor externo y garantizar consistencia en las transacciones financieras de Foundly.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/Diagrma de clases/Contribution/Contribution.png" alt = "Contribution">
+</div>
 
 **IOT:**
 
@@ -3291,7 +3430,9 @@ Este componente desacopla la lógica del dominio de la fuente de datos IoT, perm
 
 Este diseño permite integrar dispositivos IoT de manera desacoplada, manejar grandes volúmenes de datos en tiempo real y proporcionar una base sólida para análisis avanzados dentro de Foundly.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/Diagrma de clases/Iot/Iot.png" alt = "Iot">
+</div>
 
 **Analytics:**
 
@@ -3394,7 +3535,9 @@ Esta integración desacopla el módulo Analytics del origen de los datos, permit
 
 Este diseño permite transformar datos crudos en información valiosa, facilitando la toma de decisiones basada en datos y aportando inteligencia al sistema Foundly.
 
+<div align ="center">
 <img src="../resources/Images/Chapter-4/Diagrma de clases/Analytics/Analytics.png" alt = "Analytics">
+</div>
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
@@ -3418,7 +3561,10 @@ También se incluyen funcionalidades complementarias como:
 En conjunto, este diseño permite que toda la información esté conectada de manera ordenada, facilitando la interacción entre usuarios, proyectos y datos, y asegurando que el sistema sea escalable y fácil de mantener.
 
 **Diagrama de Base de datos Completo:**
+
+<div align ="center">
 <img src="../resources/Images/Chapter-4/Base de datos/Base de datos general/Base de datos.png" alt ="Data Base General">
+</div>
 
 <h3><strong>Diagrama de base de datos dividido por contextos:</strong></h3>
 
@@ -3727,13 +3873,18 @@ En resumen, trabajar únicamente con la rama `main` permitió avanzar con agilid
 
 Enlace de despliegue: https://launchpad-pe.github.io/Launchpad-PE-Landing-Page/
 
-![Landing Page desplegada en GitHub Pages](../resources/Images/Chapter-5/SourceCodeManagement-Images/LANDINGPAGE.png)
+<div align ="center">
+<img src="../resources/Images/Chapter-5/SourceCodeManagement-Images/LANDINGPAGE.png">
+</div>
 
 **Landing Page — Repositorio GitHub**
 
 Enlace del repositorio: https://github.com/Launchpad-PE/Launchpad-PE-Landing-Page
 
-![Repositorio GitHub — Landing Page](../resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio-LandingPage.png)
+
+<div align ="center">
+<img src="./resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio-LandingPage.png">
+</div>
 
 ### 5.1.3. Source Code Style Guide & Conventions
 En esta sección se establecen las convenciones y reglas de estilo de código que el equipo aplicará durante el desarrollo de la aplicación web de Foundly. Estas prácticas garantizan la coherencia, legibilidad y calidad del código a lo largo del ciclo de vida del proyecto, facilitando su mantenimiento y escalabilidad.
@@ -4041,19 +4192,30 @@ Para desplegar nuestro landing page hemos optado por usar Github Pages el cual b
 
 1. Ingresamos al repositorio de nuestra landing page
 
-![Organización del repositorio](../resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio.png)
+<div align="center">
+  <img src="../resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio.png">
+</div>
+
 
 2. Ingresamos al repositorio de nuestra landing page
 
-![Reposirotio Landing Page](../resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio-LandingPage.png) 
+<div align="center">
+  <img src="../resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio-LandingPage.png">
+</div>
 
 3. Ingresamos a la sección de "Settings" del repositorio
 
-![Settings del repositorio](../resources/Images/Chapter-5/SourceCodeManagement-Images/LandingPage_Settings.png)
+<div align="center">
+  <img src="../resources/Images/Chapter-5/SourceCodeManagement-Images/LandingPage_Settings.png">
+</div>
+
 
 4. En la sección de "Pages", seleccionamos la rama "main" y la carpeta raíz (root) para desplegar nuestro sitio web.
 
-![Configuración de Github Pages](../resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio_Github_Pages.png)
+<div align="center">
+  <img src="../resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio_Github_Pages.png">
+</div>
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos
@@ -4276,136 +4438,136 @@ A partir de los resultados obtenidos, el equipo propone los siguientes pasos par
 **Akerele, J. I., Uzoka, A., Ojukwu, P. U., & Olamijuwon, O. J. (2024).**
 Increasing software deployment speed in agile environments through automated configuration management.
 *International Journal of Engineering Research Updates, 7*(02), 028–035.
-🔗 [Ver artículo](https://orionjournals.com/ijeru/sites/default/files/IJERU-2024-0047.pdf)
+
+https://orionjournals.com/ijeru/sites/default/files/IJERU-2024-0047.pdf
 
 ---
 
 **Arroyo Galán, S., Conde Cubas, Y. D., & Dorta Yagüe, A. (2022).**
 *Aplicación web de soporte al aprendizaje-servicio.*
-🔗 [Ver recurso](https://hdl.handle.net/20.500.14352/3285)
+https://hdl.handle.net/20.500.14352/3285
 
 ---
 
 **Asonze, C. U., et al. (2024).**
 Evaluating the trade-offs between wireless security and performance in IoT networks.
 *SSRN 4927991.*
-🔗 [Ver artículo](https://www.researchgate.net/publication/383174817_Evaluating_the_Trade-offs_between_Wireless_Security_and_Performance_in_IoT_Networks_A_Case_Study_of_Web_Applications_in_AI-Driven_Home_Appliances)
+https://www.researchgate.net/publication/383174817_Evaluating_the_Trade-offs_between_Wireless_Security_and_Performance_in_IoT_Networks_A_Case_Study_of_Web_Applications_in_AI-Driven_Home_Appliances
 
 ---
 
 **Balepur, N., et al. (2025).**
 Whose boat does it float? Improving personalization in preference tuning via inferred user personas.
 *arXiv preprint arXiv:2501.11549.*
-🔗 [Ver artículo](https://doi.org/10.48550/arXiv.2501.11549)
+https://doi.org/10.48550/arXiv.2501.11549
 
 ---
 
 **Castro Sanz, R. (2024).**
 *Desarrollo de una aplicación web para gestión de tareas a través de un dashboard personalizable.*
-🔗 [Ver recurso](http://hdl.handle.net/10017/62796)
+http://hdl.handle.net/10017/62796
 
 ---
 
 **DemandSage. (2024).**
 *Startup statistics.*
-🔗 [Ver estadísticas](https://www.demandsage.com/startup-statistics)
+https://www.demandsage.com/startup-statistics
 
 ---
 
 **Eras, C. M., Badillo, P. R., & Urrutia, D. M. (2020).**
 El fracaso de la actividad emprendedora en el contexto latinoamericano.
 *Revista UNIANDES Episteme, 7*(2), 162–176.
-🔗 [Ver artículo](https://dialnet.unirioja.es/descarga/articulo/8298146.pdf)
+https://dialnet.unirioja.es/descarga/articulo/8298146.pdf
 
 ---
 
 **Exploding Topics. (2024).**
 *Startup failure statistics.*
-🔗 [Ver estadísticas](https://explodingtopics.com/blog/startup-failure-stats)
+https://explodingtopics.com/blog/startup-failure-stats
 
 ---
 
 **Growthlist. (2024).**
 *Startup failure statistics.*
-🔗 [Ver estadísticas](https://growthlist.co/startup-failure-statistics)
+https://growthlist.co/startup-failure-statistics
 
 ---
 
 **Guan, M. Y., et al. (2024).**
 *Deliberative alignment: Reasoning enables safer language models.*
 *arXiv preprint arXiv:2412.16339.*
-🔗 [Ver artículo](https://arxiv.org/abs/2412.16339)
+https://arxiv.org/abs/2412.16339
 
 ---
 
 **Joseph, H., Sicard, B., David, J., & Ospina, A. (2021).**
 *Impacto latino: casos de emprendedores sociales de América Latina.*
 Editorial CESA.
-🔗 [Ver libro](https://books.google.com.pe/books?id=bTRTEAAAQBAJ)
+https://books.google.com.pe/books?id=bTRTEAAAQBAJ
 
 ---
 
 **Kiourtis, A., et al. (2024).**
 Sustainable UI/UX design: Best practices for CO2 emission reduction in applications.
 *9th International Conference on Smart and Sustainable Technologies (SpliTech)* (pp. 1–6). IEEE.
-🔗 [Ver artículo](https://ieeexplore.ieee.org/abstract/document/10612495)
+https://ieeexplore.ieee.org/abstract/document/10612495
 
 ---
 
 **Latam Republic. (2023).**
 *Startup trends and failures.*
-🔗 [Ver recurso](https://www.latamrepublic.com/v/)
+https://www.latamrepublic.com/v/
 
 ---
 
 **Nirumand, A., & Cabot, J. (s.f.).**
 *From mockups to IFML-like GUI models: Using large language models in web engineering.*
-🔗 [Ver capítulo](https://link.springer.com/chapter/10.1007/978-3-031-97207-2_20)
+https://link.springer.com/chapter/10.1007/978-3-031-97207-2_20
 
 ---
 
 **Panamerican World. (2023).**
 *Startups failure in Latin America.*
-🔗 [Ver artículo](https://panamericanworld.com/en/magazine/startups/startups-failure-latinamerica)
+https://panamericanworld.com/en/magazine/startups/startups-failure-latinamerica
 
 ---
 
 **Purwanto, M. E., Hasanah, H., & Purwanto, E. (2024).**
 Improving customer service quality through the use of Google Suite in creating landing pages.
 *Jurnal Ekonomi, 13*(02), 502–510.
-🔗 [Ver artículo](https://ejournal.seaninstitute.or.id/index.php/Ekonomi/article/view/4399)
+https://ejournal.seaninstitute.or.id/index.php/Ekonomi/article/view/4399
 
 ---
 
 **Shofiana, A., Riadi, A. A., & Evanita, E. (2025).**
 Public complaint information system in government to improve web public services.
 *Revista La Multiapp, 6*(4), 750–764.
-🔗 [Ver artículo](https://www.newinera.com/index.php/JournalLaMultiapp/article/view/2419/1982)
+https://www.newinera.com/index.php/JournalLaMultiapp/article/view/2419/1982
 
 ---
 
 **Torres Martín, G., & López Rodríguez, R. (2024).**
 *Projectpulse, una aplicación web de gestión de tareas orientada a empresas.*
-🔗 [Ver recurso](https://hdl.handle.net/20.500.14352/101430)
+https://hdl.handle.net/20.500.14352/101430
 
 ---
 
 **U.S. Chamber of Commerce. (2023).**
 *Why small businesses fail.*
-🔗 [Ver artículo](https://www.uschamber.com/co/start/strategy/why-small-businesses-fail)
+https://www.uschamber.com/co/start/strategy/why-small-businesses-fail
 
 ---
 
 **Wicaksono, A. J. A., & Kusumandyoko, T. C. (2024).**
 Pengembangan user interface halaman utama pada Wicaraku sebagai media pengenalan terapi gangguan berbicara.
 *BARIK – Jurnal S1 Desain Komunikasi Visual, 6*(1), 233–247.
-🔗 [Ver artículo](https://ejournal.unesa.ac.id/index.php/JDKV/article/view/62835)
+https://ejournal.unesa.ac.id/index.php/JDKV/article/view/62835
 
 ---
 
 **Cómo crear un user journey map: Una guía. Coursera (2023)**
-
-🔗[Ver Articulo](https://www.coursera.org/mx/articles/creating-user-journey-maps-a-guide?msockid=35f7cd24a3526d172d46db55a2476cea)
+https://www.coursera.org/mx/articles/creating-user-journey-maps-a-guide?msockid=35f7cd24a3526d172d46db55a2476cea
 
 # Anexos
 
