@@ -4345,11 +4345,21 @@ En la siguiente etapa, optamos por aprovechar las herramientas colaborativas de 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 A continuación, detallaremos los procesos realizados a lo largo del Sprint 1: Lo primero que realizamos fue crear dos repositorios en GitHub, uno para nuestro
 Landing Page.
-![Repositorio Landing Page](../resources/Images/Chapter-5/Software_Deployment_Evidence/Repositorio-LandingPage.png)
+
+<div aling ="center">
+  <img src="../resources/Images/Chapter-5/Software_Deployment_Evidence/Repositorio-LandingPage.png">
+</div>
 
 Finalmente configuramos GitHub Pages para obtener un enlace directo a la Landing Page, facilitando la revisión continua de los cambios realizados.
-Link: https://launchpad-pe.github.io/Launchpad-PE-Landing-Page/ 
-![GitHub Pages](../resources/Images/Chapter-5/Software_Deployment_Evidence/GitHub_Pages.png)
+<br>
+
+[Link](https://launchpad-pe.github.io/Launchpad-PE-Landing-Page/)
+
+
+<div aling ="center">
+  <img src="../resources/Images/Chapter-5/Software_Deployment_Evidence/GitHub_Pages.png">
+</div>
+
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 Mediante la sección de Insights de GitHub, se presenta a continuación la evidencia de colaboración del repositorio del Landing Page, mostrando la contribución de cada miembro del equipo durante el desarrollo del Sprint 1.
@@ -4358,7 +4368,9 @@ Mediante la sección de Insights de GitHub, se presenta a continuación la evide
 
 #### Analíticos de GitHub — Report
 
-![Gráfica de contribuciones — Landing Page](../resources/Images/Chapter-5/Team_Colaboration/Contributors.png)
+<div aling ="center">
+  <img src="../resources/Images/Chapter-5/Team_Colaboration/Contributors.png">
+</div>
 
  #### Analíticos de GitHub — Landing Page
  
