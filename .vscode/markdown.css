@@ -414,3 +414,73 @@ a { color: var(--text); text-decoration: none; }
   .chapter p { orphans: 3; widows: 3; }
   a::after   { content: ""; }
 }
+
+/* ══════════════════════════════════════════════════════════
+   CLASES DE CONTROL DE IMÁGENES
+   Uso:
+     <div class="img-full">        → 100% del ancho, centrada
+     <div class="img-large">       → 85% del ancho, centrada
+     <div class="img-medium">      → 65% del ancho, centrada
+     <div class="img-small">       → 40% del ancho, centrada
+     <div class="img-mobile-grid"> → grid de iPhones, 2 por fila
+   ══════════════════════════════════════════════════════════ */
+
+/* Base compartida para todos los contenedores de imagen */
+.img-full,
+.img-large,
+.img-medium,
+.img-small {
+  display:           block;
+  width:             100%;
+  margin:            1.2em auto;
+  text-align:        center;
+  page-break-inside: avoid;
+  min-height:        0;
+  overflow:          hidden;
+}
+
+/* Si la imagen no carga, el contenedor colapsa a 0 */
+.img-full img,
+.img-large img,
+.img-medium img,
+.img-small img {
+  display:    inline-block;
+  height:     auto;
+  max-width:  100%;
+}
+
+/* Tamaños individuales */
+.img-full   img { width: 100%; }
+.img-large  img { width: 85%;  }
+.img-medium img { width: 65%;  }
+.img-small  img { width: 40%;  }
+
+/* Imagen rota: oculta el broken-icon y colapsa el espacio */
+.img-full   img:not([src]),
+.img-large  img:not([src]),
+.img-medium img:not([src]),
+.img-small  img:not([src]),
+.img-full   img[src=""],
+.img-large  img[src=""],
+.img-medium img[src=""],
+.img-small  img[src=""] {
+  display: none;
+}
+
+/* Mobile grid — wireframes iPhone, 2 por fila */
+.img-mobile-grid {
+  display:           flex;
+  flex-wrap:         wrap;
+  justify-content:   center;
+  gap:               10px;
+  margin:            1.2em auto;
+  page-break-inside: avoid;
+}
+
+.img-mobile-grid img {
+  width:       calc(23% - 10px);
+  max-width:   calc(23% - 10px);
+  height:      auto;
+  display:     block;
+  flex-shrink: 0;
+}
