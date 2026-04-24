@@ -213,7 +213,13 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | Baca Camargo, Vitaly Arturo<br>AV1<br>Diagram DataBase y Diagram Class: Desarrolló habilidades de modelado de datos para representar la arquitectura del sistema de forma estructurada.<br>Definición de Bounded Context y EventStorming: Aplicó técnicas de diseño orientado al dominio para delimitar responsabilidades del sistema.<br>Deployment Landing Page: Adquirió competencias de despliegue web para poner en producción la página del proyecto.<br><br>Bautista Rivera, Jose Diego<br>AV1<br>Chapter 4 - Style Guidelines: Aprendió a definir y documentar estándares visuales y de diseño para el equipo.<br>Chapter 5 - Software Configuration Management y Sprint 1: Aplicó metodologías de gestión de configuración y planificación ágil.<br>Landing Page Mock-up Mobile Responsive: Desarrolló habilidades de diseño adaptable para distintos dispositivos.<br><br>Pariachi Limahuaya, Sebastián Ubaldo<br>AV1<br>Impact Mapping: Aplicó técnicas de alineación estratégica entre objetivos del negocio y funcionalidades del producto.<br>User Stories: Adquirió habilidades para traducir necesidades del usuario en requerimientos funcionales claros.<br>Product Backlog: Desarrolló competencias de priorización y gestión de tareas en entornos ágiles.<br><br>Teran Zavala, Mauricio Alejandro<br>AV1<br>Landing Page mock-up: Aplicó principios de diseño UI/UX para estructurar visualmente la propuesta del producto.<br>Landing Page implementation: Adquirió habilidades de desarrollo frontend para llevar el diseño a código funcional.<br><br>Almandroz Carbajal, Pierina Marysabel<br>AV1<br>Entrevistas: Aplicó técnicas de investigación cualitativa para identificar necesidades reales de los usuarios objetivo.<br>Wireframes: Desarrolló habilidades de prototipado para estructurar visualmente los flujos de interacción del producto.<br>Landing Page (parcial): Adquirió competencias de desarrollo frontend aplicando los lineamientos de diseño definidos por el equipo. | A lo largo del AV1, el grupo elaboró documentación técnica y visual de calidad, incluyendo diagramas, guidelines, mockups, user stories y el product backlog. Estos entregables evidencian la capacidad del equipo para comunicarse por escrito con precisión, empleando formatos adecuados para distintas audiencias: técnica (diagramas, bounded context) y de usuario final (landing page, entrevistas). La redacción fue clara, organizada y alineada a los estándares del curso. |
 
 # Capítulo I: Introducción
+
+En este capítulo se presenta el contexto general del proyecto Foundly, describiendo la startup detrás del producto, el perfil del equipo de desarrollo y la problemática que motiva la solución propuesta. Asimismo, se detalla el proceso de Lean UX aplicado para validar las hipótesis del negocio y se definen los segmentos objetivo a los que se dirige la plataforma.
+
 ## 1.1. Startup Profile
+
+En esta sección se presenta la identidad de Foundly como startup, incluyendo su propuesta de valor, misión, visión y los perfiles de los integrantes del equipo de desarrollo.
+
 ### 1.1.1. Descripción de la Startup
 
 En un ecosistema emprendedor donde el talento y las ideas se encuentran dispersas, Foundly nace con una visión clara: transformar la manera en que emprendedores, estudiantes y profesionales se conectan, colaboran y materializan proyectos de impacto real. Nuestra propuesta va más allá del financiamiento: es una plataforma de encuentro entre personas, habilidades y propósitos comunes, donde cada idea tiene la posibilidad de convertirse en algo concreto.
@@ -235,6 +241,9 @@ Foundly no es solo una plataforma de crowdfunding. Es un ecosistema vivo de cola
 | ![Pierina](../resources/Images/Chapter-1/miembros_del_equipo/pierina.jpg) | **Nombre Completo:** Pierina Almandroz Carbajal <br> **Código:** U202316845 <br> **Carrera:** Ingenieria de Software - UPC <br><br> **Perfil:** <br> Estudiante de Ingeniería de software, me gusta dar soluciones reles a problematicas actuales de mi comunidad. Además, me encuentro interesada en poder desarrollar aplicaciones web para poder llegar a ser una profesional comprometida con el desarrollo. <br><br> **Habilidades Técnicas:** <br> - C++ <br> - c# <br> - CSS y Python <br><br> **Habilidades Sociales:** <br> - Compromiso con los proyectos y las fechas de entrega <br> - Adaptabilidada a diferentes entornos <br> - Fácil comunicación con los integrantes del grupo                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 ## 1.2. Solution Profile
+
+En esta sección se profundiza en la solución propuesta por Foundly, partiendo del análisis de los antecedentes y la problemática identificada, y describiendo el proceso de Lean UX que guió el diseño del producto.
+
 ### 1.2.1. Antecedentes y problemática
 
 En el contexto de Latinoamérica, la realidad de las startups es particularmente desafiante: se estima que cerca del **75 % fracasan antes de cumplir dos años de actividad**, lo que refleja la fragilidad del ecosistema emprendedor en la región (Panamerican World, 2023). A nivel global, la situación no es mucho más alentadora, ya que diversos estudios coinciden en que aproximadamente el **90 % de las startups no logran sobrevivir a largo plazo**, dejando apenas un **10–20 %** que alcanza la consolidación o el éxito sostenido (Exploding Topics, 2024; Demand Sage, 2024).
@@ -305,6 +314,8 @@ Una propuesta con estas características puede contribuir significativamente a *
 ---
 
 ### 1.2.2. Lean UX Process
+
+En esta sección se describe el proceso de Lean UX aplicado por el equipo, que permitió definir el problema, establecer supuestos, formular hipótesis y construir el canvas de la solución de forma iterativa y centrada en el usuario.
 
 #### 1.2.2.1. Lean UX Problem Statements
 
@@ -423,7 +434,13 @@ Esta sección incluye la descripción de los segmentos asociados al dominio del 
 
 
 # Capítulo II: Requirements Elicitation & Analysis
+
+En este capítulo se documenta el proceso de levantamiento y análisis de requisitos del proyecto. Se identifican los principales competidores, se registran y analizan las entrevistas realizadas a los segmentos objetivo, y se aplican técnicas de needfinding para comprender en profundidad las necesidades, motivaciones y frustraciones de los usuarios. Finalmente, se presentan los resultados del Big Picture Event Storming y el Ubiquitous Language del dominio.
+
 ## 2.1. Competidores
+
+En esta sección se identifican y analizan los principales competidores directos e indirectos de Foundly, con el objetivo de comprender el panorama competitivo y definir estrategias de diferenciación.
+
 ### 2.1.1. Análisis competitivo
 
 En esta sección se realizará el análisis competitivo de los competidores identificados en la sección inicial con el objetivo de tener una idea más clara sobre nuestro producto frente a los competidores y aprender para mejorar nuestro producto.
@@ -831,6 +848,8 @@ Kickstarter, Indiegogo y GoFundMe cuentan con marcas globalmente reconocidas, gr
 En esta sección se abordará la investigación en base a la información que se obtendrá de los segmentos entrevistados con el objetivo de conocer mejor a nuestros segmentos objetivos y aprender de ellos y sus procesos.
 
 ### 2.2.1. Diseño de entrevistas
+
+A continuación se presentan las guías de preguntas diseñadas para cada segmento, explicando los objetivos de cada bloque temático y el criterio de selección de los entrevistados.
  
 ---
  
@@ -1416,6 +1435,8 @@ Los perfiles con habilidades/roles definidos y las métricas de avance son consi
 
 ## 2.3. Needfinding
 
+En esta sección se aplican diversas técnicas de investigación centrada en el usuario para comprender en profundidad el contexto, las motivaciones y las frustraciones de cada segmento objetivo.
+
 ### 2.3.1. User Personas
 
 Tras analizar las entrevistas realizadas a cada segmento objetivo, el equipo definió los perfiles de usuario ideal que representan a los actores principales del modelo de negocio de Foundly. Los User Personas fueron construidos considerando las personalidades, motivaciones, frustraciones y comportamientos identificados durante el proceso de investigación, con el objetivo de mantener al usuario como centro de las decisiones de diseño y desarrollo.
@@ -1614,6 +1635,8 @@ Este análisis permite identificar oportunidades clave de mejora enfocadas en la
 
 ## 2.4. Big Picture Event Storming
 
+En esta sección se presenta el resultado de la sesión de Event Storming realizada por el equipo, que permitió identificar los eventos de dominio, los flujos de interacción y los Bounded Contexts que conforman la arquitectura de Foundly.
+
 **Step 1 – Free Exploration**
 
 En esta primera etapa, el equipo realizó una sesión de lluvia de ideas para capturar todos los eventos relevantes dentro del dominio, sin preocuparse por el orden o la jerarquía. El objetivo principal fue representar los acontecimientos reales del negocio, de manera independiente a cualquier función técnica o relacionada con un sistema.
@@ -1653,6 +1676,9 @@ En esta sección se establece un glosario de términos clave del dominio de nego
 | Real-time Monitoring (Monitoreo en tiempo real) | Capacidad del sistema para visualizar datos ambientales de manera continua, permitiendo observar cambios en el entorno durante la ejecución de proyectos. |
 
 # Capítulo III: Requirements Specification
+
+En este capítulo se formaliza la especificación de requisitos del producto a partir de los hallazgos obtenidos en el proceso de investigación. Se definen las User Stories con sus criterios de aceptación, se presenta el Impact Mapping que vincula los objetivos del negocio con las funcionalidades del sistema, y se organiza el Product Backlog priorizado para el desarrollo.
+
 ## 3.1. User Stories
 
 >En esta sección se presenta la definición y elaboración de las User Stories del proyecto **Foundly**. Las User Stories constituyen una herramienta fundamental dentro de las metodologías ágiles, pues permiten describir los requisitos desde la perspectiva del usuario final y orientar el desarrollo hacia el valor que el sistema debe entregar.
@@ -1868,6 +1894,9 @@ En esta sección se establece un glosario de términos clave del dominio de nego
 | 72 | US-PROF-02 | API - Perfil colaborador | Como developer quiero ver perfil público. | 2 |
 
 # Capítulo IV: Product Design
+
+En este capítulo se documenta el diseño completo del producto Foundly, desde las guías de estilo y la arquitectura de la información hasta los wireframes, mockups, prototipos y la arquitectura de software orientada al dominio. Este capítulo establece los lineamientos visuales y técnicos que guían la implementación del sistema.
+
 ## 4.1. Style Guidelines
 En esta sección, se presentan las guías de estilos para nuestro landing page y aplicación web de nuestro startup. Estas guías permiten establecer estilos previo al
 desarrollo de nuestra página web. Además, los estilos seleccionados permitirán al usuario navegar por la página de manera sencilla, comoda y que atraiga
@@ -2038,6 +2067,8 @@ Las etiquetas siguen un formato bilingüe (español / inglés) para garantizar c
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+A continuación se definen las etiquetas SEO y metadatos aplicados al Landing Page y la Web Application, con el objetivo de mejorar el posicionamiento en motores de búsqueda y optimizar la presentación del contenido en redes sociales.
+
 Para mejorar la visibilidad de Foundly y destacar el enfoque IoT y sostenible, implementaremos las siguientes etiquetas:
 
 ### Landing Page SEO Tags and Meta Tags
@@ -2065,6 +2096,9 @@ Para mejorar la visibilidad de Foundly y destacar el enfoque IoT y sostenible, i
 
 ### 4.2.4. Searching Systems
 
+En esta sección se describe el sistema de búsqueda implementado en la plataforma, detallando los filtros, criterios y mecanismos disponibles para que los usuarios encuentren proyectos y colaboradores de forma eficiente.
+
+
 El sistema de búsqueda de Foundly está diseñado para facilitar que los usuarios encuentren proyectos, colaboradores o métricas IoT de forma rápida y precisa:
 
 Búsqueda básica: Un campo de búsqueda en la parte superior para localizar proyectos, emprendedores o métricas de impacto mediante palabras clave.
@@ -2091,6 +2125,8 @@ Mientras el usuario escribe, se ofrecerán sugerencias de proyectos o perfiles r
 
 ### 4.2.5. Navigation Systems
 
+A continuación se presenta el sistema de navegación de Foundly, describiendo la estructura de menús, rutas principales y mecanismos de orientación que garantizan una experiencia de uso fluida e intuitiva.
+
 Foundly ofrece una navegación clara e intuitiva para guiar al usuario en cada etapa:
 
 Menú principal: Inicio, Proyectos, Impacto IoT, Servicios, Nosotros, Contacto y accesos rápidos a Login/Registro.
@@ -2108,6 +2144,9 @@ Navegación consistente: Estructura uniforme en todas las páginas, manteniendo 
 Soporte responsivo: Navegación adaptada a dispositivos móviles y tablets.
 
 ## 4.3. Landing Page UI Design
+
+En esta sección se presenta el diseño de interfaz del Landing Page de Foundly, desde los wireframes de baja fidelidad hasta los mockups de alta fidelidad que definen su apariencia final.
+
 ### 4.3.1. Landing Page Wireframe
 
 Para elaborar nuestro prototipo de baja fidelidad, hemos utilizado la plataforma Figma, que nos permite crear, representar y exportar nuestros prototipos. Gracias a esta herramienta, podemos presentar un Wireframe de una buena calidad de una manera sencilla.
@@ -2150,7 +2189,8 @@ Para elaborar nuestro prototipo de baja fidelidad, hemos utilizado la plataforma
 
 ### 4.3.2. Landing Page Mock-up
 
-Hemos finalizado con éxito el mock-up de la página de inicio, aplicando los principios y elementos de diseño clave. Gracias a estas directrices, la experiencia para los usuarios de nuestra plataforma será mucho más sencilla e intuitiva.
+En esta sección se presentan los mockups de alta fidelidad del Landing Page, mostrando el diseño visual final aplicando la paleta de colores, tipografía y componentes definidos en las Style Guidelines.
+
 
 **Landing Page Desktop**
 
@@ -2170,7 +2210,12 @@ Hemos finalizado con éxito el mock-up de la página de inicio, aplicando los pr
 </div>
 
 ## 4.4. Web Applications UX/UI Design
+
+En esta sección se documenta el diseño de experiencia e interfaz de usuario de la Web Application de Foundly, desde los wireframes iniciales hasta los mockups finales y los diagramas de flujo de usuario.
+
 ### 4.4.1. Web Applications Wireframes
+
+A continuación se presentan los wireframes de la Web Application, que representan la estructura y jerarquía de los elementos en cada vista principal del sistema.
 
 Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos 'Figma' para crear los wireframes de manera eficiente y colaborativa.
 
@@ -2258,7 +2303,7 @@ Desde el menú principal, el usuario puede acceder a la sección de *Colaborador
 
 ### 4.4.3. Web Applications Mock-ups
 
-Los mockups constituyen una representación visual de alta fidelidad de la interfaz de Foundly, permitiendo visualizar la apariencia final, la disposición de los componentes y la consistencia visual antes de iniciar el desarrollo. Fueron elaborados en Figma siguiendo los lineamientos de la paleta de colores, tipografía y sistema de espaciado definidos en las Style Guidelines.
+A continuación se presentan los mockups constituyen una representación visual de alta fidelidad de la interfaz de Foundly, permitiendo visualizar la apariencia final, la disposición de los componentes y la consistencia visual antes de iniciar el desarrollo. Fueron elaborados en Figma siguiendo los lineamientos de la paleta de colores, tipografía y sistema de espaciado definidos en las Style Guidelines.
 
 <div class="img-full">
 <img src="../resources/Images/Chapter-4/web-aplication/view general/mockup/captura de todo el mockup sin flujo.png" alt="Web Application Mock-ups — Vista general Foundly">
@@ -2386,13 +2431,13 @@ A continuación, se presenta el prototipo que se realizó en base a los mockups 
 
 ## 4.6. Domain-Driven Software Architecture
 
-La arquitectura de software de Foundly se construye a partir de los resultados obtenidos en el Big Picture Event Storming, que permitió comprender en profundidad los flujos clave del dominio de atención residencial y las interacciones entre colaboradores y emprededores. A partir de este análisis inicial, se desarrolló una visión más estructurada del dominio utilizando los principios de Domain-Driven Design (DDD).
+A continuación se presenta la arquitectura de software de Foundly se construye a partir de los resultados obtenidos en el Big Picture Event Storming, que permitió comprender en profundidad los flujos clave del dominio de atención residencial y las interacciones entre colaboradores y emprededores. A partir de este análisis inicial, se desarrolló una visión más estructurada del dominio utilizando los principios de Domain-Driven Design (DDD).
 
 En las siguientes secciones se presenta cada nivel del modelo, explicando la estructura, responsabilidades y comunicación entre los elementos que conforman la arquitectura de Foundly.
 
 ### 4.6.1. Design-Level Event Storming
 
-Para identificar los eventos de dominio, el equipo realizó una sesión de Event Storming. Esta técnica permite visualizar y comprender el flujo de eventos dentro del dominio, facilitando la identificación de los Bounded Contexts y sus responsabilidades dentro de la arquitectura de Foundly.
+A continuación se para identificar los eventos de dominio, el equipo realizó una sesión de Event Storming. Esta técnica permite visualizar y comprender el flujo de eventos dentro del dominio, facilitando la identificación de los Bounded Contexts y sus responsabilidades dentro de la arquitectura de Foundly.
 
 El desarrollo del proceso de Domain-Driven Design se realizó en la herramienta Miro:
 
@@ -2533,7 +2578,7 @@ Su propósito principal es proporcionar una visión clara y basada en datos del 
 
 ### 4.6.2. Software Architecture Context Diagram
 
-En este nivel se presenta una vista de alto nivel de la arquitectura del sistema, donde el foco está en **Foundly** como una “caja negra” y en las interacciones que mantiene con sus usuarios y sistemas externos.
+En esta sección se presenta una vista de alto nivel de la arquitectura del sistema, donde el foco está en **Foundly** como una “caja negra” y en las interacciones que mantiene con sus usuarios y sistemas externos.
 
 El *context diagram* muestra a **Foundly Software System** como el núcleo de la solución, rodeado por los principales actores y servicios externos con los que se comunica:
 
@@ -2559,7 +2604,7 @@ Esta vista permite comprender el alcance del sistema, sus límites de responsabi
 
 ### 4.6.3. Software Architecture Container Diagrams
 
-En el nivel de contenedores, la atención se desplaza desde “quién usa el sistema” hacia “cómo se organiza internamente Foundly en aplicaciones y fuentes de datos”. El *container diagram* muestra los elementos principales de la arquitectura, sus responsabilidades y la forma en que se comunican entre sí y con sistemas externos.
+A continuación se presenta el nivel de contenedores, la atención se desplaza desde “quién usa el sistema” hacia “cómo se organiza internamente Foundly en aplicaciones y fuentes de datos”. El *container diagram* muestra los elementos principales de la arquitectura, sus responsabilidades y la forma en que se comunican entre sí y con sistemas externos.
 
 La arquitectura lógica de Foundly se estructura en los siguientes contenedores:
 
@@ -2593,7 +2638,7 @@ Esta vista permite entender cómo se distribuyen las responsabilidades entre la 
 
 ### 4.6.4. Software Architecture Components Diagrams
 
-En el nivel de componentes se detalla la descomposición interna de los contenedores, mostrando los bloques estructurales que los conforman y las relaciones entre ellos. En esta sección se pone especial énfasis en el contenedor **API Application**, ya que es donde reside la mayor parte de la lógica de negocio del sistema Foundly.
+En esta sección se presentan el nivel de componentes se detalla la descomposición interna de los contenedores, mostrando los bloques estructurales que los conforman y las relaciones entre ellos. En esta sección se pone especial énfasis en el contenedor **API Application**, ya que es donde reside la mayor parte de la lógica de negocio del sistema Foundly.
 
 El *component diagram* de la API Application organiza la arquitectura interna siguiendo los **bounded contexts definidos en el dominio**, donde cada módulo backend representa un componente principal dentro del sistema:
 
@@ -2642,7 +2687,12 @@ De esta manera, el component diagram permite visualizar cómo la API Application
 </div>
 
 ## 4.7. Software Object-Oriented Design
+
+En esta sección se presenta el diseño orientado a objetos del sistema, describiendo las clases, atributos, métodos y relaciones que conforman el modelo de dominio de Foundly.
+
 ### 4.7.1. Class Diagrams
+
+A continuación se presentan los diagramas de clases organizados por Bounded Context, mostrando la estructura de objetos y las relaciones entre entidades dentro de cada módulo del sistema.
 
 **Shared**
 
@@ -3542,6 +3592,9 @@ Este diseño permite transformar datos crudos en información valiosa, facilitan
 </div>
 
 ## 4.8. Database Design
+
+A continuación se presenta esta sección se documenta el diseño de la base de datos de Foundly, describiendo las entidades, atributos y relaciones que conforman el modelo de datos del sistema.
+
 ### 4.8.1. Database Diagram
 
 Nuestro diagrama de base de datos representa cómo se organiza toda la información dentro de la plataforma **Foundly**.
@@ -3767,11 +3820,16 @@ La relación entre estas tablas permite que un reporte tenga múltiples resúmen
 Este diseño permite transformar datos en información valiosa, facilitando la comprensión del comportamiento de los proyectos y apoyando la toma de decisiones basada en datos dentro de la plataforma.
 
 # Capítulo V: Product Implementation, Validation & Deployment
-A continuación, se presentará un repositorio central y organizado que servirá como guía para el desarrollo enfocado y consistente de nuestra solución.
+
+En este capítulo se documenta el proceso de implementación, validación y despliegue del producto Foundly. Se describe la configuración del entorno de desarrollo, las convenciones de código adoptadas, y la evidencia del trabajo realizado en cada sprint, incluyendo la planificación, el backlog, el desarrollo, la ejecución y la colaboración del equipo.
+
 ## 5.1. Software Configuration Management
+
 A continuación, se presentará un repositorio central y organizado que servirá como guía para el desarrollo enfocado y consistente de nuestra solución.
+
 ### 5.1.1. Software Development Environment Configuration
-En esta sección se incluye los links de las aplicaciones, productos de software realizadas durante el ciclo del proyecto en los programas que se utilizaron.
+
+En esta sección se documenta la configuración del entorno de desarrollo del equipo, incluyendo las herramientas utilizadas, la estrategia de gestión del código fuente, las convenciones de estilo y la configuración de despliegue de los productos digitales.
 
 * **Product UX/UI Design** Este aspecto se enfoca en el diseño de la experiencia del usuario (UX) y la interfaz de usuario (UI) del producto de software. UX se centra en comprender y mejorar la experiencia general del usuario al interactuar con el software, mientras que UI se refiere al diseño visual y la usabilidad de la interfaz de usuario. El diseño UX/UI busca crear una experiencia intuitiva, atractiva y eficiente para los usuarios. En este caso realizar un modelo de sitio web para computadoras y celulares.
 
@@ -3839,6 +3897,8 @@ https://pages.github.com/
 https://www.markdownguide.org/getting-started/
 
 ### 5.1.2. Source Code Management
+
+En esta sección se describe la estrategia de gestión del código fuente adoptada por el equipo, incluyendo el repositorio central, la estructura de ramas y los lineamientos para la contribución de cada integrante.
 
 Para administrar el progreso del código, el equipo optó por una estrategia simplificada en lugar de implementar el flujo completo de Git Flow. Se trabajó directamente con una sola rama principal (`main`), la cual contiene la versión estable y en desarrollo del proyecto.
 
@@ -4169,7 +4229,7 @@ Then debería ver un mensaje de error "Credenciales incorrectas"
 
 ### 5.1.4. Software Deployment Configuration
 
-Para desplegar nuestro landing page hemos optado por usar Github Pages el cual brinda la posibilidad de alojar sitios web estáticos sin costo alguno.
+En esta sección se describe la configuración de despliegue de los productos digitales de Foundly, detallando las plataformas, herramientas y procedimientos utilizados para publicar cada componente del sistema.
 
 1. Ingresamos al repositorio de nuestra landing page
 
@@ -4198,6 +4258,9 @@ Para desplegar nuestro landing page hemos optado por usar Github Pages el cual b
 </div>
 
 ## 5.2. Landing Page, Services & Applications Implementation
+
+En esta sección se documenta la implementación de los productos digitales de Foundly por sprint, presentando la evidencia del trabajo realizado, el backlog ejecutado y los resultados obtenidos en cada ciclo de desarrollo.
+
 ### 5.2.1. Sprint 1
 En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos
 varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint. Además, se destacarán los aspectos relacionados con la documentación de servicios, la evidencia de despliegue de software y las perspectivas de colaboración del equipo durante el sprint. Este análisis detallado nos permitirá evaluar el progreso del proyecto y realizar ajustes necesarios para futuros sprints.
