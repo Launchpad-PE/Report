@@ -378,9 +378,10 @@ Kickstarter, Indiegogo y GoFundMe cuentan con marcas globalmente reconocidas, gr
 
 - **Estrategia de Entrada al Mercado Local (Perú – LATAM):** Foundly iniciará operaciones en Perú como mercado piloto, aprovechando la ausencia de competidores globales con presencia oficial en la región. Una vez validado el modelo, se escalará progresivamente hacia otros países de Latinoamérica con características de mercado similares.
 
-- **Táctica:** En la fase inicial se ejecutará una campaña de educación y sensibilización sobre qué es el crowdfunding y cómo funciona, mediante talleres, webinars gratuitos y alianzas con universidades, incubadoras de negocios, coworkings y ONGs locales. El objetivo es posicionar a Foundly como pionera en financiamiento colaborativo adaptado al contexto latinoamericano antes de que los competidores globales decidan expandirse.
+- **Táctica:** En la fase inicial se ejecutará una campaña de educación y sensibilización sobre qué es la colaboración estructurada en proyectos y cómo funciona, mediante talleres, webinars gratuitos y alianzas con universidades, incubadoras de negocios, coworkings y ONGs locales. El objetivo es posicionar a Foundly como pionera en colaboración de proyectos adaptada al contexto latinoamericano antes de que los competidores globales decidan expandirse.
 
-- **Estrategia de Marketing Digital Segmentado:** Se implementarán campañas diferenciadas en Facebook, Instagram, TikTok y LinkedIn, segmentadas por edad, intereses y afinidad con el emprendimiento o causas sociales, orientadas a los dos segmentos objetivos: emprendedores en etapa temprana y colaboradores profesionales.
+
+- **Estrategia de Marketing Digital Segmentado:** Se implementarán campañas diferenciadas en Facebook, Instagram, TikTok y LinkedIn, segmentadas por edad, intereses y afinidad con el emprendimiento o causas sociales, orientadas a los dos segmentos objetivos: emprendedores y colaboradores.
 
 - **Táctica:** Contenido visual y narrativo videos cortos, reels, historias y testimonios de usuarios reales que muestren casos de proyectos financiados exitosamente, tutoriales sobre cómo crear una campaña y el funcionamiento del módulo IoT para proyectos ambientales.
 
@@ -398,7 +399,7 @@ Kickstarter, Indiegogo y GoFundMe cuentan con marcas globalmente reconocidas, gr
 
 - **Amenaza: ausencia de regulación clara sobre crowdfunding en Perú.** La falta de un marco legal específico puede derivar en regulaciones futuras que limiten la operación de plataformas de financiamiento colectivo.
 
-  - **Táctica:** Desde el inicio, Foundly operará bajo estándares de transparencia financiera y cumplimiento normativo general, documentando todos los flujos de fondos y manteniendo comunicación con asociaciones de emprendimiento y organismos regulatorios, de modo que la plataforma esté preparada para adaptarse a cualquier cambio regulatorio sin interrupciones.
+- **Táctica:** Desde el inicio, Foundly operará bajo estándares de transparencia y cumplimiento normativo general, documentando todos los procesos y manteniendo comunicación con asociaciones de emprendimiento y organismos regulatorios, de modo que la plataforma esté preparada para adaptarse a cualquier cambio regulatorio sin interrupciones.
 
 ## 2.2. Entrevistas
 
@@ -411,18 +412,19 @@ En esta sección se abordará la investigación en base a la información que se
 #### Segmento 1: Emprendedores y Startups en Etapa Temprana
  
 **Introducción:**
-Buenos días/tardes/noches, mi nombre es [Nombre del entrevistador]. Hoy tengo el agrado de conversar con [Nombre del entrevistado], emprendedor(a) que busca impulsar sus ideas o proyectos. El objetivo de esta entrevista es conocer su experiencia y expectativas para crear soluciones que realmente aporten al ecosistema emprendedor. Gracias por su tiempo y disposición.
- 
-1. ¿De qué forma suele financiar actualmente sus proyectos o ideas de negocio?
-2. ¿Ha utilizado antes plataformas de crowdfunding u otras herramientas digitales para obtener financiamiento? ¿Cómo fue su experiencia?
-3. ¿Qué dificultades ha enfrentado para conseguir colaboradores con habilidades diferentes a las suyas (ej. diseño, tecnología, marketing)?
-4. ¿Cuáles son sus principales preocupaciones al buscar financiamiento en línea para un proyecto en etapa temprana?
-5. ¿Qué características considera indispensables en una plataforma que combine formación de equipos con campañas de financiamiento?
-6. ¿Qué mecanismos de transparencia le generarían más confianza al invertir tiempo y esfuerzo en una plataforma (ej. reportes de avance, hitos validados, reputación de equipos)?
-7. ¿Cómo evaluaría si una plataforma realmente le ayuda a reducir riesgos de fracaso en su emprendimiento?
-8. ¿Qué beneficios esperaría obtener al usar una plataforma como esta, en comparación con las formas tradicionales de buscar financiamiento o colaboradores?
-9. ¿En qué momento siente que más necesita apoyo para su emprendimiento: al validar la idea, al formar el equipo o al buscar financiamiento?
-10. ¿Ha dejado de usar alguna plataforma o herramienta porque no cumplió con sus expectativas? ¿Qué fue lo que más le molestó?
+Buenos días/tardes, mi nombre es [nombre del entrevistador] y el día de hoy estaremos realizando una breve entrevista para conocer más sobre cómo los emprendedores gestionan actualmente sus proyectos, las dificultades que enfrentan al momento de formar equipos de trabajo y cómo organizan sus actividades.
+El objetivo de esta entrevista es recopilar información que nos ayude a comprender mejor sus necesidades y problemas dentro de proyectos colaborativos. 
+
+1. ¿Cómo organizas actualmente tus proyectos o ideas?
+2. ¿Qué dificultades tienes para encontrar personas con habilidades complementarias para tu proyecto?
+3. ¿Has trabajado anteriormente con equipos multidisciplinarios? ¿Cómo fue tu experiencia?
+4. ¿Qué herramientas utilizas actualmente para comunicarte y organizar tareas dentro de tu equipo?
+5. ¿Qué problemas encuentras al gestionar responsabilidades dentro de tu equipo?
+6. ¿Qué información necesitas conocer antes de aceptar a alguien en tu proyecto?
+7. ¿Qué características consideras importantes en una plataforma para encontrar colaboradores?
+8. ¿Qué aspectos te generarían mayor confianza al trabajar con personas desconocidas?
+9. ¿Cómo haces seguimiento al progreso de tu proyecto actualmente?
+10 Si pudieras mejorar la forma en la que trabajas actualmente con tu equipo, ¿qué cambiarías o agregarías?
  
 **Cierre:**
 Muchas gracias por compartir su experiencia y perspectivas. Su opinión es muy valiosa para diseñar una herramienta que apoye de verdad a los emprendedores en etapa temprana.
@@ -432,19 +434,21 @@ Muchas gracias por compartir su experiencia y perspectivas. Su opinión es muy v
 #### Segmento 2: Estudiantes Universitarios y Profesionales Jóvenes
  
 **Introducción:**
-Buenos días/tardes/noches, mi nombre es [Nombre del entrevistador]. Hoy entrevisto a [Nombre del entrevistado], estudiante/profesional joven interesado en adquirir experiencia práctica y colaborar en proyectos innovadores. El objetivo es conocer sus motivaciones y expectativas al integrarse en equipos de emprendimiento. Gracias por su tiempo.
- 
-1. ¿Actualmente participa en proyectos fuera de sus estudios o trabajo formal? ¿De qué tipo?
-2. ¿Ha usado alguna plataforma para colaborar en proyectos, voluntariados o equipos multidisciplinarios? ¿Cómo le fue?
-3. ¿Qué lo motivaría a unirse a un proyecto de emprendimiento en línea (ej. experiencia, networking, posibles ingresos)?
-4. ¿Qué dificultades ha tenido para encontrar oportunidades de colaboración relevantes a su perfil o intereses?
-5. ¿Qué funciones considera más útiles en una plataforma que le permita unirse a equipos y aportar sus habilidades?
-6. ¿Qué nivel de información le gustaría tener antes de decidir unirse a un proyecto (ej. objetivos, roles, nivel de compromiso requerido, métricas de avance)?
-7. ¿Qué mecanismos le darían confianza de que su trabajo dentro del equipo será valorado y reconocido?
-8. ¿Qué beneficios espera obtener al participar en una plataforma de este tipo (ej. experiencia práctica, portafolio, contactos, oportunidades laborales)?
-9. ¿Cómo cree que esta plataforma podría ayudarle a crecer profesionalmente en comparación con actividades tradicionales (ej. prácticas, cursos, voluntariados)?
-10. ¿Qué lo motivaría a recomendar esta herramienta a otros estudiantes o jóvenes profesionales?
- 
+Buenos días/tardes, mi nombre es [nombre del entrevistador] y el día de hoy estaremos realizando una breve entrevista para conocer más sobre la experiencia de estudiantes universitarios y jóvenes profesionales al participar en proyectos colaborativos.
+Buscamos entender qué los motiva a unirse a nuevos proyectos, qué dificultades enfrentan al trabajar en equipo y cómo organizan actualmente sus actividades dentro de estos proyectos.
+
+
+1. ¿Has participado en proyectos fuera de la universidad o trabajo formal?
+2. ¿Qué te motiva a unirte a nuevos proyectos?
+3. ¿Qué dificultades tienes para encontrar proyectos interesantes?
+4. ¿Qué herramientas utilizas actualmente para colaborar con otros equipos?
+5. ¿Qué problemas has tenido trabajando en equipo?
+6. ¿Qué información te gustaría conocer antes de unirte a un proyecto?
+7. ¿Qué te haría confiar en un proyecto publicado por otra persona?
+8. ¿Cómo te gustaría que reconozcan tu trabajo dentro de un equipo?
+9. ¿Qué beneficios buscas al participar en proyectos colaborativos?
+10. Si pudieras mejorar la forma en la que colaboras actualmente en proyectos, ¿qué cambiarías?
+
 **Cierre:**
 Muchas gracias por su tiempo y comentarios. Su aporte nos ayudará a crear una plataforma más útil y atractiva para jóvenes con interés en colaborar y aprender de proyectos reales.
 
