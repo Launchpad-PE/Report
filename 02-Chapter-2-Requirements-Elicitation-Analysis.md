@@ -1094,8 +1094,7 @@ En la situación actual (*As-Is*), el colaborador enfrenta un proceso poco estru
 - Busca proyectos en múltiples plataformas (redes sociales, recomendaciones de terceros, grupos de mensajería), sin filtros adecuados para encontrar oportunidades relevantes a su perfil.
 - Evalúa información incompleta o desactualizada sobre los proyectos disponibles, lo que dificulta la toma de decisiones.
 - Se integra a equipos donde la comunicación y organización dependen de herramientas dispersas como WhatsApp, Google Drive o Discord, generando desorden y falta de claridad en roles.
-- No cuenta con mecanismos formales que validen ni reconozcan su contribución al proyecto.
-
+  
 Los principales puntos críticos identificados son:
 
 - Falta de filtros adecuados para encontrar proyectos alineados a sus habilidades e intereses.
@@ -1169,10 +1168,9 @@ En esta sección se establece un glosario de términos clave del dominio de nego
 |--------|-----------|
 | Project (Proyecto) | Iniciativa colaborativa creada dentro de la plataforma con el objetivo de generar impacto ambiental o social. Incluye descripción, objetivos, actividades y métricas de impacto, y puede requerir colaboradores. |
 | Entrepreneur (Organizador) | Usuario que crea y gestiona un proyecto dentro de la plataforma, coordinando actividades, atrayendo participantes y generando impacto medible. |
-| Collaborator (Colaborador) | Usuario que se une a un proyecto existente aportando habilidades, conocimientos o tiempo para contribuir al cumplimiento de los objetivos. |
+| Collaborator (Colaborador) | Usuario que se une a un proyecto existente aportando habilidades, conocimientos o tiempo para participar activamente en el desarrollo y cumplimiento de los objetivos del proyecto. |
 | Team (Equipo) | Grupo de usuarios (organizadores y colaboradores) que trabajan en un proyecto de manera estructurada, con roles definidos, responsabilidades y objetivos compartidos. |
-| Contribution (Contribución) | Aporte realizado por los usuarios a un proyecto, que puede ser en forma de tiempo, trabajo, recursos o apoyo económico, permitiendo el avance del proyecto. |
-| Reputation (Reputación) | Indicador del nivel de participación y confiabilidad de un usuario dentro de la plataforma, basado en su actividad, cumplimiento de tareas y contribuciones. |
+| Reputation (Reputación) | Indicador del nivel de participación y confiabilidad de un usuario dentro de la plataforma, basado en su actividad, cumplimiento de tareas y desempeño dentro de los proyectos. |
 | Metrics (Métricas) | Indicadores que muestran el progreso de un proyecto y el impacto generado, incluyendo participación, cumplimiento de tareas y datos ambientales. |
 | Subscription (Subscripción) | Modelo de acceso a la plataforma mediante un pago recurrente que otorga beneficios adicionales y funcionalidades avanzadas. |
 | Milestone (Hito) | Punto de control dentro de un proyecto que representa un objetivo grupal. Agrupa tareas individuales y permite medir el avance del proyecto. |
