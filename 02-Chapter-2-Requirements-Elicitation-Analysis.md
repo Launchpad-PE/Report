@@ -1089,7 +1089,23 @@ Asimismo, se identificaron problemas como procesos de incorporación informales,
 
 ### 2.3.5. Empathy Mapping
 
+<h4>Segmento Emprededor</h4>
 
+A partir del Empathy Map del segmento emprendedor se identificó que su principal necesidad no es desarrollar la idea del proyecto, sino encontrar personas confiables y organizar el trabajo de manera eficiente. El análisis evidencia que actualmente enfrenta dificultades para encontrar colaboradores comprometidos, definir responsabilidades claras y realizar seguimiento del progreso sin depender de múltiples herramientas externas como WhatsApp, Google Drive y Trello.
+
+Asimismo, se identificó que uno de sus mayores dolores es la falta de compromiso de algunos colaboradores y la ausencia de trazabilidad sobre las tareas realizadas. Esto genera frustración, estrés y desconfianza durante el desarrollo del proyecto.
+
+En conjunto, el mapa permitió validar que el emprendedor necesita una plataforma centralizada que facilite la búsqueda de talento, la organización del equipo y el seguimiento estructurado del proyecto.
+
+<img src="resources/Images/Chapter-2/Empathy Map/Empathy map - Juan Fernandez.png">
+
+<h4>Segmento Colaborador</h4>
+
+A partir del Empathy Map del segmento colaborador se identificó que su principal necesidad no es únicamente encontrar proyectos donde participar, sino asegurarse de que estos sean proyectos serios, organizados y con objetivos claros. El análisis evidencia que actualmente los colaboradores enfrentan incertidumbre antes de unirse a un proyecto debido a la falta de información sobre roles, responsabilidades y nivel de compromiso del equipo.
+
+Asimismo, se identificó que uno de sus principales dolores es que su esfuerzo muchas veces no queda registrado ni reconocido formalmente, además de enfrentar problemas de desorganización, duplicación de tareas y falta de seguimiento dentro del equipo.
+
+<img src="resources/Images/Chapter-2/Empathy Map/Empathy map - Jesli Bautista.png">
 
 
 ## 2.4. Big Picture Event Storming
