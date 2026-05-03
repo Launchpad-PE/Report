@@ -934,59 +934,55 @@ Tras analizar las entrevistas realizadas a cada segmento objetivo, el equipo def
 
 #### Segmento 1: Emprendedor
 
-Para el segmento de emprendedores se elaboró el User Persona representativo de jóvenes desarrolladores y emprendedores tecnológicos en etapa temprana interesados en lanzar sus proyectos de forma colaborativa. Su construcción consideró los hallazgos obtenidos en el análisis de entrevistas realizadas a este segmento, incluyendo factores como:
+Para el segmento de emprendedores se elaboró el User Persona representativo de jóvenes desarrolladores y emprendedores tecnológicos en etapa temprana interesados en desarrollar sus ideas de manera estructurada y colaborativa. Su construcción consideró los hallazgos obtenidos en el análisis de entrevistas realizadas a este segmento, identificando factores clave como:
 
-- **Perfil técnico:** Usuarios con conocimientos en desarrollo de software o tecnología que desean llevar una idea de negocio a su primera versión funcional.
-- **Financiamiento:** Dificultad para acceder a mecanismos de financiamiento accesibles y confiables desde el contexto peruano.
-- **Formación de equipos:** Alta frustración por los meses que implica el networking presencial tradicional para encontrar cofundadores con habilidades complementarias.
-- **Herramientas actuales:** Uso de herramientas informales como WhatsApp, GitHub y plataformas internacionales como Kickstarter, que no están adaptadas al contexto local ni a proyectos en etapa cero.
+Perfil técnico: Usuarios con conocimientos en desarrollo de software, tecnología o innovación que buscan transformar una idea en un proyecto real y funcional.
+Formación de equipos: Presentan dificultades para encontrar colaboradores comprometidos con habilidades complementarias como diseño, marketing o ventas.
+Gestión de proyectos: Utilizan herramientas dispersas como WhatsApp, Google Drive, Trello o Excel, generando desorganización y falta de seguimiento claro.
+Seguimiento de avances: Necesitan visualizar responsabilidades, tareas pendientes y progreso del proyecto sin depender de reuniones constantes o procesos manuales.
+Confianza y compromiso: Buscan trabajar con personas responsables, con perfiles verificados y referencias previas que generen mayor seguridad dentro del equipo.
 
-Este perfil evidencia la necesidad de una solución local que combine formación de equipos con financiamiento colaborativo transparente, eliminando las barreras de entrada que enfrentan los emprendedores sin comunidad previa.
-
-<img src="resources/Images/Chapter-2/user-personas-ux/Juan Fernandez.png" alt="User Persona — Juan Fernández (Segmento Emprendedor)">
-
----
+Este perfil evidencia la necesidad de una solución que centralice la búsqueda de colaboradores, la gestión de tareas y el seguimiento de proyectos en una sola plataforma, reduciendo la desorganización y facilitando el crecimiento de proyectos innovadores en etapas tempranas.
 
 #### Segmento 2: Colaborador
 
-Para el segmento de colaboradores se elaboró el User Persona representativo de estudiantes universitarios y jóvenes profesionales interesados en participar en proyectos colaborativos. Su construcción consideró los hallazgos obtenidos en el análisis de entrevistas realizadas a este segmento, incluyendo factores como:
+Para el segmento de colaboradores se elaboró el User Persona representativo de estudiantes universitarios y jóvenes profesionales interesados en participar en proyectos colaborativos para adquirir experiencia práctica y trabajar en iniciativas reales. Su construcción consideró los hallazgos obtenidos en el análisis de entrevistas realizadas a este segmento, identificando factores clave como:
 
-- **Perfil académico y profesional:** Usuarios en formación en áreas tecnológicas —desarrollo de software, diseño UX, marketing digital— con experiencia en proyectos académicos y trabajos grupales.
-- **Motivaciones principales:** Adquirir experiencia práctica real, fortalecer su portafolio profesional y ampliar su red de contactos para mejorar sus oportunidades laborales futuras.
-- **Interés en tecnología aplicada:** Preferencia por proyectos con impacto real, especialmente aquellos relacionados con desarrollo de software, IoT y emprendimiento tecnológico.
-- **Herramientas actuales:** Uso de GitHub, WhatsApp y Google Docs como herramientas principales de colaboración, lo que genera dispersión y dificultad para hacer seguimiento estructurado del trabajo.
+Perfil académico y profesional: Usuarios entre 18 y 26 años con conocimientos en áreas como desarrollo, diseño, marketing u otras disciplinas complementarias, que buscan aplicar sus habilidades en proyectos reales fuera del entorno académico.
+Búsqueda de experiencia práctica: Desean participar en proyectos que les permitan aprender nuevas tecnologías, metodologías de trabajo y adquirir experiencia colaborando con personas de distintas áreas.
+Necesidad de proyectos estructurados: Buscan proyectos con objetivos claros, roles definidos y líderes comprometidos que realicen seguimiento constante al progreso del equipo.
+Reconocimiento del trabajo: Valoran que su esfuerzo y participación sean visibles dentro del proyecto, evitando escenarios donde su trabajo no sea reconocido o quede sin registro.
+Herramientas actuales limitadas: Actualmente utilizan herramientas dispersas como WhatsApp, Trello, Discord y Google Meet, lo que muchas veces genera desorganización en la colaboración.
 
-Este perfil evidencia la necesidad de una plataforma que centralice la búsqueda de proyectos, estructure la colaboración y proporcione mecanismos formales de reconocimiento que validen el aporte de cada colaborador.
+Este perfil evidencia la necesidad de una plataforma que permita encontrar proyectos confiables, visualizar avances reales, mejorar la organización del trabajo y generar mayor reconocimiento para los colaboradores dentro de cada proyecto.
 
-<img src="resources/Images/Chapter-2/user-personas-ux/Jesli Bautista.png" alt="User Persona — Jesli Bautista (Segmento Colaborador)">
+
+
 
 ### 2.3.2. User Task Matrix
 
-La seccion User Task Matrix permite identificar y comparar las tareas más relevantes que realizan los usuarios representados en nuestras User Personas. En esta matriz se organiza cada tarea según su frecuencia (qué tan seguido la realizan) y su importancia (qué tan crítica resulta para alcanzar sus objetivos).
-
 **Usuario Emprededor**
 
- <div align="center">
+<div align="center">
 
-| USER TASK | Frecuencia | Importancia |
-|---|---|---|
-| Publicar o registrar un proyecto | Alta | Crítica |
-| Buscar colaboradores por habilidades | Alta | Crítica |
-| Revisar perfiles y portafolios de candidatos | Alta | Crítica |
-| Seleccionar y confirmar integrantes del equipo | Media | Crítica |
-| Definir roles y responsabilidades en el proyecto | Media | Alta |
-| Lanzar una campaña de financiamiento | Media | Crítica |
-| Establecer hitos y metas del proyecto | Media | Alta |
-| Coordinar tareas y asignar responsabilidades | Alta | Importante |
-| Publicar reportes o evidencias de avance | Media | Alta |
-| Hacer seguimiento del progreso del proyecto | Alta | Importante |
-| Recibir aportes o financiamiento por hitos | Media | Crítica |
-| Recibir notificaciones de postulantes o avances | Alta | Alta |
+| USER TASK                                                | Frecuencia | Importancia |
+| -------------------------------------------------------- | ---------- | ----------- |
+| Publicar o registrar un proyecto                         | Alta       | Crítica     |
+| Buscar colaboradores por habilidades                     | Alta       | Crítica     |
+| Revisar perfiles y experiencia de candidatos             | Alta       | Crítica     |
+| Seleccionar y confirmar integrantes del equipo           | Media      | Crítica     |
+| Definir roles y responsabilidades en el proyecto         | Media      | Alta        |
+| Establecer hitos y metas del proyecto                    | Media      | Alta        |
+| Coordinar tareas y asignar responsabilidades             | Alta       | Importante  |
+| Publicar reportes o evidencias de avance                 | Media      | Alta        |
+| Hacer seguimiento del progreso del proyecto              | Alta       | Importante  |
+| Gestionar postulaciones de nuevos colaboradores          | Media      | Alta        |
+| Recibir notificaciones de postulantes o avances          | Alta       | Alta        |
+| Supervisar métricas del proyecto sostenible mediante IoT | Media      | Importante  |
 
-</div> 
+</div>
 
-Se observa que las tareas más críticas para el emprendedor se concentran en la publicación del proyecto, la búsqueda y selección de colaboradores con habilidades complementarias, y el acceso a financiamiento liberado por hitos. La comunicación interna y el seguimiento del progreso son actividades de alta frecuencia, lo que evidencia la necesidad de herramientas integradas dentro de la plataforma que eliminen la dependencia de canales informales como WhatsApp. Asimismo, la definición de roles desde el inicio y la publicación de reportes de avance resultan fundamentales para garantizar la transparencia y seriedad del proyecto ante colaboradores e inversores.
-
+Se observa que las tareas más críticas para el emprendedor se concentran en la publicación del proyecto, la búsqueda y selección de colaboradores con habilidades complementarias y la correcta organización del equipo de trabajo. La comunicación interna y el seguimiento del progreso son actividades de alta frecuencia, lo que evidencia la necesidad de herramientas integradas dentro de la plataforma que eliminen la dependencia de canales informales como WhatsApp. Asimismo, la definición de roles desde el inicio, la publicación de evidencias de avance y el monitoreo de métricas ambientales en proyectos sostenibles resultan fundamentales para garantizar una mejor organización y transparencia dentro del equipo.
 
 **Usuario Colaborador**
 
