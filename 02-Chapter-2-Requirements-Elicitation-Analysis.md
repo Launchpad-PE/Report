@@ -1017,50 +1017,51 @@ El User Journey Mapping permite visualizar el recorrido completo que experimenta
 
 ---
 
-#### Segmento 1: Emprendedor
+#### Segmento Emprededor
 
-El mapa del emprendedor representa el recorrido que experimentan los jóvenes emprendedores tecnológicos al intentar dar forma a sus ideas de negocio, conformar un equipo multidisciplinario y acceder a financiamiento. El proceso abarca desde la búsqueda inicial de referencias y plataformas hasta la gestión y cierre del proyecto con resultados concretos.
+El Customer Journey Map del segmento emprendedor permitió identificar el recorrido actual que experimentan los usuarios desde que detectan la necesidad de buscar apoyo para su proyecto hasta la evaluación final del trabajo realizado por su equipo. A través de este análisis se evidenció que los emprendedores atraviesan múltiples etapas marcadas por procesos manuales, herramientas dispersas y dificultades para mantener una colaboración estructurada.
 
-En la situación actual (*As-Is*), el emprendedor enfrenta un proceso fragmentado y lleno de fricciones:
+En la etapa de descubrimiento de la necesidad, el emprendedor reconoce que no puede desarrollar completamente su proyecto por sí solo debido a la falta de habilidades complementarias en áreas como diseño, marketing o ventas. Esto genera la necesidad de buscar apoyo externo para continuar con el desarrollo de su idea.
 
-- Busca información en múltiples canales dispersos (redes sociales, conocidos, motores de búsqueda), sin encontrar una fuente confiable y centralizada.
-- Intenta registrarse en plataformas internacionales que no están adaptadas al contexto peruano en términos de moneda, idioma ni regulación.
-- Publica su proyecto con herramientas de baja visibilidad y escasa estructura profesional.
-- Conforma su equipo contactando a personas de su entorno cercano, sin garantías de compromiso ni mecanismos formales de seguimiento.
+Durante la fase de búsqueda de colaboradores, se identificó que los emprendedores recurren principalmente a herramientas informales como grupos de WhatsApp, foros universitarios o LinkedIn para encontrar personas interesadas. Sin embargo, este proceso resulta poco eficiente debido a la dificultad de validar habilidades, experiencia real y nivel de compromiso de los candidatos.
 
-Estos factores generan desorden, pérdida de tiempo y una sensación creciente de inseguridad conforme avanza el proceso. Los principales puntos críticos identificados son:
+En la etapa de formación del equipo, el emprendedor suele asignar roles de manera informal mediante reuniones virtuales o mensajes, generando falta de claridad sobre responsabilidades y expectativas desde el inicio del proyecto.
 
-- Dificultad para encontrar plataformas confiables y accesibles desde Perú.
-- Escasa visibilidad de sus proyectos frente a un alto volumen de contenido competidor.
-- Ausencia de herramientas integradas para la gestión de equipos y comunicación interna.
-- Desconfianza en los mecanismos de financiamiento informales, que lo limitan a su círculo más cercano.
+Posteriormente, en la fase de organización y gestión, los usuarios utilizan múltiples herramientas como Trello, Google Drive y WhatsApp, lo que provoca dispersión de información, dificultades para centralizar tareas y una mayor carga operativa para el líder del proyecto.
 
-Este análisis evidencia oportunidades de mejora en cada etapa del proceso —Descubrimiento, Registro, Publicación del Proyecto, Formación de Equipo, Validación y Financiamiento, y Gestión y Cierre— y sienta las bases para el diseño de Foundly como solución que centraliza la búsqueda de colaboradores por habilidades, simplifica el registro adaptado al contexto local, ofrece plantillas profesionales para presentar ideas, integra herramientas de coordinación dentro de la plataforma y garantiza transparencia en el financiamiento mediante reportes de avance y liberación de fondos por hitos cumplidos.
+En la etapa de seguimiento del progreso, se observa uno de los mayores puntos de frustración, ya que el emprendedor debe realizar seguimiento manual mediante mensajes constantes y reuniones recurrentes para conocer el estado de las tareas, generando retrasos y desorganización.
 
-<img src="resources/Images/Chapter-2/user-journey-mapping/User-Journey-Mapping-Emprededor.png" alt="User Journey Mapping — Segmento Emprendedor">
+Finalmente, en la fase de evaluación y continuidad, se identificó la ausencia de registros claros sobre el desempeño individual de cada integrante, dificultando reconocer aportes, detectar incumplimientos y tomar decisiones sobre la continuidad del equipo.
+
+A nivel emocional, el mapa evidencia cómo el emprendedor inicia con motivación y expectativa positiva, pero conforme avanza el proyecto experimenta inseguridad, estrés y frustración debido a la falta de herramientas integradas para gestionar eficientemente su equipo.
+
+<img src="resources/Images/Chapter-2/Customer journey map - Segmento Emprededor.png">
+
+En conclusión, este Customer Journey Map permitió validar que existe una oportunidad clara para Foundly, al centralizar la búsqueda de colaboradores, la asignación de roles, la gestión de tareas, el seguimiento del progreso y la evaluación del desempeño dentro de una sola plataforma. Esto reduciría significativamente la fricción operativa que actualmente enfrentan los emprendedores en etapas tempranas.
 
 ---
 
-#### Segmento 2: Colaborador
+#### Segmento Colaborador
 
-El mapa del colaborador representa el recorrido que experimentan los estudiantes y jóvenes profesionales al buscar, unirse y participar en proyectos colaborativos. El proceso abarca desde la exploración de oportunidades hasta la obtención de resultados concretos como experiencia práctica y reconocimiento dentro de la comunidad.
+El Customer Journey Map del segmento colaborador permitió analizar el recorrido que experimentan estudiantes universitarios y jóvenes profesionales desde que buscan oportunidades para participar en proyectos hasta la evaluación final de su experiencia dentro del equipo. A través de este análisis se identificaron múltiples fricciones relacionadas con la falta de información clara, desorganización en el trabajo colaborativo y ausencia de reconocimiento formal del aporte realizado.
 
-En la situación actual (*As-Is*), el colaborador enfrenta un proceso poco estructurado y fragmentado:
+En la etapa de búsqueda de oportunidades, el colaborador intenta encontrar proyectos alineados con sus habilidades e intereses mediante grupos de Discord, WhatsApp, foros universitarios o LinkedIn. Sin embargo, muchas veces encuentra publicaciones poco claras que no especifican roles, responsabilidades o el tipo de perfil requerido.
 
-- Busca proyectos en múltiples plataformas (redes sociales, recomendaciones de terceros, grupos de mensajería), sin filtros adecuados para encontrar oportunidades relevantes a su perfil.
-- Evalúa información incompleta o desactualizada sobre los proyectos disponibles, lo que dificulta la toma de decisiones.
-- Se integra a equipos donde la comunicación y organización dependen de herramientas dispersas como WhatsApp, Google Drive o Discord, generando desorden y falta de claridad en roles.
-  
-Los principales puntos críticos identificados son:
+Durante la fase de evaluación del proyecto, el colaborador busca validar si el proyecto realmente es serio, quién lidera el equipo y cuáles son los objetivos planteados. La falta de información sobre avances previos, roles disponibles y nivel de compromiso del equipo genera incertidumbre antes de decidir postular.
 
-- Falta de filtros adecuados para encontrar proyectos alineados a sus habilidades e intereses.
-- Escasa transparencia en los procesos de selección y aceptación por parte de los creadores.
-- Desorganización en la colaboración interna y dificultad para hacer seguimiento al progreso del proyecto.
-- Ausencia de mecanismos formales de reconocimiento del trabajo realizado.
+En la etapa de postulación e incorporación, se observa que el proceso suele ser informal y poco estructurado. Generalmente los roles son comunicados verbalmente durante reuniones virtuales, sin documentación clara sobre responsabilidades, tiempos de dedicación o expectativas.
 
-Este análisis evidencia oportunidades de mejora en cada etapa del proceso —Descubrimiento, Registro, Exploración, Postulación, Colaboración y Resultados— y sienta las bases para el diseño de Foundly como solución que centraliza la gestión de proyectos, mejora la comunicación interna, proporciona visibilidad del progreso mediante hitos y tareas, y permite validar las contribuciones del colaborador a través de un sistema de reputación basado en evidencias.
+Posteriormente, en la fase de colaboración y trabajo en equipo, los colaboradores enfrentan problemas de coordinación debido al uso de múltiples herramientas como WhatsApp, Trello y Google Drive. Esto genera duplicación de tareas, falta de claridad y dificultades para trabajar de manera organizada.
 
-<img src="resources/Images/Chapter-2/user-journey-mapping/User-Journey-Mapping-Colaborador.png" alt="User Journey Mapping — Segmento Colaborador">
+En la etapa de seguimiento del aporte, uno de los principales problemas identificados es la falta de retroalimentación por parte del líder del proyecto. Los colaboradores muchas veces no saben si su trabajo está siendo valorado o si realmente están cumpliendo con las expectativas del equipo.
+
+Finalmente, en la fase de resultados y continuidad, se evidencia la ausencia de mecanismos formales para reconocer el trabajo realizado. Cuando los proyectos terminan o se abandonan, los colaboradores no cuentan con un historial verificable de participación que les permita demostrar su experiencia en futuros proyectos.
+
+A nivel emocional, el journey evidencia cómo el colaborador inicia con motivación y expectativas positivas, pero progresivamente experimenta inseguridad, frustración, desmotivación y decepción debido a la falta de organización y reconocimiento dentro de los proyectos.
+
+<img src="resources/Images/Chapter-2/Customer journey map 1 -Segmento Colaborador.png">
+
+En conclusión, este Customer Journey Map valida la necesidad de una plataforma como Foundly que permita a los colaboradores encontrar proyectos confiables, conocer información clara antes de postular, trabajar de manera organizada y contar con un historial verificable de participación dentro de cada proyecto.
 
 ### 2.3.4. Empathy Mapping
 
