@@ -125,7 +125,7 @@ La colaboración fue activa y equitativa, con aportes sustanciales de todos los 
   - [2.3.1. User Personas](02-Chapter-2-Requirements-Elicitation-Analysis.md#231-user-personas)
   - [2.3.2. User Task Matrix](02-Chapter-2-Requirements-Elicitation-Analysis.md#232-user-task-matrix)
   - [2.3.3. User Journey Mapping](02-Chapter-2-Requirements-Elicitation-Analysis.md#233-user-journey-mapping)
-  - [2.3.4. As-is Scenario Mapping](02-Chapter-2-Requirements-Elicitation-Analysis.md#234-as-is-scenario-mapping)
+  - [2.3.4. As-is Scenario Mapping](02-Chapter-2-Requirements-Elicitation-Analysis.md#234-as---is-scemario-mapping)
   - [2.3.5. Empathy Mapping](02-Chapter-2-Requirements-Elicitation-Analysis.md#235-empathy-mapping)
 - [2.4. Big Picture Event Storming](02-Chapter-2-Requirements-Elicitation-Analysis.md#24-big-picture-EventStorming)
 - [2.5. Ubiquitous Language](02-Chapter-2-Requirements-Elicitation-Analysis.md#25-ubiquitous-language)
