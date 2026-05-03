@@ -510,6 +510,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
 </tbody>
 </table>
+
 ---
  
 <table>
@@ -565,6 +566,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
 </tbody>
 </table>
+
 ---
  
 <table>
@@ -620,6 +622,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
 </tbody>
 </table>
+
 ---
  
 
@@ -678,6 +681,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
 </tbody>
 </table>
+
 ---
  
 <table>
@@ -733,6 +737,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
 </tbody>
 </table>
+
 ---
  
 <table>
