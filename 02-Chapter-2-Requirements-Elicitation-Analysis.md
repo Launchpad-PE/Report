@@ -942,6 +942,8 @@ Gestión de proyectos: Utilizan herramientas dispersas como WhatsApp, Google Dri
 Seguimiento de avances: Necesitan visualizar responsabilidades, tareas pendientes y progreso del proyecto sin depender de reuniones constantes o procesos manuales.
 Confianza y compromiso: Buscan trabajar con personas responsables, con perfiles verificados y referencias previas que generen mayor seguridad dentro del equipo.
 
+<img src="resources/Images/Chapter-2/Juan Fernandez.png">
+
 Este perfil evidencia la necesidad de una solución que centralice la búsqueda de colaboradores, la gestión de tareas y el seguimiento de proyectos en una sola plataforma, reduciendo la desorganización y facilitando el crecimiento de proyectos innovadores en etapas tempranas.
 
 #### Segmento 2: Colaborador
@@ -954,8 +956,10 @@ Necesidad de proyectos estructurados: Buscan proyectos con objetivos claros, rol
 Reconocimiento del trabajo: Valoran que su esfuerzo y participación sean visibles dentro del proyecto, evitando escenarios donde su trabajo no sea reconocido o quede sin registro.
 Herramientas actuales limitadas: Actualmente utilizan herramientas dispersas como WhatsApp, Trello, Discord y Google Meet, lo que muchas veces genera desorganización en la colaboración.
 
-Este perfil evidencia la necesidad de una plataforma que permita encontrar proyectos confiables, visualizar avances reales, mejorar la organización del trabajo y generar mayor reconocimiento para los colaboradores dentro de cada proyecto.
+<img src="resources/Images/Chapter-2/Jesli Bautista.png">
 
+
+Este perfil evidencia la necesidad de una plataforma que permita encontrar proyectos confiables, visualizar avances reales, mejorar la organización del trabajo y generar mayor reconocimiento para los colaboradores dentro de cada proyecto.
 
 
 
