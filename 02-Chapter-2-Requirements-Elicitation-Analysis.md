@@ -721,7 +721,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt=""></div></td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Diego-Esquicha-update.png" alt=""></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -789,7 +789,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Duracion</td>
-    <td></td>
+    <td>0:00 min - 04:09 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
