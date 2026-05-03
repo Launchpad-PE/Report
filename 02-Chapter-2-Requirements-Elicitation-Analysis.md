@@ -797,8 +797,6 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 			
 ### 2.2.3. Análisis de entrevistas
 
-### 2.2.3. Análisis de entrevistas
-
 En esta sección se presenta el análisis consolidado de las entrevistas realizadas a cada segmento objetivo, con el fin de obtener información concisa y accionable que sirva como base para la definición de las características más relevantes del producto.
 
 ---
@@ -810,11 +808,13 @@ Este segmento estuvo conformado por emprendedores en etapa temprana que gestiona
 ##### Herramientas utilizadas actualmente
 
 Los emprendedores entrevistados coinciden en gestionar sus proyectos mediante una combinación de herramientas genéricas no especializadas para el trabajo colaborativo. Las más recurrentes fueron:
-•	WhatsApp: canal principal de comunicación con el equipo, usado de forma cotidiana para coordinar avances y compartir información.
-•	Google Drive / Google Meet: utilizados para almacenar documentos, compartir archivos y realizar reuniones virtuales periódicas.
-•	Trello: empleado por algunos emprendedores para organizar tareas y visualizar responsabilidades dentro del equipo.
-•	Excel: usado de forma manual para el registro de tareas, presupuestos e ideas generales del proyecto.
-•	Discord: empleado como alternativa a Meet para reuniones o cuando se requiere compartir pantalla.
+
+- **WhatsApp:** canal principal de comunicación con el equipo, usado de forma cotidiana para coordinar avances y compartir información.
+- **Google Drive / Google Meet:** utilizados para almacenar documentos, compartir archivos y realizar reuniones virtuales periódicas.
+- **Trello:** empleado por algunos emprendedores para organizar tareas y visualizar responsabilidades dentro del equipo.
+- **Excel:** usado de forma manual para el registro de tareas, presupuestos e ideas generales del proyecto.
+- **Discord:** empleado como alternativa a Meet para reuniones o cuando se requiere compartir pantalla.
+
 El patrón común es la dependencia de múltiples herramientas desconectadas entre sí, lo que genera dispersión de la información, duplicación de esfuerzos y dificultad para hacer un seguimiento centralizado del avance del proyecto.
 
 ##### Patrones de comportamiento comunes
@@ -822,84 +822,92 @@ El patrón común es la dependencia de múltiples herramientas desconectadas ent
 A partir del análisis cruzado de las tres entrevistas se identificaron los siguientes patrones recurrentes:
 
 **a) Gestión fragmentada del trabajo**
+
 Ningún emprendedor cuenta con una herramienta única que integre comunicación, asignación de tareas y seguimiento. Todos combinan al menos dos o tres plataformas distintas, lo que genera desorden, pérdida de información y falta de trazabilidad sobre el avance real de los proyectos.
 
 **b) Dificultad para encontrar colaboradores comprometidos**
+
 El principal dolor que comparten es la dificultad de encontrar personas con habilidades complementarias que mantengan el compromiso a lo largo del proyecto. Es frecuente que colaboradores interesados en etapas iniciales abandonen cuando aumenta la carga de trabajo o no cuentan con el tiempo suficiente para sostener su participación.
 
 **c) Ambigüedad en la asignación de responsabilidades**
+
 En los tres casos se identificó que la falta de claridad sobre quién es responsable de cada tarea genera retrasos en cadena: cuando un integrante no cumple en fecha, los demás no pueden avanzar en sus propias actividades. Esta situación se agrava porque no existe un sistema formal de seguimiento ni de rendición de cuentas dentro del equipo.
 
 **d) Equipos con desequilibrio de perfiles**
+
 Los emprendedores tienden a tener un perfil técnico o de su área de expertise, pero encuentran serias dificultades para completar el equipo con perfiles complementarios como diseño, marketing o ventas. Esta brecha limita el crecimiento y desarrollo integral del proyecto.
 
 ##### Necesidades identificadas
 
 Del análisis de las respuestas se desprenden las siguientes necesidades concretas que los emprendedores demandan de una solución digital:
 
-•	Búsqueda de colaboradores por habilidades específicas: poder filtrar y encontrar personas según el perfil técnico que el proyecto necesita, con información clara sobre su experiencia y disponibilidad de tiempo.
-•	Sistema de verificación y reputación: mecanismos que permitan validar la identidad de los colaboradores y consultar referencias de otras personas que hayan trabajado previamente con ellos, generando confianza antes de integrarlos al equipo.
-•	Centralización de la gestión del proyecto: una plataforma única que integre comunicación, asignación de tareas, seguimiento de avances y almacenamiento de información, eliminando la dependencia de múltiples herramientas.
-•	Seguimiento visual del progreso: visualizar en tiempo real el estado de cada tarea, quién la tiene asignada y en qué etapa se encuentra, sin necesidad de preguntar constantemente por mensajes o convocar reuniones para obtener un estado de avance.
-•	Transparencia en roles y responsabilidades: definir formalmente desde el inicio el rol de cada integrante, sus responsabilidades y los plazos esperados, reduciendo la ambigüedad que actualmente genera conflictos y retrasos.
+- **Búsqueda de colaboradores por habilidades específicas:** poder filtrar y encontrar personas según el perfil técnico que el proyecto necesita, con información clara sobre su experiencia y disponibilidad de tiempo.
+- **Sistema de verificación y reputación:** mecanismos que permitan validar la identidad de los colaboradores y consultar referencias de otras personas que hayan trabajado previamente con ellos, generando confianza antes de integrarlos al equipo.
+- **Centralización de la gestión del proyecto:** una plataforma única que integre comunicación, asignación de tareas, seguimiento de avances y almacenamiento de información, eliminando la dependencia de múltiples herramientas.
+- **Seguimiento visual del progreso:** visualizar en tiempo real el estado de cada tarea, quién la tiene asignada y en qué etapa se encuentra, sin necesidad de preguntar constantemente por mensajes o convocar reuniones para obtener un estado de avance.
+- **Transparencia en roles y responsabilidades:** definir formalmente desde el inicio el rol de cada integrante, sus responsabilidades y los plazos esperados, reduciendo la ambigüedad que actualmente genera conflictos y retrasos.
 
-
-#### Insights clave
+##### Insights clave
 
 Los hallazgos más relevantes para el diseño de Foundly a partir de este segmento son:
-•	El problema central no es la falta de ideas, sino la dificultad de ejecutarlas con el equipo adecuado. Los emprendedores tienen proyectos definidos, pero carecen de una vía confiable para conectar con colaboradores comprometidos y calificados.
-•	La informalidad en la gestión es la norma, no la excepción. El uso de WhatsApp y Excel como principales herramientas de gestión refleja que no existen alternativas accesibles y adaptadas al emprendedor en etapa temprana en el mercado local.
-•	La confianza es un factor determinante. Antes de aceptar a un colaborador desconocido, los emprendedores necesitan información verificable sobre su trayectoria, perfiles con evidencias y referencias de terceros que respalden su compromiso.
-•	El seguimiento manual agota al líder del proyecto. La carga de tener que preguntar constantemente por el avance de las tareas vía mensajes o reuniones consume tiempo y energía que podría destinarse al desarrollo del proyecto.
-•	Existe una oportunidad clara de consolidación: una plataforma que unifique búsqueda de talento, gestión de tareas y comunicación respondería directamente al principal dolor de este segmento, que hoy resuelve con múltiples herramientas desconectadas.
 
+- El problema central no es la falta de ideas, sino la dificultad de ejecutarlas con el equipo adecuado. Los emprendedores tienen proyectos definidos, pero carecen de una vía confiable para conectar con colaboradores comprometidos y calificados.
+- La informalidad en la gestión es la norma, no la excepción. El uso de WhatsApp y Excel como principales herramientas de gestión refleja que no existen alternativas accesibles y adaptadas al emprendedor en etapa temprana en el mercado local.
+- La confianza es un factor determinante. Antes de aceptar a un colaborador desconocido, los emprendedores necesitan información verificable sobre su trayectoria, perfiles con evidencias y referencias de terceros que respalden su compromiso.
+- El seguimiento manual agota al líder del proyecto. La carga de tener que preguntar constantemente por el avance de las tareas vía mensajes o reuniones consume tiempo y energía que podría destinarse al desarrollo del proyecto.
+- Existe una oportunidad clara de consolidación: una plataforma que unifique búsqueda de talento, gestión de tareas y comunicación respondería directamente al principal dolor de este segmento, que hoy resuelve con múltiples herramientas desconectadas.
 
 ---
 
-#### Segmento 2: Emprendedores y Startups en Etapa Temprana
+#### Segmento 2: Colaboradores — Estudiantes y Jóvenes Profesionales
 
 Este segmento estuvo conformado por estudiantes universitarios y jóvenes profesionales con experiencia en proyectos colaborativos, hackathons y voluntariados tecnológicos. Su perspectiva como colaboradores —no como líderes de proyecto— permitió identificar un conjunto de necesidades y frustraciones complementarias a las del Segmento 1, revelando los dos lados del mismo ecosistema de colaboración.
 
-#### Herramientas utilizadas actualmente
+##### Herramientas utilizadas actualmente
 
 Los colaboradores entrevistados utilizan herramientas con un perfil más técnico que los emprendedores del Segmento 1, aunque también recurren a plataformas genéricas para la coordinación:
-•	GitHub: herramienta principal para el trabajo colaborativo en proyectos de desarrollo de software, control de versiones y revisión de código.
-•	Trello: utilizado para la organización de tareas y visualización del estado de avance dentro del equipo.
-•	Discord: empleado como canal de comunicación en tiempo real, especialmente en proyectos técnicos y hackathons.
-•	WhatsApp / Google Meet: canales de comunicación informal y reuniones virtuales, presentes en todos los proyectos independientemente de su nivel de formalidad.
-•	Documentos compartidos (Google Docs/Drive): para organizar información colectiva y mantener registros del proyecto.
+
+- **GitHub:** herramienta principal para el trabajo colaborativo en proyectos de desarrollo de software, control de versiones y revisión de código.
+- **Trello:** utilizado para la organización de tareas y visualización del estado de avance dentro del equipo.
+- **Discord:** empleado como canal de comunicación en tiempo real, especialmente en proyectos técnicos y hackathons.
+- **WhatsApp / Google Meet:** canales de comunicación informal y reuniones virtuales, presentes en todos los proyectos independientemente de su nivel de formalidad.
+- **Documentos compartidos (Google Docs/Drive):** para organizar información colectiva y mantener registros del proyecto.
+
 A diferencia del Segmento 1, los colaboradores muestran mayor apertura hacia herramientas especializadas, aunque su adopción depende del nivel de formalidad del proyecto y del perfil del equipo al que se integran.
 
-#### Patrones de comportamiento comunes
-
+##### Patrones de comportamiento comunes
 
 **a) Participación selectiva y motivada por el aprendizaje**
+
 Los colaboradores no se unen a cualquier proyecto: evalúan si el proyecto les ofrece aprendizaje real, tecnologías nuevas o la posibilidad de trabajar con personas de otras áreas. La motivación intrínseca por crecer profesionalmente es el principal motor de participación, por encima de cualquier beneficio económico.
 
 **b) Desconfianza ante proyectos sin estructura clara**
+
 Un patrón recurrente es la desconfianza hacia proyectos que no explican bien sus objetivos, no definen roles o no muestran avances concretos. Los colaboradores han tenido experiencias previas con proyectos que parecían serios al inicio pero terminaron abandonados, lo que los hace más cautelosos antes de comprometerse.
 
 **c) Desorganización interna como principal frustración**
+
 Al igual que en el Segmento 1, la falta de organización dentro de los equipos es la frustración más repetida: roles mal definidos que generan duplicación de tareas, responsabilidades sin atender, y falta de comunicación entre integrantes. Esta desorganización desmotiva la participación activa y reduce la calidad del trabajo colaborativo.
 
 **d) Falta de reconocimiento del trabajo realizado**
+
 Los colaboradores expresan la necesidad de que su aporte sea visible y reconocido dentro del equipo. La ausencia de mecanismos formales de reconocimiento genera percepción de que el esfuerzo realizado no tiene valor, lo que reduce su motivación para continuar participando o recomendar el proyecto a otros.
 
-#### Necesidades identificadas
+##### Necesidades identificadas
 
-•	Información clara del proyecto antes de unirse: conocer los objetivos del proyecto, el rol disponible, las responsabilidades esperadas y el tiempo de dedicación requerido es indispensable para tomar una decisión informada de participación.
-•	Verificación del líder y del proyecto: acceder a información sobre quién lidera el proyecto, su experiencia previa y referencias de personas que ya hayan trabajado con él, así como poder ver avances reales que confirmen que el proyecto es serio y tiene continuidad.
-•	Claridad en la asignación de roles y tareas: contar con una estructura formal que defina desde el inicio quién hace qué, evitando la ambigüedad que genera duplicación de esfuerzos o responsabilidades descuidadas.
-•	Mecanismos de reconocimiento y reputación: un sistema que deje constancia de quién cumplió con sus tareas, que permita recibir retroalimentación del equipo y que construya un historial de participación visible para futuros proyectos.
-•	Seguimiento del avance del equipo: herramientas que permitan visualizar el progreso colectivo sin depender de reuniones constantes o mensajes de seguimiento, facilitando la coordinación y reduciendo la fricción de comunicación.
+- **Información clara del proyecto antes de unirse:** conocer los objetivos del proyecto, el rol disponible, las responsabilidades esperadas y el tiempo de dedicación requerido es indispensable para tomar una decisión informada de participación.
+- **Verificación del líder y del proyecto:** acceder a información sobre quién lidera el proyecto, su experiencia previa y referencias de personas que ya hayan trabajado con él, así como poder ver avances reales que confirmen que el proyecto es serio y tiene continuidad.
+- **Claridad en la asignación de roles y tareas:** contar con una estructura formal que defina desde el inicio quién hace qué, evitando la ambigüedad que genera duplicación de esfuerzos o responsabilidades descuidadas.
+- **Mecanismos de reconocimiento y reputación:** un sistema que deje constancia de quién cumplió con sus tareas, que permita recibir retroalimentación del equipo y que construya un historial de participación visible para futuros proyectos.
+- **Seguimiento del avance del equipo:** herramientas que permitan visualizar el progreso colectivo sin depender de reuniones constantes o mensajes de seguimiento, facilitando la coordinación y reduciendo la fricción de comunicación.
 
-#### Insights clave
+##### Insights clave
 
-•	La motivación es frágil y condicional. Los colaboradores se unen con entusiasmo, pero la desorganización, la falta de reconocimiento y el incumplimiento de expectativas los hacen abandonar. Retener a los colaboradores requiere ofrecer estructura, claridad y reconocimiento desde el primer día.
-•	La transparencia del proyecto es un filtro de calidad. Antes de comprometerse, los colaboradores buscan señales de seriedad: objetivos claros, liderazgo verificable y avances concretos. Una plataforma que facilite esta visibilidad actúa como filtro natural que atrae colaboradores más comprometidos y ahuyenta proyectos sin sustento.
-•	El reconocimiento formal cambia el comportamiento. Si los colaboradores saben que su trabajo quedará registrado, que será evaluado por el equipo y que contribuirá a construir su reputación dentro de la plataforma, tienen más incentivos para cumplir con sus responsabilidades y mantener un alto nivel de compromiso.
-•	Los colaboradores son también embajadores potenciales. Cuando la experiencia dentro de un proyecto es positiva —organización clara, reconocimiento del aporte y aprendizaje real— los colaboradores recomiendan la plataforma activamente a su red, actuando como canal de crecimiento orgánico.
-•	Existe complementariedad directa con el Segmento 1. Las necesidades del colaborador responden punto a punto a los dolores del emprendedor: donde el emprendedor necesita encontrar talento comprometido, el colaborador necesita encontrar proyectos serios; donde el emprendedor necesita seguimiento de tareas, el colaborador necesita claridad de roles. Foundly puede resolver ambos lados de esta ecuación desde una misma plataforma.
+- La motivación es frágil y condicional. Los colaboradores se unen con entusiasmo, pero la desorganización, la falta de reconocimiento y el incumplimiento de expectativas los hacen abandonar. Retener a los colaboradores requiere ofrecer estructura, claridad y reconocimiento desde el primer día.
+- La transparencia del proyecto es un filtro de calidad. Antes de comprometerse, los colaboradores buscan señales de seriedad: objetivos claros, liderazgo verificable y avances concretos. Una plataforma que facilite esta visibilidad actúa como filtro natural que atrae colaboradores más comprometidos y ahuyenta proyectos sin sustento.
+- El reconocimiento formal cambia el comportamiento. Si los colaboradores saben que su trabajo quedará registrado, que será evaluado por el equipo y que contribuirá a construir su reputación dentro de la plataforma, tienen más incentivos para cumplir con sus responsabilidades y mantener un alto nivel de compromiso.
+- Los colaboradores son también embajadores potenciales. Cuando la experiencia dentro de un proyecto es positiva —organización clara, reconocimiento del aporte y aprendizaje real— los colaboradores recomiendan la plataforma activamente a su red, actuando como canal de crecimiento orgánico.
+- Existe complementariedad directa con el Segmento 1. Las necesidades del colaborador responden punto a punto a los dolores del emprendedor: donde el emprendedor necesita encontrar talento comprometido, el colaborador necesita encontrar proyectos serios; donde el emprendedor necesita seguimiento de tareas, el colaborador necesita claridad de roles. Foundly puede resolver ambos lados de esta ecuación desde una misma plataforma.
 
 ---
 
@@ -909,13 +917,12 @@ El análisis de ambos segmentos confirma que existe una brecha clara en el ecosi
 
 Los principales puntos de convergencia entre ambos segmentos son:
 
-•	La ausencia de herramientas especializadas para la colaboración en proyectos: tanto emprendedores como colaboradores resuelven sus necesidades con herramientas genéricas y desconectadas.
-•	La confianza como factor crítico: ambos segmentos necesitan mecanismos de verificación, reputación y transparencia para comprometerse con personas que no conocen previamente.
-•	La necesidad de centralización: la gestión fragmentada en múltiples plataformas es un dolor compartido que afecta tanto la productividad del emprendedor como la experiencia del colaborador.
-•	El reconocimiento y la visibilidad del aporte individual: los colaboradores lo demandan explícitamente; los emprendedores lo necesitan para retener a sus equipos.
+- **La ausencia de herramientas especializadas para la colaboración en proyectos:** tanto emprendedores como colaboradores resuelven sus necesidades con herramientas genéricas y desconectadas.
+- **La confianza como factor crítico:** ambos segmentos necesitan mecanismos de verificación, reputación y transparencia para comprometerse con personas que no conocen previamente.
+- **La necesidad de centralización:** la gestión fragmentada en múltiples plataformas es un dolor compartido que afecta tanto la productividad del emprendedor como la experiencia del colaborador.
+- **El reconocimiento y la visibilidad del aporte individual:** los colaboradores lo demandan explícitamente; los emprendedores lo necesitan para retener a sus equipos.
+
 Estos hallazgos validan la propuesta de valor de Foundly como plataforma colaborativa que conecta emprendedores con colaboradores, centraliza la gestión de proyectos, garantiza transparencia mediante un sistema de reputación y permite evidenciar el impacto generado a través del módulo IoT de monitoreo ambiental.
-
-
 
 ## 2.3. Needfinding
 
