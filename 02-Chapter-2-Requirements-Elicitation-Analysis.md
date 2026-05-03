@@ -1071,14 +1071,14 @@ A partir del As-Is Scenario Map del emprendedor se identificó que el principal 
 
 Asimismo, se identificaron problemas recurrentes como la dificultad para encontrar colaboradores confiables, la falta de claridad en roles y responsabilidades, el seguimiento manual de tareas y la ausencia de registros formales sobre el desempeño de cada integrante.
 
-<img src="resources/Images/Chapter-2/As-is scenario mapping/As-is mapping emprededor.png">
+<img src="resources/Images/Chapter-2/As-is scenario mapping/As-is mapping emprededor.jpg">
 
 **Segmento Colaborador**
 A partir del As-Is Scenario Map del colaborador se identificó que el principal problema no está en la falta de interés por participar en proyectos, sino en la ausencia de procesos claros antes y durante la colaboración. Los usuarios actualmente buscan oportunidades en espacios dispersos como Discord, WhatsApp y LinkedIn, donde muchas veces no encuentran información suficiente sobre los proyectos, roles o nivel de compromiso del equipo.
 
 Asimismo, se identificaron problemas como procesos de incorporación informales, roles poco definidos, falta de coordinación en el trabajo y ausencia de mecanismos que permitan visualizar si su aporte está siendo valorado dentro del proyecto.
 
-<img src="resources/Images/Chapter-2/As-is scenario mapping/as-is scenario mapping colaborador.png">
+<img src="resources/Images/Chapter-2/As-is scenario mapping/as-is scenario mapping colaborador.jpg">
 
 
 
