@@ -383,7 +383,7 @@ Kickstarter, Indiegogo y GoFundMe cuentan con marcas globalmente reconocidas, gr
 
 - **Estrategia de Marketing Digital Segmentado:** Se implementarán campañas diferenciadas en Facebook, Instagram, TikTok y LinkedIn, segmentadas por edad, intereses y afinidad con el emprendimiento o causas sociales, orientadas a los dos segmentos objetivos: emprendedores y colaboradores.
 
-- **Táctica:** Contenido visual y narrativo videos cortos, reels, historias y testimonios de usuarios reales que muestren casos de proyectos financiados exitosamente, tutoriales sobre cómo crear una campaña y el funcionamiento del módulo IoT para proyectos ambientales.
+- **Táctica:** Se desarrollará contenido visual y narrativo como videos cortos, reels, historias y testimonios de usuarios reales que muestren casos de proyectos desarrollados exitosamente, tutoriales sobre cómo crear y gestionar proyectos colaborativos y demostraciones del funcionamiento del módulo IoT para proyectos ambientales.
 
 ---
 
