@@ -631,7 +631,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 <table>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #4</th>
+    <th colspan="2">Entrevista #1</th>
   </tr>
 </thead>
 <tbody>
@@ -687,7 +687,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 <table>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #5</th>
+    <th colspan="2">Entrevista #2</th>
   </tr>
 </thead>
 <tbody>
@@ -743,25 +743,25 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 <table>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #6</th>
+    <th colspan="2">Entrevista #3</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Alvaro</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Rocha Cotrina<</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td></td>
+    <td>19 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>Chorrillos</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -777,11 +777,11 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt=""></div></td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Alvaro-Rocha-update.png" alt=""></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank" href="" title="">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417423_upc_edu_pe/IQBb7Rm9oGyPR5-GlcLYL9KeASc3_CDY-26bdr2dJ6vb_EU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Ga0SMi" title="Microsoft Stream">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duracion</td>
@@ -789,7 +789,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>"Nombre" es un estudiante con experiencia en proyectos universitarios y de desarrollo de software que participa para aplicar lo aprendido en situaciones reales. Su frustración principal es la falta de compromiso de ciertos integrantes y la desorganización cuando no existe alguien que haga seguimiento de tareas. Antes de unirse a un proyecto necesita conocer objetivos, roles, responsabilidades y tiempo de participación esperado. Confiaría más viendo perfiles verificados, referencias y avances concretos del proyecto. Busca transparencia sobre quién cumple sus tareas y una mejora en organización, comunicación y seguimiento dentro del equipo.</td>
+    <td> Alvaro es un estudiante con experiencia en proyectos universitarios y de desarrollo de software que participa para aplicar lo aprendido en situaciones reales. Su frustración principal es la falta de compromiso de ciertos integrantes y la desorganización cuando no existe alguien que haga seguimiento de tareas. Antes de unirse a un proyecto necesita conocer objetivos, roles, responsabilidades y tiempo de participación esperado. Confiaría más viendo perfiles verificados, referencias y avances concretos del proyecto. Busca transparencia sobre quién cumple sus tareas y una mejora en organización, comunicación y seguimiento dentro del equipo.</td>
   </tr>
 </tbody>
 </table>
