@@ -1063,43 +1063,10 @@ A nivel emocional, el journey evidencia cómo el colaborador inicia con motivaci
 
 En conclusión, este Customer Journey Map valida la necesidad de una plataforma como Foundly que permita a los colaboradores encontrar proyectos confiables, conocer información clara antes de postular, trabajar de manera organizada y contar con un historial verificable de participación dentro de cada proyecto.
 
-### 2.3.4. Empathy Mapping
+### 2.3.4. As - Is Scemario Mapping
 
-Para la elaboración de los Empathy Maps, el equipo partió del conocimiento y las observaciones recolectadas durante el análisis de los User Personas. Se colocó al centro de cada mapa al usuario correspondiente y se respondieron las preguntas clave sobre su entorno, emociones, comportamientos y necesidades, con el objetivo de comprender en profundidad su experiencia actual antes de diseñar la solución.
+### 2.3.5. Empathy Mapping
 
----
-
-#### Segmento 1: Emprendedor
-
-<img src="resources/Images/Chapter-2/Empathy Mapping/Empathy map - Emprededor.png" alt="Empathy Map — Segmento Emprendedor">
-
-El Empathy Map del emprendedor (Juan Fernández) permite comprender de manera integral su experiencia al intentar lanzar una idea de negocio en etapa temprana sin los recursos ni el equipo adecuados, considerando lo que piensa, siente, ve, escucha, dice y hace en ese contexto.
-
-A partir del análisis se identifican los siguientes hallazgos principales:
-
-- **Motivaciones:** Juan está impulsado por el deseo de convertir su idea en un negocio escalable y de generar impacto real en su entorno. Valora la autonomía y la posibilidad de liderar su propio proyecto.
-- **Principales dolores:** Enfrenta dificultades concretas para encontrar socios comprometidos, carece de plataformas de financiamiento adaptadas al contexto peruano y sufre la desorganización que genera coordinar equipos a través de herramientas informales como WhatsApp o correo electrónico.
-- **Estado emocional:** Estas condiciones generan frustración, inseguridad y una sensación de estancamiento que frena el avance de sus proyectos y erosiona su confianza en el proceso emprendedor.
-
-Este análisis permite identificar oportunidades clave de mejora enfocadas en la formación estructurada de equipos, la simplificación del registro y publicación de proyectos adaptada a la realidad local, y la integración de herramientas de comunicación y seguimiento dentro de una sola plataforma, elementos fundamentales para diseñar una solución verdaderamente centrada en el usuario emprendedor.
-
----
-
-#### Segmento 2: Colaborador
-
-<img src="resources/Images/Chapter-2/Empathy Mapping/Empathy map - Colaborador.png" alt="Empathy Map — Segmento Colaborador">
-
-El Empathy Map del colaborador (Jesli Bautista) permite comprender de manera integral su experiencia al participar en proyectos colaborativos, considerando lo que piensa, siente, ve, escucha, dice y hace dentro de ese contexto.
-
-A partir del análisis se identifican los siguientes hallazgos principales:
-
-- **Motivaciones:** Jesli está impulsada por el deseo de adquirir experiencia práctica, construir un portafolio profesional sólido y establecer conexiones con personas y proyectos de su área de interés.
-- **Principales dolores:** Enfrenta desorganización dentro de los equipos en los que participa, falta de claridad en la asignación de roles y dispersión de herramientas de comunicación que dificultan el seguimiento del trabajo realizado.
-- **Estado emocional:** Estas condiciones generan frustración, incertidumbre y una percepción de escaso reconocimiento hacia sus aportes, lo que reduce su motivación para continuar participando activamente.
-
-El mapa evidencia que, si bien existe una alta motivación intrínseca por colaborar en proyectos reales, los principales dolores del usuario están relacionados con la falta de estructura, la comunicación ineficiente y la dificultad para encontrar oportunidades adecuadas a su perfil. Asimismo, resalta la necesidad de una plataforma centralizada que facilite la colaboración, el seguimiento de tareas y el reconocimiento formal de los aportes individuales.
-
-Este análisis permite identificar oportunidades clave de mejora enfocadas en la organización de proyectos, la claridad en la asignación de roles, la integración de herramientas y la implementación de mecanismos de reputación, elementos fundamentales para diseñar una solución centrada en el usuario colaborador.
 
 
 
