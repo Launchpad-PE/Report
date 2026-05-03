@@ -693,19 +693,19 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Diego Alonso</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Esquicha Alcántara</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td></td>
+    <td>19 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>Surco</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -725,15 +725,19 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank" href="" title="">Microsoft Stream</a></p></td>
+   <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417423_upc_edu_pe/IQDITBwWV_QmQ4-fDyGUORN5ASkmGv08Ea6KxiP8uAskDdU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ahetMd" title="Title">Microsoft Stream</p>
+	</td>
   </tr>
   <tr>
     <td>Duracion</td>
-    <td></td>
+   <td>
+		0:00 min - 4:43 min
+	</td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>"Nombre" es un estudiante con experiencia en proyectos académicos y voluntariados tecnológicos motivado por el impacto real. Su frustración principal es la falta de organización en los equipos: roles no definidos que generan que algunas tareas se dupliquen mientras otras quedan sin atender. Antes de unirse quiere conocer objetivos, liderazgo, tiempo requerido y sus responsabilidades. Le daría más confianza ver información del creador, referencias y avances reales del proyecto. Busca retroalimentación sobre su aporte y mejorar la comunicación y seguimiento de tareas como puntos clave de mejora.</td>
+    <td>Diego es un estudiante con experiencia en proyectos académicos y voluntariados tecnológicos motivado por el impacto real. Su frustración principal es la falta de organización en los equipos: roles no definidos que generan que algunas tareas se dupliquen mientras otras quedan sin atender. Antes de unirse quiere conocer objetivos, liderazgo, tiempo requerido y sus responsabilidades. Le daría más confianza ver información del creador, referencias y avances reales del proyecto. Busca retroalimentación sobre su aporte y mejorar la comunicación y seguimiento de tareas como puntos clave de mejora.</td>
   </tr>
 </tbody>
 </table>
