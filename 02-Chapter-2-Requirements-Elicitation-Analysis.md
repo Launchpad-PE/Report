@@ -455,193 +455,12 @@ Muchas gracias por su tiempo y comentarios. Su aporte nos ayudará a crear una p
 ### 2.2.2. Registro de entrevistas
 En esta sección presentamos los registros de las entrevistas que hicimos para cada segmento objetivo de nuestra aplicación.
 
-**Segmento 1:**
+**Segmento 1: Emprendedores y Startups en Etapa Temprana**
 
 <table>
-<colgroup>
-</colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #1<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>/td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Microsoft Stream</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td></td></td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td></td></td>
-  </tr>
-  <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="" alt=""></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duracion<br></td>
-    <td>0:00 min - 10:18 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>
-</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #2<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="" alt=""></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="" title="Title">Microsoft Stream</p>
-	</td>
-  </tr>
-  <tr>
-    <td>Duracion<br></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>
-		
-</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="3">br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Gonzalo</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="" alt=""></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="" title="Title"></p>
-	</td>
-  </tr>
-  <tr>
-    <td>Duracion<br></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>
-</td>
-  </tr>
-</tbody>
-</table>
-
-**Segmento 2:**
-
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #1<br></th>
+    <th colspan="2">Entrevista #1</th>
   </tr>
 </thead>
 <tbody>
@@ -663,15 +482,15 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>WhatsApp, Google Drive, Google Meet, Microsoft Stream</td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td></td>
+    <td>Conseguir colaboradores con habilidades complementarias (diseño, marketing) y tener todo organizado en un solo lugar.</td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td></td>
+    <td>Dificultad para encontrar colaboradores comprometidos y confiables; herramientas dispersas que generan desorden; falta de claridad sobre responsabilidades de cada integrante.</td>
   </tr>
   <tr>
     <td>Evidencia</td>
@@ -679,29 +498,24 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="" title="Title"></p>
-	</td>
+    <td><p><a target="_blank" href="" title="">Microsoft Stream</a></p></td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
-    <td>
-	</td>
+    <td>Duracion</td>
+    <td></td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>
-</td>
+    <td>"Nombre" es una joven emprendedora de 20 años que gestiona sus proyectos con WhatsApp, Google Drive y Meet. Señala que la mayor dificultad es encontrar personas comprometidas: identifica colaboradores con habilidades de diseño o marketing, pero muchos abandonan el proyecto por falta de tiempo. Además, la ausencia de un sistema claro de seguimiento genera confusión sobre quién es responsable de cada tarea. Desea una plataforma centralizada donde pueda buscar colaboradores por habilidades, ver perfiles verificados con referencias, y hacer seguimiento del avance sin depender de múltiples herramientas.</td>
   </tr>
 </tbody>
 </table>
-
+---
+ 
 <table>
-<colgroup>
-</colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #2<br></th>
+    <th colspan="2">Entrevista #2</th>
   </tr>
 </thead>
 <tbody>
@@ -723,15 +537,15 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Trello, WhatsApp, Discord, Google Meet, Microsoft Stream</td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td></td>
+    <td>Encontrar colaboradores comprometidos con habilidades complementarias (programación, diseño, marketing) y centralizar la gestión del proyecto en una sola herramienta.</td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td></td>
+    <td>Colaboradores que abandonan el proyecto cuando aumenta la carga de trabajo; tareas que no se completan en fecha, generando retrasos en cadena; necesidad de usar múltiples plataformas separadas.</td>
   </tr>
   <tr>
     <td>Evidencia</td>
@@ -739,29 +553,24 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="" title="Title"></p>
-	</td>
+    <td><p><a target="_blank" href="" title="">Microsoft Stream</a></p></td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
-    <td>
-	</td>
+    <td>Duracion</td>
+    <td></td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>
-</td>
+    <td>"Nombre" es un emprendedor que ya utiliza Trello para organizar tareas, pero combina múltiples herramientas (WhatsApp, Discord, Meet) lo que genera desorden. Su principal frustración es la falta de compromiso de los colaboradores: personas con buenas habilidades que desaparecen cuando el proyecto demanda más tiempo. También señala que los incumplimientos de fechas generan retrasos en cadena porque los demás integrantes dependen de esos avances. Busca una plataforma con sistema de reputación y perfiles verificados para filtrar colaboradores según habilidades, disponibilidad y experiencia previa, y gestionar todo desde un solo lugar.</td>
   </tr>
 </tbody>
 </table>
-
+---
+ 
 <table>
-<colgroup>
-</colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #3<br></th>
+    <th colspan="2">Entrevista #3</th>
   </tr>
 </thead>
 <tbody>
@@ -783,15 +592,15 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>WhatsApp, Excel, Google Meet, Microsoft Stream</td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td></td>
+    <td>Encontrar personas de áreas que no domina (marketing, ventas, diseño) y contar con una herramienta que permita asignar tareas y visualizar el progreso del proyecto de forma clara.</td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>.</td>
+    <td>Dificultad para completar el equipo en áreas no técnicas; gestión manual con WhatsApp y Excel que dispersa la información; falta de seguimiento claro que genera retrasos y descoordinación.</td>
   </tr>
   <tr>
     <td>Evidencia</td>
@@ -799,22 +608,187 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="" title="Title"></p>
-	</td>
+    <td><p><a target="_blank" href="" title="">Microsoft Stream</a></p></td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
-    <td>
-	</td>
+    <td>Duracion</td>
+    <td></td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>
-</td>
+    <td>"Nombre" es un emprendedor con perfil técnico que gestiona sus proyectos de forma muy manual usando WhatsApp y Excel. Su principal dificultad es conseguir colaboradores fuera de su área: encuentra programadores fácilmente, pero completar el equipo con perfiles de marketing, ventas o diseño es complicado. Además, la falta de un sistema de seguimiento hace que cada integrante avance por su cuenta sin coordinación, generando retrasos. Requiere validación de identidad, referencias de usuarios y una herramienta unificada para encontrar colaboradores, asignar responsabilidades y visualizar el avance del proyecto.</td>
   </tr>
 </tbody>
 </table>
+---
+ 
+
+**Segmento 2: Estudiantes Universitarios y Profesionales Jóvenes**
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>GitHub, Discord, Google Meet, Microsoft Stream</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Participar en proyectos innovadores con objetivos claros, aprender nuevas tecnologías y ganar experiencia real colaborando con personas comprometidas.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Proyectos sin estructura clara ni objetivos definidos; falta de comunicación e incumplimiento de tareas por parte de algunos integrantes.</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt=""></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank" href="" title="Entrevista Kael Lagos">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duracion</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>"Nombre" es un estudiante con experiencia en hackathons y proyectos de software que se une a proyectos cuando le generan aprendizaje real. Su frustración principal es encontrar proyectos que aparentan ser interesantes pero carecen de estructura o dirección clara. También señala problemas de comunicación: integrantes que no responden o no cumplen con lo asignado. Antes de unirse a un proyecto, desea conocer los objetivos, su rol y el tiempo de dedicación requerido. Valora que se reconozca quién cumplió sus responsabilidades y busca una mejor organización de tareas y comunicación entre integrantes.</td>
+  </tr>
+</tbody>
+</table>
+---
+ 
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>WhatsApp, Google Meet, documentos compartidos, Microsoft Stream</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Desarrollar soluciones tecnológicas con impacto real, trabajar con personas de ideas innovadoras y ganar aprendizaje práctico colaborando con perfiles de distintas áreas.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Proyectos que no definen bien sus objetivos ni lo que buscan del colaborador; roles mal definidos que provocan duplicación de tareas o responsabilidades sin atender.</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt=""></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank" href="" title="">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duracion</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>"Nombre" es un estudiante con experiencia en proyectos académicos y voluntariados tecnológicos motivado por el impacto real. Su frustración principal es la falta de organización en los equipos: roles no definidos que generan que algunas tareas se dupliquen mientras otras quedan sin atender. Antes de unirse quiere conocer objetivos, liderazgo, tiempo requerido y sus responsabilidades. Le daría más confianza ver información del creador, referencias y avances reales del proyecto. Busca retroalimentación sobre su aporte y mejorar la comunicación y seguimiento de tareas como puntos clave de mejora.</td>
+  </tr>
+</tbody>
+</table>
+---
+ 
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #6</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Trello, GitHub, reuniones virtuales, Microsoft Stream</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Aplicar conocimientos técnicos en proyectos reales con objetivos claros, aprender nuevas formas de trabajo en equipo y ganar experiencia colaborando con personas de distintas áreas.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Proyectos sin estructura ni descripción clara del perfil que buscan; falta de compromiso de algunos integrantes; desorganización cuando no hay seguimiento al avance de las tareas.</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt=""></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank" href="" title="">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duracion</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>"Nombre" es un estudiante con experiencia en proyectos universitarios y de desarrollo de software que participa para aplicar lo aprendido en situaciones reales. Su frustración principal es la falta de compromiso de ciertos integrantes y la desorganización cuando no existe alguien que haga seguimiento de tareas. Antes de unirse a un proyecto necesita conocer objetivos, roles, responsabilidades y tiempo de participación esperado. Confiaría más viendo perfiles verificados, referencias y avances concretos del proyecto. Busca transparencia sobre quién cumple sus tareas y una mejora en organización, comunicación y seguimiento dentro del equipo.</td>
+  </tr>
+</tbody>
+</table>
+
 			
 ### 2.2.3. Análisis de entrevistas
 
