@@ -468,15 +468,15 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Diana Lucia</td>
+    <td>/td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Briceño Huarcaya</td>
+    <td></td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>20 años</td>
+    <td></td>
   </tr>
   <tr>
     <td>Distrito</td>
@@ -488,19 +488,19 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>Conseguir colaboradores con habilidades complementarias.</td>
+    <td></td></td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>Dificultad para encontrar colaboradores comprometidos y confiables.</td>
+    <td></td></td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-diana-briceño.png" alt="Entrevista a Diana Briceño"></td>
+    <td><div align="center"><img src="" alt=""></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQB-pW1mSnVFRrnYXrmZb_zqAYfSIXqhAS_soBgVYZph2FE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=fRaDv1" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
@@ -509,8 +509,6 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   <tr>
     <td>Resumen</td>
     <td>
-			En la entrevista con Diana Briceño, logramos conocer su opinión acerca de qué le pareció nuestra landing page y nuestra aplicación web. Indicó que le llamó la mucho la atención nuestra landing page, que le pareció muy bien organizada y fácil de comprender y leer, e incluso dijo que nuestra aplicación web le sorprendió buenamente, ya que le encantó lo tan detallada que está y su facilidad de usar, indicó que tal vez podríamos mejorar el tamaño de las letras pero que todo lo demás le había gustado y parecía excelente.
-Finalmente indicó que sí estaría dispuesto a utilizar Foundly y a recomendársela a sus amigos y familiares.
 </td>
   </tr>
 </tbody>
@@ -527,57 +525,50 @@ Finalmente indicó que sí estaría dispuesto a utilizar Foundly y a recomendár
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Didier Sebastian</td>
+    <td></td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Meza Solórzano</td>
+    <td></td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>19 años</td>
+    <td></td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Villa Maria del Triunfo</td>
+    <td></td>
   </tr>
   <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>WhatsApp, Github, KickStarter</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>Usar una plataforma clara, intuitiva y que lo ayude a organizarse mejor.</td>
+    <td></td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>Desorden en la comunicación al depender de WhatsApp (información perdida entre mensajes).</td>
+    <td></td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-didier-meza.png" alt="Entrevista a Didier Meza"></td>
+    <td><div align="center"><img src="" alt="Entrevista a Didier Meza"></td>
   </tr>
   <tr>
     <td>Link</td>
     <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQBYjsQz0dfJQ5cJSAmi7NBpAZKE6jIVLX_3Q7VbDHe8adc?e=dAxnxt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
+		<p><a target="_blank"  href="" title="Title">Microsoft Stream</p>
 	</td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>0:00 min - 10:53 min</td>
+    <td></td>
   </tr>
   <tr>
     <td>Resumen</td>
     <td>
-		Didier Meza es un emprendedor en etapa temprana que financia sus proyectos principalmente con ahorros propios y apoyo cercano de familiares o amigos, lo cual considera limitado para avanzar. Ha probado plataformas como Kickstarter, pero su experiencia fue negativa por la falta de visibilidad, la necesidad de invertir en publicidad externa y las barreras para proyectos de Perú, lo que lo desmotivó.
-
-Su mayor dificultad es formar equipos comprometidos: muchos interesados abandonan al poco tiempo y le resulta complejo conectar con personas con habilidades en áreas que no domina (diseño, marketing). Además, coordinar por WhatsApp le genera frustración debido al desorden y la pérdida de información en los chats.
-
-Lo que más le preocupa al buscar financiamiento en línea es la seguridad del dinero y la seriedad de los proyectos, ya que la falta de confianza desanima tanto a él como a los posibles aportantes. Para una plataforma ideal valora que sea clara, fácil de usar, que permita mostrar bien la propuesta, ofrecer reportes de avance visibles, sistemas de reputación/verificación y herramientas para organizar tareas con métricas claras.
-
-Didier ve como beneficios principales el alcance mayor, la posibilidad de recibir comentarios de personas con experiencia y el acceso a colaboradores que complementen sus habilidades. Considera crítico contar con un equipo sólido desde el inicio, porque sin él la validación de ideas y el financiamiento se vuelven inviables.
-
+		
 </td>
   </tr>
 </tbody>
@@ -588,7 +579,7 @@ Didier ve como beneficios principales el alcance mayor, la posibilidad de recibi
 </colgroup>
 <thead>
   <tr>
-    <th colspan="3">Entrevista #3<br></th>
+    <th colspan="3">br></th>
   </tr>
 </thead>
 <tbody>
@@ -598,7 +589,7 @@ Didier ve como beneficios principales el alcance mayor, la posibilidad de recibi
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Quintanilla Pozo</td>
+    <td></td>
   </tr>
   <tr>
     <td>Edad</td>
@@ -606,40 +597,37 @@ Didier ve como beneficios principales el alcance mayor, la posibilidad de recibi
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>San Juan de Miraflores</td>
+    <td></td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>Google Collab y Microsoft teams</td>
+    <td></td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>Obtener experiencia tecnológica sobre proyectos colaborativos </td>
+    <td></td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>No conseguir personal capacitado para sus proyectos</td>
+    <td></td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Gonzalo-Quintanilla.png" alt="Entrevista a Gonzalo Quintanilla"></td>
+    <td><div align="center"><img src="" alt=""></td>
   </tr>
   <tr>
     <td>Link</td>
     <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316845_upc_edu_pe/IQAXF8wsm3epTZ4GP-wFb0q2AX8GaYwwCO5TDwZAQXVkDAM?e=Ybj0LP" title="Title">Microsoft Stream</p>
+		<p><a target="_blank"  href="" title="Title"></p>
 	</td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>0:00 min - 10:53 min</td>
+    <td></td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>Gonzalo Quintanilla es un emprendedor que financia sus proyectos con ahorros propios y apoyo de familiares o amigos, debido a la dificultad de acceder a crédito tradicional. No ha utilizado crowdfunding porque requiere mucho marketing y una comunidad previa. Su mayor dificultad es encontrar socios en áreas como marketing o ventas dispuestos a asumir riesgos.
-
-Le preocupan el fracaso público y las altas comisiones al buscar financiamiento en línea. Considera importante una plataforma que conecte socios por habilidades, ofrezca transparencia y libere financiamiento por hitos. Señala que el mayor apoyo lo necesita al formar el equipo, ya que un equipo sólido facilita conseguir financiamiento.
-		
+    <td>
 </td>
   </tr>
 </tbody>
@@ -659,52 +647,50 @@ Le preocupan el fracaso público y las altas comisiones al buscar financiamiento
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Kael Valentino</td>
+    <td></td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Lagos Rivera</td>
+    <td></td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>20 años</td>
+    <td></td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Surquillo</td>
+    <td></td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td> WhatsApp, GitHub</td>
+    <td></td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>Ganar experiencia práctica en proyectos reales.</td>
+    <td></td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>Dificultad para encontrar proyectos alineados a sus intereses o perfiles compatibles.</td>
+    <td></td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-kael-lagos.png" alt="Entrevista a Kael Lagos"></div></td>
+    <td><div align="center"><img src="" alt=""></div></td>
   </tr>
   <tr>
     <td>Link</td>
     <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQABmhcLE9j_QJz9uAhlFPCsAS2_e1taeV6w-WtLwvTA2fs?e=0EtxT7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
+		<p><a target="_blank"  href="" title="Title"></p>
 	</td>
   </tr>
   <tr>
     <td>Duracion<br></td>
     <td>
-		0:00 min - 10:16 min
 	</td>
   </tr>
   <tr>
     <td>Resumen</td>
     <td>
-		Kael Lagos es un estudiante joven que participa activamente en proyectos universitarios, talleres y trabajos personales. Lo motiva principalmente ganar experiencia y construir un portafolio que le abra puertas laborales, además de generar networking y posibles ingresos. Sus frustraciones se centran en la falta de organización en las herramientas actuales, la dificultad de encontrar equipos compatibles y la poca certeza sobre la valoración de su aporte. Busca una plataforma que ofrezca orden, transparencia y reconocimiento, facilitando su crecimiento profesional de manera práctica y colaborativa.
 </td>
   </tr>
 </tbody>
@@ -721,52 +707,50 @@ Le preocupan el fracaso público y las altas comisiones al buscar financiamiento
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Diego Alonso</td>
+    <td></td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Esquicha Alcántara</td>
+    <td></td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>19 años</td>
+    <td></td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Surco</td>
+    <td></td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td> WhatsApp</td>
+    <td></td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>Generar soluciones tecnológicas con impacto real en el entorno.</td>
+    <td></td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>Fallas críticas en comunicación y falta de metodologías de organización.</td>
+    <td></td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Diego-Esquicha.png" alt="Entrevista a Diego Esquicha"></div></td>
+    <td><div align="center"><img src="" alt=""></div></td>
   </tr>
   <tr>
     <td>Link</td>
     <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417423_upc_edu_pe/IQDHAEJTjDWVSpa3Ff3v1raWAZwRTq2154dAM_0rNHySpoo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GmqpWS" title="Title">Microsoft Stream</p>
+		<p><a target="_blank"  href="" title="Title"></p>
 	</td>
   </tr>
   <tr>
     <td>Duracion<br></td>
     <td>
-		0:00 min - 11:08 min
 	</td>
   </tr>
   <tr>
     <td>Resumen</td>
     <td>
-    Diego es un estudiante con trayectoria en proyectos académicos de enfoque tecnológico, destacando su experiencia en la integración de soluciones IoT y su compromiso social a través del voluntariado. Su principal motor para participar en emprendimientos digitales es la creación de tecnología con propósito e impacto social. Sin embargo, su experiencia previa se ha visto limitada por barreras operativas: la rigidez en la asignación de roles, deficiencias en los canales de comunicación grupal y una marcada falta de estructura organizativa. Diego ve en Foundly una oportunidad estratégica para obtener experiencia práctica verificable, buscando que la plataforma no solo facilite la gestión del proyecto, sino que actúe como un catalizador para fortalecer su portafolio profesional.
 </td>
   </tr>
 </tbody>
@@ -783,52 +767,50 @@ Le preocupan el fracaso público y las altas comisiones al buscar financiamiento
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Alvaro</td>
+    <td></td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Rocha Cotrina</td>
+    <td></td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>19 años</td>
+    <td></td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Chorrillos</td>
+    <td></td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>GitHub</td>
+    <td></td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>Crecimiento profesional y preparación para el mundo laboral.</td>
+    <td></td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>Desorden estructural y Búsqueda ineficiente de proyectos.</td>
+    <td>.</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Alvaro-Rocha.png" alt="Entrevista a Alvaro Rocha"></div></td>
+    <td><div align="center"><img src="" alt=""></div></td>
   </tr>
   <tr>
     <td>Link</td>
     <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417423_upc_edu_pe/IQB4aDJimvXqQKbgDFDGBt64ASFzL6ko9USbw4EuNMjMSro?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Fb7bgX" title="Title">Microsoft Stream</p>
+		<p><a target="_blank"  href="" title="Title"></p>
 	</td>
   </tr>
   <tr>
     <td>Duracion<br></td>
     <td>
-		0:00 min - 06:34 min
 	</td>
   </tr>
   <tr>
     <td>Resumen</td>
     <td>
-   Alvaro es un estudiante de ingeniería con sólida base técnica en desarrollo de software, adquirida a través de diversos proyectos académicos. A pesar de su capacidad de ejecución, identifica una brecha crítica en la gestión operativa, señalando la falta de comunicación y organización como los principales obstáculos en sus colaboraciones previas. Su motivación central es la transición exitosa al mercado laboral mediante la construcción de un portafolio de alto impacto. Actualmente, enfrenta la dificultad de encontrar proyectos que no solo estén bien estructurados, sino que se alineen específicamente con sus objetivos de aprendizaje. Alvaro visualiza a Foundly como una solución que ofrezca claridad a través de roles definidos y herramientas de seguimiento de progreso, permitiéndole enfocarse en el crecimiento técnico mientras se adapta a las dinámicas del mundo profesional.
 </td>
   </tr>
 </tbody>
