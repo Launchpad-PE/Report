@@ -480,7 +480,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Barranco</td>
+    <td></td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -553,7 +553,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt="Entrevista a Didier Meza"></td>
+    <td><div align="center"><img src="" alt=""></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -593,7 +593,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Edad</td>
-    <td>20</td>
+    <td></td>
   </tr>
   <tr>
     <td>Distrito</td>
@@ -818,141 +818,6 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 			
 ### 2.2.3. Análisis de entrevistas
 
-En esta sección se presenta el análisis consolidado de las entrevistas realizadas a cada segmento objetivo, con el fin de obtener información concisa y accionable que sirva como base para la definición de las características más relevantes del producto.
-
----
-
-#### Segmento 1: Emprendedor
-
-El propósito de las entrevistas realizadas a este segmento fue identificar los principales problemas, necesidades y expectativas de los emprendedores en relación con las herramientas digitales y las plataformas de financiamiento colaborativo.
-
-A partir del análisis de las entrevistas se identificaron los siguientes hallazgos:
-
-- **Financiamiento limitado al entorno cercano:** La mayoría de los entrevistados financia sus ideas iniciales con ahorros personales y apoyo de familiares y amigos, lo que restringe significativamente el alcance y la escalabilidad de sus proyectos desde las primeras etapas.
-
-- **Dificultad para encontrar colaboradores comprometidos:** Los emprendedores enfrentan grandes obstáculos para conformar equipos en áreas clave como diseño, tecnología y marketing. Esta dificultad genera retrasos recurrentes y, en muchos casos, el abandono completo de las iniciativas.
-
-- **Experiencias negativas con plataformas internacionales:** Los entrevistados reportaron malas experiencias con plataformas como Kickstarter o Patreon, principalmente por la falta de visibilidad para proyectos locales, las barreras de acceso desde Perú y la desconfianza en la seguridad de los aportes recibidos.
-
-- **Desorganización por uso de herramientas informales:** Al coordinar sus equipos mediante WhatsApp o redes sociales, los proyectos tienden a perder orden, seguimiento y claridad en la distribución de responsabilidades, lo que afecta directamente la productividad y el compromiso del equipo.
-
-Los tres emprendedores entrevistados coincidieron en que una plataforma local que combine financiamiento colaborativo con herramientas de formación y gestión de equipos representaría un valor diferencial significativo. Entre las características consideradas indispensables destacan: interfaz intuitiva y fácil de usar, transparencia en el manejo de fondos, reportes de avance por hitos, sistemas de reputación y verificación de equipos, y métricas de seguimiento integradas.
-
-### Etapa en la que necesitan ayuda
-
-| Integrante     | Descripción |
-|---------------|------------|
-| **Gonzalo Quintanilla** | Al formar el equipo: puede programar por su cuenta, pero para escalar el negocio necesita socios. Considera que si el equipo es sólido, el dinero llegará después. |
-| **Didier Meza** | Al formar el equipo, porque sin personas que apoyen desde el inicio el proyecto no avanza. El financiamiento es clave, pero secundario sin un grupo sólido. |
-| **Diana Briceño**   | Al formar el equipo, ya que es más difícil encontrar personas aptas con los perfiles correctos para iniciar el proyecto que validar la idea o conseguir dinero. |
-
-<img src="resources/Images/Chapter-2/Estadistica/Etapa en la que necesitan ayuda.png" alt="Formas de financiamiento actual.png">
-
-El 100% de los entrevistados identifica la formación del equipo como la etapa más crítica de su emprendimiento. El 33% añade la validación de la idea como un momento de alta necesidad, mientras que ninguno señala la búsqueda de financiamiento como la prioridad principal. Esto confirma que el mayor valor que puede ofrecer la plataforma es facilitar la conexión con colaboradores comprometidos y con habilidades complementarias.
-
-
-### Formas de financiamiento actual
-
-| Integrante     | Descripción |
-|---------------|------------|
-| **Gonzalo Quintanilla** | Ahorros propios y apoyo de familiares o amigos. No ha usado crowdfunding por el esfuerzo de marketing que requiere y la falta de comunidad previa. |
-| **Didier Meza** | Ahorros personales y apoyo del entorno cercano. Intentó usar Kickstarter sin éxito por falta de visibilidad y por ser una plataforma orientada a mercados extranjeros. |
-| **Diana Briceño**   | Ahorros personales y apoyo familiar limitado. No ha usado crowdfunding por la falta de opciones locales confiables y los procesos complicados de plataformas extranjeras. |
-
-<img src="resources/Images/Chapter-2/Estadistica/Formas de financiamiento actual.png" alt="Formas de financiamiento actual.png">
-
-El 100% de los entrevistados recurre a ahorros personales y el mismo porcentaje recibe apoyo de su entorno cercano. Solo el 33% ha intentado el crowdfunding, con resultados negativos. Este panorama evidencia la ausencia de alternativas accesibles y confiables para emprendedores peruanos en etapa temprana, reforzando la necesidad de una plataforma local adaptada a su realidad.
-
-### Mecanismo de transparencia que generan confianza
-
-| Integrante     | Descripción |
-|---------------|------------|
-| **Gonzalo Quintanilla** | Sistema de reputación o reseñas entre fundadores, y exigencia de pruebas reales de avance como repositorios de código, encuestas o prototipos. |
-| **Didier Meza** | Proyectos con reportes de avance obligatorios, verificación de equipos, sistema de calificaciones y un historial similar al de GitHub con commits. |
-| **Diana Briceño**   | Reportes de avance visibles en todo momento, hitos validados, historial de aportes y posibilidad de que la comunidad deje comentarios y valoraciones. |
-
-
-<img src="resources/Images/Chapter-2/Estadistica/Mecanismo de transparencia que generan confianza.png" alt="Mecanismo de transparencia que generan confianza.png">
-
-El 100% de los entrevistados coincide en que los reportes de avance obligatorios y visibles, así como los hitos validados con historial de aportes, son mecanismos fundamentales de confianza. Un 67% agrega que también necesita un sistema de reputación y reseñas, y pruebas reales de avance como repositorios o prototipos. Estas preferencias señalan que la transparencia activa y verificable es un requisito no negociable para este segmento.
-
-### Tipos de proyectos en los que participan actualmente
-
-| Integrante     | Descripción |
-|---------------|------------|
-| **Gonzalo Quintanilla** | Proyectos de software/tecnología como desarrollador independiente, en etapa temprana sin equipo comercial. |
-| **Didier Meza** | Proyectos académicos y personales de emprendimiento digital, organizados principalmente por WhatsApp. |
-| **Diana Briceño**   | Proyectos personales de emprendimiento e iniciativas estudiantiles con foco en colaboración y financiamiento. |
-
-<img src="resources/Images/Chapter-2/Estadistica/Tipos de proyectos en los que participan actualmente.png" alt="Tipo de Proyecto">
-
-El 100% de los entrevistados participa en proyectos académicos como punto de partida. Un 67% los combina con emprendimientos personales, mientras que el 33% también se involucra en voluntariados o iniciativas estudiantiles. Esto refleja que el perfil del segmento es el de personas que están aprendiendo a emprender desde el entorno académico, con aspiraciones de escalar sus ideas a proyectos reales.
-
----
-
-#### Segmento 2: Colaborador
-
-El propósito de las entrevistas realizadas a este segmento fue identificar los patrones de participación, motivaciones y dificultades de los estudiantes y jóvenes profesionales al involucrarse en proyectos colaborativos.
-
-A partir del análisis de las entrevistas se identificaron los siguientes hallazgos:
-
-- **Participación en proyectos informales y poco estructurados:** Los entrevistados suelen involucrarse en proyectos académicos, voluntariados e iniciativas personales vinculadas a sus carreras. Sin embargo, la mayoría de estas experiencias se desarrollan de manera informal y con herramientas poco específicas, lo que limita la organización y el aprendizaje real que pueden obtener.
-
-- **Dispersión de información por uso de herramientas múltiples:** Plataformas como WhatsApp, Slack, Discord, GitHub y LinkedIn son utilizadas frecuentemente, pero los entrevistados coinciden en que la información tiende a fragmentarse entre distintos canales, generando desorden y falta de seguimiento en las tareas asignadas.
-
-- **Motivaciones centradas en el desarrollo profesional:** Los tres entrevistados destacaron que su principal motivación para unirse a proyectos en línea es la adquisición de experiencia práctica aplicable a contextos reales. Asimismo, valoran la posibilidad de ampliar su portafolio profesional y generar contactos que les abran oportunidades laborales futuras. Los ingresos económicos son percibidos como un beneficio adicional, pero no constituyen el motor principal de participación.
-
-- **Falta de claridad en roles, objetivos y nivel de compromiso:** Las principales dificultades reportadas están relacionadas con la incertidumbre sobre el compromiso de los demás participantes y la ausencia de definición clara de objetivos, roles y dedicación esperada. Esta falta de transparencia genera frustración y abandono temprano de las iniciativas, además de dificultar que los colaboradores encuentren oportunidades realmente alineadas a sus perfiles e intereses.
-
-Los tres entrevistados coincidieron en que una plataforma de colaboración efectiva debería incluir perfiles con habilidades destacadas, roles bien definidos, filtros por áreas de interés, métricas de avance y mecanismos de reputación. Asimismo, resaltaron la necesidad de espacios de comunicación organizados que reemplacen la informalidad de los chats grupales, y de herramientas que garanticen que su aporte sea valorado y reconocido, como reportes de avance o certificados digitales que respalden su participación en cada proyecto.
-
-### Tipos de Proyectos en los que Participan Actualmente
-
-| Integrante     | Descripción |
-|---------------|------------|
-| **Diego Alonso** | Proyectos académicos con IoT (monitoreo de cultivos) y voluntariado en albergue canino sin plataforma tecnológica. |
-| **Álvaro Rocha** | Proyectos académicos de software (APIs web) y un proyecto grupal de monitoreo de salud mental con GitHub. |
-| **Kael Lagos**   | Proyectos académicos como parte de cursos y proyectos personales tipo taller, generalmente individuales. |
-
-<img src="resources/Images/Chapter-2/Estadistica/Tipos de Proyectos en los que Participan Actualmente.png" alt="Tipos de Proyectos en los que Participan Actualmente">
-
-WhatsApp y GitHub son las herramientas más usadas (66.7% cada una), pero ambas de forma parcial y desconectada. Ningún entrevistado usa una plataforma que unifique comunicación, gestión de tareas y seguimiento en un solo espacio, lo que representa la oportunidad central de Foundly.
-
-### Motivaciones Principales para Unirse a Proyectos en Línea
-
-| Integrante       | Objetivo / Motivación |
-|------------------|----------------------|
-| **Diego Alonso** | Validar soluciones tecnológicas con impacto real (IoT en agricultura) y trabajar con perfiles complementarios. |
-| **Álvaro Rocha** | Ganar experiencia real para el portafolio y conocer personas con intereses similares. |
-| **Kael Lagos**   | Adquirir experiencia, obtener posibles ingresos y ampliar horizontes en el mundo emprendedor. |
-
-<img src="resources/Images/Chapter-2/Estadistica/Motivaciones Principales para Unirse a Proyectos en Línea.png" alt="Motivaciones Principales para Unirse a Proyectos en Línea">
-
-La experiencia práctica y el networking comparten el primer lugar con un 30% cada uno, seguidos por el portafolio profesional (20%) y los ingresos económicos (20%). Estos datos validan que Foundly debe comunicar explícitamente cómo cada proyecto aporta experiencia real y contactos valiosos.
-
-### Dificultades al Buscar Oportunidades de Colaboración
-
-| Integrante       | Dificultades |
-|------------------|--------------|
-| **Diego Alonso** | Equipos sin roles claros y definidos, especialmente en proyectos tecnológicos como IoT. |
-| **Álvaro Rocha** | Proyectos mal organizados que no se ajustan al nivel de aprendizaje que busca el colaborador. |
-| **Kael Lagos**   | Intereses no coincidentes con las oportunidades disponibles y perfiles poco convincentes. |
-
-<img src="resources/Images/Chapter-2/Estadistica/Dificultades al Buscar Oportunidades de Colaboración.png" alt="Dificultades al Buscar Oportunidades de Colaboración">
-
-La falta de claridad en objetivos, roles y compromiso es la barrera más crítica (100% de los entrevistados). Le siguen la desalineación de intereses y la ausencia de seguimiento, ambas con 66.7%. Esto refuerza la necesidad de una ficha de proyecto detallada y transparente en Foundly.
-
-### Funciones Más Valoradas en una Plataforma
-
-| Integrante       | Necesidades / Requerimientos |
-|------------------|----------------------------|
-| **Diego Alonso** | Almacenamiento y gestión de datos del proyecto (ej. métricas de sensores IoT) para no perder el avance histórico. |
-| **Álvaro Rocha** | Filtros de habilidades, roles bien definidos y herramientas de seguimiento del avance. |
-| **Kael Lagos**   | Organización de la comunicación sin solapamientos y mejor coordinación entre integrantes. |
-
-<img src="resources/Images/Chapter-2/Estadistica/Funciones Más Valoradas en una Plataforma.png" alt = "Funciones Más Valoradas en una Plataforma">
-
-Los perfiles con habilidades/roles definidos y las métricas de avance son considerados indispensables por el 100% de los entrevistados. Los filtros por área, la comunicación organizada y los mecanismos de reputación son valorados por el 66.7%. Foundly debe priorizar estas funciones en su MVP.
 
 ## 2.3. Needfinding
 
