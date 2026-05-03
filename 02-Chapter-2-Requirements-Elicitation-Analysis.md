@@ -288,7 +288,6 @@ En esta sección se realizará el análisis competitivo de los competidores iden
         <li>Expandirse a mercados emergentes como Latinoamérica, donde no tiene presencia.</li>
         <li>Alianzas con universidades, incubadoras y gobiernos para fomentar el emprendimiento.</li>
         <li>Colaboraciones con grandes marcas que validen productos vía crowdfunding.</li>
-        <li>Aumento de cultura colaborativa post-pandemia que impulsa el financiamiento online.</li>
       </ul>
     </td>
     <td>
