@@ -33,39 +33,39 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
     <td>Foundly es una plataforma de crowdfunding colaborativo diseñada para que las personas puedan crear grupos o unirse a comunidades que buscan resolver problemas, desarrollar startups o impulsar proyectos sociales. Se enfoca en Perú y Latinoamérica, donde el crowdfunding aún tiene gran potencial de crecimiento. Además, incorpora un <strong>módulo de monitoreo de impacto ambiental con integración IoT</strong> que permite a proyectos con enfoque sostenible visualizar métricas en tiempo real como calidad del aire y humedad, diferenciándose de cualquier plataforma de crowdfunding existente en la región.</td>
-    <td>Kickstarter es una de las plataformas de crowdfunding más grandes del mundo, fundada en 2009 en EE. UU. Su objetivo principal es ayudar a creadores, emprendedores y startups creativas a obtener financiamiento colectivo para lanzar proyectos innovadores en áreas como tecnología, arte, música, cine, diseño y videojuegos.</td>
-    <td>Indiegogo es una plataforma de crowdfunding global fundada en 2008 en EE. UU., considerada la principal alternativa a Kickstarter. Se caracteriza por su flexibilidad en las campañas y por abarcar proyectos de tecnología, diseño, salud, causas sociales y estilo de vida.</td>
+    <td>Kickstarter es una de las plataformas de crowdfunding más grandes del mundo, fundada en 2009 en Estados Unidos. Su objetivo principal es ayudar a creadores, emprendedores y startups creativas a lanzar proyectos innovadores en áreas como tecnología, arte, música, cine, diseño y videojuegos, brindándoles visibilidad y exposición ante una comunidad interesada en nuevas ideas.</td>
+    <td>Indiegogo es una plataforma global fundada en 2008 en Estados Unidos, considerada una de las principales alternativas a Kickstarter. Se caracteriza por su flexibilidad en la publicación de proyectos y por abarcar iniciativas relacionadas con tecnología, diseño, salud, causas sociales y estilo de vida, permitiendo a los emprendedores dar mayor visibilidad a sus ideas.</td>
     <td>GoFundMe, fundada en 2010 en Estados Unidos, es una de las plataformas de crowdfunding personal y solidario más grandes del mundo. A diferencia de Kickstarter o Indiegogo, se centra en causas personales, sociales y humanitarias (salud, emergencias, educación, funerales, desastres naturales, etc.) en lugar de proyectos creativos o startups.</td>
   </tr>
   <tr>
     <td>Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td>
     <td>
-      <ul>
-        <li><strong>Colaboración integral:</strong> No solo conecta a personas para aportar dinero, sino también para aportar ideas, habilidades y tiempo, creando equipos de trabajo alrededor de cada proyecto.</li>
-        <li><strong>Módulo IoT de impacto ambiental:</strong> Única plataforma de crowdfunding colaborativo que integra monitoreo de métricas ambientales en tiempo real (calidad del aire, humedad, participación), permitiendo a proyectos sostenibles evidenciar su impacto de forma concreta.</li>
-        <li><strong>Accesibilidad y bajo costo de entrada:</strong> Con el modelo freemium (5 proyectos gratuitos antes de pagar), cualquier persona puede iniciar sin necesidad de grandes recursos.</li>
-        <li><strong>Plataforma enfocada en comunidad:</strong> Permite que los usuarios formen grupos organizados con roles, tareas y objetivos compartidos, fortaleciendo el sentido de pertenencia.</li>
-        <li><strong>Impulso al emprendimiento local y social:</strong> Brinda un espacio para que tanto emprendedores como comunidades puedan impulsar ideas y proyectos de impacto sin depender de financiamiento tradicional.</li>
-        <li><strong>Transparencia y confianza:</strong> Implementa procesos de verificación y seguimiento de proyectos para dar seguridad a los participantes y donantes.</li>
-      </ul>
+     <ul>
+    <li><strong>Colaboración integral:</strong> Conecta personas con ideas, habilidades y tiempo, permitiendo formar equipos de trabajo multidisciplinarios alrededor de cada proyecto.</li>
+    <li><strong>Módulo IoT de impacto ambiental:</strong> Única plataforma colaborativa que integra monitoreo de métricas ambientales en tiempo real (calidad del aire, humedad y participación), permitiendo que proyectos sostenibles evidencien su impacto de manera concreta.</li>
+    <li><strong>Accesibilidad y bajo costo de entrada:</strong> Con el modelo freemium (5 proyectos gratuitos antes de pagar), cualquier persona puede iniciar proyectos sin necesidad de grandes recursos económicos.</li>
+    <li><strong>Plataforma enfocada en comunidad:</strong> Permite que los usuarios formen grupos organizados con roles, tareas y objetivos compartidos, fortaleciendo el trabajo colaborativo.</li>
+    <li><strong>Impulso al emprendimiento local y social:</strong> Brinda un espacio para que emprendedores y comunidades desarrollen ideas y proyectos de impacto dentro de un entorno colaborativo.</li>
+    <li><strong>Transparencia y confianza:</strong> Permite visualizar el progreso del proyecto, verificar perfiles de los integrantes y dar seguimiento a las responsabilidades asignadas, generando mayor confianza dentro del equipo.</li>
+</ul>
     </td>
     <td>
       <ul>
-        <li>Exposición global: conecta a emprendedores con millones de potenciales patrocinadores en todo el mundo.</li>
-        <li>Validación de mercado: los creadores pueden probar si su idea tiene interés real antes de invertir grandes sumas de dinero.</li>
-        <li>Modelo claro de recompensas: los backers reciben beneficios tangibles (productos exclusivos, experiencias, versiones anticipadas).</li>
-        <li>Confianza y marca reconocida: Kickstarter es sinónimo de crowdfunding creativo, lo que da credibilidad a los proyectos.</li>
-        <li>Comunidad activa de innovación: los usuarios buscan activamente apoyar ideas novedosas, generando oportunidades de networking.</li>
-      </ul>
+    <li><strong>Exposición global:</strong> conecta a emprendedores con una comunidad internacional interesada en proyectos innovadores y creativos.</li>
+    <li><strong>Validación de ideas:</strong> permite que los creadores evalúen si su proyecto genera interés real antes de desarrollarlo completamente.</li>
+    <li><strong>Presentación estructurada de proyectos:</strong> brinda herramientas para mostrar objetivos, avances y características de cada proyecto de forma clara y atractiva.</li>
+    <li><strong>Confianza y marca reconocida:</strong> Kickstarter es una plataforma reconocida mundialmente, lo que brinda mayor visibilidad y credibilidad a los proyectos publicados.</li>
+    <li><strong>Comunidad activa de innovación:</strong> reúne usuarios interesados en nuevas ideas, generando oportunidades de interacción y networking entre creadores.</li>
+</ul>
     </td>
     <td>
-      <ul>
-        <li>Flexibilidad en el financiamiento: permite elegir entre campañas de "Todo o nada" o "Flexible Funding".</li>
-        <li>Apoyo post-campaña: con el programa InDemand, los creadores pueden seguir recaudando fondos incluso después de que termine la campaña inicial.</li>
-        <li>Enfoque en innovación temprana: permite a los emprendedores mostrar productos en etapas iniciales, atrayendo a "early adopters".</li>
-        <li>Servicios adicionales: ofrece marketing, logística y distribución en alianza con empresas.</li>
-        <li>Mayor diversidad de categorías: no solo tecnología y arte, también estilo de vida, salud y proyectos sociales.</li>
-      </ul>
+<ul>
+    <li><strong>Flexibilidad en la publicación de proyectos:</strong> permite que los creadores presenten proyectos en diferentes etapas de desarrollo según sus objetivos.</li>
+    <li><strong>Apoyo post-lanzamiento:</strong> con el programa InDemand, los creadores pueden seguir dando visibilidad a sus proyectos incluso después de finalizar su etapa inicial.</li>
+    <li><strong>Enfoque en innovación temprana:</strong> permite a los emprendedores mostrar productos en etapas iniciales, atrayendo usuarios interesados en nuevas ideas.</li>
+    <li><strong>Servicios adicionales:</strong> ofrece apoyo en marketing, logística y distribución mediante alianzas con empresas.</li>
+    <li><strong>Mayor diversidad de categorías:</strong> incluye proyectos de tecnología, diseño, salud, estilo de vida y proyectos sociales.</li>
+</ul>
     </td>
     <td>
       <ul>
@@ -82,23 +82,23 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td>Mercado Objetivo</td>
     <td>
       <ul>
-        <li><strong>Emprendedores y startups en etapa temprana:</strong> estudiantes y jóvenes profesionales (18–35) en Perú con proyección a LATAM, que buscan validar y financiar ideas y armar equipo multidisciplinario.</li>
-        <li><strong>Profesionales y estudiantes con habilidades:</strong> desarrolladores, diseñadores, marketers, PMs y financieros que desean aportar tiempo/talento a proyectos reales y fortalecer su portafolio.</li>
-        <li><strong>Proyectos con enfoque sostenible:</strong> equipos o emprendedores que buscan medir y evidenciar el impacto ambiental de sus iniciativas mediante tecnología IoT.</li>
-      </ul>
+    <li><strong>Emprendedores y startups en etapa temprana:</strong> estudiantes y jóvenes profesionales (18–25 años) en Perú con proyección a LATAM, que buscan validar ideas, formar equipos multidisciplinarios y desarrollar proyectos innovadores.</li>
+    <li><strong>Profesionales y estudiantes con habilidades:</strong> desarrolladores, diseñadores, especialistas en marketing y gestores de proyectos que desean aportar su talento y conocimientos en proyectos reales mientras adquieren experiencia colaborativa.</li>
+    <li><strong>Proyectos con enfoque sostenible:</strong> equipos o emprendedores que buscan medir y evidenciar el impacto ambiental de sus iniciativas mediante tecnología IoT.</li>
+</ul>
     </td>
     <td>
-      <ul>
-        <li>Creadores de proyectos creativos e innovadores: artistas, músicos, cineastas, diseñadores, escritores. Emprendedores tecnológicos que buscan validar gadgets, apps o hardware.</li>
-        <li>Backers (aportantes o patrocinadores): personas con interés en apoyar la innovación y obtener recompensas exclusivas. Comunidades entusiastas (ej. gamers, cinéfilos, techies).</li>
-      </ul>
-    </td>
+  <ul>
+    <li><strong>Creadores de proyectos creativos e innovadores:</strong> artistas, músicos, cineastas, diseñadores, escritores y emprendedores tecnológicos que buscan dar visibilidad a ideas como gadgets, aplicaciones o productos innovadores.</li>
+    <li><strong>Comunidad interesada en innovación:</strong> personas que buscan descubrir nuevas ideas y participar en comunidades relacionadas con tecnología, videojuegos, cine, diseño y entretenimiento.</li>
+  </ul>
+</td>
     <td>
-      <ul>
-        <li>Creadores y emprendedores: emprendedores de sectores como salud, bienestar, estilo de vida y sostenibilidad. Empresas en etapa temprana que buscan financiamiento y visibilidad internacional.</li>
-        <li>Backers (aportantes / compradores anticipados): early adopters interesados en probar productos antes de que lleguen al mercado. Personas que buscan apoyar proyectos con impacto social o ambiental.</li>
-      </ul>
-    </td>
+  <ul>
+    <li><strong>Creadores y emprendedores:</strong> emprendedores de sectores como salud, bienestar, estilo de vida y sostenibilidad, así como empresas en etapa temprana que buscan dar visibilidad internacional a sus proyectos.</li>
+    <li><strong>Usuarios interesados en innovación:</strong> personas interesadas en conocer productos innovadores antes de su lanzamiento al mercado y proyectos con impacto social o ambiental.</li>
+  </ul>
+</td>
     <td>
       <ul>
         <li>Creadores de campañas (beneficiarios): personas que atraviesan emergencias médicas, familias afectadas por desastres naturales, comunidades y ONGs que buscan financiamiento para causas sociales.</li>
@@ -122,13 +122,13 @@ En esta sección se realizará el análisis competitivo de los competidores iden
       </ul>
     </td>
     <td>
-      <ul>
-        <li>Flexibilidad en el financiamiento (todo o nada / flexible funding).</li>
-        <li>Programa InDemand para seguir recaudando después de la campaña.</li>
-        <li>Alianzas con aceleradoras, logística y distribución para apoyar la llegada al mercado.</li>
-        <li>Promoción de casos de éxito tecnológicos como validación de la plataforma.</li>
-      </ul>
-    </td>
+  <ul>
+    <li>Flexibilidad en la publicación de proyectos en distintas etapas de desarrollo.</li>
+    <li>Programa InDemand para mantener la visibilidad de los proyectos después de su lanzamiento inicial.</li>
+    <li>Alianzas con aceleradoras, empresas de logística y distribución para apoyar la llegada de productos al mercado.</li>
+    <li>Promoción de casos de éxito tecnológicos como estrategia para fortalecer la credibilidad de la plataforma.</li>
+  </ul>
+</td>
     <td>
       <ul>
         <li>Marketing emocional con imágenes, videos y testimonios de impacto.</li>
@@ -141,16 +141,16 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td rowspan="3">Perfil de Producto</td>
     <td>Productos &amp; Servicios</td>
     <td>
-      <ul>
-        <li><strong>Productos:</strong> proyectos colaborativos creados por los usuarios.</li>
-        <li><strong>Servicios:</strong> ecosistema digital seguro, accesible y colaborativo, con herramientas de financiamiento, creación de equipos y <strong>módulo IoT de monitoreo de impacto ambiental en tiempo real</strong>.</li>
-      </ul>
+		<ul>
+    <li><strong>Productos:</strong> proyectos colaborativos creados por los usuarios.</li>
+    <li><strong>Servicios:</strong> ecosistema digital seguro, accesible y colaborativo, con herramientas para la creación de equipos, gestión de tareas, seguimiento de avances y un módulo IoT de monitoreo de impacto ambiental en tiempo real.</li>
+</ul>
     </td>
     <td>
       <ul>
-        <li><strong>Productos:</strong> proyectos y recompensas que los creadores ofrecen a sus backers.</li>
-        <li><strong>Servicios:</strong> plataforma digital confiable de financiamiento colectivo, con herramientas de gestión, visibilidad y comunidad.</li>
-      </ul>
+    <li><strong>Productos:</strong> proyectos creativos e innovadores publicados por los creadores en distintas categorías como tecnología, arte, diseño y entretenimiento.</li>
+    <li><strong>Servicios:</strong> plataforma digital que brinda herramientas de gestión, visibilidad y comunidad para impulsar proyectos innovadores.</li>
+</ul>
     </td>
     <td>
       <ul>
@@ -210,7 +210,6 @@ En esta sección se realizará el análisis competitivo de los competidores iden
         <li>Los usuarios no solo aportan dinero, sino también habilidades, tiempo e ideas, formando equipos de trabajo.</li>
         <li>Con el modelo freemium (5 proyectos gratis), cualquier persona puede iniciar sin necesidad de gran capital.</li>
         <li>Llena un vacío de mercado en regiones donde las grandes plataformas globales no tienen presencia oficial.</li>
-        <li>Sistema de verificación de usuarios y proyectos que reduce fraudes y genera mayor credibilidad.</li>
         <li>Único diferenciador tecnológico en el mercado regional: módulo IoT que permite a proyectos ambientales medir y evidenciar su impacto en tiempo real, algo que ningún competidor directo ofrece.</li>
       </ul>
     </td>
