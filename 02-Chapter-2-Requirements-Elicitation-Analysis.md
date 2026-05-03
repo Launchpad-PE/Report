@@ -366,7 +366,7 @@ Los principales competidores identificados Kickstarter, Indiegogo y GoFundMe pre
 
 Kickstarter, Indiegogo y GoFundMe cuentan con marcas globalmente reconocidas, grandes bases de usuarios y modelos consolidados de confianza. Para afrontar estas fortalezas:
 
-- **Estrategia de Diferenciación:** Foundly no compite en el mismo terreno que los competidores globales, sino que construye una categoría propia: el crowdfunding colaborativo con formación de equipos. A diferencia de las plataformas tradicionales donde el usuario solo aporta dinero, Foundly permite aportar habilidades, tiempo e ideas, generando valor más allá del financiamiento económico.
+- **Estrategia de Diferenciación:** Foundly no compite en el mismo terreno que los competidores globales, sino que construye una categoría propia basada en colaboración, formación de equipos, gestión de proyectos e integración de monitoreo ambiental mediante tecnología IoT. A diferencia de las plataformas tradicionales donde los usuarios principalmente buscan visibilidad para sus proyectos, Foundly conecta personas que aportan habilidades, tiempo e ideas, mientras permite gestionar tareas y visualizar métricas ambientales en proyectos sostenibles de manera estructurada.
 
 - **Módulo IoT como diferenciador tecnológico único:** Foundly incorpora un módulo de monitoreo de impacto ambiental con integración IoT que permite a proyectos sostenibles visualizar métricas en tiempo real como calidad del aire, humedad y participación ciudadana. Ningún competidor directo ofrece esta funcionalidad, lo que refuerza la propuesta de valor frente a un mercado con creciente interés en la sostenibilidad.
 
@@ -397,9 +397,9 @@ Kickstarter, Indiegogo y GoFundMe cuentan con marcas globalmente reconocidas, gr
 
   - **Táctica:** Implementar desde el lanzamiento un sistema de verificación de identidad, validación de proyectos y seguimiento obligatorio de hitos con evidencias. El módulo de reputación permitirá que los usuarios evalúen proyectos y equipos, generando transparencia y disuadiendo comportamientos fraudulentos.
 
-- **Amenaza: ausencia de regulación clara sobre crowdfunding en Perú.** La falta de un marco legal específico puede derivar en regulaciones futuras que limiten la operación de plataformas de financiamiento colectivo.
+- **Amenaza: baja adopción inicial de nuevas plataformas colaborativas en Perú** Al ser una propuesta innovadora, Foundly podría enfrentar resistencia inicial por parte de usuarios acostumbrados a utilizar herramientas tradicionales o plataformas internacionales para gestionar sus proyectos.
 
-- **Táctica:** Desde el inicio, Foundly operará bajo estándares de transparencia y cumplimiento normativo general, documentando todos los procesos y manteniendo comunicación con asociaciones de emprendimiento y organismos regulatorios, de modo que la plataforma esté preparada para adaptarse a cualquier cambio regulatorio sin interrupciones.
+- **Táctica:** Desde el inicio, Foundly impulsará estrategias de educación digital, alianzas con universidades, incubadoras y comunidades tecnológicas para incentivar la adopción temprana de la plataforma y fortalecer su posicionamiento en el mercado local.
 
 ## 2.2. Entrevistas
 
