@@ -673,7 +673,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   <tr>
     <td>Link</td>
      <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417423_upc_edu_pe/IQBtwzJ-vkMuTohKltSQUItBAa_3kKJsKa8MkqAcCGHzsNA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gAE5fd" title="Title">Microsoft Stream</p>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQBo9vejJzlJQpu5_o2qFST-AWwEHsyVFmkZNvXa3riJJ_8?e=AFrndm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
 	</td>
   </tr>
   <tr>
@@ -731,13 +731,13 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   <tr>
     <td>Link</td>
    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417423_upc_edu_pe/IQDITBwWV_QmQ4-fDyGUORN5ASkmGv08Ea6KxiP8uAskDdU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ahetMd" title="Title">Microsoft Stream</p>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQBo9vejJzlJQpu5_o2qFST-AWwEHsyVFmkZNvXa3riJJ_8?e=AFrndm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
 	</td>
   </tr>
   <tr>
     <td>Duracion</td>
    <td>
-		0:00 min - 4:43 min
+		4:10 min -  8:53 min
 	</td>
   </tr>
   <tr>
@@ -790,11 +790,11 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417423_upc_edu_pe/IQBb7Rm9oGyPR5-GlcLYL9KeASc3_CDY-26bdr2dJ6vb_EU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Ga0SMi" title="Microsoft Stream">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQBo9vejJzlJQpu5_o2qFST-AWwEHsyVFmkZNvXa3riJJ_8?e=AFrndm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Microsoft Stream">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duracion</td>
-    <td>0:00 min - 04:09 min</td>
+    <td>8:53 min - 12:58 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
