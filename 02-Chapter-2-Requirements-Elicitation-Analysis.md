@@ -554,7 +554,8 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Link</td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316845_upc_edu_pe/IQCcSgJJt-cnTZ44gSaQWZPhAcW53vQ5lpRC5-ywji6h7xk?e=SOwVeF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
+	  <td>
+	<p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316845_upc_edu_pe/IQCcSgJJt-cnTZ44gSaQWZPhAcW53vQ5lpRC5-ywji6h7xk?e=SOwVeF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title"> Microsoft Stream</p></td>	
   </tr>
   <tr>
     <td>Duracion</td>
