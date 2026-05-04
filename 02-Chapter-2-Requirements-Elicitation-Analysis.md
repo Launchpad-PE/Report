@@ -466,19 +466,19 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Damaly</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Almerco Rojas</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td></td>
+    <td>21 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>San Isidro</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -498,15 +498,15 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank" href="" title="">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316845_upc_edu_pe/IQC8gft1-W8DRZ3QV2ifIQh7Ae7Y8NVmUHrvhqc1EpFND2E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Ju5oUm" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion</td>
-    <td></td>
+    <td>0:00 min - 03:53 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>"Nombre" es una joven emprendedora de 20 años que gestiona sus proyectos con WhatsApp, Google Drive y Meet. Señala que la mayor dificultad es encontrar personas comprometidas: identifica colaboradores con habilidades de diseño o marketing, pero muchos abandonan el proyecto por falta de tiempo. Además, la ausencia de un sistema claro de seguimiento genera confusión sobre quién es responsable de cada tarea. Desea una plataforma centralizada donde pueda buscar colaboradores por habilidades, ver perfiles verificados con referencias, y hacer seguimiento del avance sin depender de múltiples herramientas.</td>
+    <td> Damaly es una joven emprendedora de 20 años que gestiona sus proyectos con WhatsApp, Google Drive y Meet. Señala que la mayor dificultad es encontrar personas comprometidas: identifica colaboradores con habilidades de diseño o marketing, pero muchos abandonan el proyecto por falta de tiempo. Además, la ausencia de un sistema claro de seguimiento genera confusión sobre quién es responsable de cada tarea. Desea una plataforma centralizada donde pueda buscar colaboradores por habilidades, ver perfiles verificados con referencias, y hacer seguimiento del avance sin depender de múltiples herramientas.</td>
   </tr>
 </tbody>
 </table>
@@ -522,19 +522,19 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Gonzalo</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Quintilla Pozo</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td></td>
+    <td>20 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>San Juan De Miraflores</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -554,15 +554,15 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank" href="" title="">Microsoft Stream</a></p></td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316845_upc_edu_pe/IQCcSgJJt-cnTZ44gSaQWZPhAcW53vQ5lpRC5-ywji6h7xk?e=SOwVeF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
   </tr>
   <tr>
     <td>Duracion</td>
-    <td></td>
+    <td>0:00 min - 03:48 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>"Nombre" es un emprendedor que ya utiliza Trello para organizar tareas, pero combina múltiples herramientas (WhatsApp, Discord, Meet) lo que genera desorden. Su principal frustración es la falta de compromiso de los colaboradores: personas con buenas habilidades que desaparecen cuando el proyecto demanda más tiempo. También señala que los incumplimientos de fechas generan retrasos en cadena porque los demás integrantes dependen de esos avances. Busca una plataforma con sistema de reputación y perfiles verificados para filtrar colaboradores según habilidades, disponibilidad y experiencia previa, y gestionar todo desde un solo lugar.</td>
+    <td>Gonzalo es un emprendedor que ya utiliza Trello para organizar tareas, pero combina múltiples herramientas (WhatsApp, Discord, Meet) lo que genera desorden. Su principal frustración es la falta de compromiso de los colaboradores: personas con buenas habilidades que desaparecen cuando el proyecto demanda más tiempo. También señala que los incumplimientos de fechas generan retrasos en cadena porque los demás integrantes dependen de esos avances. Busca una plataforma con sistema de reputación y perfiles verificados para filtrar colaboradores según habilidades, disponibilidad y experiencia previa, y gestionar todo desde un solo lugar.</td>
   </tr>
 </tbody>
 </table>
