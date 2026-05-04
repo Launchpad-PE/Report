@@ -579,19 +579,19 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Jhoan</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Janampa Gutierrez</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td></td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>Chorrillos</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -607,15 +607,17 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt=""></div></td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/interview-of-Jhoan-Janampa.png" alt=""></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank" href="" title="">Microsoft Stream</a></p></td>
+	  <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310949_upc_edu_pe/IQAm5EbcPxkRQLTRAHRsua_SAQCYU8YPa0P2m3ApBgYBN6k?e=y7mt0D&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
+	</td>
   </tr>
   <tr>
     <td>Duracion</td>
-    <td></td>
+    <td>0:00 min - 4:01 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
