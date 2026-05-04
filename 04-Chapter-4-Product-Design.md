@@ -235,32 +235,32 @@ Para elaborar nuestro prototipo de baja fidelidad, hemos utilizado la plataforma
 
 **Landing Page Desktop**
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/escritorio/Landing page-wireframe.png" alt ="Landing page wireframe">
+<img src="resources/Images/Chapter-4/landing page/Landing page-wireframe.png">
 
 **Landing Page Movil**
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/movil/iPhone 16 Plus - 1.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 1.png" alt ="Landing page movil">
 
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/movil/iPhone 16 Plus - 2.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 2.png" alt ="Landing page movil">
 
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/movil/iPhone 16 Plus - 3.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 3.png" alt ="Landing page movil">
 
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/movil/iPhone 16 Plus - 4.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 4.png" alt ="Landing page movil">
 
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/movil/iPhone 16 Plus - 5.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 5.png" alt ="Landing page movil">
 
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/movil/iPhone 16 Plus - 6.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 6.png" alt ="Landing page movil">
 
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/movil/iPhone 16 Plus - 7.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 7-update.png" alt ="Landing page movil">
 
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/movil/iPhone 16 Plus - 8.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 8.png" alt ="Landing page movil">
 
 
 
@@ -270,11 +270,11 @@ Hemos finalizado con éxito el mock-up de la página de inicio, aplicando los pr
 
 **Landing Page Desktop**
 
-<img src="resources/Images/Chapter-4/landing-page-desing/mockup/landing-page-mockup.png" alt="Landing Page">
+<img src="resources/Images/Chapter-4/landing page/Group 3.png">
 
 **Landing Page Mobile**
 
-<img src="resources/Images/Chapter-4/landing-page-desing/mockup/LandingPage-Mobile.png" alt="Landing Page Mobile">
+<img src="resources/Images/Chapter-4/mobile-wireframe/LandingPage-Mobile.png" alt="Landing Page Mobile">
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
