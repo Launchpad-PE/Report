@@ -864,9 +864,9 @@ Los hallazgos más relevantes para el diseño de Foundly a partir de este segmen
 
 ---
 
-#### Segmento 2: Colaboradores — Estudiantes y Jóvenes Profesionales
+#### Segmento 2: Colaboradores  Estudiantes y Jóvenes Profesionales
 
-Este segmento estuvo conformado por estudiantes universitarios y jóvenes profesionales con experiencia en proyectos colaborativos, hackathons y voluntariados tecnológicos. Su perspectiva como colaboradores —no como líderes de proyecto— permitió identificar un conjunto de necesidades y frustraciones complementarias a las del Segmento 1, revelando los dos lados del mismo ecosistema de colaboración.
+Este segmento estuvo conformado por estudiantes universitarios y jóvenes profesionales con experiencia en proyectos colaborativos, hackathons y voluntariados tecnológicos. Su perspectiva como colaboradores no como líderes de proyecto permitió identificar un conjunto de necesidades y frustraciones complementarias a las del Segmento 1, revelando los dos lados del mismo ecosistema de colaboración.
 
 ##### Herramientas utilizadas actualmente
 
@@ -911,7 +911,7 @@ Los colaboradores expresan la necesidad de que su aporte sea visible y reconocid
 - La motivación es frágil y condicional. Los colaboradores se unen con entusiasmo, pero la desorganización, la falta de reconocimiento y el incumplimiento de expectativas los hacen abandonar. Retener a los colaboradores requiere ofrecer estructura, claridad y reconocimiento desde el primer día.
 - La transparencia del proyecto es un filtro de calidad. Antes de comprometerse, los colaboradores buscan señales de seriedad: objetivos claros, liderazgo verificable y avances concretos. Una plataforma que facilite esta visibilidad actúa como filtro natural que atrae colaboradores más comprometidos y ahuyenta proyectos sin sustento.
 - El reconocimiento formal cambia el comportamiento. Si los colaboradores saben que su trabajo quedará registrado, que será evaluado por el equipo y que contribuirá a construir su reputación dentro de la plataforma, tienen más incentivos para cumplir con sus responsabilidades y mantener un alto nivel de compromiso.
-- Los colaboradores son también embajadores potenciales. Cuando la experiencia dentro de un proyecto es positiva —organización clara, reconocimiento del aporte y aprendizaje real— los colaboradores recomiendan la plataforma activamente a su red, actuando como canal de crecimiento orgánico.
+- Los colaboradores son también embajadores potenciales. Cuando la experiencia dentro de un proyecto es positiva organización clara, reconocimiento del aporte y aprendizaje real los colaboradores recomiendan la plataforma activamente a su red, actuando como canal de crecimiento orgánico.
 - Existe complementariedad directa con el Segmento 1. Las necesidades del colaborador responden punto a punto a los dolores del emprendedor: donde el emprendedor necesita encontrar talento comprometido, el colaborador necesita encontrar proyectos serios; donde el emprendedor necesita seguimiento de tareas, el colaborador necesita claridad de roles. Foundly puede resolver ambos lados de esta ecuación desde una misma plataforma.
 
 ---
