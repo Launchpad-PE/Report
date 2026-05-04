@@ -71,7 +71,7 @@ El espaciado garantiza armonía visual y legibilidad en todas las secciones de l
 
 Los tonos de comunicación definen cómo Foundly se dirige a cada segmento, con el objetivo de generar empatía, transmitir la propuesta de valor con claridad y lograr que los usuarios se identifiquen con la marca.
 
-- **Emprendedores y Startups en Etapa Temprana:** Se utiliza un lenguaje inspirador y profesional que destaca el potencial de sus proyectos y el impulso que Foundly puede brindarles para alcanzar sus metas. El tono es confiable, cercano y orientado a la acción, enfatizando la facilidad de encontrar colaboradores y acceder a financiamiento dentro de una sola plataforma.
+- **Emprendedores y Startups en Etapa Temprana:** Se utiliza un lenguaje inspirador y profesional que destaca el potencial de sus proyectos y el impulso que Foundly puede brindarles para alcanzar sus metas. El tono es confiable, cercano y orientado a la acción, enfatizando la facilidad de encontrar colaboradores dentro de una sola plataforma.
 
 - **Estudiantes Universitarios y Profesionales (Colaboradores):** Se emplea un lenguaje motivacional y dinámico que resalta las oportunidades de crecimiento profesional, la posibilidad de adquirir experiencia práctica real y los beneficios de colaborar en proyectos con impacto. El tono es fresco, accesible y orientado al desarrollo personal y profesional.
   
@@ -113,7 +113,6 @@ Se aplica en todos los procesos clave que requieren que el usuario complete una 
 - Registro e inicio de sesión de usuarios.
 - Creación y publicación de proyectos.
 - Conformación y gestión de equipos colaborativos.
-- Configuración de campañas de financiamiento con metas y recompensas.
 - Activación y configuración del panel de monitoreo IoT.
 
 **Matricial (Matrix Organization)**
@@ -136,7 +135,7 @@ Se emplea en la sección de novedades y actualizaciones de la plataforma, ordena
 
 El contenido de la plataforma se adapta al perfil del usuario autenticado, mostrando secciones y funcionalidades personalizadas según su rol:
 
-- **Emprendedor:** Acceso al panel de gestión de proyectos, hitos, tareas, campañas de financiamiento y panel IoT.
+- **Emprendedor:** Acceso al panel de gestión de proyectos, hitos, tareas y panel IoT.
 - **Colaborador:** Acceso al explorador de proyectos, historial de postulaciones, panel de tareas asignadas y perfil de reputación.
 
 ### 4.2.2. Labeling Systems
@@ -151,11 +150,11 @@ Las etiquetas siguen un formato bilingüe (español / inglés) para garantizar c
 |---|---|
 | **Inicio / Home** | Presenta una visión general de Foundly, destacando la conexión entre emprendedores y colaboradores, y el monitoreo de prototipos con IoT en tiempo real. |
 | **Nosotros / About Us** | Describe al equipo detrás de Foundly, su misión, visión y el impacto que busca generar en el ecosistema emprendedor peruano. |
-| **Servicios / Services** | Explica los beneficios principales de la plataforma: formación de equipos, financiamiento colaborativo, gestión de proyectos y monitoreo IoT. |
+| **Servicios / Services** | Explica los beneficios principales de la plataforma: formación de equipos colaborativo, gestión de proyectos y monitoreo IoT. |
 | **Proyectos / Projects** | Permite explorar los proyectos publicados por emprendedores, incluyendo aquellos con panel de monitoreo IoT activo. |
 | **IoT en Vivo / IoT Live** | Muestra métricas de sensores en tiempo real calidad del aire, humedad, temperatura, entre otras vinculadas a las campañas activas de la plataforma. |
 | **Planes / Plans** | Presenta los planes Gratuito y Premium con sus características, diferencias y precios, permitiendo al usuario elegir el que mejor se adapta a sus necesidades. |
-| **Emprendedor / Entrepreneur** | Sección dirigida al segmento emprendedor, con información sobre cómo crear proyectos, gestionar equipos y activar campañas de financiamiento. |
+| **Emprendedor / Entrepreneur** | Sección dirigida al segmento emprendedor, con información sobre cómo crear proyectos, gestionar equipos. |
 | **Colaborador / Collaborator** | Sección dirigida al segmento colaborador, con información sobre cómo postularse a proyectos, publicar evidencias y construir reputación. |
 | **Contacto / Contact Us** | Proporciona los medios de comunicación disponibles: correo electrónico, WhatsApp y redes sociales del equipo. |
 | **Registro / Sign Up** | Permite crear una cuenta en la plataforma eligiendo el rol de Emprendedor o Colaborador para personalizar la experiencia desde el inicio. |
@@ -171,7 +170,7 @@ Para mejorar la visibilidad de Foundly y destacar el enfoque IoT y sostenible, i
     <meta charset="UTF-8" /> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
     <title>Foundly - Crowdfunding colaborativo con monitoreo IoT</title> 
-    <meta name="description" content="Foundly conecta emprendedores y colaboradores para impulsar proyectos innovadores con financiamiento colaborativo y monitoreo ambiental mediante IoT." /> 
+    <meta name="description" content="Foundly conecta emprendedores y colaboradores para impulsar proyectos innovadores colaborativo y monitoreo ambiental mediante IoT." /> 
     <meta name="keywords" content="crowdfunding, emprendimiento, IoT, monitoreo ambiental, startups, colaboración, proyectos sostenibles" /> 
     <meta name="author" content="Foundly Startup Team" /> 
     <meta name="copyright" content="© Foundly, 2026" /> </head>
@@ -197,19 +196,17 @@ Búsqueda básica: Un campo de búsqueda en la parte superior para localizar pro
 Filtros avanzados:
 - Categoría del proyecto
 - Tipo de colaboración
-- Estado de financiamiento
 - Proyectos con monitoreo IoT
 - Nivel de impacto ambiental
 
 Ordenación de resultados:
 - Relevancia
 - Más recientes
-- Mayor financiamiento
 - Mayor impacto ambiental
 - Más colaboradores
 
 Vista clara de resultados:
-Cada resultado mostrará imagen, título del proyecto, breve descripción, creador, estado del financiamiento, métricas IoT y botones de acción.
+Cada resultado mostrará imagen, título del proyecto, breve descripción, creador, métricas IoT y botones de acción.
 
 Sugerencias en tiempo real:
 Mientras el usuario escribe, se ofrecerán sugerencias de proyectos o perfiles relevantes.
@@ -226,8 +223,7 @@ Botones de llamada a la acción (CTA):
 - Crear Proyecto
 - Unirse a Proyecto
 - Ver Impacto IoT
-- Financiar Proyecto
-
+  
 Navegación consistente: Estructura uniforme en todas las páginas, manteniendo el menú fijo y accesos rápidos.
 
 Soporte responsivo: Navegación adaptada a dispositivos móviles y tablets.
@@ -239,32 +235,32 @@ Para elaborar nuestro prototipo de baja fidelidad, hemos utilizado la plataforma
 
 **Landing Page Desktop**
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/escritorio/Landing page-wireframe.png" alt ="Landing page wireframe">
+<img src="resources/Images/Chapter-4/landing page/Landing page-wireframe.png">
 
 **Landing Page Movil**
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/movil/iPhone 16 Plus - 1.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 1.png" alt ="Landing page movil">
 
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/movil/iPhone 16 Plus - 2.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 2.png" alt ="Landing page movil">
 
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/movil/iPhone 16 Plus - 3.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 3.png" alt ="Landing page movil">
 
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/movil/iPhone 16 Plus - 4.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 4.png" alt ="Landing page movil">
 
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/movil/iPhone 16 Plus - 5.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 5.png" alt ="Landing page movil">
 
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/movil/iPhone 16 Plus - 6.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 6.png" alt ="Landing page movil">
 
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/movil/iPhone 16 Plus - 7.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 7-update.png" alt ="Landing page movil">
 
 
-<img src="resources/Images/Chapter-4/landing-page-desing/wireframe/wireframe/movil/iPhone 16 Plus - 8.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 8.png" alt ="Landing page movil">
 
 
 
@@ -274,11 +270,11 @@ Hemos finalizado con éxito el mock-up de la página de inicio, aplicando los pr
 
 **Landing Page Desktop**
 
-<img src="resources/Images/Chapter-4/landing-page-desing/mockup/landing-page-mockup.png" alt="Landing Page">
+<img src="resources/Images/Chapter-4/landing page/Group 3.png">
 
 **Landing Page Mobile**
 
-<img src="resources/Images/Chapter-4/landing-page-desing/mockup/LandingPage-Mobile.png" alt="Landing Page Mobile">
+<img src="resources/Images/Chapter-4/mobile-wireframe/LandingPage-Mobile.png" alt="Landing Page Mobile">
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
@@ -397,30 +393,10 @@ El emprendedor accede a la sección *Tareas* de su proyecto y selecciona el bot�
 
 ---
 
-**User Goal 5:** Como emprendedor, quiero crear una meta de recaudación y recompensas para recibir contribuciones de los usuarios interesados en apoyar mi proyecto.
-
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 5.jpg" alt="User Flow 5 — Creación de meta de recaudación y rewards">
-
-Desde la sección *Contribuciones* del proyecto, el emprendedor puede gestionar dos elementos:
-
-- **Meta de recaudación:** Al presionar *Añadir una meta*, completa el nombre, monto objetivo y descripción. Al guardar, la meta queda visible en la sección de contribuciones del proyecto.
-
-
 ---
 
-**User Goal 6:** Como usuario, quiero realizar una donación a un proyecto que me interese y, opcionalmente, recibir beneficios a cambio.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 6.jpg" alt="User Flow 6 — Donación a proyecto">
-
-El usuario accede al detalle de un proyecto mediante *Ver más* y selecciona el botón *Contribuir*. La plataforma presenta dos modalidades de donación:
-
-- **Donación rápida:** El usuario ingresa el monto a donar, su nombre y correo electrónico, y confirma la contribución.
-
-En ambos casos, la transacción se procesa y el monto recaudado del proyecto se actualiza automáticamente.
-
----
-
-**User Goal 7:** Como colaborador, quiero ver y completar las tareas que me ha asignado el emprendedor en el proyecto en el que participo.
+**User Goal 5:** Como colaborador, quiero ver y completar las tareas que me ha asignado el emprendedor en el proyecto en el que participo.
 
 <img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 7.jpeg" alt="User Flow 7 — Visualización y realización de tarea">
 
@@ -431,7 +407,7 @@ El colaborador accede a la sección *Tareas* del proyecto donde participa. Para 
 
 ---
 
-**User Goal 8:** Como colaborador, quiero ver las tareas de un hito, revisar el avance de mis compañeros y completar las tareas que tengo asignadas.
+**User Goal 6:** Como colaborador, quiero ver las tareas de un hito, revisar el avance de mis compañeros y completar las tareas que tengo asignadas.
 
 <img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 8.jpg" alt="User Flow 8 — Gestión de tareas dentro de un hito">
 
@@ -443,11 +419,11 @@ El colaborador accede a la sección *Hitos* y selecciona el botón *Ver hito* pa
 
 ---
 
-**User Goal 9:** Como emprendedor, quiero activar el monitoreo IoT en mi proyecto para que los colaboradores y financiadores puedan visualizar las métricas de sensores en tiempo real.
+**User Goal 7:** Como emprendedor, quiero activar el monitoreo IoT en mi proyecto para que los colaboradores puedan visualizar las métricas de sensores en tiempo real.
 
 <img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Sin título.jpg" alt="User Flow 9 — Activación del panel IoT">
 
-El flujo de activación IoT se inicia durante la creación del proyecto, donde el emprendedor habilita la opción de monitoreo de sensores y selecciona la categoría correspondiente calidad del aire, agua y riego, energía solar o salud y bienestar. Una vez activado, el panel IoT queda integrado en el dashboard general del proyecto, donde muestra métricas en tiempo real como temperatura, humedad, CO₂ u otras variables según la categoría elegida. Estas métricas se actualizan automáticamente cada 5 segundos, permitiendo a colaboradores y financiadores hacer seguimiento continuo del estado del prototipo y facilitar la toma de decisiones basada en datos.
+El flujo de activación IoT se inicia durante la creación del proyecto, donde el emprendedor habilita la opción de monitoreo de sensores y selecciona la categoría correspondiente calidad del aire, agua y riego, energía solar o salud y bienestar. Una vez activado, el panel IoT queda integrado en el dashboard general del proyecto, donde muestra métricas en tiempo real como temperatura, humedad, CO₂ u otras variables según la categoría elegida. Estas métricas se actualizan automáticamente cada 5 segundos, permitiendo a colaboradores hacer seguimiento continuo del estado del prototipo y facilitar la toma de decisiones basada en datos.
 
 ## 4.5. Web Applications Prototyping
 
@@ -553,18 +529,6 @@ Permite a los emprendedores crear tareas específicas, asignarlas a los miembros
 
 ---
 
-#### Contribution Management
-
-El bounded context Contribution Management se encarga de la gestión de las contribuciones realizadas por los usuarios dentro de Foundly, permitiendo apoyar el desarrollo de los proyectos mediante aportes económicos.
-
-Permite a los emprendedores definir objetivos de financiamiento (*funding goals*) y establecer recompensas (*rewards*) asociadas a distintos niveles de contribución. Gestiona el proceso de aporte de los usuarios, registrando cada contribución y confirmando su ejecución. Controla el progreso del financiamiento, permite visualizar el avance hacia la meta establecida y notifica cuando el objetivo ha sido alcanzado.
-
-Su propósito principal es facilitar el apoyo a los proyectos mediante contribuciones estructuradas, asegurando transparencia en el seguimiento del financiamiento y promoviendo la participación activa de la comunidad.
-
-<img src="resources/Images/Chapter-4/bounded-context/contribution.png" alt="Bounded Context — Contribution Management">
-
----
-
 #### IoT — Environmental Monitoring
 
 El bounded context IoT se encarga de la integración y gestión de dispositivos IoT dentro de Foundly, permitiendo el monitoreo de datos del entorno físico asociados a los proyectos de hardware.
@@ -591,11 +555,11 @@ En este nivel se presenta una vista de alto nivel de la arquitectura del sistema
 
 El *context diagram* muestra a **Foundly Software System** como el núcleo de la solución, rodeado por los principales actores y servicios externos con los que se comunica:
 
-- **Emprendedor (Entrepreneur):** usuario que crea, publica y gestiona proyectos dentro de la plataforma. Utiliza Foundly para definir objetivos, formar equipos de trabajo y activar mecanismos de financiamiento.
+- **Emprendedor (Entrepreneur):** usuario que crea, publica y gestiona proyectos dentro de la plataforma. Utiliza Foundly para definir objetivos, formar equipos de trabajo y habilitar monitoreo IoT durante la creación del proyecto, pudiendo seleccionar entre categorías como calidad del aire, agua y riego, energía solar o salud y bienestar.
+  
+- **Colaborador (Collaborator):** usuario que participa en proyectos aportando habilidades y tiempo. Interactúa con Foundly para postular, ejecutar tareas y colaborar en en el progreso del proyecto.
 
-- **Colaborador (Collaborator):** usuario que participa en proyectos aportando habilidades y tiempo. Interactúa con Foundly para postular, ejecutar tareas y contribuir al progreso del proyecto.
-
-- **Payment System (Stripe):** sistema externo encargado de procesar pagos relacionados con contribuciones y suscripciones, garantizando transacciones seguras dentro de la plataforma.
+- **Payment System (Stripe):** sistema externo encargado de procesar pagos relacionados con suscripciones, garantizando transacciones seguras dentro de la plataforma.
 
 - **Cloud Storage Service (Cloudinary):** servicio externo utilizado para almacenar y gestionar archivos multimedia, como imágenes de perfil, evidencias de tareas y recursos asociados a proyectos.
 
@@ -619,9 +583,9 @@ La arquitectura lógica de Foundly se estructura en los siguientes contenedores:
 
 - **Single Page Application (SPA):** aplicación web principal implementada en **Angular**, donde interactúan los emprendedores y colaboradores. Este contenedor gestiona la experiencia de usuario, vistas, navegación y comunicación con el backend.
 
-- **API Application:** backend monolítico desarrollado en **Spring Boot (Java)**, que expone una API REST y encapsula la lógica de negocio del sistema. Está organizado por módulos alineados a los bounded contexts, como IAM, Profile, Project, Task, Milestone, Contribution, Subscription, Notification, IoT, Analytics y Shared.
+- **API Application:** backend monolítico desarrollado en **Spring Boot (Java)**, que expone una API REST y encapsula la lógica de negocio del sistema. Está organizado por módulos alineados a los bounded contexts, como IAM, Profile, Project, Task, Milestone, Subscription, Notification, IoT, Analytics y Shared.
 
-- **Database:** base de datos relacional **MySQL**, donde se persiste la información estructurada del sistema, incluyendo usuarios, proyectos, tareas, hitos, contribuciones, métricas IoT, reportes y notificaciones.
+- **Database:** base de datos relacional **MySQL**, donde se persiste la información estructurada del sistema, incluyendo usuarios, proyectos, tareas, hitos, métricas IoT, reportes y notificaciones.
 
 En el diagrama se observa que:
 
@@ -632,7 +596,7 @@ En el diagrama se observa que:
 - La **API Application** gestiona la lógica del sistema y realiza operaciones de lectura y escritura en la **Database**, asegurando la persistencia de los datos.
 
 - La **API Application** se integra con sistemas externos como:
-  - **Stripe**, para el procesamiento de pagos y contribuciones.
+  - **Stripe**, para el procesamiento de pago de subscripcion.
   - **Cloudinary**, para el almacenamiento de imágenes y archivos.
   - **Auth0**, para la autenticación y gestión de identidad de usuarios.
   - **IoT Devices**, que envían métricas en tiempo real para el monitoreo de proyectos.
@@ -657,8 +621,6 @@ El *component diagram* de la API Application organiza la arquitectura interna si
 
 - **Milestone Module:** gestiona los hitos del proyecto y sus tareas grupales (**MilestoneTask**), representando etapas clave del progreso del proyecto.
 
-- **Contribution Module:** gestiona los aportes económicos realizados por los usuarios a los proyectos, incluyendo la integración con el sistema de pagos.
-
 - **Subscription Module:** administra los planes y suscripciones de los usuarios, controlando el acceso a funcionalidades premium del sistema.
 
 - **Notification Module:** gestiona el envío de notificaciones a los usuarios, informando sobre eventos relevantes como tareas, hitos o cambios en proyectos.
@@ -677,7 +639,7 @@ En el diagrama se refleja cómo:
 
 - Algunos módulos se integran con sistemas externos:
   - **IAM Module** con el servicio de autenticación (Auth0).
-  - **Contribution y Subscription Module** con el sistema de pagos (Stripe).
+  - **Subscription Module** con el sistema de pagos (Stripe).
   - **Notification Module** con servicios de mensajería o correo electrónico.
   - **IoT Module** con dispositivos físicos que envían métricas en tiempo real.
 
@@ -725,8 +687,6 @@ El diseño sigue principios de **Domain-Driven Design (DDD)**, proporcionando cl
 - **UserRegisteredEvent:** evento que se dispara cuando un usuario se registra en el sistema.
 
 - **ProjectCreatedEvent:** evento que representa la creación de un proyecto.
-
-- **ContributionMadeEvent:** evento generado cuando un usuario realiza una contribución económica.
 
 Estos eventos permiten implementar arquitecturas reactivas o basadas en eventos, facilitando la integración entre módulos.
 
@@ -1278,99 +1238,6 @@ Este diseño permite modelar correctamente la gestión de tareas individuales de
 
 <img src="resources/Images/Chapter-4/Diagrma de clases/Task/Task.png" alt = "Task">
 
-**Contribution Management:**
-
-El diagrama de clases del módulo **Contribution** representa la estructura encargada de la gestión de aportes económicos realizados por los usuarios hacia los proyectos dentro de la plataforma Foundly.
-
-Este módulo modela el flujo completo de una contribución, desde su creación hasta la confirmación o fallo del pago, siguiendo principios de **Domain-Driven Design (DDD)** y aplicando el patrón **CQRS** para separar operaciones de escritura y lectura.
-
-#### Componentes principales
-
-- **ContributionController:** actúa como punto de entrada del módulo, exponiendo endpoints REST para:
-  - Crear contribuciones (`create()`)
-  - Confirmar pagos (`confirm()`)
-  - Consultar contribuciones por proyecto (`getByProject()`)
-
-- **ContributionFacade:** capa de orquestación que centraliza las operaciones del módulo, delegando la lógica a los servicios correspondientes.
-
-#### Dominio
-
-- **Contribution (Aggregate Root):** entidad principal que representa un aporte económico realizado por un usuario. Contiene atributos como `id`, `projectId`, `userId`, `amount`, `status` y `createdAt`.  
-  Define comportamientos clave:
-  - `create()`
-  - `confirmPayment()`
-  - `failPayment()`
-
-- **ContributionId:** value object que encapsula el identificador de la contribución.
-
-- **Money:** value object que representa el monto y la moneda de la contribución, asegurando consistencia en operaciones financieras.
-
-- **ContributionStatus (enum):** define los estados de la contribución:
-  - `PENDING`
-  - `CONFIRMED`
-  - `FAILED`
-
-Estos estados permiten modelar el ciclo de vida del pago.
-
-#### Manejo de comandos (Command Side)
-
-- **CreateContributionCommand:** encapsula los datos necesarios para crear una contribución (proyecto, usuario y monto).
-
-- **ConfirmPaymentCommand:** representa la confirmación exitosa de un pago.
-
-- **FailPaymentCommand:** representa un fallo en el proceso de pago.
-
-- **ContributionCommandService:** ejecuta la lógica de negocio relacionada con el procesamiento de contribuciones.  
-  Este servicio interactúa con:
-  - **ContributionRepository:** para persistencia.
-  - **PaymentGateway:** para procesar pagos externos.
-
-#### Manejo de consultas (Query Side)
-
-- **GetContributionsByProjectQuery:** permite obtener las contribuciones asociadas a un proyecto.
-
-- **GetContributionsByUserQuery:** permite obtener las contribuciones realizadas por un usuario.
-
-- **ContributionQueryService:** gestiona las operaciones de lectura del módulo.
-
-#### Persistencia
-
-- **ContributionRepository:** interfaz que define las operaciones de acceso a datos, incluyendo:
-  - `save(contribution)`
-  - `findByProject(projectId)`
-  - `findByUser(userId)`
-
-#### Integración con sistemas externos
-
-- **PaymentGateway:** interfaz que define el contrato para el procesamiento de pagos (`processPayment`), desacoplando la lógica del dominio del proveedor externo.
-
-- **StripeService:** implementación concreta del gateway que integra el sistema con **Stripe** para ejecutar los pagos.
-
-Este enfoque permite cambiar el proveedor de pagos sin afectar la lógica del dominio.
-
-#### Relación con otros módulos
-
-- El módulo **Contribution** está directamente relacionado con el módulo **Project**, ya que cada contribución está asociada a un proyecto específico.
-
-- También se relaciona con el módulo **User (IAM)** a través del `userId`, representando al usuario que realiza el aporte.
-
-#### Flujo general
-
-1. El usuario realiza una contribución desde la **SPA**.
-2. La solicitud llega al **ContributionController**.
-3. El controlador delega la operación al **ContributionFacade**.
-4. El **ContributionCommandService**:
-   - Crea la contribución en estado `PENDING`.
-   - Invoca al **PaymentGateway** para procesar el pago.
-5. Dependiendo del resultado:
-   - Si el pago es exitoso → `CONFIRMED`.
-   - Si falla → `FAILED`.
-6. La información se persiste mediante el **ContributionRepository**.
-7. Las consultas se realizan mediante el **ContributionQueryService**.
-
-Este diseño permite modelar correctamente el flujo de pagos dentro del sistema, desacoplar la lógica del proveedor externo y garantizar consistencia en las transacciones financieras de Foundly.
-
-<img src="resources/Images/Chapter-4/Diagrma de clases/Contribution/Contribution.png" alt = "Contribution">
 
 **IOT:**
 
@@ -1573,11 +1440,10 @@ Este diseño permite transformar datos crudos en información valiosa, facilitan
 
 Nuestro diagrama de base de datos representa cómo se organiza toda la información dentro de la plataforma **Foundly**.
 
-En el centro del sistema se encuentran los **usuarios**, quienes pueden crear proyectos, participar en ellos y realizar contribuciones. Cada usuario cuenta con un perfil y un rol dentro de la plataforma.
+En el centro del sistema se encuentran los **usuarios**, quienes pueden crear proyectos, participar en ellos. Cada usuario cuenta con un perfil y un rol dentro de la plataforma.
 
 Los **proyectos** son el núcleo del sistema. A partir de ellos se conectan múltiples funcionalidades:
 - Los usuarios pueden unirse como miembros.
-- Se pueden realizar **contribuciones económicas** para financiarlos.
 - Se gestionan **tareas individuales**.
 - También existen **hitos (milestones)** que agrupan trabajo colaborativo.
 
@@ -1598,7 +1464,7 @@ A continuación, se presenta la organización de la base de datos segmentada por
 
 En lugar de manejar una única estructura monolítica, el diseño de la base de datos se divide en diferentes contextos, donde cada uno representa una parte específica del dominio del sistema Foundly. Esto permite una mejor organización, separación de responsabilidades y mayor claridad en la gestión de la información.
 
-Cada bounded context agrupa sus propias tablas, las cuales están directamente relacionadas con sus funcionalidades dentro del sistema. Por ejemplo, existen contextos dedicados a la gestión de usuarios, proyectos, contribuciones, tareas, IoT y analytics, entre otros.
+Cada bounded context agrupa sus propias tablas, las cuales están directamente relacionadas con sus funcionalidades dentro del sistema. Por ejemplo, existen contextos dedicados a la gestión de usuarios, proyectos, tareas, IoT y analytics, entre otros.
 
 Esta segmentación facilita:
 - La comprensión del sistema.
@@ -1659,7 +1525,7 @@ Este diseño facilita la gestión de modelos de negocio basados en suscripciones
 
 <img src="resources/Images/Chapter-4/Base de datos/bounden-context/Proyect/Proyect.png" alt="Project">
 
-El bounded context **Project** es el encargado de gestionar los proyectos dentro de la plataforma Foundly, los cuales representan la unidad central donde se desarrollan ideas, colaboraciones y financiamiento.
+El bounded context **Project** es el encargado de gestionar los proyectos dentro de la plataforma Foundly, los cuales representan la unidad central donde se desarrollan ideas y colaboraciones.
 
 En este contexto se definen las siguientes tablas:
 
@@ -1719,21 +1585,6 @@ La relación entre ambas tablas permite clasificar cada notificación según su 
 
 Este diseño permite gestionar de manera eficiente la comunicación con los usuarios, asegurando que reciban información relevante sobre lo que ocurre en sus proyectos y actividades.
 
-<h4>Contribution</h4>
-
-<img src = "resources/Images/Chapter-4/Base de datos/bounden-context/contribution/contribution.png" alt= "Contribution">
-
-El bounded context **Contribution** es el encargado de gestionar los aportes económicos realizados por los usuarios hacia los proyectos dentro de la plataforma Foundly.
-
-En este contexto se define la siguiente tabla:
-
-- **contributions:** almacena la información de cada aporte realizado. Incluye el proyecto al que pertenece (`project_id`), el usuario que realiza la contribución (`user_id`), el monto, la moneda, el estado del pago y la fecha de creación.
-
-Cada contribución representa una transacción dentro del sistema, permitiendo financiar proyectos y apoyar su desarrollo.
-
-La relación con **projects** permite asociar cada aporte a un proyecto específico, mientras que la relación con **users** identifica al usuario que realizó la contribución.
-
-Este diseño facilita el seguimiento de los aportes, el control del estado de los pagos y la gestión del financiamiento dentro de la plataforma.
 
 <h4>Iot</h4>
 

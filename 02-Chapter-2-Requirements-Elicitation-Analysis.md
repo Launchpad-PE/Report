@@ -33,39 +33,39 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
     <td>Foundly es una plataforma de crowdfunding colaborativo diseñada para que las personas puedan crear grupos o unirse a comunidades que buscan resolver problemas, desarrollar startups o impulsar proyectos sociales. Se enfoca en Perú y Latinoamérica, donde el crowdfunding aún tiene gran potencial de crecimiento. Además, incorpora un <strong>módulo de monitoreo de impacto ambiental con integración IoT</strong> que permite a proyectos con enfoque sostenible visualizar métricas en tiempo real como calidad del aire y humedad, diferenciándose de cualquier plataforma de crowdfunding existente en la región.</td>
-    <td>Kickstarter es una de las plataformas de crowdfunding más grandes del mundo, fundada en 2009 en EE. UU. Su objetivo principal es ayudar a creadores, emprendedores y startups creativas a obtener financiamiento colectivo para lanzar proyectos innovadores en áreas como tecnología, arte, música, cine, diseño y videojuegos.</td>
-    <td>Indiegogo es una plataforma de crowdfunding global fundada en 2008 en EE. UU., considerada la principal alternativa a Kickstarter. Se caracteriza por su flexibilidad en las campañas y por abarcar proyectos de tecnología, diseño, salud, causas sociales y estilo de vida.</td>
+    <td>Kickstarter es una de las plataformas de crowdfunding más grandes del mundo, fundada en 2009 en Estados Unidos. Su objetivo principal es ayudar a creadores, emprendedores y startups creativas a lanzar proyectos innovadores en áreas como tecnología, arte, música, cine, diseño y videojuegos, brindándoles visibilidad y exposición ante una comunidad interesada en nuevas ideas.</td>
+    <td>Indiegogo es una plataforma global fundada en 2008 en Estados Unidos, considerada una de las principales alternativas a Kickstarter. Se caracteriza por su flexibilidad en la publicación de proyectos y por abarcar iniciativas relacionadas con tecnología, diseño, salud, causas sociales y estilo de vida, permitiendo a los emprendedores dar mayor visibilidad a sus ideas.</td>
     <td>GoFundMe, fundada en 2010 en Estados Unidos, es una de las plataformas de crowdfunding personal y solidario más grandes del mundo. A diferencia de Kickstarter o Indiegogo, se centra en causas personales, sociales y humanitarias (salud, emergencias, educación, funerales, desastres naturales, etc.) en lugar de proyectos creativos o startups.</td>
   </tr>
   <tr>
     <td>Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td>
     <td>
-      <ul>
-        <li><strong>Colaboración integral:</strong> No solo conecta a personas para aportar dinero, sino también para aportar ideas, habilidades y tiempo, creando equipos de trabajo alrededor de cada proyecto.</li>
-        <li><strong>Módulo IoT de impacto ambiental:</strong> Única plataforma de crowdfunding colaborativo que integra monitoreo de métricas ambientales en tiempo real (calidad del aire, humedad, participación), permitiendo a proyectos sostenibles evidenciar su impacto de forma concreta.</li>
-        <li><strong>Accesibilidad y bajo costo de entrada:</strong> Con el modelo freemium (5 proyectos gratuitos antes de pagar), cualquier persona puede iniciar sin necesidad de grandes recursos.</li>
-        <li><strong>Plataforma enfocada en comunidad:</strong> Permite que los usuarios formen grupos organizados con roles, tareas y objetivos compartidos, fortaleciendo el sentido de pertenencia.</li>
-        <li><strong>Impulso al emprendimiento local y social:</strong> Brinda un espacio para que tanto emprendedores como comunidades puedan impulsar ideas y proyectos de impacto sin depender de financiamiento tradicional.</li>
-        <li><strong>Transparencia y confianza:</strong> Implementa procesos de verificación y seguimiento de proyectos para dar seguridad a los participantes y donantes.</li>
-      </ul>
+     <ul>
+    <li><strong>Colaboración integral:</strong> Conecta personas con ideas, habilidades y tiempo, permitiendo formar equipos de trabajo multidisciplinarios alrededor de cada proyecto.</li>
+    <li><strong>Módulo IoT de impacto ambiental:</strong> Única plataforma colaborativa que integra monitoreo de métricas ambientales en tiempo real (calidad del aire, humedad y participación), permitiendo que proyectos sostenibles evidencien su impacto de manera concreta.</li>
+    <li><strong>Accesibilidad y bajo costo de entrada:</strong> Con el modelo freemium (5 proyectos gratuitos antes de pagar), cualquier persona puede iniciar proyectos sin necesidad de grandes recursos económicos.</li>
+    <li><strong>Plataforma enfocada en comunidad:</strong> Permite que los usuarios formen grupos organizados con roles, tareas y objetivos compartidos, fortaleciendo el trabajo colaborativo.</li>
+    <li><strong>Impulso al emprendimiento local y social:</strong> Brinda un espacio para que emprendedores y comunidades desarrollen ideas y proyectos de impacto dentro de un entorno colaborativo.</li>
+    <li><strong>Transparencia y confianza:</strong> Permite visualizar el progreso del proyecto, verificar perfiles de los integrantes y dar seguimiento a las responsabilidades asignadas, generando mayor confianza dentro del equipo.</li>
+</ul>
     </td>
     <td>
       <ul>
-        <li>Exposición global: conecta a emprendedores con millones de potenciales patrocinadores en todo el mundo.</li>
-        <li>Validación de mercado: los creadores pueden probar si su idea tiene interés real antes de invertir grandes sumas de dinero.</li>
-        <li>Modelo claro de recompensas: los backers reciben beneficios tangibles (productos exclusivos, experiencias, versiones anticipadas).</li>
-        <li>Confianza y marca reconocida: Kickstarter es sinónimo de crowdfunding creativo, lo que da credibilidad a los proyectos.</li>
-        <li>Comunidad activa de innovación: los usuarios buscan activamente apoyar ideas novedosas, generando oportunidades de networking.</li>
-      </ul>
+    <li><strong>Exposición global:</strong> conecta a emprendedores con una comunidad internacional interesada en proyectos innovadores y creativos.</li>
+    <li><strong>Validación de ideas:</strong> permite que los creadores evalúen si su proyecto genera interés real antes de desarrollarlo completamente.</li>
+    <li><strong>Presentación estructurada de proyectos:</strong> brinda herramientas para mostrar objetivos, avances y características de cada proyecto de forma clara y atractiva.</li>
+    <li><strong>Confianza y marca reconocida:</strong> Kickstarter es una plataforma reconocida mundialmente, lo que brinda mayor visibilidad y credibilidad a los proyectos publicados.</li>
+    <li><strong>Comunidad activa de innovación:</strong> reúne usuarios interesados en nuevas ideas, generando oportunidades de interacción y networking entre creadores.</li>
+</ul>
     </td>
     <td>
-      <ul>
-        <li>Flexibilidad en el financiamiento: permite elegir entre campañas de "Todo o nada" o "Flexible Funding".</li>
-        <li>Apoyo post-campaña: con el programa InDemand, los creadores pueden seguir recaudando fondos incluso después de que termine la campaña inicial.</li>
-        <li>Enfoque en innovación temprana: permite a los emprendedores mostrar productos en etapas iniciales, atrayendo a "early adopters".</li>
-        <li>Servicios adicionales: ofrece marketing, logística y distribución en alianza con empresas.</li>
-        <li>Mayor diversidad de categorías: no solo tecnología y arte, también estilo de vida, salud y proyectos sociales.</li>
-      </ul>
+<ul>
+    <li><strong>Flexibilidad en la publicación de proyectos:</strong> permite que los creadores presenten proyectos en diferentes etapas de desarrollo según sus objetivos.</li>
+    <li><strong>Apoyo post-lanzamiento:</strong> con el programa InDemand, los creadores pueden seguir dando visibilidad a sus proyectos incluso después de finalizar su etapa inicial.</li>
+    <li><strong>Enfoque en innovación temprana:</strong> permite a los emprendedores mostrar productos en etapas iniciales, atrayendo usuarios interesados en nuevas ideas.</li>
+    <li><strong>Servicios adicionales:</strong> ofrece apoyo en marketing, logística y distribución mediante alianzas con empresas.</li>
+    <li><strong>Mayor diversidad de categorías:</strong> incluye proyectos de tecnología, diseño, salud, estilo de vida y proyectos sociales.</li>
+</ul>
     </td>
     <td>
       <ul>
@@ -82,23 +82,23 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td>Mercado Objetivo</td>
     <td>
       <ul>
-        <li><strong>Emprendedores y startups en etapa temprana:</strong> estudiantes y jóvenes profesionales (18–35) en Perú con proyección a LATAM, que buscan validar y financiar ideas y armar equipo multidisciplinario.</li>
-        <li><strong>Profesionales y estudiantes con habilidades:</strong> desarrolladores, diseñadores, marketers, PMs y financieros que desean aportar tiempo/talento a proyectos reales y fortalecer su portafolio.</li>
-        <li><strong>Proyectos con enfoque sostenible:</strong> equipos o emprendedores que buscan medir y evidenciar el impacto ambiental de sus iniciativas mediante tecnología IoT.</li>
-      </ul>
+    <li><strong>Emprendedores y startups en etapa temprana:</strong> estudiantes y jóvenes profesionales (18–25 años) en Perú con proyección a LATAM, que buscan validar ideas, formar equipos multidisciplinarios y desarrollar proyectos innovadores.</li>
+    <li><strong>Profesionales y estudiantes con habilidades:</strong> desarrolladores, diseñadores, especialistas en marketing y gestores de proyectos que desean aportar su talento y conocimientos en proyectos reales mientras adquieren experiencia colaborativa.</li>
+    <li><strong>Proyectos con enfoque sostenible:</strong> equipos o emprendedores que buscan medir y evidenciar el impacto ambiental de sus iniciativas mediante tecnología IoT.</li>
+</ul>
     </td>
     <td>
-      <ul>
-        <li>Creadores de proyectos creativos e innovadores: artistas, músicos, cineastas, diseñadores, escritores. Emprendedores tecnológicos que buscan validar gadgets, apps o hardware.</li>
-        <li>Backers (aportantes o patrocinadores): personas con interés en apoyar la innovación y obtener recompensas exclusivas. Comunidades entusiastas (ej. gamers, cinéfilos, techies).</li>
-      </ul>
-    </td>
+  <ul>
+    <li><strong>Creadores de proyectos creativos e innovadores:</strong> artistas, músicos, cineastas, diseñadores, escritores y emprendedores tecnológicos que buscan dar visibilidad a ideas como gadgets, aplicaciones o productos innovadores.</li>
+    <li><strong>Comunidad interesada en innovación:</strong> personas que buscan descubrir nuevas ideas y participar en comunidades relacionadas con tecnología, videojuegos, cine, diseño y entretenimiento.</li>
+  </ul>
+</td>
     <td>
-      <ul>
-        <li>Creadores y emprendedores: emprendedores de sectores como salud, bienestar, estilo de vida y sostenibilidad. Empresas en etapa temprana que buscan financiamiento y visibilidad internacional.</li>
-        <li>Backers (aportantes / compradores anticipados): early adopters interesados en probar productos antes de que lleguen al mercado. Personas que buscan apoyar proyectos con impacto social o ambiental.</li>
-      </ul>
-    </td>
+  <ul>
+    <li><strong>Creadores y emprendedores:</strong> emprendedores de sectores como salud, bienestar, estilo de vida y sostenibilidad, así como empresas en etapa temprana que buscan dar visibilidad internacional a sus proyectos.</li>
+    <li><strong>Usuarios interesados en innovación:</strong> personas interesadas en conocer productos innovadores antes de su lanzamiento al mercado y proyectos con impacto social o ambiental.</li>
+  </ul>
+</td>
     <td>
       <ul>
         <li>Creadores de campañas (beneficiarios): personas que atraviesan emergencias médicas, familias afectadas por desastres naturales, comunidades y ONGs que buscan financiamiento para causas sociales.</li>
@@ -122,13 +122,13 @@ En esta sección se realizará el análisis competitivo de los competidores iden
       </ul>
     </td>
     <td>
-      <ul>
-        <li>Flexibilidad en el financiamiento (todo o nada / flexible funding).</li>
-        <li>Programa InDemand para seguir recaudando después de la campaña.</li>
-        <li>Alianzas con aceleradoras, logística y distribución para apoyar la llegada al mercado.</li>
-        <li>Promoción de casos de éxito tecnológicos como validación de la plataforma.</li>
-      </ul>
-    </td>
+  <ul>
+    <li>Flexibilidad en la publicación de proyectos en distintas etapas de desarrollo.</li>
+    <li>Programa InDemand para mantener la visibilidad de los proyectos después de su lanzamiento inicial.</li>
+    <li>Alianzas con aceleradoras, empresas de logística y distribución para apoyar la llegada de productos al mercado.</li>
+    <li>Promoción de casos de éxito tecnológicos como estrategia para fortalecer la credibilidad de la plataforma.</li>
+  </ul>
+</td>
     <td>
       <ul>
         <li>Marketing emocional con imágenes, videos y testimonios de impacto.</li>
@@ -141,16 +141,16 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td rowspan="3">Perfil de Producto</td>
     <td>Productos &amp; Servicios</td>
     <td>
-      <ul>
-        <li><strong>Productos:</strong> proyectos colaborativos creados por los usuarios.</li>
-        <li><strong>Servicios:</strong> ecosistema digital seguro, accesible y colaborativo, con herramientas de financiamiento, creación de equipos y <strong>módulo IoT de monitoreo de impacto ambiental en tiempo real</strong>.</li>
-      </ul>
+		<ul>
+    <li><strong>Productos:</strong> proyectos colaborativos creados por los usuarios.</li>
+    <li><strong>Servicios:</strong> ecosistema digital seguro, accesible y colaborativo, con herramientas para la creación de equipos, gestión de tareas, seguimiento de avances y un módulo IoT de monitoreo de impacto ambiental en tiempo real.</li>
+</ul>
     </td>
     <td>
       <ul>
-        <li><strong>Productos:</strong> proyectos y recompensas que los creadores ofrecen a sus backers.</li>
-        <li><strong>Servicios:</strong> plataforma digital confiable de financiamiento colectivo, con herramientas de gestión, visibilidad y comunidad.</li>
-      </ul>
+    <li><strong>Productos:</strong> proyectos creativos e innovadores publicados por los creadores en distintas categorías como tecnología, arte, diseño y entretenimiento.</li>
+    <li><strong>Servicios:</strong> plataforma digital que brinda herramientas de gestión, visibilidad y comunidad para impulsar proyectos innovadores.</li>
+</ul>
     </td>
     <td>
       <ul>
@@ -210,7 +210,6 @@ En esta sección se realizará el análisis competitivo de los competidores iden
         <li>Los usuarios no solo aportan dinero, sino también habilidades, tiempo e ideas, formando equipos de trabajo.</li>
         <li>Con el modelo freemium (5 proyectos gratis), cualquier persona puede iniciar sin necesidad de gran capital.</li>
         <li>Llena un vacío de mercado en regiones donde las grandes plataformas globales no tienen presencia oficial.</li>
-        <li>Sistema de verificación de usuarios y proyectos que reduce fraudes y genera mayor credibilidad.</li>
         <li>Único diferenciador tecnológico en el mercado regional: módulo IoT que permite a proyectos ambientales medir y evidenciar su impacto en tiempo real, algo que ningún competidor directo ofrece.</li>
       </ul>
     </td>
@@ -289,7 +288,6 @@ En esta sección se realizará el análisis competitivo de los competidores iden
         <li>Expandirse a mercados emergentes como Latinoamérica, donde no tiene presencia.</li>
         <li>Alianzas con universidades, incubadoras y gobiernos para fomentar el emprendimiento.</li>
         <li>Colaboraciones con grandes marcas que validen productos vía crowdfunding.</li>
-        <li>Aumento de cultura colaborativa post-pandemia que impulsa el financiamiento online.</li>
       </ul>
     </td>
     <td>
@@ -368,7 +366,7 @@ Los principales competidores identificados Kickstarter, Indiegogo y GoFundMe pre
 
 Kickstarter, Indiegogo y GoFundMe cuentan con marcas globalmente reconocidas, grandes bases de usuarios y modelos consolidados de confianza. Para afrontar estas fortalezas:
 
-- **Estrategia de Diferenciación:** Foundly no compite en el mismo terreno que los competidores globales, sino que construye una categoría propia: el crowdfunding colaborativo con formación de equipos. A diferencia de las plataformas tradicionales donde el usuario solo aporta dinero, Foundly permite aportar habilidades, tiempo e ideas, generando valor más allá del financiamiento económico.
+- **Estrategia de Diferenciación:** Foundly no compite en el mismo terreno que los competidores globales, sino que construye una categoría propia basada en colaboración, formación de equipos, gestión de proyectos e integración de monitoreo ambiental mediante tecnología IoT. A diferencia de las plataformas tradicionales donde los usuarios principalmente buscan visibilidad para sus proyectos, Foundly conecta personas que aportan habilidades, tiempo e ideas, mientras permite gestionar tareas y visualizar métricas ambientales en proyectos sostenibles de manera estructurada.
 
 - **Módulo IoT como diferenciador tecnológico único:** Foundly incorpora un módulo de monitoreo de impacto ambiental con integración IoT que permite a proyectos sostenibles visualizar métricas en tiempo real como calidad del aire, humedad y participación ciudadana. Ningún competidor directo ofrece esta funcionalidad, lo que refuerza la propuesta de valor frente a un mercado con creciente interés en la sostenibilidad.
 
@@ -380,11 +378,12 @@ Kickstarter, Indiegogo y GoFundMe cuentan con marcas globalmente reconocidas, gr
 
 - **Estrategia de Entrada al Mercado Local (Perú – LATAM):** Foundly iniciará operaciones en Perú como mercado piloto, aprovechando la ausencia de competidores globales con presencia oficial en la región. Una vez validado el modelo, se escalará progresivamente hacia otros países de Latinoamérica con características de mercado similares.
 
-- **Táctica:** En la fase inicial se ejecutará una campaña de educación y sensibilización sobre qué es el crowdfunding y cómo funciona, mediante talleres, webinars gratuitos y alianzas con universidades, incubadoras de negocios, coworkings y ONGs locales. El objetivo es posicionar a Foundly como pionera en financiamiento colaborativo adaptado al contexto latinoamericano antes de que los competidores globales decidan expandirse.
+- **Táctica:** En la fase inicial se ejecutará una campaña de educación y sensibilización sobre qué es la colaboración estructurada en proyectos y cómo funciona, mediante talleres, webinars gratuitos y alianzas con universidades, incubadoras de negocios, coworkings y ONGs locales. El objetivo es posicionar a Foundly como pionera en colaboración de proyectos adaptada al contexto latinoamericano antes de que los competidores globales decidan expandirse.
 
-- **Estrategia de Marketing Digital Segmentado:** Se implementarán campañas diferenciadas en Facebook, Instagram, TikTok y LinkedIn, segmentadas por edad, intereses y afinidad con el emprendimiento o causas sociales, orientadas a los dos segmentos objetivos: emprendedores en etapa temprana y colaboradores profesionales.
 
-- **Táctica:** Contenido visual y narrativo videos cortos, reels, historias y testimonios de usuarios reales que muestren casos de proyectos financiados exitosamente, tutoriales sobre cómo crear una campaña y el funcionamiento del módulo IoT para proyectos ambientales.
+- **Estrategia de Marketing Digital Segmentado:** Se implementarán campañas diferenciadas en Facebook, Instagram, TikTok y LinkedIn, segmentadas por edad, intereses y afinidad con el emprendimiento o causas sociales, orientadas a los dos segmentos objetivos: emprendedores y colaboradores.
+
+- **Táctica:** Se desarrollará contenido visual y narrativo como videos cortos, reels, historias y testimonios de usuarios reales que muestren casos de proyectos desarrollados exitosamente, tutoriales sobre cómo crear y gestionar proyectos colaborativos y demostraciones del funcionamiento del módulo IoT para proyectos ambientales.
 
 ---
 
@@ -398,9 +397,9 @@ Kickstarter, Indiegogo y GoFundMe cuentan con marcas globalmente reconocidas, gr
 
   - **Táctica:** Implementar desde el lanzamiento un sistema de verificación de identidad, validación de proyectos y seguimiento obligatorio de hitos con evidencias. El módulo de reputación permitirá que los usuarios evalúen proyectos y equipos, generando transparencia y disuadiendo comportamientos fraudulentos.
 
-- **Amenaza: ausencia de regulación clara sobre crowdfunding en Perú.** La falta de un marco legal específico puede derivar en regulaciones futuras que limiten la operación de plataformas de financiamiento colectivo.
+- **Amenaza: baja adopción inicial de nuevas plataformas colaborativas en Perú** Al ser una propuesta innovadora, Foundly podría enfrentar resistencia inicial por parte de usuarios acostumbrados a utilizar herramientas tradicionales o plataformas internacionales para gestionar sus proyectos.
 
-  - **Táctica:** Desde el inicio, Foundly operará bajo estándares de transparencia financiera y cumplimiento normativo general, documentando todos los flujos de fondos y manteniendo comunicación con asociaciones de emprendimiento y organismos regulatorios, de modo que la plataforma esté preparada para adaptarse a cualquier cambio regulatorio sin interrupciones.
+- **Táctica:** Desde el inicio, Foundly impulsará estrategias de educación digital, alianzas con universidades, incubadoras y comunidades tecnológicas para incentivar la adopción temprana de la plataforma y fortalecer su posicionamiento en el mercado local.
 
 ## 2.2. Entrevistas
 
@@ -413,18 +412,19 @@ En esta sección se abordará la investigación en base a la información que se
 #### Segmento 1: Emprendedores y Startups en Etapa Temprana
  
 **Introducción:**
-Buenos días/tardes/noches, mi nombre es [Nombre del entrevistador]. Hoy tengo el agrado de conversar con [Nombre del entrevistado], emprendedor(a) que busca impulsar sus ideas o proyectos. El objetivo de esta entrevista es conocer su experiencia y expectativas para crear soluciones que realmente aporten al ecosistema emprendedor. Gracias por su tiempo y disposición.
- 
-1. ¿De qué forma suele financiar actualmente sus proyectos o ideas de negocio?
-2. ¿Ha utilizado antes plataformas de crowdfunding u otras herramientas digitales para obtener financiamiento? ¿Cómo fue su experiencia?
-3. ¿Qué dificultades ha enfrentado para conseguir colaboradores con habilidades diferentes a las suyas (ej. diseño, tecnología, marketing)?
-4. ¿Cuáles son sus principales preocupaciones al buscar financiamiento en línea para un proyecto en etapa temprana?
-5. ¿Qué características considera indispensables en una plataforma que combine formación de equipos con campañas de financiamiento?
-6. ¿Qué mecanismos de transparencia le generarían más confianza al invertir tiempo y esfuerzo en una plataforma (ej. reportes de avance, hitos validados, reputación de equipos)?
-7. ¿Cómo evaluaría si una plataforma realmente le ayuda a reducir riesgos de fracaso en su emprendimiento?
-8. ¿Qué beneficios esperaría obtener al usar una plataforma como esta, en comparación con las formas tradicionales de buscar financiamiento o colaboradores?
-9. ¿En qué momento siente que más necesita apoyo para su emprendimiento: al validar la idea, al formar el equipo o al buscar financiamiento?
-10. ¿Ha dejado de usar alguna plataforma o herramienta porque no cumplió con sus expectativas? ¿Qué fue lo que más le molestó?
+Buenos días/tardes, mi nombre es [nombre del entrevistador] y el día de hoy estaremos realizando una breve entrevista para conocer más sobre cómo los emprendedores gestionan actualmente sus proyectos, las dificultades que enfrentan al momento de formar equipos de trabajo y cómo organizan sus actividades.
+El objetivo de esta entrevista es recopilar información que nos ayude a comprender mejor sus necesidades y problemas dentro de proyectos colaborativos. 
+
+1. ¿Cómo organizas actualmente tus proyectos o ideas?
+2. ¿Qué dificultades tienes para encontrar personas con habilidades complementarias para tu proyecto?
+3. ¿Has trabajado anteriormente con equipos multidisciplinarios? ¿Cómo fue tu experiencia?
+4. ¿Qué herramientas utilizas actualmente para comunicarte y organizar tareas dentro de tu equipo?
+5. ¿Qué problemas encuentras al gestionar responsabilidades dentro de tu equipo?
+6. ¿Qué información necesitas conocer antes de aceptar a alguien en tu proyecto?
+7. ¿Qué características consideras importantes en una plataforma para encontrar colaboradores?
+8. ¿Qué aspectos te generarían mayor confianza al trabajar con personas desconocidas?
+9. ¿Cómo haces seguimiento al progreso de tu proyecto actualmente?
+10 Si pudieras mejorar la forma en la que trabajas actualmente con tu equipo, ¿qué cambiarías o agregarías?
  
 **Cierre:**
 Muchas gracias por compartir su experiencia y perspectivas. Su opinión es muy valiosa para diseñar una herramienta que apoye de verdad a los emprendedores en etapa temprana.
@@ -434,159 +434,89 @@ Muchas gracias por compartir su experiencia y perspectivas. Su opinión es muy v
 #### Segmento 2: Estudiantes Universitarios y Profesionales Jóvenes
  
 **Introducción:**
-Buenos días/tardes/noches, mi nombre es [Nombre del entrevistador]. Hoy entrevisto a [Nombre del entrevistado], estudiante/profesional joven interesado en adquirir experiencia práctica y colaborar en proyectos innovadores. El objetivo es conocer sus motivaciones y expectativas al integrarse en equipos de emprendimiento. Gracias por su tiempo.
- 
-1. ¿Actualmente participa en proyectos fuera de sus estudios o trabajo formal? ¿De qué tipo?
-2. ¿Ha usado alguna plataforma para colaborar en proyectos, voluntariados o equipos multidisciplinarios? ¿Cómo le fue?
-3. ¿Qué lo motivaría a unirse a un proyecto de emprendimiento en línea (ej. experiencia, networking, posibles ingresos)?
-4. ¿Qué dificultades ha tenido para encontrar oportunidades de colaboración relevantes a su perfil o intereses?
-5. ¿Qué funciones considera más útiles en una plataforma que le permita unirse a equipos y aportar sus habilidades?
-6. ¿Qué nivel de información le gustaría tener antes de decidir unirse a un proyecto (ej. objetivos, roles, nivel de compromiso requerido, métricas de avance)?
-7. ¿Qué mecanismos le darían confianza de que su trabajo dentro del equipo será valorado y reconocido?
-8. ¿Qué beneficios espera obtener al participar en una plataforma de este tipo (ej. experiencia práctica, portafolio, contactos, oportunidades laborales)?
-9. ¿Cómo cree que esta plataforma podría ayudarle a crecer profesionalmente en comparación con actividades tradicionales (ej. prácticas, cursos, voluntariados)?
-10. ¿Qué lo motivaría a recomendar esta herramienta a otros estudiantes o jóvenes profesionales?
- 
+Buenos días/tardes, mi nombre es [nombre del entrevistador] y el día de hoy estaremos realizando una breve entrevista para conocer más sobre la experiencia de estudiantes universitarios y jóvenes profesionales al participar en proyectos colaborativos.
+Buscamos entender qué los motiva a unirse a nuevos proyectos, qué dificultades enfrentan al trabajar en equipo y cómo organizan actualmente sus actividades dentro de estos proyectos.
+
+
+1. ¿Has participado en proyectos fuera de la universidad o trabajo formal?
+2. ¿Qué te motiva a unirte a nuevos proyectos?
+3. ¿Qué dificultades tienes para encontrar proyectos interesantes?
+4. ¿Qué herramientas utilizas actualmente para colaborar con otros equipos?
+5. ¿Qué problemas has tenido trabajando en equipo?
+6. ¿Qué información te gustaría conocer antes de unirte a un proyecto?
+7. ¿Qué te haría confiar en un proyecto publicado por otra persona?
+8. ¿Cómo te gustaría que reconozcan tu trabajo dentro de un equipo?
+9. ¿Qué beneficios buscas al participar en proyectos colaborativos?
+10. Si pudieras mejorar la forma en la que colaboras actualmente en proyectos, ¿qué cambiarías?
+
 **Cierre:**
 Muchas gracias por su tiempo y comentarios. Su aporte nos ayudará a crear una plataforma más útil y atractiva para jóvenes con interés en colaborar y aprender de proyectos reales.
 
 ### 2.2.2. Registro de entrevistas
 En esta sección presentamos los registros de las entrevistas que hicimos para cada segmento objetivo de nuestra aplicación.
 
-**Segmento 1:**
+**Segmento 1: Emprendedores y Startups en Etapa Temprana**
 
 <table>
-<colgroup>
-</colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #1<br></th>
+    <th colspan="2">Entrevista #1</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Diana Lucia</td>
+    <td>Damaly</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Briceño Huarcaya</td>
+    <td>Almerco Rojas</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>20 años</td>
+    <td>21 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Barranco</td>
+    <td>San Isidro</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>Microsoft Stream</td>
+    <td>WhatsApp, Google Drive, Google Meet, Microsoft Stream</td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>Conseguir colaboradores con habilidades complementarias.</td>
+    <td>Conseguir colaboradores con habilidades complementarias (diseño, marketing) y tener todo organizado en un solo lugar.</td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>Dificultad para encontrar colaboradores comprometidos y confiables.</td>
+    <td>Dificultad para encontrar colaboradores comprometidos y confiables; herramientas dispersas que generan desorden; falta de claridad sobre responsabilidades de cada integrante.</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-diana-briceño.png" alt="Entrevista a Diana Briceño"></td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Damaly-Almarco.png" alt=""></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQB-pW1mSnVFRrnYXrmZb_zqAYfSIXqhAS_soBgVYZph2FE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=fRaDv1" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQAtlpdvvdHRSrBCkWDfX2oOAU381turmdbK_48ER5JT7YI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=WPDG5B" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
-    <td>0:00 min - 10:18 min</td>
+    <td>Duracion</td>
+    <td>0:00 min - 03:53 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>
-			En la entrevista con Diana Briceño, logramos conocer su opinión acerca de qué le pareció nuestra landing page y nuestra aplicación web. Indicó que le llamó la mucho la atención nuestra landing page, que le pareció muy bien organizada y fácil de comprender y leer, e incluso dijo que nuestra aplicación web le sorprendió buenamente, ya que le encantó lo tan detallada que está y su facilidad de usar, indicó que tal vez podríamos mejorar el tamaño de las letras pero que todo lo demás le había gustado y parecía excelente.
-Finalmente indicó que sí estaría dispuesto a utilizar Foundly y a recomendársela a sus amigos y familiares.
-</td>
+    <td> Damaly es una joven emprendedora de 20 años que gestiona sus proyectos con WhatsApp, Google Drive y Meet. Señala que la mayor dificultad es encontrar personas comprometidas: identifica colaboradores con habilidades de diseño o marketing, pero muchos abandonan el proyecto por falta de tiempo. Además, la ausencia de un sistema claro de seguimiento genera confusión sobre quién es responsable de cada tarea. Desea una plataforma centralizada donde pueda buscar colaboradores por habilidades, ver perfiles verificados con referencias, y hacer seguimiento del avance sin depender de múltiples herramientas.</td>
   </tr>
 </tbody>
 </table>
 
+---
+ 
 <table>
-<colgroup>
-</colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #2<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Didier Sebastian</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Meza Solórzano</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>19 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Villa Maria del Triunfo</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>WhatsApp, Github, KickStarter</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Usar una plataforma clara, intuitiva y que lo ayude a organizarse mejor.</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Desorden en la comunicación al depender de WhatsApp (información perdida entre mensajes).</td>
-  </tr>
-  <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-didier-meza.png" alt="Entrevista a Didier Meza"></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQBYjsQz0dfJQ5cJSAmi7NBpAZKE6jIVLX_3Q7VbDHe8adc?e=dAxnxt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
-	</td>
-  </tr>
-  <tr>
-    <td>Duracion<br></td>
-    <td>0:00 min - 10:53 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>
-		Didier Meza es un emprendedor en etapa temprana que financia sus proyectos principalmente con ahorros propios y apoyo cercano de familiares o amigos, lo cual considera limitado para avanzar. Ha probado plataformas como Kickstarter, pero su experiencia fue negativa por la falta de visibilidad, la necesidad de invertir en publicidad externa y las barreras para proyectos de Perú, lo que lo desmotivó.
-
-Su mayor dificultad es formar equipos comprometidos: muchos interesados abandonan al poco tiempo y le resulta complejo conectar con personas con habilidades en áreas que no domina (diseño, marketing). Además, coordinar por WhatsApp le genera frustración debido al desorden y la pérdida de información en los chats.
-
-Lo que más le preocupa al buscar financiamiento en línea es la seguridad del dinero y la seriedad de los proyectos, ya que la falta de confianza desanima tanto a él como a los posibles aportantes. Para una plataforma ideal valora que sea clara, fácil de usar, que permita mostrar bien la propuesta, ofrecer reportes de avance visibles, sistemas de reputación/verificación y herramientas para organizar tareas con métricas claras.
-
-Didier ve como beneficios principales el alcance mayor, la posibilidad de recibir comentarios de personas con experiencia y el acceso a colaboradores que complementen sus habilidades. Considera crítico contar con un equipo sólido desde el inicio, porque sin él la validación de ideas y el financiamiento se vuelven inviables.
-
-</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="3">Entrevista #3<br></th>
+    <th colspan="2">Entrevista #2</th>
   </tr>
 </thead>
 <tbody>
@@ -596,72 +526,7 @@ Didier ve como beneficios principales el alcance mayor, la posibilidad de recibi
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Quintanilla Pozo</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>20</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>San Juan de Miraflores</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Google Collab y Microsoft teams</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Obtener experiencia tecnológica sobre proyectos colaborativos </td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>No conseguir personal capacitado para sus proyectos</td>
-  </tr>
-  <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Gonzalo-Quintanilla.png" alt="Entrevista a Gonzalo Quintanilla"></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316845_upc_edu_pe/IQAXF8wsm3epTZ4GP-wFb0q2AX8GaYwwCO5TDwZAQXVkDAM?e=Ybj0LP" title="Title">Microsoft Stream</p>
-	</td>
-  </tr>
-  <tr>
-    <td>Duracion<br></td>
-    <td>0:00 min - 10:53 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Gonzalo Quintanilla es un emprendedor que financia sus proyectos con ahorros propios y apoyo de familiares o amigos, debido a la dificultad de acceder a crédito tradicional. No ha utilizado crowdfunding porque requiere mucho marketing y una comunidad previa. Su mayor dificultad es encontrar socios en áreas como marketing o ventas dispuestos a asumir riesgos.
-
-Le preocupan el fracaso público y las altas comisiones al buscar financiamiento en línea. Considera importante una plataforma que conecte socios por habilidades, ofrezca transparencia y libere financiamiento por hitos. Señala que el mayor apoyo lo necesita al formar el equipo, ya que un equipo sólido facilita conseguir financiamiento.
-		
-</td>
-  </tr>
-</tbody>
-</table>
-
-**Segmento 2:**
-
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #1<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Kael Valentino</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Lagos Rivera</td>
+    <td>Quintilla Pozo</td>
   </tr>
   <tr>
     <td>Edad</td>
@@ -669,51 +534,165 @@ Le preocupan el fracaso público y las altas comisiones al buscar financiamiento
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Surquillo</td>
+    <td>San Juan De Miraflores</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td> WhatsApp, GitHub</td>
+    <td>Trello, WhatsApp, Discord, Google Meet, Microsoft Stream</td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>Ganar experiencia práctica en proyectos reales.</td>
+    <td>Encontrar colaboradores comprometidos con habilidades complementarias (programación, diseño, marketing) y centralizar la gestión del proyecto en una sola herramienta.</td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>Dificultad para encontrar proyectos alineados a sus intereses o perfiles compatibles.</td>
+    <td>Colaboradores que abandonan el proyecto cuando aumenta la carga de trabajo; tareas que no se completan en fecha, generando retrasos en cadena; necesidad de usar múltiples plataformas separadas.</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-kael-lagos.png" alt="Entrevista a Kael Lagos"></div></td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Gonzalo Quintanilla.png" alt=""></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQABmhcLE9j_QJz9uAhlFPCsAS2_e1taeV6w-WtLwvTA2fs?e=0EtxT7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
-	</td>
+	  <td>
+	<p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQAtlpdvvdHRSrBCkWDfX2oOAU381turmdbK_48ER5JT7YI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=WPDG5B" title="Title"> Microsoft Stream</p></td>	
   </tr>
   <tr>
-    <td>Duracion<br></td>
-    <td>
-		0:00 min - 10:16 min
-	</td>
+    <td>Duracion</td>
+    <td>03:53 min - 7:01 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>
-		Kael Lagos es un estudiante joven que participa activamente en proyectos universitarios, talleres y trabajos personales. Lo motiva principalmente ganar experiencia y construir un portafolio que le abra puertas laborales, además de generar networking y posibles ingresos. Sus frustraciones se centran en la falta de organización en las herramientas actuales, la dificultad de encontrar equipos compatibles y la poca certeza sobre la valoración de su aporte. Busca una plataforma que ofrezca orden, transparencia y reconocimiento, facilitando su crecimiento profesional de manera práctica y colaborativa.
-</td>
+    <td>Gonzalo es un emprendedor que ya utiliza Trello para organizar tareas, pero combina múltiples herramientas (WhatsApp, Discord, Meet) lo que genera desorden. Su principal frustración es la falta de compromiso de los colaboradores: personas con buenas habilidades que desaparecen cuando el proyecto demanda más tiempo. También señala que los incumplimientos de fechas generan retrasos en cadena porque los demás integrantes dependen de esos avances. Busca una plataforma con sistema de reputación y perfiles verificados para filtrar colaboradores según habilidades, disponibilidad y experiencia previa, y gestionar todo desde un solo lugar.</td>
   </tr>
 </tbody>
 </table>
 
+---
+ 
 <table>
-<colgroup>
-</colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #2<br></th>
+    <th colspan="2">Entrevista #3</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Jhoan</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Janampa Gutierrez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Chorrillos</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>WhatsApp, Excel, Google Meet, Microsoft Stream</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Encontrar personas de áreas que no domina (marketing, ventas, diseño) y contar con una herramienta que permita asignar tareas y visualizar el progreso del proyecto de forma clara.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Dificultad para completar el equipo en áreas no técnicas; gestión manual con WhatsApp y Excel que dispersa la información; falta de seguimiento claro que genera retrasos y descoordinación.</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/interview-of-Jhoan-Janampa.png" alt=""></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+	  <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQAtlpdvvdHRSrBCkWDfX2oOAU381turmdbK_48ER5JT7YI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=WPDG5B" title="Title">Microsoft Stream</p>
+	</td>
+  </tr>
+  <tr>
+    <td>Duracion</td>
+    <td>7:01 min - 11:02 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>"Nombre" es un emprendedor con perfil técnico que gestiona sus proyectos de forma muy manual usando WhatsApp y Excel. Su principal dificultad es conseguir colaboradores fuera de su área: encuentra programadores fácilmente, pero completar el equipo con perfiles de marketing, ventas o diseño es complicado. Además, la falta de un sistema de seguimiento hace que cada integrante avance por su cuenta sin coordinación, generando retrasos. Requiere validación de identidad, referencias de usuarios y una herramienta unificada para encontrar colaboradores, asignar responsabilidades y visualizar el avance del proyecto.</td>
+  </tr>
+</tbody>
+</table>
+
+---
+ 
+
+**Segmento 2: Estudiantes Universitarios y Profesionales Jóvenes**
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Diana Carolina</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Li Gayoso</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Chorrillos</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>GitHub, Discord, Google Meet, Microsoft Stream</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Participar en proyectos innovadores con objetivos claros, aprender nuevas tecnologías y ganar experiencia real colaborando con personas comprometidas.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Proyectos sin estructura clara ni objetivos definidos; falta de comunicación e incumplimiento de tareas por parte de algunos integrantes.</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Diana-Carolina-update.png" alt=""></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+     <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQBo9vejJzlJQpu5_o2qFST-AWwEHsyVFmkZNvXa3riJJ_8?e=AFrndm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
+	</td>
+  </tr>
+  <tr>
+    <td>Duracion</td>
+    <td>0:00 min - 4:10 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Diana es un estudiante con experiencia en hackathons y proyectos de software que se une a proyectos cuando le generan aprendizaje real. Su frustración principal es encontrar proyectos que aparentan ser interesantes pero carecen de estructura o dirección clara. También señala problemas de comunicación: integrantes que no responden o no cumplen con lo asignado. Antes de unirse a un proyecto, desea conocer los objetivos, su rol y el tiempo de dedicación requerido. Valora que se reconozca quién cumplió sus responsabilidades y busca una mejor organización de tareas y comunicación entre integrantes.</td>
+  </tr>
+</tbody>
+</table>
+
+---
+ 
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2</th>
   </tr>
 </thead>
 <tbody>
@@ -735,47 +714,45 @@ Le preocupan el fracaso público y las altas comisiones al buscar financiamiento
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td> WhatsApp</td>
+    <td>WhatsApp, Google Meet, documentos compartidos, Microsoft Stream</td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>Generar soluciones tecnológicas con impacto real en el entorno.</td>
+    <td>Desarrollar soluciones tecnológicas con impacto real, trabajar con personas de ideas innovadoras y ganar aprendizaje práctico colaborando con perfiles de distintas áreas.</td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>Fallas críticas en comunicación y falta de metodologías de organización.</td>
+    <td>Proyectos que no definen bien sus objetivos ni lo que buscan del colaborador; roles mal definidos que provocan duplicación de tareas o responsabilidades sin atender.</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Diego-Esquicha.png" alt="Entrevista a Diego Esquicha"></div></td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Diego-Esquicha-update.png" alt=""></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417423_upc_edu_pe/IQDHAEJTjDWVSpa3Ff3v1raWAZwRTq2154dAM_0rNHySpoo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GmqpWS" title="Title">Microsoft Stream</p>
+   <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQBo9vejJzlJQpu5_o2qFST-AWwEHsyVFmkZNvXa3riJJ_8?e=AFrndm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
 	</td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
-    <td>
-		0:00 min - 11:08 min
+    <td>Duracion</td>
+   <td>
+		4:10 min -  8:53 min
 	</td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>
-    Diego es un estudiante con trayectoria en proyectos académicos de enfoque tecnológico, destacando su experiencia en la integración de soluciones IoT y su compromiso social a través del voluntariado. Su principal motor para participar en emprendimientos digitales es la creación de tecnología con propósito e impacto social. Sin embargo, su experiencia previa se ha visto limitada por barreras operativas: la rigidez en la asignación de roles, deficiencias en los canales de comunicación grupal y una marcada falta de estructura organizativa. Diego ve en Foundly una oportunidad estratégica para obtener experiencia práctica verificable, buscando que la plataforma no solo facilite la gestión del proyecto, sino que actúe como un catalizador para fortalecer su portafolio profesional.
-</td>
+    <td>Diego es un estudiante con experiencia en proyectos académicos y voluntariados tecnológicos motivado por el impacto real. Su frustración principal es la falta de organización en los equipos: roles no definidos que generan que algunas tareas se dupliquen mientras otras quedan sin atender. Antes de unirse quiere conocer objetivos, liderazgo, tiempo requerido y sus responsabilidades. Le daría más confianza ver información del creador, referencias y avances reales del proyecto. Busca retroalimentación sobre su aporte y mejorar la comunicación y seguimiento de tareas como puntos clave de mejora.</td>
   </tr>
 </tbody>
 </table>
 
+---
+ 
 <table>
-<colgroup>
-</colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #3<br></th>
+    <th colspan="2">Entrevista #3</th>
   </tr>
 </thead>
 <tbody>
@@ -785,7 +762,7 @@ Le preocupan el fracaso público y las altas comisiones al buscar financiamiento
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Rocha Cotrina</td>
+    <td>Rocha Cotrina<</td>
   </tr>
   <tr>
     <td>Edad</td>
@@ -797,40 +774,35 @@ Le preocupan el fracaso público y las altas comisiones al buscar financiamiento
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>GitHub</td>
+    <td>Trello, GitHub, reuniones virtuales, Microsoft Stream</td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>Crecimiento profesional y preparación para el mundo laboral.</td>
+    <td>Aplicar conocimientos técnicos en proyectos reales con objetivos claros, aprender nuevas formas de trabajo en equipo y ganar experiencia colaborando con personas de distintas áreas.</td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>Desorden estructural y Búsqueda ineficiente de proyectos.</td>
+    <td>Proyectos sin estructura ni descripción clara del perfil que buscan; falta de compromiso de algunos integrantes; desorganización cuando no hay seguimiento al avance de las tareas.</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Alvaro-Rocha.png" alt="Entrevista a Alvaro Rocha"></div></td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Alvaro-Rocha-update.png" alt=""></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417423_upc_edu_pe/IQB4aDJimvXqQKbgDFDGBt64ASFzL6ko9USbw4EuNMjMSro?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Fb7bgX" title="Title">Microsoft Stream</p>
-	</td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQBo9vejJzlJQpu5_o2qFST-AWwEHsyVFmkZNvXa3riJJ_8?e=AFrndm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Microsoft Stream">Microsoft Stream</a></p></td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
-    <td>
-		0:00 min - 06:34 min
-	</td>
+    <td>Duracion</td>
+    <td>8:53 min - 12:58 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>
-   Alvaro es un estudiante de ingeniería con sólida base técnica en desarrollo de software, adquirida a través de diversos proyectos académicos. A pesar de su capacidad de ejecución, identifica una brecha crítica en la gestión operativa, señalando la falta de comunicación y organización como los principales obstáculos en sus colaboraciones previas. Su motivación central es la transición exitosa al mercado laboral mediante la construcción de un portafolio de alto impacto. Actualmente, enfrenta la dificultad de encontrar proyectos que no solo estén bien estructurados, sino que se alineen específicamente con sus objetivos de aprendizaje. Alvaro visualiza a Foundly como una solución que ofrezca claridad a través de roles definidos y herramientas de seguimiento de progreso, permitiéndole enfocarse en el crecimiento técnico mientras se adapta a las dinámicas del mundo profesional.
-</td>
+    <td> Alvaro es un estudiante con experiencia en proyectos universitarios y de desarrollo de software que participa para aplicar lo aprendido en situaciones reales. Su frustración principal es la falta de compromiso de ciertos integrantes y la desorganización cuando no existe alguien que haga seguimiento de tareas. Antes de unirse a un proyecto necesita conocer objetivos, roles, responsabilidades y tiempo de participación esperado. Confiaría más viendo perfiles verificados, referencias y avances concretos del proyecto. Busca transparencia sobre quién cumple sus tareas y una mejora en organización, comunicación y seguimiento dentro del equipo.</td>
   </tr>
 </tbody>
 </table>
+
 			
 ### 2.2.3. Análisis de entrevistas
 
@@ -838,137 +810,128 @@ En esta sección se presenta el análisis consolidado de las entrevistas realiza
 
 ---
 
-#### Segmento 1: Emprendedor
+#### Segmento 1: Emprendedores y Startups en Etapa Temprana
 
-El propósito de las entrevistas realizadas a este segmento fue identificar los principales problemas, necesidades y expectativas de los emprendedores en relación con las herramientas digitales y las plataformas de financiamiento colaborativo.
+Este segmento estuvo conformado por emprendedores en etapa temprana que gestionan actualmente proyectos colaborativos, buscando construir equipos multidisciplinarios para llevarlos adelante. Las entrevistas permitieron identificar con claridad los patrones de comportamiento, las herramientas que utilizan, sus principales dolores y las necesidades que una plataforma colaborativa debería cubrir.
 
-A partir del análisis de las entrevistas se identificaron los siguientes hallazgos:
+##### Herramientas utilizadas actualmente
 
-- **Financiamiento limitado al entorno cercano:** La mayoría de los entrevistados financia sus ideas iniciales con ahorros personales y apoyo de familiares y amigos, lo que restringe significativamente el alcance y la escalabilidad de sus proyectos desde las primeras etapas.
+Los emprendedores entrevistados coinciden en gestionar sus proyectos mediante una combinación de herramientas genéricas no especializadas para el trabajo colaborativo. Las más recurrentes fueron:
 
-- **Dificultad para encontrar colaboradores comprometidos:** Los emprendedores enfrentan grandes obstáculos para conformar equipos en áreas clave como diseño, tecnología y marketing. Esta dificultad genera retrasos recurrentes y, en muchos casos, el abandono completo de las iniciativas.
+- **WhatsApp:** canal principal de comunicación con el equipo, usado de forma cotidiana para coordinar avances y compartir información.
+- **Google Drive / Google Meet:** utilizados para almacenar documentos, compartir archivos y realizar reuniones virtuales periódicas.
+- **Trello:** empleado por algunos emprendedores para organizar tareas y visualizar responsabilidades dentro del equipo.
+- **Excel:** usado de forma manual para el registro de tareas, presupuestos e ideas generales del proyecto.
+- **Discord:** empleado como alternativa a Meet para reuniones o cuando se requiere compartir pantalla.
 
-- **Experiencias negativas con plataformas internacionales:** Los entrevistados reportaron malas experiencias con plataformas como Kickstarter o Patreon, principalmente por la falta de visibilidad para proyectos locales, las barreras de acceso desde Perú y la desconfianza en la seguridad de los aportes recibidos.
+El patrón común es la dependencia de múltiples herramientas desconectadas entre sí, lo que genera dispersión de la información, duplicación de esfuerzos y dificultad para hacer un seguimiento centralizado del avance del proyecto.
 
-- **Desorganización por uso de herramientas informales:** Al coordinar sus equipos mediante WhatsApp o redes sociales, los proyectos tienden a perder orden, seguimiento y claridad en la distribución de responsabilidades, lo que afecta directamente la productividad y el compromiso del equipo.
+##### Patrones de comportamiento comunes
 
-Los tres emprendedores entrevistados coincidieron en que una plataforma local que combine financiamiento colaborativo con herramientas de formación y gestión de equipos representaría un valor diferencial significativo. Entre las características consideradas indispensables destacan: interfaz intuitiva y fácil de usar, transparencia en el manejo de fondos, reportes de avance por hitos, sistemas de reputación y verificación de equipos, y métricas de seguimiento integradas.
+A partir del análisis cruzado de las tres entrevistas se identificaron los siguientes patrones recurrentes:
 
-### Etapa en la que necesitan ayuda
+**a) Gestión fragmentada del trabajo**
 
-| Integrante     | Descripción |
-|---------------|------------|
-| **Gonzalo Quintanilla** | Al formar el equipo: puede programar por su cuenta, pero para escalar el negocio necesita socios. Considera que si el equipo es sólido, el dinero llegará después. |
-| **Didier Meza** | Al formar el equipo, porque sin personas que apoyen desde el inicio el proyecto no avanza. El financiamiento es clave, pero secundario sin un grupo sólido. |
-| **Diana Briceño**   | Al formar el equipo, ya que es más difícil encontrar personas aptas con los perfiles correctos para iniciar el proyecto que validar la idea o conseguir dinero. |
+Ningún emprendedor cuenta con una herramienta única que integre comunicación, asignación de tareas y seguimiento. Todos combinan al menos dos o tres plataformas distintas, lo que genera desorden, pérdida de información y falta de trazabilidad sobre el avance real de los proyectos.
 
-<img src="resources/Images/Chapter-2/Estadistica/Etapa en la que necesitan ayuda.png" alt="Formas de financiamiento actual.png">
+**b) Dificultad para encontrar colaboradores comprometidos**
 
-El 100% de los entrevistados identifica la formación del equipo como la etapa más crítica de su emprendimiento. El 33% añade la validación de la idea como un momento de alta necesidad, mientras que ninguno señala la búsqueda de financiamiento como la prioridad principal. Esto confirma que el mayor valor que puede ofrecer la plataforma es facilitar la conexión con colaboradores comprometidos y con habilidades complementarias.
+El principal dolor que comparten es la dificultad de encontrar personas con habilidades complementarias que mantengan el compromiso a lo largo del proyecto. Es frecuente que colaboradores interesados en etapas iniciales abandonen cuando aumenta la carga de trabajo o no cuentan con el tiempo suficiente para sostener su participación.
 
+**c) Ambigüedad en la asignación de responsabilidades**
 
-### Formas de financiamiento actual
+En los tres casos se identificó que la falta de claridad sobre quién es responsable de cada tarea genera retrasos en cadena: cuando un integrante no cumple en fecha, los demás no pueden avanzar en sus propias actividades. Esta situación se agrava porque no existe un sistema formal de seguimiento ni de rendición de cuentas dentro del equipo.
 
-| Integrante     | Descripción |
-|---------------|------------|
-| **Gonzalo Quintanilla** | Ahorros propios y apoyo de familiares o amigos. No ha usado crowdfunding por el esfuerzo de marketing que requiere y la falta de comunidad previa. |
-| **Didier Meza** | Ahorros personales y apoyo del entorno cercano. Intentó usar Kickstarter sin éxito por falta de visibilidad y por ser una plataforma orientada a mercados extranjeros. |
-| **Diana Briceño**   | Ahorros personales y apoyo familiar limitado. No ha usado crowdfunding por la falta de opciones locales confiables y los procesos complicados de plataformas extranjeras. |
+**d) Equipos con desequilibrio de perfiles**
 
-<img src="resources/Images/Chapter-2/Estadistica/Formas de financiamiento actual.png" alt="Formas de financiamiento actual.png">
+Los emprendedores tienden a tener un perfil técnico o de su área de expertise, pero encuentran serias dificultades para completar el equipo con perfiles complementarios como diseño, marketing o ventas. Esta brecha limita el crecimiento y desarrollo integral del proyecto.
 
-El 100% de los entrevistados recurre a ahorros personales y el mismo porcentaje recibe apoyo de su entorno cercano. Solo el 33% ha intentado el crowdfunding, con resultados negativos. Este panorama evidencia la ausencia de alternativas accesibles y confiables para emprendedores peruanos en etapa temprana, reforzando la necesidad de una plataforma local adaptada a su realidad.
+##### Necesidades identificadas
 
-### Mecanismo de transparencia que generan confianza
+Del análisis de las respuestas se desprenden las siguientes necesidades concretas que los emprendedores demandan de una solución digital:
 
-| Integrante     | Descripción |
-|---------------|------------|
-| **Gonzalo Quintanilla** | Sistema de reputación o reseñas entre fundadores, y exigencia de pruebas reales de avance como repositorios de código, encuestas o prototipos. |
-| **Didier Meza** | Proyectos con reportes de avance obligatorios, verificación de equipos, sistema de calificaciones y un historial similar al de GitHub con commits. |
-| **Diana Briceño**   | Reportes de avance visibles en todo momento, hitos validados, historial de aportes y posibilidad de que la comunidad deje comentarios y valoraciones. |
+- **Búsqueda de colaboradores por habilidades específicas:** poder filtrar y encontrar personas según el perfil técnico que el proyecto necesita, con información clara sobre su experiencia y disponibilidad de tiempo.
+- **Sistema de verificación y reputación:** mecanismos que permitan validar la identidad de los colaboradores y consultar referencias de otras personas que hayan trabajado previamente con ellos, generando confianza antes de integrarlos al equipo.
+- **Centralización de la gestión del proyecto:** una plataforma única que integre comunicación, asignación de tareas, seguimiento de avances y almacenamiento de información, eliminando la dependencia de múltiples herramientas.
+- **Seguimiento visual del progreso:** visualizar en tiempo real el estado de cada tarea, quién la tiene asignada y en qué etapa se encuentra, sin necesidad de preguntar constantemente por mensajes o convocar reuniones para obtener un estado de avance.
+- **Transparencia en roles y responsabilidades:** definir formalmente desde el inicio el rol de cada integrante, sus responsabilidades y los plazos esperados, reduciendo la ambigüedad que actualmente genera conflictos y retrasos.
 
+##### Insights clave
 
-<img src="resources/Images/Chapter-2/Estadistica/Mecanismo de transparencia que generan confianza.png" alt="Mecanismo de transparencia que generan confianza.png">
+Los hallazgos más relevantes para el diseño de Foundly a partir de este segmento son:
 
-El 100% de los entrevistados coincide en que los reportes de avance obligatorios y visibles, así como los hitos validados con historial de aportes, son mecanismos fundamentales de confianza. Un 67% agrega que también necesita un sistema de reputación y reseñas, y pruebas reales de avance como repositorios o prototipos. Estas preferencias señalan que la transparencia activa y verificable es un requisito no negociable para este segmento.
-
-### Tipos de proyectos en los que participan actualmente
-
-| Integrante     | Descripción |
-|---------------|------------|
-| **Gonzalo Quintanilla** | Proyectos de software/tecnología como desarrollador independiente, en etapa temprana sin equipo comercial. |
-| **Didier Meza** | Proyectos académicos y personales de emprendimiento digital, organizados principalmente por WhatsApp. |
-| **Diana Briceño**   | Proyectos personales de emprendimiento e iniciativas estudiantiles con foco en colaboración y financiamiento. |
-
-<img src="resources/Images/Chapter-2/Estadistica/Tipos de proyectos en los que participan actualmente.png" alt="Tipo de Proyecto">
-
-El 100% de los entrevistados participa en proyectos académicos como punto de partida. Un 67% los combina con emprendimientos personales, mientras que el 33% también se involucra en voluntariados o iniciativas estudiantiles. Esto refleja que el perfil del segmento es el de personas que están aprendiendo a emprender desde el entorno académico, con aspiraciones de escalar sus ideas a proyectos reales.
+- El problema central no es la falta de ideas, sino la dificultad de ejecutarlas con el equipo adecuado. Los emprendedores tienen proyectos definidos, pero carecen de una vía confiable para conectar con colaboradores comprometidos y calificados.
+- La informalidad en la gestión es la norma, no la excepción. El uso de WhatsApp y Excel como principales herramientas de gestión refleja que no existen alternativas accesibles y adaptadas al emprendedor en etapa temprana en el mercado local.
+- La confianza es un factor determinante. Antes de aceptar a un colaborador desconocido, los emprendedores necesitan información verificable sobre su trayectoria, perfiles con evidencias y referencias de terceros que respalden su compromiso.
+- El seguimiento manual agota al líder del proyecto. La carga de tener que preguntar constantemente por el avance de las tareas vía mensajes o reuniones consume tiempo y energía que podría destinarse al desarrollo del proyecto.
+- Existe una oportunidad clara de consolidación: una plataforma que unifique búsqueda de talento, gestión de tareas y comunicación respondería directamente al principal dolor de este segmento, que hoy resuelve con múltiples herramientas desconectadas.
 
 ---
 
-#### Segmento 2: Colaborador
+#### Segmento 2: Colaboradores  Estudiantes y Jóvenes Profesionales
 
-El propósito de las entrevistas realizadas a este segmento fue identificar los patrones de participación, motivaciones y dificultades de los estudiantes y jóvenes profesionales al involucrarse en proyectos colaborativos.
+Este segmento estuvo conformado por estudiantes universitarios y jóvenes profesionales con experiencia en proyectos colaborativos, hackathons y voluntariados tecnológicos. Su perspectiva como colaboradores no como líderes de proyecto permitió identificar un conjunto de necesidades y frustraciones complementarias a las del Segmento 1, revelando los dos lados del mismo ecosistema de colaboración.
 
-A partir del análisis de las entrevistas se identificaron los siguientes hallazgos:
+##### Herramientas utilizadas actualmente
 
-- **Participación en proyectos informales y poco estructurados:** Los entrevistados suelen involucrarse en proyectos académicos, voluntariados e iniciativas personales vinculadas a sus carreras. Sin embargo, la mayoría de estas experiencias se desarrollan de manera informal y con herramientas poco específicas, lo que limita la organización y el aprendizaje real que pueden obtener.
+Los colaboradores entrevistados utilizan herramientas con un perfil más técnico que los emprendedores del Segmento 1, aunque también recurren a plataformas genéricas para la coordinación:
 
-- **Dispersión de información por uso de herramientas múltiples:** Plataformas como WhatsApp, Slack, Discord, GitHub y LinkedIn son utilizadas frecuentemente, pero los entrevistados coinciden en que la información tiende a fragmentarse entre distintos canales, generando desorden y falta de seguimiento en las tareas asignadas.
+- **GitHub:** herramienta principal para el trabajo colaborativo en proyectos de desarrollo de software, control de versiones y revisión de código.
+- **Trello:** utilizado para la organización de tareas y visualización del estado de avance dentro del equipo.
+- **Discord:** empleado como canal de comunicación en tiempo real, especialmente en proyectos técnicos y hackathons.
+- **WhatsApp / Google Meet:** canales de comunicación informal y reuniones virtuales, presentes en todos los proyectos independientemente de su nivel de formalidad.
+- **Documentos compartidos (Google Docs/Drive):** para organizar información colectiva y mantener registros del proyecto.
 
-- **Motivaciones centradas en el desarrollo profesional:** Los tres entrevistados destacaron que su principal motivación para unirse a proyectos en línea es la adquisición de experiencia práctica aplicable a contextos reales. Asimismo, valoran la posibilidad de ampliar su portafolio profesional y generar contactos que les abran oportunidades laborales futuras. Los ingresos económicos son percibidos como un beneficio adicional, pero no constituyen el motor principal de participación.
+A diferencia del Segmento 1, los colaboradores muestran mayor apertura hacia herramientas especializadas, aunque su adopción depende del nivel de formalidad del proyecto y del perfil del equipo al que se integran.
 
-- **Falta de claridad en roles, objetivos y nivel de compromiso:** Las principales dificultades reportadas están relacionadas con la incertidumbre sobre el compromiso de los demás participantes y la ausencia de definición clara de objetivos, roles y dedicación esperada. Esta falta de transparencia genera frustración y abandono temprano de las iniciativas, además de dificultar que los colaboradores encuentren oportunidades realmente alineadas a sus perfiles e intereses.
+##### Patrones de comportamiento comunes
 
-Los tres entrevistados coincidieron en que una plataforma de colaboración efectiva debería incluir perfiles con habilidades destacadas, roles bien definidos, filtros por áreas de interés, métricas de avance y mecanismos de reputación. Asimismo, resaltaron la necesidad de espacios de comunicación organizados que reemplacen la informalidad de los chats grupales, y de herramientas que garanticen que su aporte sea valorado y reconocido, como reportes de avance o certificados digitales que respalden su participación en cada proyecto.
+**a) Participación selectiva y motivada por el aprendizaje**
 
-### Tipos de Proyectos en los que Participan Actualmente
+Los colaboradores no se unen a cualquier proyecto: evalúan si el proyecto les ofrece aprendizaje real, tecnologías nuevas o la posibilidad de trabajar con personas de otras áreas. La motivación intrínseca por crecer profesionalmente es el principal motor de participación, por encima de cualquier beneficio económico.
 
-| Integrante     | Descripción |
-|---------------|------------|
-| **Diego Alonso** | Proyectos académicos con IoT (monitoreo de cultivos) y voluntariado en albergue canino sin plataforma tecnológica. |
-| **Álvaro Rocha** | Proyectos académicos de software (APIs web) y un proyecto grupal de monitoreo de salud mental con GitHub. |
-| **Kael Lagos**   | Proyectos académicos como parte de cursos y proyectos personales tipo taller, generalmente individuales. |
+**b) Desconfianza ante proyectos sin estructura clara**
 
-<img src="resources/Images/Chapter-2/Estadistica/Tipos de Proyectos en los que Participan Actualmente.png" alt="Tipos de Proyectos en los que Participan Actualmente">
+Un patrón recurrente es la desconfianza hacia proyectos que no explican bien sus objetivos, no definen roles o no muestran avances concretos. Los colaboradores han tenido experiencias previas con proyectos que parecían serios al inicio pero terminaron abandonados, lo que los hace más cautelosos antes de comprometerse.
 
-WhatsApp y GitHub son las herramientas más usadas (66.7% cada una), pero ambas de forma parcial y desconectada. Ningún entrevistado usa una plataforma que unifique comunicación, gestión de tareas y seguimiento en un solo espacio, lo que representa la oportunidad central de Foundly.
+**c) Desorganización interna como principal frustración**
 
-### Motivaciones Principales para Unirse a Proyectos en Línea
+Al igual que en el Segmento 1, la falta de organización dentro de los equipos es la frustración más repetida: roles mal definidos que generan duplicación de tareas, responsabilidades sin atender, y falta de comunicación entre integrantes. Esta desorganización desmotiva la participación activa y reduce la calidad del trabajo colaborativo.
 
-| Integrante       | Objetivo / Motivación |
-|------------------|----------------------|
-| **Diego Alonso** | Validar soluciones tecnológicas con impacto real (IoT en agricultura) y trabajar con perfiles complementarios. |
-| **Álvaro Rocha** | Ganar experiencia real para el portafolio y conocer personas con intereses similares. |
-| **Kael Lagos**   | Adquirir experiencia, obtener posibles ingresos y ampliar horizontes en el mundo emprendedor. |
+**d) Falta de reconocimiento del trabajo realizado**
 
-<img src="resources/Images/Chapter-2/Estadistica/Motivaciones Principales para Unirse a Proyectos en Línea.png" alt="Motivaciones Principales para Unirse a Proyectos en Línea">
+Los colaboradores expresan la necesidad de que su aporte sea visible y reconocido dentro del equipo. La ausencia de mecanismos formales de reconocimiento genera percepción de que el esfuerzo realizado no tiene valor, lo que reduce su motivación para continuar participando o recomendar el proyecto a otros.
 
-La experiencia práctica y el networking comparten el primer lugar con un 30% cada uno, seguidos por el portafolio profesional (20%) y los ingresos económicos (20%). Estos datos validan que Foundly debe comunicar explícitamente cómo cada proyecto aporta experiencia real y contactos valiosos.
+##### Necesidades identificadas
 
-### Dificultades al Buscar Oportunidades de Colaboración
+- **Información clara del proyecto antes de unirse:** conocer los objetivos del proyecto, el rol disponible, las responsabilidades esperadas y el tiempo de dedicación requerido es indispensable para tomar una decisión informada de participación.
+- **Verificación del líder y del proyecto:** acceder a información sobre quién lidera el proyecto, su experiencia previa y referencias de personas que ya hayan trabajado con él, así como poder ver avances reales que confirmen que el proyecto es serio y tiene continuidad.
+- **Claridad en la asignación de roles y tareas:** contar con una estructura formal que defina desde el inicio quién hace qué, evitando la ambigüedad que genera duplicación de esfuerzos o responsabilidades descuidadas.
+- **Mecanismos de reconocimiento y reputación:** un sistema que deje constancia de quién cumplió con sus tareas, que permita recibir retroalimentación del equipo y que construya un historial de participación visible para futuros proyectos.
+- **Seguimiento del avance del equipo:** herramientas que permitan visualizar el progreso colectivo sin depender de reuniones constantes o mensajes de seguimiento, facilitando la coordinación y reduciendo la fricción de comunicación.
 
-| Integrante       | Dificultades |
-|------------------|--------------|
-| **Diego Alonso** | Equipos sin roles claros y definidos, especialmente en proyectos tecnológicos como IoT. |
-| **Álvaro Rocha** | Proyectos mal organizados que no se ajustan al nivel de aprendizaje que busca el colaborador. |
-| **Kael Lagos**   | Intereses no coincidentes con las oportunidades disponibles y perfiles poco convincentes. |
+##### Insights clave
 
-<img src="resources/Images/Chapter-2/Estadistica/Dificultades al Buscar Oportunidades de Colaboración.png" alt="Dificultades al Buscar Oportunidades de Colaboración">
+- La motivación es frágil y condicional. Los colaboradores se unen con entusiasmo, pero la desorganización, la falta de reconocimiento y el incumplimiento de expectativas los hacen abandonar. Retener a los colaboradores requiere ofrecer estructura, claridad y reconocimiento desde el primer día.
+- La transparencia del proyecto es un filtro de calidad. Antes de comprometerse, los colaboradores buscan señales de seriedad: objetivos claros, liderazgo verificable y avances concretos. Una plataforma que facilite esta visibilidad actúa como filtro natural que atrae colaboradores más comprometidos y ahuyenta proyectos sin sustento.
+- El reconocimiento formal cambia el comportamiento. Si los colaboradores saben que su trabajo quedará registrado, que será evaluado por el equipo y que contribuirá a construir su reputación dentro de la plataforma, tienen más incentivos para cumplir con sus responsabilidades y mantener un alto nivel de compromiso.
+- Los colaboradores son también embajadores potenciales. Cuando la experiencia dentro de un proyecto es positiva organización clara, reconocimiento del aporte y aprendizaje real los colaboradores recomiendan la plataforma activamente a su red, actuando como canal de crecimiento orgánico.
+- Existe complementariedad directa con el Segmento 1. Las necesidades del colaborador responden punto a punto a los dolores del emprendedor: donde el emprendedor necesita encontrar talento comprometido, el colaborador necesita encontrar proyectos serios; donde el emprendedor necesita seguimiento de tareas, el colaborador necesita claridad de roles. Foundly puede resolver ambos lados de esta ecuación desde una misma plataforma.
 
-La falta de claridad en objetivos, roles y compromiso es la barrera más crítica (100% de los entrevistados). Le siguen la desalineación de intereses y la ausencia de seguimiento, ambas con 66.7%. Esto refuerza la necesidad de una ficha de proyecto detallada y transparente en Foundly.
+---
 
-### Funciones Más Valoradas en una Plataforma
+#### Conclusiones del Análisis
 
-| Integrante       | Necesidades / Requerimientos |
-|------------------|----------------------------|
-| **Diego Alonso** | Almacenamiento y gestión de datos del proyecto (ej. métricas de sensores IoT) para no perder el avance histórico. |
-| **Álvaro Rocha** | Filtros de habilidades, roles bien definidos y herramientas de seguimiento del avance. |
-| **Kael Lagos**   | Organización de la comunicación sin solapamientos y mejor coordinación entre integrantes. |
+El análisis de ambos segmentos confirma que existe una brecha clara en el ecosistema de emprendimiento colaborativo en Perú: los emprendedores no cuentan con una forma confiable y estructurada de encontrar colaboradores comprometidos, y los colaboradores no disponen de un espacio centralizado donde identificar proyectos serios, conocer sus roles y recibir reconocimiento por su trabajo.
 
-<img src="resources/Images/Chapter-2/Estadistica/Funciones Más Valoradas en una Plataforma.png" alt = "Funciones Más Valoradas en una Plataforma">
+Los principales puntos de convergencia entre ambos segmentos son:
 
-Los perfiles con habilidades/roles definidos y las métricas de avance son considerados indispensables por el 100% de los entrevistados. Los filtros por área, la comunicación organizada y los mecanismos de reputación son valorados por el 66.7%. Foundly debe priorizar estas funciones en su MVP.
+- **La ausencia de herramientas especializadas para la colaboración en proyectos:** tanto emprendedores como colaboradores resuelven sus necesidades con herramientas genéricas y desconectadas.
+- **La confianza como factor crítico:** ambos segmentos necesitan mecanismos de verificación, reputación y transparencia para comprometerse con personas que no conocen previamente.
+- **La necesidad de centralización:** la gestión fragmentada en múltiples plataformas es un dolor compartido que afecta tanto la productividad del emprendedor como la experiencia del colaborador.
+- **El reconocimiento y la visibilidad del aporte individual:** los colaboradores lo demandan explícitamente; los emprendedores lo necesitan para retener a sus equipos.
+
+Estos hallazgos validan la propuesta de valor de Foundly como plataforma colaborativa que conecta emprendedores con colaboradores, centraliza la gestión de proyectos, garantiza transparencia mediante un sistema de reputación y permite evidenciar el impacto generado a través del módulo IoT de monitoreo ambiental.
 
 ## 2.3. Needfinding
 
@@ -980,59 +943,59 @@ Tras analizar las entrevistas realizadas a cada segmento objetivo, el equipo def
 
 #### Segmento 1: Emprendedor
 
-Para el segmento de emprendedores se elaboró el User Persona representativo de jóvenes desarrolladores y emprendedores tecnológicos en etapa temprana interesados en lanzar sus proyectos de forma colaborativa. Su construcción consideró los hallazgos obtenidos en el análisis de entrevistas realizadas a este segmento, incluyendo factores como:
+Para el segmento de emprendedores se elaboró el User Persona representativo de jóvenes desarrolladores y emprendedores tecnológicos en etapa temprana interesados en desarrollar sus ideas de manera estructurada y colaborativa. Su construcción consideró los hallazgos obtenidos en el análisis de entrevistas realizadas a este segmento, identificando factores clave como:
 
-- **Perfil técnico:** Usuarios con conocimientos en desarrollo de software o tecnología que desean llevar una idea de negocio a su primera versión funcional.
-- **Financiamiento:** Dificultad para acceder a mecanismos de financiamiento accesibles y confiables desde el contexto peruano.
-- **Formación de equipos:** Alta frustración por los meses que implica el networking presencial tradicional para encontrar cofundadores con habilidades complementarias.
-- **Herramientas actuales:** Uso de herramientas informales como WhatsApp, GitHub y plataformas internacionales como Kickstarter, que no están adaptadas al contexto local ni a proyectos en etapa cero.
+Perfil técnico: Usuarios con conocimientos en desarrollo de software, tecnología o innovación que buscan transformar una idea en un proyecto real y funcional.
+Formación de equipos: Presentan dificultades para encontrar colaboradores comprometidos con habilidades complementarias como diseño, marketing o ventas.
+Gestión de proyectos: Utilizan herramientas dispersas como WhatsApp, Google Drive, Trello o Excel, generando desorganización y falta de seguimiento claro.
+Seguimiento de avances: Necesitan visualizar responsabilidades, tareas pendientes y progreso del proyecto sin depender de reuniones constantes o procesos manuales.
+Confianza y compromiso: Buscan trabajar con personas responsables, con perfiles verificados y referencias previas que generen mayor seguridad dentro del equipo.
 
-Este perfil evidencia la necesidad de una solución local que combine formación de equipos con financiamiento colaborativo transparente, eliminando las barreras de entrada que enfrentan los emprendedores sin comunidad previa.
+<img src="resources/Images/Chapter-2/Juan Fernandez.png">
 
-<img src="resources/Images/Chapter-2/user-personas-ux/Juan Fernandez.png" alt="User Persona — Juan Fernández (Segmento Emprendedor)">
-
----
+Este perfil evidencia la necesidad de una solución que centralice la búsqueda de colaboradores, la gestión de tareas y el seguimiento de proyectos en una sola plataforma, reduciendo la desorganización y facilitando el crecimiento de proyectos innovadores en etapas tempranas.
 
 #### Segmento 2: Colaborador
 
-Para el segmento de colaboradores se elaboró el User Persona representativo de estudiantes universitarios y jóvenes profesionales interesados en participar en proyectos colaborativos. Su construcción consideró los hallazgos obtenidos en el análisis de entrevistas realizadas a este segmento, incluyendo factores como:
+Para el segmento de colaboradores se elaboró el User Persona representativo de estudiantes universitarios y jóvenes profesionales interesados en participar en proyectos colaborativos para adquirir experiencia práctica y trabajar en iniciativas reales. Su construcción consideró los hallazgos obtenidos en el análisis de entrevistas realizadas a este segmento, identificando factores clave como:
 
-- **Perfil académico y profesional:** Usuarios en formación en áreas tecnológicas —desarrollo de software, diseño UX, marketing digital— con experiencia en proyectos académicos y trabajos grupales.
-- **Motivaciones principales:** Adquirir experiencia práctica real, fortalecer su portafolio profesional y ampliar su red de contactos para mejorar sus oportunidades laborales futuras.
-- **Interés en tecnología aplicada:** Preferencia por proyectos con impacto real, especialmente aquellos relacionados con desarrollo de software, IoT y emprendimiento tecnológico.
-- **Herramientas actuales:** Uso de GitHub, WhatsApp y Google Docs como herramientas principales de colaboración, lo que genera dispersión y dificultad para hacer seguimiento estructurado del trabajo.
+Perfil académico y profesional: Usuarios entre 18 y 26 años con conocimientos en áreas como desarrollo, diseño, marketing u otras disciplinas complementarias, que buscan aplicar sus habilidades en proyectos reales fuera del entorno académico.
+Búsqueda de experiencia práctica: Desean participar en proyectos que les permitan aprender nuevas tecnologías, metodologías de trabajo y adquirir experiencia colaborando con personas de distintas áreas.
+Necesidad de proyectos estructurados: Buscan proyectos con objetivos claros, roles definidos y líderes comprometidos que realicen seguimiento constante al progreso del equipo.
+Reconocimiento del trabajo: Valoran que su esfuerzo y participación sean visibles dentro del proyecto, evitando escenarios donde su trabajo no sea reconocido o quede sin registro.
+Herramientas actuales limitadas: Actualmente utilizan herramientas dispersas como WhatsApp, Trello, Discord y Google Meet, lo que muchas veces genera desorganización en la colaboración.
 
-Este perfil evidencia la necesidad de una plataforma que centralice la búsqueda de proyectos, estructure la colaboración y proporcione mecanismos formales de reconocimiento que validen el aporte de cada colaborador.
+<img src="resources/Images/Chapter-2/Jesli Bautista.png">
 
-<img src="resources/Images/Chapter-2/user-personas-ux/Jesli Bautista.png" alt="User Persona — Jesli Bautista (Segmento Colaborador)">
+
+Este perfil evidencia la necesidad de una plataforma que permita encontrar proyectos confiables, visualizar avances reales, mejorar la organización del trabajo y generar mayor reconocimiento para los colaboradores dentro de cada proyecto.
+
+
 
 ### 2.3.2. User Task Matrix
 
-La seccion User Task Matrix permite identificar y comparar las tareas más relevantes que realizan los usuarios representados en nuestras User Personas. En esta matriz se organiza cada tarea según su frecuencia (qué tan seguido la realizan) y su importancia (qué tan crítica resulta para alcanzar sus objetivos).
-
 **Usuario Emprededor**
 
- <div align="center">
+<div align="center">
 
-| USER TASK | Frecuencia | Importancia |
-|---|---|---|
-| Publicar o registrar un proyecto | Alta | Crítica |
-| Buscar colaboradores por habilidades | Alta | Crítica |
-| Revisar perfiles y portafolios de candidatos | Alta | Crítica |
-| Seleccionar y confirmar integrantes del equipo | Media | Crítica |
-| Definir roles y responsabilidades en el proyecto | Media | Alta |
-| Lanzar una campaña de financiamiento | Media | Crítica |
-| Establecer hitos y metas del proyecto | Media | Alta |
-| Coordinar tareas y asignar responsabilidades | Alta | Importante |
-| Publicar reportes o evidencias de avance | Media | Alta |
-| Hacer seguimiento del progreso del proyecto | Alta | Importante |
-| Recibir aportes o financiamiento por hitos | Media | Crítica |
-| Recibir notificaciones de postulantes o avances | Alta | Alta |
+| USER TASK                                                | Frecuencia | Importancia |
+| -------------------------------------------------------- | ---------- | ----------- |
+| Publicar o registrar un proyecto                         | Alta       | Crítica     |
+| Buscar colaboradores por habilidades                     | Alta       | Crítica     |
+| Revisar perfiles y experiencia de candidatos             | Alta       | Crítica     |
+| Seleccionar y confirmar integrantes del equipo           | Media      | Crítica     |
+| Definir roles y responsabilidades en el proyecto         | Media      | Alta        |
+| Establecer hitos y metas del proyecto                    | Media      | Alta        |
+| Coordinar tareas y asignar responsabilidades             | Alta       | Importante  |
+| Publicar reportes o evidencias de avance                 | Media      | Alta        |
+| Hacer seguimiento del progreso del proyecto              | Alta       | Importante  |
+| Gestionar postulaciones de nuevos colaboradores          | Media      | Alta        |
+| Recibir notificaciones de postulantes o avances          | Alta       | Alta        |
+| Supervisar métricas del proyecto sostenible mediante IoT | Media      | Importante  |
 
-</div> 
+</div>
 
-Se observa que las tareas más críticas para el emprendedor se concentran en la publicación del proyecto, la búsqueda y selección de colaboradores con habilidades complementarias, y el acceso a financiamiento liberado por hitos. La comunicación interna y el seguimiento del progreso son actividades de alta frecuencia, lo que evidencia la necesidad de herramientas integradas dentro de la plataforma que eliminen la dependencia de canales informales como WhatsApp. Asimismo, la definición de roles desde el inicio y la publicación de reportes de avance resultan fundamentales para garantizar la transparencia y seriedad del proyecto ante colaboradores e inversores.
-
+Se observa que las tareas más críticas para el emprendedor se concentran en la publicación del proyecto, la búsqueda y selección de colaboradores con habilidades complementarias y la correcta organización del equipo de trabajo. La comunicación interna y el seguimiento del progreso son actividades de alta frecuencia, lo que evidencia la necesidad de herramientas integradas dentro de la plataforma que eliminen la dependencia de canales informales como WhatsApp. Asimismo, la definición de roles desde el inicio, la publicación de evidencias de avance y el monitoreo de métricas ambientales en proyectos sostenibles resultan fundamentales para garantizar una mejor organización y transparencia dentro del equipo.
 
 **Usuario Colaborador**
 
@@ -1063,90 +1026,91 @@ El User Journey Mapping permite visualizar el recorrido completo que experimenta
 
 ---
 
-#### Segmento 1: Emprendedor
+#### Segmento Emprededor
 
-El mapa del emprendedor representa el recorrido que experimentan los jóvenes emprendedores tecnológicos al intentar dar forma a sus ideas de negocio, conformar un equipo multidisciplinario y acceder a financiamiento. El proceso abarca desde la búsqueda inicial de referencias y plataformas hasta la gestión y cierre del proyecto con resultados concretos.
+El Customer Journey Map del segmento emprendedor permitió identificar el recorrido actual que experimentan los usuarios desde que detectan la necesidad de buscar apoyo para su proyecto hasta la evaluación final del trabajo realizado por su equipo. A través de este análisis se evidenció que los emprendedores atraviesan múltiples etapas marcadas por procesos manuales, herramientas dispersas y dificultades para mantener una colaboración estructurada.
 
-En la situación actual (*As-Is*), el emprendedor enfrenta un proceso fragmentado y lleno de fricciones:
+En la etapa de descubrimiento de la necesidad, el emprendedor reconoce que no puede desarrollar completamente su proyecto por sí solo debido a la falta de habilidades complementarias en áreas como diseño, marketing o ventas. Esto genera la necesidad de buscar apoyo externo para continuar con el desarrollo de su idea.
 
-- Busca información en múltiples canales dispersos (redes sociales, conocidos, motores de búsqueda), sin encontrar una fuente confiable y centralizada.
-- Intenta registrarse en plataformas internacionales que no están adaptadas al contexto peruano en términos de moneda, idioma ni regulación.
-- Publica su proyecto con herramientas de baja visibilidad y escasa estructura profesional.
-- Conforma su equipo contactando a personas de su entorno cercano, sin garantías de compromiso ni mecanismos formales de seguimiento.
+Durante la fase de búsqueda de colaboradores, se identificó que los emprendedores recurren principalmente a herramientas informales como grupos de WhatsApp, foros universitarios o LinkedIn para encontrar personas interesadas. Sin embargo, este proceso resulta poco eficiente debido a la dificultad de validar habilidades, experiencia real y nivel de compromiso de los candidatos.
 
-Estos factores generan desorden, pérdida de tiempo y una sensación creciente de inseguridad conforme avanza el proceso. Los principales puntos críticos identificados son:
+En la etapa de formación del equipo, el emprendedor suele asignar roles de manera informal mediante reuniones virtuales o mensajes, generando falta de claridad sobre responsabilidades y expectativas desde el inicio del proyecto.
 
-- Dificultad para encontrar plataformas confiables y accesibles desde Perú.
-- Escasa visibilidad de sus proyectos frente a un alto volumen de contenido competidor.
-- Ausencia de herramientas integradas para la gestión de equipos y comunicación interna.
-- Desconfianza en los mecanismos de financiamiento informales, que lo limitan a su círculo más cercano.
+Posteriormente, en la fase de organización y gestión, los usuarios utilizan múltiples herramientas como Trello, Google Drive y WhatsApp, lo que provoca dispersión de información, dificultades para centralizar tareas y una mayor carga operativa para el líder del proyecto.
 
-Este análisis evidencia oportunidades de mejora en cada etapa del proceso —Descubrimiento, Registro, Publicación del Proyecto, Formación de Equipo, Validación y Financiamiento, y Gestión y Cierre— y sienta las bases para el diseño de Foundly como solución que centraliza la búsqueda de colaboradores por habilidades, simplifica el registro adaptado al contexto local, ofrece plantillas profesionales para presentar ideas, integra herramientas de coordinación dentro de la plataforma y garantiza transparencia en el financiamiento mediante reportes de avance y liberación de fondos por hitos cumplidos.
+En la etapa de seguimiento del progreso, se observa uno de los mayores puntos de frustración, ya que el emprendedor debe realizar seguimiento manual mediante mensajes constantes y reuniones recurrentes para conocer el estado de las tareas, generando retrasos y desorganización.
 
-<img src="resources/Images/Chapter-2/user-journey-mapping/User-Journey-Mapping-Emprededor.png" alt="User Journey Mapping — Segmento Emprendedor">
+Finalmente, en la fase de evaluación y continuidad, se identificó la ausencia de registros claros sobre el desempeño individual de cada integrante, dificultando reconocer aportes, detectar incumplimientos y tomar decisiones sobre la continuidad del equipo.
 
----
+A nivel emocional, el mapa evidencia cómo el emprendedor inicia con motivación y expectativa positiva, pero conforme avanza el proyecto experimenta inseguridad, estrés y frustración debido a la falta de herramientas integradas para gestionar eficientemente su equipo.
 
-#### Segmento 2: Colaborador
+<img src="resources/Images/Chapter-2/Customer journey map - Segmento Emprededor.png">
 
-El mapa del colaborador representa el recorrido que experimentan los estudiantes y jóvenes profesionales al buscar, unirse y participar en proyectos colaborativos. El proceso abarca desde la exploración de oportunidades hasta la obtención de resultados concretos como experiencia práctica y reconocimiento dentro de la comunidad.
-
-En la situación actual (*As-Is*), el colaborador enfrenta un proceso poco estructurado y fragmentado:
-
-- Busca proyectos en múltiples plataformas (redes sociales, recomendaciones de terceros, grupos de mensajería), sin filtros adecuados para encontrar oportunidades relevantes a su perfil.
-- Evalúa información incompleta o desactualizada sobre los proyectos disponibles, lo que dificulta la toma de decisiones.
-- Se integra a equipos donde la comunicación y organización dependen de herramientas dispersas como WhatsApp, Google Drive o Discord, generando desorden y falta de claridad en roles.
-- No cuenta con mecanismos formales que validen ni reconozcan su contribución al proyecto.
-
-Los principales puntos críticos identificados son:
-
-- Falta de filtros adecuados para encontrar proyectos alineados a sus habilidades e intereses.
-- Escasa transparencia en los procesos de selección y aceptación por parte de los creadores.
-- Desorganización en la colaboración interna y dificultad para hacer seguimiento al progreso del proyecto.
-- Ausencia de mecanismos formales de reconocimiento del trabajo realizado.
-
-Este análisis evidencia oportunidades de mejora en cada etapa del proceso —Descubrimiento, Registro, Exploración, Postulación, Colaboración y Resultados— y sienta las bases para el diseño de Foundly como solución que centraliza la gestión de proyectos, mejora la comunicación interna, proporciona visibilidad del progreso mediante hitos y tareas, y permite validar las contribuciones del colaborador a través de un sistema de reputación basado en evidencias.
-
-<img src="resources/Images/Chapter-2/user-journey-mapping/User-Journey-Mapping-Colaborador.png" alt="User Journey Mapping — Segmento Colaborador">
-
-### 2.3.4. Empathy Mapping
-
-Para la elaboración de los Empathy Maps, el equipo partió del conocimiento y las observaciones recolectadas durante el análisis de los User Personas. Se colocó al centro de cada mapa al usuario correspondiente y se respondieron las preguntas clave sobre su entorno, emociones, comportamientos y necesidades, con el objetivo de comprender en profundidad su experiencia actual antes de diseñar la solución.
+En conclusión, este Customer Journey Map permitió validar que existe una oportunidad clara para Foundly, al centralizar la búsqueda de colaboradores, la asignación de roles, la gestión de tareas, el seguimiento del progreso y la evaluación del desempeño dentro de una sola plataforma. Esto reduciría significativamente la fricción operativa que actualmente enfrentan los emprendedores en etapas tempranas.
 
 ---
 
-#### Segmento 1: Emprendedor
+#### Segmento Colaborador
 
-<img src="resources/Images/Chapter-2/Empathy Mapping/Empathy map - Emprededor.png" alt="Empathy Map — Segmento Emprendedor">
+El Customer Journey Map del segmento colaborador permitió analizar el recorrido que experimentan estudiantes universitarios y jóvenes profesionales desde que buscan oportunidades para participar en proyectos hasta la evaluación final de su experiencia dentro del equipo. A través de este análisis se identificaron múltiples fricciones relacionadas con la falta de información clara, desorganización en el trabajo colaborativo y ausencia de reconocimiento formal del aporte realizado.
 
-El Empathy Map del emprendedor (Juan Fernández) permite comprender de manera integral su experiencia al intentar lanzar una idea de negocio en etapa temprana sin los recursos ni el equipo adecuados, considerando lo que piensa, siente, ve, escucha, dice y hace en ese contexto.
+En la etapa de búsqueda de oportunidades, el colaborador intenta encontrar proyectos alineados con sus habilidades e intereses mediante grupos de Discord, WhatsApp, foros universitarios o LinkedIn. Sin embargo, muchas veces encuentra publicaciones poco claras que no especifican roles, responsabilidades o el tipo de perfil requerido.
 
-A partir del análisis se identifican los siguientes hallazgos principales:
+Durante la fase de evaluación del proyecto, el colaborador busca validar si el proyecto realmente es serio, quién lidera el equipo y cuáles son los objetivos planteados. La falta de información sobre avances previos, roles disponibles y nivel de compromiso del equipo genera incertidumbre antes de decidir postular.
 
-- **Motivaciones:** Juan está impulsado por el deseo de convertir su idea en un negocio escalable y de generar impacto real en su entorno. Valora la autonomía y la posibilidad de liderar su propio proyecto.
-- **Principales dolores:** Enfrenta dificultades concretas para encontrar socios comprometidos, carece de plataformas de financiamiento adaptadas al contexto peruano y sufre la desorganización que genera coordinar equipos a través de herramientas informales como WhatsApp o correo electrónico.
-- **Estado emocional:** Estas condiciones generan frustración, inseguridad y una sensación de estancamiento que frena el avance de sus proyectos y erosiona su confianza en el proceso emprendedor.
+En la etapa de postulación e incorporación, se observa que el proceso suele ser informal y poco estructurado. Generalmente los roles son comunicados verbalmente durante reuniones virtuales, sin documentación clara sobre responsabilidades, tiempos de dedicación o expectativas.
 
-Este análisis permite identificar oportunidades clave de mejora enfocadas en la formación estructurada de equipos, la simplificación del registro y publicación de proyectos adaptada a la realidad local, y la integración de herramientas de comunicación y seguimiento dentro de una sola plataforma, elementos fundamentales para diseñar una solución verdaderamente centrada en el usuario emprendedor.
+Posteriormente, en la fase de colaboración y trabajo en equipo, los colaboradores enfrentan problemas de coordinación debido al uso de múltiples herramientas como WhatsApp, Trello y Google Drive. Esto genera duplicación de tareas, falta de claridad y dificultades para trabajar de manera organizada.
 
----
+En la etapa de seguimiento del aporte, uno de los principales problemas identificados es la falta de retroalimentación por parte del líder del proyecto. Los colaboradores muchas veces no saben si su trabajo está siendo valorado o si realmente están cumpliendo con las expectativas del equipo.
 
-#### Segmento 2: Colaborador
+Finalmente, en la fase de resultados y continuidad, se evidencia la ausencia de mecanismos formales para reconocer el trabajo realizado. Cuando los proyectos terminan o se abandonan, los colaboradores no cuentan con un historial verificable de participación que les permita demostrar su experiencia en futuros proyectos.
 
-<img src="resources/Images/Chapter-2/Empathy Mapping/Empathy map - Colaborador.png" alt="Empathy Map — Segmento Colaborador">
+A nivel emocional, el journey evidencia cómo el colaborador inicia con motivación y expectativas positivas, pero progresivamente experimenta inseguridad, frustración, desmotivación y decepción debido a la falta de organización y reconocimiento dentro de los proyectos.
 
-El Empathy Map del colaborador (Jesli Bautista) permite comprender de manera integral su experiencia al participar en proyectos colaborativos, considerando lo que piensa, siente, ve, escucha, dice y hace dentro de ese contexto.
+<img src="resources/Images/Chapter-2/Customer journey map 1 -Segmento Colaborador.png">
 
-A partir del análisis se identifican los siguientes hallazgos principales:
+En conclusión, este Customer Journey Map valida la necesidad de una plataforma como Foundly que permita a los colaboradores encontrar proyectos confiables, conocer información clara antes de postular, trabajar de manera organizada y contar con un historial verificable de participación dentro de cada proyecto.
 
-- **Motivaciones:** Jesli está impulsada por el deseo de adquirir experiencia práctica, construir un portafolio profesional sólido y establecer conexiones con personas y proyectos de su área de interés.
-- **Principales dolores:** Enfrenta desorganización dentro de los equipos en los que participa, falta de claridad en la asignación de roles y dispersión de herramientas de comunicación que dificultan el seguimiento del trabajo realizado.
-- **Estado emocional:** Estas condiciones generan frustración, incertidumbre y una percepción de escaso reconocimiento hacia sus aportes, lo que reduce su motivación para continuar participando activamente.
+### 2.3.4. As - Is Scemario Mapping
 
-El mapa evidencia que, si bien existe una alta motivación intrínseca por colaborar en proyectos reales, los principales dolores del usuario están relacionados con la falta de estructura, la comunicación ineficiente y la dificultad para encontrar oportunidades adecuadas a su perfil. Asimismo, resalta la necesidad de una plataforma centralizada que facilite la colaboración, el seguimiento de tareas y el reconocimiento formal de los aportes individuales.
+**Segmento Emprededor**
 
-Este análisis permite identificar oportunidades clave de mejora enfocadas en la organización de proyectos, la claridad en la asignación de roles, la integración de herramientas y la implementación de mecanismos de reputación, elementos fundamentales para diseñar una solución centrada en el usuario colaborador.
+A partir del As-Is Scenario Map del emprendedor se identificó que el principal problema no radica en generar ideas de negocio, sino en ejecutar los proyectos de manera organizada. El análisis evidencia que actualmente los emprendedores dependen de herramientas dispersas como WhatsApp, Google Drive y Trello para buscar colaboradores, coordinar tareas y hacer seguimiento, lo que genera desorden operativo.
 
+Asimismo, se identificaron problemas recurrentes como la dificultad para encontrar colaboradores confiables, la falta de claridad en roles y responsabilidades, el seguimiento manual de tareas y la ausencia de registros formales sobre el desempeño de cada integrante.
+
+<img src="resources/Images/Chapter-2/As-is scenario mapping/As-is mapping emprededor.jpg">
+
+**Segmento Colaborador**
+
+A partir del As-Is Scenario Map del colaborador se identificó que el principal problema no está en la falta de interés por participar en proyectos, sino en la ausencia de procesos claros antes y durante la colaboración. Los usuarios actualmente buscan oportunidades en espacios dispersos como Discord, WhatsApp y LinkedIn, donde muchas veces no encuentran información suficiente sobre los proyectos, roles o nivel de compromiso del equipo.
+
+Asimismo, se identificaron problemas como procesos de incorporación informales, roles poco definidos, falta de coordinación en el trabajo y ausencia de mecanismos que permitan visualizar si su aporte está siendo valorado dentro del proyecto.
+
+<img src="resources/Images/Chapter-2/As-is scenario mapping/as-is scenario mapping colaborador.jpg">
+
+
+
+### 2.3.5. Empathy Mapping
+
+<h4>Segmento Emprededor</h4>
+
+A partir del Empathy Map del segmento emprendedor se identificó que su principal necesidad no es desarrollar la idea del proyecto, sino encontrar personas confiables y organizar el trabajo de manera eficiente. El análisis evidencia que actualmente enfrenta dificultades para encontrar colaboradores comprometidos, definir responsabilidades claras y realizar seguimiento del progreso sin depender de múltiples herramientas externas como WhatsApp, Google Drive y Trello.
+
+Asimismo, se identificó que uno de sus mayores dolores es la falta de compromiso de algunos colaboradores y la ausencia de trazabilidad sobre las tareas realizadas. Esto genera frustración, estrés y desconfianza durante el desarrollo del proyecto.
+
+En conjunto, el mapa permitió validar que el emprendedor necesita una plataforma centralizada que facilite la búsqueda de talento, la organización del equipo y el seguimiento estructurado del proyecto.
+
+<img src="resources/Images/Chapter-2/Empathy Map/Empathy map - Juan Fernandez.png">
+
+<h4>Segmento Colaborador</h4>
+
+A partir del Empathy Map del segmento colaborador se identificó que su principal necesidad no es únicamente encontrar proyectos donde participar, sino asegurarse de que estos sean proyectos serios, organizados y con objetivos claros. El análisis evidencia que actualmente los colaboradores enfrentan incertidumbre antes de unirse a un proyecto debido a la falta de información sobre roles, responsabilidades y nivel de compromiso del equipo.
+
+Asimismo, se identificó que uno de sus principales dolores es que su esfuerzo muchas veces no queda registrado ni reconocido formalmente, además de enfrentar problemas de desorganización, duplicación de tareas y falta de seguimiento dentro del equipo.
+
+<img src="resources/Images/Chapter-2/Empathy Map/Empathy map - Jesli Bautista.png">
 
 
 ## 2.4. Big Picture Event Storming
@@ -1155,13 +1119,13 @@ Este análisis permite identificar oportunidades clave de mejora enfocadas en la
 
 En esta primera etapa, el equipo realizó una sesión de lluvia de ideas para capturar todos los eventos relevantes dentro del dominio, sin preocuparse por el orden o la jerarquía. El objetivo principal fue representar los acontecimientos reales del negocio, de manera independiente a cualquier función técnica o relacionada con un sistema.
 
-<img src="resources/Images/Chapter-2/big-event-storming/eventos.png" alt="Events"/>
+<img src="resources/Images/Chapter-2/Big event storming/events.jpg" alt="Events"/>
 
 **Step 2 – Structured Organization**
 
 Después de listar los eventos, el equipo los organizó en flujos de negocio lógicos que reflejan las principales etapas en la creacion, colaboracion, gestion de los proyectos. Esta estructura ayudó a identificar los procesos clave y las áreas de mejora que posteriormente podrían abordarse mediante soluciones digitales o de gestión.
 
-<img src="resources/Images/Chapter-2/big-event-storming/time-lines.png" alt="time-lines"/>
+<img src="resources/Images/Chapter-2/Big event storming/time-lines.png.jpg" alt="time-lines"/>
 
 ## 2.5. Ubiquitous Language
 
@@ -1171,10 +1135,9 @@ En esta sección se establece un glosario de términos clave del dominio de nego
 |--------|-----------|
 | Project (Proyecto) | Iniciativa colaborativa creada dentro de la plataforma con el objetivo de generar impacto ambiental o social. Incluye descripción, objetivos, actividades y métricas de impacto, y puede requerir colaboradores. |
 | Entrepreneur (Organizador) | Usuario que crea y gestiona un proyecto dentro de la plataforma, coordinando actividades, atrayendo participantes y generando impacto medible. |
-| Collaborator (Colaborador) | Usuario que se une a un proyecto existente aportando habilidades, conocimientos o tiempo para contribuir al cumplimiento de los objetivos. |
+| Collaborator (Colaborador) | Usuario que se une a un proyecto existente aportando habilidades, conocimientos o tiempo para participar activamente en el desarrollo y cumplimiento de los objetivos del proyecto. |
 | Team (Equipo) | Grupo de usuarios (organizadores y colaboradores) que trabajan en un proyecto de manera estructurada, con roles definidos, responsabilidades y objetivos compartidos. |
-| Contribution (Contribución) | Aporte realizado por los usuarios a un proyecto, que puede ser en forma de tiempo, trabajo, recursos o apoyo económico, permitiendo el avance del proyecto. |
-| Reputation (Reputación) | Indicador del nivel de participación y confiabilidad de un usuario dentro de la plataforma, basado en su actividad, cumplimiento de tareas y contribuciones. |
+| Reputation (Reputación) | Indicador del nivel de participación y confiabilidad de un usuario dentro de la plataforma, basado en su actividad, cumplimiento de tareas y desempeño dentro de los proyectos. |
 | Metrics (Métricas) | Indicadores que muestran el progreso de un proyecto y el impacto generado, incluyendo participación, cumplimiento de tareas y datos ambientales. |
 | Subscription (Subscripción) | Modelo de acceso a la plataforma mediante un pago recurrente que otorga beneficios adicionales y funcionalidades avanzadas. |
 | Milestone (Hito) | Punto de control dentro de un proyecto que representa un objetivo grupal. Agrupa tareas individuales y permite medir el avance del proyecto. |

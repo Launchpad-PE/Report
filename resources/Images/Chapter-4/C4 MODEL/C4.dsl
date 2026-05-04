@@ -6,13 +6,13 @@ workspace "Foundly - C4 Model" "Diagrama de contexto y contenedores de Foundly" 
         Colaboradores = person "Colaboradores" "Usuarios que participan en proyectos."
 
         // Sistemas externos
-        Stripe = softwareSystem "Stripe" "Pasarela de pago utilizada para procesar contribuciones y suscripciones."
+        Stripe = softwareSystem "Stripe" "Pasarela de pago utilizada para procesar suscripciones de la plataforma."
         Cloudinary = softwareSystem "Cloudinary" "Servicio para almacenamiento de imágenes y archivos."
         AuthService = softwareSystem "Auth0" "Servicio externo de autenticación y gestión de identidad."
         IoTDevices = softwareSystem "IoT Devices" "Sensores físicos o simulados que capturan datos ambientales."
 
         // Sistema principal
-        Foundly = softwareSystem "Foundly" "Plataforma colaborativa con IoT para gestión de proyectos y financiamiento" {
+        Foundly = softwareSystem "Foundly" "Plataforma colaborativa con IoT para gestión de proyectos" {
 
             LandingPage = container "Landing Page" "Página pública con información del producto y call-to-action" "HTML, CSS, JS"
 
@@ -48,10 +48,7 @@ workspace "Foundly - C4 Model" "Diagrama de contexto y contenedores de Foundly" 
                 Notification = component "Notification Module" "Gestión de notificaciones del sistema" "Java"
 
                 // 💳 SUBSCRIPTION
-                Subscription = component "Subscription Module" "Gestión de planes y suscripciones" "Java"
-
-                // 💰 CONTRIBUTION
-                Contribution = component "Contribution Module" "Gestión de aportes y financiamiento" "Java"
+                Subscription = component "Subscription Module" "Gestión de planes y suscripciones de la plataforma" "Java"
 
                 // 📡 IOT
                 IoT = component "IoT Module" "Gestión de datos ambientales y monitoreo" "Java"
@@ -67,7 +64,7 @@ workspace "Foundly - C4 Model" "Diagrama de contexto y contenedores de Foundly" 
         Emprendedores -> Foundly "Gestionan proyectos"
         Colaboradores -> Foundly "Participan en proyectos"
 
-        Foundly -> Stripe "Procesa pagos y contribuciones"
+        Foundly -> Stripe "Procesa suscripciones"
         Foundly -> Cloudinary "Almacena imágenes y archivos"
         Foundly -> AuthService "Gestiona autenticación"
 
@@ -81,7 +78,7 @@ workspace "Foundly - C4 Model" "Diagrama de contexto y contenedores de Foundly" 
 
         // 🔵 BACKEND
         Backend -> Database "Lee y escribe datos"
-        Backend -> Stripe "Procesa pagos"
+        Backend -> Stripe "Procesa suscripciones"
         Backend -> Cloudinary "Gestiona archivos"
         Backend -> AuthService "Valida autenticación"
         IoTDevices -> Backend "Envía métricas ambientales en tiempo real"
@@ -95,7 +92,6 @@ workspace "Foundly - C4 Model" "Diagrama de contexto y contenedores de Foundly" 
         API -> Task "Gestiona tareas"
         API -> Notification "Gestiona notificaciones"
         API -> Subscription "Gestiona suscripciones"
-        API -> Contribution "Gestiona aportes"
         API -> IoT "Gestiona datos IoT"
         API -> Analytics "Consulta métricas"
 
@@ -107,7 +103,6 @@ workspace "Foundly - C4 Model" "Diagrama de contexto y contenedores de Foundly" 
         Task -> Shared "Usa utilidades comunes"
         Notification -> Shared "Usa utilidades comunes"
         Subscription -> Shared "Usa utilidades comunes"
-        Contribution -> Shared "Usa utilidades comunes"
         IoT -> Shared "Usa utilidades comunes"
         Analytics -> Shared "Usa utilidades comunes"
 
@@ -119,7 +114,6 @@ workspace "Foundly - C4 Model" "Diagrama de contexto y contenedores de Foundly" 
         Task -> Repository "Persistencia de tareas"
         Notification -> Repository "Persistencia de notificaciones"
         Subscription -> Repository "Persistencia de suscripciones"
-        Contribution -> Repository "Persistencia de aportes"
         IoT -> Repository "Persistencia de métricas"
         Analytics -> Repository "Consulta datos"
 
@@ -132,22 +126,22 @@ workspace "Foundly - C4 Model" "Diagrama de contexto y contenedores de Foundly" 
 
     views {
 
-    systemContext Foundly {
-        include *
-        autolayout lr
-    }
+        systemContext Foundly {
+            include *
+            autolayout lr
+        }
 
-    container Foundly {
-        include *
-        autolayout lr
-    }
+        container Foundly {
+            include *
+            autolayout lr
+        }
 
-    component Backend {
-        include *
-        autolayout lr
-    }
-
-    styles {
+        component Backend {
+            include *
+            autolayout lr
+        }
+        
+        styles {
 
         // 👤 Personas
         element "Person" {
@@ -209,11 +203,6 @@ workspace "Foundly - C4 Model" "Diagrama de contexto y contenedores de Foundly" 
             background #f39c12
         }
 
-        // 💰 CONTRIBUTION
-        element "Contribution Module" {
-            background #d35400
-        }
-
         // 💳 SUBSCRIPTION
         element "Subscription Module" {
             background #c0392b
@@ -240,7 +229,10 @@ workspace "Foundly - C4 Model" "Diagrama de contexto y contenedores de Foundly" 
         }
 
     }
+        
+            theme default
 
-    theme default
-}
-}
+
+    }
+
+   }
