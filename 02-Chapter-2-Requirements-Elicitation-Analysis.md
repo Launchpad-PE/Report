@@ -640,19 +640,19 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Diana Carolina</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Li Gayoso</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td></td>
+    <td>19 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>Chorrillos</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -668,19 +668,21 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt=""></div></td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Diana-Carolina-update.png" alt=""></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank" href="" title="Entrevista Kael Lagos">Microsoft Stream</a></p></td>
+     <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417423_upc_edu_pe/IQBtwzJ-vkMuTohKltSQUItBAa_3kKJsKa8MkqAcCGHzsNA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gAE5fd" title="Title">Microsoft Stream</p>
+	</td>
   </tr>
   <tr>
     <td>Duracion</td>
-    <td></td>
+    <td>0:00 min - 4:10 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>"Nombre" es un estudiante con experiencia en hackathons y proyectos de software que se une a proyectos cuando le generan aprendizaje real. Su frustración principal es encontrar proyectos que aparentan ser interesantes pero carecen de estructura o dirección clara. También señala problemas de comunicación: integrantes que no responden o no cumplen con lo asignado. Antes de unirse a un proyecto, desea conocer los objetivos, su rol y el tiempo de dedicación requerido. Valora que se reconozca quién cumplió sus responsabilidades y busca una mejor organización de tareas y comunicación entre integrantes.</td>
+    <td>Diana es un estudiante con experiencia en hackathons y proyectos de software que se une a proyectos cuando le generan aprendizaje real. Su frustración principal es encontrar proyectos que aparentan ser interesantes pero carecen de estructura o dirección clara. También señala problemas de comunicación: integrantes que no responden o no cumplen con lo asignado. Antes de unirse a un proyecto, desea conocer los objetivos, su rol y el tiempo de dedicación requerido. Valora que se reconozca quién cumplió sus responsabilidades y busca una mejor organización de tareas y comunicación entre integrantes.</td>
   </tr>
 </tbody>
 </table>
