@@ -494,7 +494,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt=""></div></td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Damaly-Almarco.png" alt=""></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -550,7 +550,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt=""></div></td>
+    <td><div align="center"><img src="resources/Images/Chapter-2/entrevistas/Interview-of-Gonzalo Quintanilla.png" alt=""></div></td>
   </tr>
   <tr>
     <td>Link</td>
