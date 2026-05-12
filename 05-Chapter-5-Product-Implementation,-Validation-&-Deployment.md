@@ -671,15 +671,27 @@ miembro del equipo en la implementación de las vistas y funcionalidades.
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
 |---|---|---|---|---|---|
-| VitalyBaca/foundly-frontend | feature/project-management | a1b2c3d | feat: add project creation view | Implements project creation form with fake API integration | 2026-05-06 |
-| VitalyBaca/foundly-frontend | feature/project-management | e4f5g6h | feat: add project listing view | Implements project exploration view with filtering | 2026-05-08 |
-| JoseDiegoBautista/foundly-frontend | feature/iam | i7j8k9l | feat: add login view | Implements login view with simulated authentication | 2026-05-07 |
-| JoseDiegoBautista/foundly-frontend | feature/iam | m1n2o3p | feat: add register view | Implements registration form with field validation | 2026-05-09 |
-| SebastianLima-PE/foundly-frontend | feature/iot-panel | q4r5s6t | feat: add IoT panel view | Implements IoT panel with simulated real-time sensor data | 2026-05-10 |
-| SebastianLima-PE/foundly-frontend | feature/iot-panel | u7v8w9x | feat: add milestone management view | Implements milestone creation and tracking view | 2026-05-12 |
-| mau-tz/foundly-frontend | feature/collaborator-views | y1z2a3b | feat: add collaborator profile view | Implements collaborator profile with reputation score | 2026-05-11 |
-| mau-tz/foundly-frontend | feature/collaborator-views | c4d5e6f | feat: add application management view | Implements accept/reject application flow for entrepreneurs | 2026-05-13 |
-
+| VitalyBaca/foundly-frontend | feat/vitaly | c274d71| Inital commit | Add/ cofigure json files and readme | 2026-05-09 |
+| JoseDiegoBautista/foundly-frontend | feat/iam | d587767 | feat(iam): define user domain model and validation rules | Implements user domain structure and validation rules | 2026-05-09 |
+| JoseDiegoBautista/foundly-frontend | feat/iam | da05c7e | implement api services and data assemblers | Implements registration form with field validation | 2026-05-09 |
+| JoseDiegoBautista/foundly-frontend | feat/iam | d09eece | feat(iam): add authentication and user state management| Implements user authentication and state management | 2026-05-09 |
+| JoseDiegoBautista/foundly-frontend | feat/iam | ca1f3fa | feat(iam): create reusable presentation components| Implements resuable components for presentation such as Description-step, profile-step and modal-forget-password| 2026-05-09 |
+| JoseDiegoBautista/foundly-frontend | feat/iam | 408d91a | feat(iam): implementation of identity and access management bounded context| Implements identity and access management for users| 2026-05-09 |
+| VitalyBaca/foundly-frontend |feat/vitaly | 54ecc18 | feat(onboarding): implement onboarding steps with profile, role, and description components| Implements components for profile, role, and description components | 2026-05-09 |
+| VitalyBaca/foundly-frontend | feat/vitaly | 6c22c1b | feat(profile): implement profile management with entities, API endpoints, and validation| Implements entities, API endpoints and validations for profile management | 2026-05-10 |
+| VitalyBaca/foundly-frontend | feat/vitaly | e2ab0df | Feat/profile-management | Implements project management | 2026-05-10 |
+| VitalyBaca/foundly-frontend | feat/vitaly | 584b651| feat(onboarding): implement onboarding process with profile configuration, skills, and role selection components| Implements onboarding process | 2026-05-10 |
+| VitalyBaca/foundly-frontend | feat/vitaly | 8e8e441 | feat(onboarding): implement onboarding process with profile configura…| Implements onboarding process with profile, role-form and skills configuration| 2026-05-10 |
+| VitalyBaca/foundly-frontend | feat/vitaly | 567870b | feat(collaborator-card): add collaborator card component with styles and tests| Implements collaborator card components with styles | 2026-05-10 |
+| VitalyBaca/foundly-frontend | feat/vitaly | 6d64e76 | feat(home): implement home component with layout, styles, and basic functionality| Implements home components for the web view | 2026-05-10 |
+| SebastianLima-PE/foundly-frontend | feat/sebas| d370d19 | feat(home): update branding and enhance layout with new search functionality | Implements/update layout with new searching functionalities | 2026-05-10 |
+| VitalyBaca/foundly-frontend | feat/vitaly | 6f1fb7c | feat(project): add create project route and update project components| Implements project route with updated components| 2026-05-10 |
+| VitalyBaca/foundly-frontend | feat/vitaly | 83a7e47 | feat(create-project): implement create project view with multi-step form and styling| Implements project view with steps and styles | 2026-05-10 |
+| SebastianLima-PE/foundly-frontend | feat/sebas | b80be55 | feat(project-detail): add project detail view with routing and empty states | Implements project view details | 2026-05-12 |
+| mau-tz/foundly-frontend | feat/collaborator | 1be1103 | feat: add collaborators view with filters | Implements a view for collaborators with filters | 2026-05-10 |
+| mau-tz/foundly-frontend | feat/collaborator | 3d1e1d2 | refactor: collaborators view | Fix design for collaborators view| 2026-05-10 |
+| mau-tz/foundly-frontend | feat/collaborator | 78946a9 | feat: add routes for collaborators view
+| Implements routes for collaborators view| 2026-05-11 |
 ---
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
