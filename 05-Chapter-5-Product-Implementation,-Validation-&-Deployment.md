@@ -859,8 +859,27 @@ Frontend Web Application de Foundly. A continuación se presentan los
 analíticos de colaboración y commits realizados por los miembros del equipo 
 en GitHub durante este sprint.
 
-![Analíticos de colaboración GitHub - Sprint 2](ruta/imagen/github-analytics-sprint2.png)
-![Gráfico de commits por integrante](ruta/imagen/github-commits-sprint2.png)
+**Project Report Collaboration Insights**
+
+#### Resumen de Actividad
+- **Periodo:** 2 de mayo - 11 de mayo de 2026.
+- **Commits Totales:** 50
+
+![Analíticos de colaboración GitHub - Sprint 2](resources/Images/Collaboration_Insights/Insights.png)
+
+#### Análisis de Colaboración
+* **Frecuencia de Integración:** Se registró una participación constante de los miembros, con **Gogotes17** liderando la frecuencia de integración con 19 commits, asegurando un flujo continuo de actualizaciones.
+* **Volumen de Desarrollo:** El usuario **Mr-Code-star** realizó el mayor aporte en volumen de código (11,811 adiciones), lo cual se asocia a la implementación de módulos de datos y estructuras base de la aplicación.
+* **Refactorización y Mantenimiento:** El balance entre adiciones y eliminaciones de **mau-tz** (3,446 vs 2,566) evidencia una labor significativa en la limpieza de código y optimización de componentes existentes, mejorando la mantenibilidad del frontend.
+* **Colaboración Específica:** **SebastianLima-PE** contribuyó con integraciones clave en puntos específicos del desarrollo, manteniendo un ratio positivo de crecimiento del proyecto.
+
+---
+
+**Contributors**
+
+El desarrollo de este proyecto fue posible gracias a la colaboración y el esfuerzo técnico de los siguientes integrantes:
+
+![Gráfico de commits por integrante](resources/Images/Chapter-5/Team_Colaboration/Contributors2.png)
 
 **URL del repositorio del Frontend Web Application:**
-https://github.com/org-foundly/foundly-frontend (reemplazar con URL real)
+https://github.com/Launchpad-PE/Foundly-Frontend
