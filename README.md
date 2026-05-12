@@ -74,13 +74,13 @@ Durante esta fase, el equipo elaboró el **informe inicial**, que incluyó los s
 - **Contenido preliminar** con tabla de contenidos, *Student Outcomes* y Capítulo I (*Introducción*).
 - **Capítulo II** con los primeros avances en *Requirements Elicitation & Analysis*.
 - **Capítulo III** con la especificación de requisitos, User Stories y Product Backlog.
-- **Capítulo IV** con los avances en *Product Design*, incluyendo Style Guidelines, wireframes y mockups.<
-- **Capítulo V** con los avnces del Product Implementation, Validation & Deployment.
+- **Capítulo IV** con los avances en *Product Design*, incluyendo Style Guidelines, wireframes y mockups.
+- **Capítulo V** con los avances del Product Implementation, Validation & Deployment.
 - *\*Conclusiones preliminares, bibliografía y anexos.*
 
 A continuación se presenta la captura de los analíticos de colaboración y commits en GitHub para este entregable:
 
-![Project Report Collaboration Insights TB1](resources/Images/Collaboration%20Insights/Project%20Report%20Collaboration%20Insights(AV1).png)
+![Project Report Collaboration Insights TB1](resources/Images/Collaboration_Insights/Project%20Report%20Collaboration%20Insights(AV1).png)
 
 | Integrante | Usuario GitHub | Commits | Adiciones | Eliminaciones |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ A continuación se presenta la captura de los analíticos de colaboración y com
 
 La colaboración fue activa y equitativa, con aportes sustanciales de todos los integrantes en la redacción y organización del informe.
 
-<>br
+
 
 # Tabla de Contenidos
 
