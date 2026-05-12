@@ -574,3 +574,312 @@ Las imágenes evidencian la participación de los cinco integrantes del equipo e
 | Almandroz Carbajal, Pierina Marysabelh | `pierinaaa29` | 16 |
 
 La distribución de commits confirma que todos los integrantes tuvieron participación activa en el Sprint 1, con una diferencia máxima de 8 commits entre el miembro más activo y el menos activo, lo que evidencia un trabajo colaborativo equilibrado a lo largo del sprint.
+
+
+## 5.2.2. Sprint 2
+
+En esta sección se registra y explica el avance del equipo durante el Sprint 2 
+de Foundly, correspondiente al desarrollo de la primera versión funcional del 
+Frontend Web Application. A diferencia del Sprint 1, enfocado en el diseño y 
+despliegue de la Landing Page, este sprint estuvo orientado a implementar las 
+vistas principales de la aplicación web para ambos segmentos objetivo: 
+emprendedores y colaboradores.
+
+### 5.2.2.1. Sprint Planning 2
+
+En esta sección se presentan los detalles del Sprint Planning Meeting 2, en el cual 
+el equipo definió el objetivo, la capacidad y las User Stories a incluir en esta 
+iteración, enfocada en el desarrollo del Frontend Web Application de Foundly.
+
+| Sprint # | Sprint 2 |
+|---|---|
+| **Sprint Planning Background** | |
+| Date | 2026-04-29 |
+| Time | 5:00 PM |
+| Location | Reunión virtual mediante Discord |
+| Prepared By | Baca Camargo, Vitaly Arturo |
+| Attendees (to planning meeting) | Baca Camargo, Vitaly Arturo / Bautista Rivera, Jose Diego / Pariachi Limahuaya, Sebastian Ubaldo / Teran Zavala, Mauricio Alejandro |
+| Sprint 1 Review Summary | Durante el Sprint 1 se logró implementar y desplegar en su totalidad la Landing Page de Foundly, cubriendo todas las secciones planificadas: hero con llamadas a la acción, servicios con modales, planes de suscripción, páginas específicas por segmento (emprendedor y colaborador), carrusel de empresas asociadas, video introductorio, sección de la aplicación, asistente virtual y footer completo con contacto, redes sociales y documentación legal. Se aseguró el diseño responsivo para dispositivos móviles y de escritorio, y la página quedó correctamente desplegada en el hosting. Todos los enlaces, modales y navegación funcionan correctamente. |
+| Sprint 1 Retrospective Summary | El equipo logró completar el Sprint 1 de forma coordinada y dentro de los plazos establecidos. Cada integrante cumplió con las secciones asignadas, lo que permitió integrar la landing page sin inconvenientes. Como oportunidad de mejora, el equipo acordó mantener revisiones periódicas en Discord para detectar bloqueos tempranos y mejorar la comunicación continua durante el Sprint 2, especialmente dado el mayor volumen de trabajo que implica el desarrollo del frontend de la Web Application. |
+| **Sprint Goal & User Stories** | |
+| Sprint 2 Goal | Nuestro enfoque está en entregar la primera versión funcional del Frontend Web Application de Foundly, integrada con una Fake API mediante db.json. Creemos que esto proporciona una experiencia navegable e interactiva tanto para emprendedores como para colaboradores, permitiéndoles explorar las funcionalidades principales de la plataforma. Esto se confirmará cuando los usuarios autenticados puedan registrarse, iniciar sesión, crear y explorar proyectos, gestionar su perfil, visualizar el panel IoT y navegar por las vistas del colaborador sin errores. |
+| Sprint 2 Velocity | 35 |
+| Sum of Story Points | 68 |
+
+---
+
+### 5.2.2.2. Aspect Leaders and Collaborators
+
+Durante el Sprint 2, el equipo organizó el trabajo en torno al desarrollo del 
+Frontend Web Application de Foundly, estructurado en cinco aspectos principales: 
+autenticación e IAM, gestión de proyectos, vistas del colaborador, panel IoT y 
+gestión del perfil de usuario. Con el fin de mantener una coordinación efectiva, 
+se estructuró la matriz de liderazgo y colaboración (LACX), donde se asignó un 
+líder (L) por cada aspecto y colaboradores (C) que brindan apoyo en su 
+implementación.
+
+| Team Member | GitHub Username | IAM & Auth | Gestión de proyectos | Vistas colaborador | Panel IoT | Perfil de usuario |
+|---|---|---|---|---|---|---|
+| Almandroz Carbajal, Pierina Marysabel | pierinaaa29 | C | C | C | C | C |
+| Baca Camargo, Vitaly Arturo | VitalyBaca | C | L | C | C | C |
+| Bautista Rivera, Jose Diego | JoseDiegoBautista | L | C | C | C | C |
+| Pariachi Limahuaya, Sebastian Ubaldo | SebastianLima-PE | C | C | C | L | C |
+| Teran Zavala, Mauricio Alejandro | mau-tz | C | C | L | C | L |
+
+---
+
+### 5.2.2.3. Sprint Backlog 2
+
+El objetivo principal del Sprint 2 es implementar el Frontend Web Application de Foundly integrado con una Fake API mediante db.json, cubriendo los flujos 
+principales de la plataforma para ambos segmentos objetivo. A continuación se 
+presenta el tablero de control del sprint:
+
+**URL del Sprint Board:**  https://upc-team-tohi2bk.atlassian.net/jira/software/projects/FOUN/boards/67
+
+![Sprint Board Foundly Sprint 2](resources/Images/Chapter-5/Sprint2/sprint-board-2.png)
+
+| User Story ID | User Story Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| US001 | Registro y autenticación | FOUN-25 | Vista de registro | Implementar la vista de registro con validación de campos obligatorios integrada con fake API. | 5 | Bautista Rivera, Jose Diego | Done |
+| US002 | Registro de cuenta | FOUN-48 | Vista de login | Implementar la vista de inicio de sesión con autenticación simulada mediante db.json. | 3 | Bautista Rivera, Jose Diego | Done |
+| US003 | Login usuario | FOUN-26 | Funcionalidad logout | Implementar el cierre de sesión con invalidación del estado de autenticación en el frontend. | 3 | Bautista Rivera, Jose Diego | Done |
+| US004 | Crear proyecto | FOUN-29 | Vista creación de proyecto | Desarrollar la vista de creación de proyecto con formulario y validación integrada con fake API. | 5 | Baca Camargo, Vitaly Arturo | Done |
+| US005 | Definir proyecto | FOUN-30 | Funcionalidad publicar proyecto | Implementar la acción de publicación de proyecto con cambio de estado en db.json. | 3 | Baca Camargo, Vitaly Arturo | Done |
+| US006 | Unirse a proyecto | FOUN-33 | Funcionalidad unirse | Implementar lógica para unirse a proyectos existentes mediante el ID del proyecto. | 5 | No Asignado | To Do |
+| US007 | Postulación a proyecto | FOUN-34 | Gestión de postulaciones | Desarrollar el sistema de envío de postulaciones a proyectos específicos. | 3 | No Asignado | To Do |
+| US021 | Perfil de usuario | FOUN-27 | Vista perfil | Crear la vista de visualización de perfil de usuario con datos dinámicos. | 3 | No Asignado | To Do |
+| US022 | Editar perfil | FOUN-28 | Formulario edición | Implementar formulario para la actualización de datos personales y profesionales. | 3 | No Asignado | To Do |
+| US023 | Buscar proyectos | FOUN-31 | Filtros de búsqueda | Implementar buscador con filtros por categoría y tecnología. | 3 | Baca Camargo, Vitaly Arturo | Done |
+| US027 | Ver detalle | FOUN-47 | Vista detalles | Desarrollar la vista detallada de un proyecto seleccionado. | 3 | Baca Camargo, Vitaly Arturo | Done |
+| US029 | Perfil completo | FOUN-49 | Integración de datos | Asegurar que toda la información del usuario se visualice correctamente en el perfil extendido. | 5 | No Asignado | To Do |
+| US031 | Crear hitos | FOUN-54 | Módulo de hitos | Permitir la creación de hitos temporales dentro de un proyecto. | 5 | Baca Camargo, Vitaly Arturo | In Progress |
+| US032 | Ver hitos | FOUN-55| Listado de hitos | Visualización de la línea de tiempo o lista de hitos del proyecto. | 3 | Baca Camargo, Vitaly Arturo | In Progress |
+| US033 | Actualizar hitos | FOUN-56 | Edición de hitos | Funcionalidad para modificar fechas o nombres de hitos existentes. | 3 | Baca Camargo, Vitaly Arturo | In Progress |
+| US034 | Evidencias de hitos | FOUN-57 | Carga de archivos | Implementar la subida de evidencias para el cumplimiento de hitos. | 3 | Baca Camargo, Vitaly Arturo | In Progress |
+| US051 | Crear tareas | FOUN-50 | Gestor de tareas | Desarrollar el formulario para asignar tareas a miembros del equipo. | 5 | No Asignado | To Do |
+| US052 | Ver tareas | FOUN-52 | Tablero de tareas | Visualización de tareas pendientes y realizadas en el panel del proyecto. | 3 | No Asignado | To Do |
+| US053 | Completar tareas | FOUN-51 | Cambio de estado | Implementar la lógica de transición de tareas a estado completado. | 2 | No Asignado | To Do |
+| US054 | Eliminar tareas | FOUN-53 | Borrado lógico | Implementar la eliminación de tareas creadas por error. | 2 | No Asignado | To Do |
+
+---
+
+### 5.2.2.4. Development Evidence for Sprint Review
+
+En esta sección se presentan los commits realizados en el repositorio del 
+Frontend Web Application durante el Sprint 2, evidenciando los aportes de cada 
+miembro del equipo en la implementación de las vistas y funcionalidades.
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|---|
+| VitalyBaca/foundly-frontend | feat/vitaly | c274d71| Inital commit | Add/ cofigure json files and readme | 2026-05-09 |
+| JoseDiegoBautista/foundly-frontend | feat/iam | d587767 | feat(iam): define user domain model and validation rules | Implements user domain structure and validation rules | 2026-05-09 |
+| JoseDiegoBautista/foundly-frontend | feat/iam | da05c7e | implement api services and data assemblers | Implements registration form with field validation | 2026-05-09 |
+| JoseDiegoBautista/foundly-frontend | feat/iam | d09eece | feat(iam): add authentication and user state management| Implements user authentication and state management | 2026-05-09 |
+| JoseDiegoBautista/foundly-frontend | feat/iam | ca1f3fa | feat(iam): create reusable presentation components| Implements resuable components for presentation such as Description-step, profile-step and modal-forget-password| 2026-05-09 |
+| JoseDiegoBautista/foundly-frontend | feat/iam | 408d91a | feat(iam): implementation of identity and access management bounded context| Implements identity and access management for users| 2026-05-09 |
+| VitalyBaca/foundly-frontend |feat/vitaly | 54ecc18 | feat(onboarding): implement onboarding steps with profile, role, and description components| Implements components for profile, role, and description components | 2026-05-09 |
+| VitalyBaca/foundly-frontend | feat/vitaly | 6c22c1b | feat(profile): implement profile management with entities, API endpoints, and validation| Implements entities, API endpoints and validations for profile management | 2026-05-10 |
+| VitalyBaca/foundly-frontend | feat/vitaly | e2ab0df | Feat/profile-management | Implements project management | 2026-05-10 |
+| VitalyBaca/foundly-frontend | feat/vitaly | 584b651| feat(onboarding): implement onboarding process with profile configuration, skills, and role selection components| Implements onboarding process | 2026-05-10 |
+| VitalyBaca/foundly-frontend | feat/vitaly | 8e8e441 | feat(onboarding): implement onboarding process with profile configura…| Implements onboarding process with profile, role-form and skills configuration| 2026-05-10 |
+| VitalyBaca/foundly-frontend | feat/vitaly | 567870b | feat(collaborator-card): add collaborator card component with styles and tests| Implements collaborator card components with styles | 2026-05-10 |
+| VitalyBaca/foundly-frontend | feat/vitaly | 6d64e76 | feat(home): implement home component with layout, styles, and basic functionality| Implements home components for the web view | 2026-05-10 |
+| SebastianLima-PE/foundly-frontend | feat/sebas| d370d19 | feat(home): update branding and enhance layout with new search functionality | Implements/update layout with new searching functionalities | 2026-05-10 |
+| VitalyBaca/foundly-frontend | feat/vitaly | 6f1fb7c | feat(project): add create project route and update project components| Implements project route with updated components| 2026-05-10 |
+| VitalyBaca/foundly-frontend | feat/vitaly | 83a7e47 | feat(create-project): implement create project view with multi-step form and styling| Implements project view with steps and styles | 2026-05-10 |
+| SebastianLima-PE/foundly-frontend | feat/sebas | b80be55 | feat(project-detail): add project detail view with routing and empty states | Implements project view details | 2026-05-12 |
+| mau-tz/foundly-frontend | feat/collaborator | 1be1103 | feat: add collaborators view with filters | Implements a view for collaborators with filters | 2026-05-10 |
+| mau-tz/foundly-frontend | feat/collaborator | 3d1e1d2 | refactor: collaborators view | Fix design for collaborators view| 2026-05-10 |
+| mau-tz/foundly-frontend | feat/collaborator | 78946a9 | feat: add routes for collaborators view
+| Implements routes for collaborators view| 2026-05-11 |
+---
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 2 se implementó la primera versión funcional del Frontend 
+Web Application de Foundly, integrada con una Fake API mediante db.json. 
+A continuación se presentan capturas de las principales vistas implementadas:
+
+**Vista principal (Home)**
+
+<img src="resources/Images/Chapter-5/Sprint2/Home.png">
+
+**Vista de inicio de sesión**
+
+<img src="resources/Images/Chapter-5/Sprint2/Login.png">
+
+**Vista de proyectos**
+
+<img src="resources/Images/Chapter-5/Sprint2/Projects.png">
+
+**Creación de proyecto - Paso 1**
+
+<img src="resources/Images/Chapter-5/Sprint2/Project Create 1.png">
+
+**Creación de proyecto - Paso 2**
+
+<img src="resources/Images/Chapter-5/Sprint2/Project Create 2.png">
+
+**Creación de proyecto - Paso 3**
+
+<img src="resources/Images/Chapter-5/Sprint2/Project Create 3.png">
+
+**Creación de proyecto - Paso 4**
+
+<img src="resources/Images/Chapter-5/Sprint2/Project Create 4.png">
+
+**Vista del colaborador**
+
+<img src="resources/Images/Chapter-5/Sprint2/Collaborator.png">
+
+**URL del video de navegación del Sprint 2:**
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310949_upc_edu_pe/IQBhHhpVWD5VQKEVKpGqPtUSAdbO1SYBecYiSlmOpTTCq0o?e=bbQDze&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+---
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 2, el backend no fue implementado con servicios reales. 
+El equipo utilizó una Fake API mediante db.json integrada con JSON Server 
+para simular los endpoints del RESTful API durante el desarrollo del frontend. 
+La documentación completa de los endpoints reales será incluida en el Sprint 3, 
+una vez que el backend con Spring Boot esté desplegado.
+
+| Endpoint simulado | Verbo HTTP | Descripción | URL local |
+|---|---|---|---|
+| /projects | GET | Lista todos los proyectos | http://localhost:3000/projects |
+| /projects | POST | Crea un nuevo proyecto | http://localhost:3000/projects |
+| /projects/:id | GET | Obtiene detalle de un proyecto | http://localhost:3000/projects/:id |
+| /users | GET | Lista todos los usuarios | http://localhost:3000/users |
+| /users/:id | GET | Obtiene perfil de un usuario | http://localhost:3000/users/:id |
+| /applications | GET | Lista postulaciones | http://localhost:3000/applications |
+| /applications | POST | Registra una postulación | http://localhost:3000/applications |
+| /milestones | GET | Lista hitos de un proyecto | http://localhost:3000/milestones |
+| /milestones | POST | Crea un hito | http://localhost:3000/milestones |
+| /notifications | GET | Lista notificaciones del usuario | http://localhost:3000/notifications |
+
+---
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 2 se realizó el despliegue del db.json utilizando Render como plataforma de hosting y el Frontend Web Application de Foundly utilizando Vercel como plataforma de hosting. El proceso incluyó la conexión del repositorio, configuración del proyecto con detección automática del framework Angular, configuración de la rama de producción y verificación del despliegue exitoso.
+
+- **Despliegue de db.json en Render**
+
+**Paso 1: Conexión del Repositorio:**
+
+Selección del repositorio json-server desde GitHub dentro del panel de Render para iniciar la creación del servicio web.
+
+<img src= "resources/Images/Chapter-5/Sprint2/RepositoryConnection.jpeg">
+
+**Paso 2: Estado del Despliegue (Build & Deploy):**
+
+Monitorización del primer despliegue. Se confirma que el servicio está "Live" y que el proceso de compilación de Node.js finalizó correctamente bajo el plan "Free".
+
+<img src="resources/Images/Chapter-5/Sprint2/DeployStatus.jpeg">
+
+**Paso 3: Página de Inicio del Servidor:**
+
+Acceso a la URL pública json-server-qmbj.onrender.com. Se visualizan los recursos (Resources) disponibles: /users, /profiles y /projects.
+
+<img src="resources/Images/Chapter-5/Sprint2/Congrats.jpeg">
+
+**Paso 4: Verificación de Endpoint de Usuarios:**
+
+Verificación de la ruta /users, mostrando la estructura de los objetos de usuario creados.
+
+<img src="resources/Images/Chapter-5/Sprint2/UsersEndpoint.jpeg">
+
+**Paso 5: Verificación de Endpoint de Perfiles:**
+
+Validación de la ruta /profiles, confirmando que los datos de habilidades (skills) y roles están disponibles.
+
+<img src="resources/Images/Chapter-5/Sprint2/ProfileEndpoint.jpeg">
+
+**Paso 6: Verificación de Endpoint de Proyectos:**
+
+Validación de la ruta /projects, mostrando los proyectos con sus atributos (id, title, description, status).
+
+<img src="resources/Images/Chapter-5/Sprint2/ProjectEndpoint.jpeg">
+
+---
+
+- **Despliegue del Frontend Web Application en Vercel**
+
+**Paso 1: Importar repositorio en Vercel**
+
+Se accedió a la plataforma Vercel y se seleccionó el repositorio 
+Foundly-Frontend para iniciar el proceso de despliegue.
+
+<img src="resources/Images/Chapter-5/Sprint2/Import Project.png">
+
+**Paso 2: Configuración del proyecto**
+
+Vercel detectó automáticamente el framework Angular y configuró los comandos 
+de build correspondientes.
+
+<img src="resources/Images/Chapter-5/Sprint2/Configure Project.png">
+
+**Paso 3: Configuración de la rama de producción**
+
+En Settings > Git se configuró la rama de producción como FirstDeploy para 
+asegurar que los despliegues reflejen el estado correcto del repositorio.
+
+<img src="resources/Images/Chapter-5/Sprint2/Production Branch.png">
+
+**Paso 4: Build Logs**
+
+Se verificó el proceso de build en la consola de Vercel, confirmando la 
+ejecución exitosa de `npm run build` y la finalización del proceso de 
+compilación.
+
+<img src="resources/Images/Chapter-5/Sprint2/Build Logs.png">
+
+**Paso 5: Overview del proyecto desplegado**
+
+El tablero de Vercel muestra el estado "Ready" del proyecto, la miniatura 
+del sitio y la URL oficial asignada.
+
+<img src="resources/Images/Chapter-5/Sprint2/Overview.png">
+
+**Paso 6: Sitio en producción**
+
+El Frontend Web Application de Foundly quedó correctamente desplegado y 
+accesible mediante HTTPS en el dominio de Vercel.
+
+<img src="resources/Images/Chapter-5/Sprint2/Barra de direcciones con el candado de seguridad (HTTPS).png">
+
+
+---
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 2, el equipo colaboró activamente en el repositorio del 
+Frontend Web Application de Foundly. A continuación se presentan los 
+analíticos de colaboración y commits realizados por los miembros del equipo 
+en GitHub durante este sprint.
+
+**Project Report Collaboration Insights**
+
+#### Resumen de Actividad
+- **Periodo:** 2 de mayo - 11 de mayo de 2026.
+- **Commits Totales:** 50
+
+![Analíticos de colaboración GitHub - Sprint 2](resources/Images/Collaboration_Insights/Insights.png)
+
+#### Análisis de Colaboración
+* **Frecuencia de Integración:** Se registró una participación constante de los miembros, con **Gogotes17** liderando la frecuencia de integración con 19 commits, asegurando un flujo continuo de actualizaciones.
+* **Volumen de Desarrollo:** El usuario **Mr-Code-star** realizó el mayor aporte en volumen de código (11,811 adiciones), lo cual se asocia a la implementación de módulos de datos y estructuras base de la aplicación.
+* **Refactorización y Mantenimiento:** El balance entre adiciones y eliminaciones de **mau-tz** (3,446 vs 2,566) evidencia una labor significativa en la limpieza de código y optimización de componentes existentes, mejorando la mantenibilidad del frontend.
+* **Colaboración Específica:** **SebastianLima-PE** contribuyó con integraciones clave en puntos específicos del desarrollo, manteniendo un ratio positivo de crecimiento del proyecto.
+
+---
+
+**Contributors**
+
+El desarrollo de este proyecto fue posible gracias a la colaboración y el esfuerzo técnico de los siguientes integrantes:
+
+![Gráfico de commits por integrante](resources/Images/Chapter-5/Team_Colaboration/Contributors2.png)
+
+**URL del repositorio del Frontend Web Application:**
+https://github.com/Launchpad-PE/Foundly-Frontend
