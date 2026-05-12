@@ -594,17 +594,17 @@ iteración, enfocada en el desarrollo del Frontend Web Application de Foundly.
 | Sprint # | Sprint 2 |
 |---|---|
 | **Sprint Planning Background** | |
-| Date | 2026-05-05 |
+| Date | 2026-04-29 |
 | Time | 5:00 PM |
 | Location | Reunión virtual mediante Discord |
 | Prepared By | Baca Camargo, Vitaly Arturo |
-| Attendees (to planning meeting) | Almandroz Carbajal, Pierina Marysabel / Baca Camargo, Vitaly Arturo / Bautista Rivera, Jose Diego / Pariachi Limahuaya, Sebastian Ubaldo / Teran Zavala, Mauricio Alejandro |
+| Attendees (to planning meeting) | Baca Camargo, Vitaly Arturo / Bautista Rivera, Jose Diego / Pariachi Limahuaya, Sebastian Ubaldo / Teran Zavala, Mauricio Alejandro |
 | Sprint 1 Review Summary | Durante el Sprint 1 se logró implementar y desplegar en su totalidad la Landing Page de Foundly, cubriendo todas las secciones planificadas: hero con llamadas a la acción, servicios con modales, planes de suscripción, páginas específicas por segmento (emprendedor y colaborador), carrusel de empresas asociadas, video introductorio, sección de la aplicación, asistente virtual y footer completo con contacto, redes sociales y documentación legal. Se aseguró el diseño responsivo para dispositivos móviles y de escritorio, y la página quedó correctamente desplegada en el hosting. Todos los enlaces, modales y navegación funcionan correctamente. |
 | Sprint 1 Retrospective Summary | El equipo logró completar el Sprint 1 de forma coordinada y dentro de los plazos establecidos. Cada integrante cumplió con las secciones asignadas, lo que permitió integrar la landing page sin inconvenientes. Como oportunidad de mejora, el equipo acordó mantener revisiones periódicas en Discord para detectar bloqueos tempranos y mejorar la comunicación continua durante el Sprint 2, especialmente dado el mayor volumen de trabajo que implica el desarrollo del frontend de la Web Application. |
 | **Sprint Goal & User Stories** | |
 | Sprint 2 Goal | Nuestro enfoque está en entregar la primera versión funcional del Frontend Web Application de Foundly, integrada con una Fake API mediante db.json. Creemos que esto proporciona una experiencia navegable e interactiva tanto para emprendedores como para colaboradores, permitiéndoles explorar las funcionalidades principales de la plataforma. Esto se confirmará cuando los usuarios autenticados puedan registrarse, iniciar sesión, crear y explorar proyectos, gestionar su perfil, visualizar el panel IoT y navegar por las vistas del colaborador sin errores. |
-| Sprint 2 Velocity | 40 |
-| Sum of Story Points | 38 |
+| Sprint 2 Velocity | 34 |
+| Sum of Story Points | 34 |
 
 ---
 
@@ -649,12 +649,7 @@ presenta el tablero de control del sprint:
 | US006 | Buscar proyectos | T016 | Vista explorar proyectos | Desarrollar la vista de exploración de proyectos con listado obtenido desde fake API. | 5 | Baca Camargo, Vitaly Arturo | Done |
 | US007 | Postularse a proyecto | T017 | Funcionalidad postulación | Implementar la acción de postulación a un proyecto con registro en db.json. | 5 | Teran Zavala, Mauricio Alejandro | Done |
 | US008 | Gestionar postulaciones | T018 | Vista gestión de postulaciones | Desarrollar la vista de revisión, aceptación y rechazo de postulaciones para el emprendedor. | 5 | Teran Zavala, Mauricio Alejandro | Done |
-| US021 | Perfil de usuario | T019 | Vista de perfil | Implementar la vista de perfil con información personal, proyectos activos y colaboraciones. | 5 | Teran Zavala, Mauricio Alejandro | Done |
-| US022 | Edición de perfil | T020 | Funcionalidad editar perfil | Desarrollar la funcionalidad de edición de perfil con actualización en fake API. | 4 | Teran Zavala, Mauricio Alejandro | Done |
-| US055 | Landing Page – IoT en vivo | T021 | Panel IoT demo | Implementar la vista del panel IoT con datos simulados actualizándose en tiempo real. | 6 | Pariachi Limahuaya, Sebastian Ubaldo | Done |
-| US009 | Gestionar hitos | T022 | Vista gestión de hitos | Desarrollar la vista de creación y administración de hitos con integración a fake API. | 5 | Pariachi Limahuaya, Sebastian Ubaldo | Done |
 | US023 | Buscar proyectos con filtros | T023 | Filtros de búsqueda | Implementar filtros de búsqueda por categoría, habilidades y duración en la vista de proyectos. | 4 | Baca Camargo, Vitaly Arturo | Done |
-| US024 | Notificaciones | T024 | Vista de notificaciones | Implementar la vista de notificaciones con listado obtenido desde fake API. | 4 | Bautista Rivera, Jose Diego | Done |
 
 ---
 
@@ -745,11 +740,49 @@ una vez que el backend con Spring Boot esté desplegado.
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Durante el Sprint 2 se realizó el despliegue del Frontend Web Application de 
-Foundly utilizando Vercel como plataforma de hosting. El proceso incluyó la 
-conexión del repositorio, configuración del proyecto con detección automática 
-del framework Angular, configuración de la rama de producción y verificación 
-del despliegue exitoso.
+Durante el Sprint 2 se realizó el despliegue del db.json utilizando Render como plataforma de hosting y el Frontend Web Application de Foundly utilizando Vercel como plataforma de hosting. El proceso incluyó la conexión del repositorio, configuración del proyecto con detección automática del framework Angular, configuración de la rama de producción y verificación del despliegue exitoso.
+
+- **Despliegue de db.json en Render**
+
+**Paso 1: Conexión del Repositorio:**
+
+Selección del repositorio json-server desde GitHub dentro del panel de Render para iniciar la creación del servicio web.
+
+<img src= "resources/Images/Chapter-5/Sprint2/RepositoryConnection.jpeg">
+
+**Paso 2: Estado del Despliegue (Build & Deploy):**
+
+Monitorización del primer despliegue. Se confirma que el servicio está "Live" y que el proceso de compilación de Node.js finalizó correctamente bajo el plan "Free".
+
+<img src="resources/Images/Chapter-5/Sprint2/DeployStatus.jpeg">
+
+**Paso 3: Página de Inicio del Servidor:**
+
+Acceso a la URL pública json-server-qmbj.onrender.com. Se visualizan los recursos (Resources) disponibles: /users, /profiles y /projects.
+
+<img src="resources/Images/Chapter-5/Sprint2/Congrats.jpeg">
+
+**Paso 4: Verificación de Endpoint de Usuarios:**
+
+Verificación de la ruta /users, mostrando la estructura de los objetos de usuario creados.
+
+<img src="resources/Images/Chapter-5/Sprint2/UsersEndpoint.jpeg">
+
+**Paso 5: Verificación de Endpoint de Perfiles:**
+
+Validación de la ruta /profiles, confirmando que los datos de habilidades (skills) y roles están disponibles.
+
+<img src="resources/Images/Chapter-5/Sprint2/ProfileEndpoint.jpeg">
+
+**Paso 6: Verificación de Endpoint de Proyectos:**
+
+Validación de la ruta /projects, mostrando los proyectos con sus atributos (id, title, description, status).
+
+<img src="resources/Images/Chapter-5/Sprint2/ProjectEndpoint.jpeg">
+
+---
+
+- **Despliegue del Frontend Web Application en Vercel**
 
 **Paso 1: Importar repositorio en Vercel**
 
