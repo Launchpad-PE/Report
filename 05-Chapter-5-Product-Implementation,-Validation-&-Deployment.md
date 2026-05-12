@@ -675,26 +675,45 @@ miembro del equipo en la implementación de las vistas y funcionalidades.
 | mau-tz/foundly-frontend | feature/collaborator-views | y1z2a3b | feat: add collaborator profile view | Implements collaborator profile with reputation score | 2026-05-11 |
 | mau-tz/foundly-frontend | feature/collaborator-views | c4d5e6f | feat: add application management view | Implements accept/reject application flow for entrepreneurs | 2026-05-13 |
 
-> **Nota:** Reemplazar los Commit IDs con los reales obtenidos del repositorio de GitHub.
-
 ---
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 
-Durante el Sprint 2 se logró implementar la primera versión funcional del 
-Frontend Web Application de Foundly, integrado con una Fake API mediante 
-db.json. Las principales vistas implementadas incluyen el registro e inicio de 
-sesión, la exploración y creación de proyectos, la gestión de postulaciones, 
-el perfil de usuario, el panel IoT con datos simulados y la gestión de hitos.
+Durante el Sprint 2 se implementó la primera versión funcional del Frontend 
+Web Application de Foundly, integrada con una Fake API mediante db.json. 
+A continuación se presentan capturas de las principales vistas implementadas:
 
-A continuación se presentan las capturas de las principales vistas implementadas:
+**Vista principal (Home)**
 
-![Vista de registro](ruta/imagen/register-view.png)
-![Vista de inicio de sesión](ruta/imagen/login-view.png)
-![Vista de exploración de proyectos](ruta/imagen/projects-view.png)
-![Vista de creación de proyecto](ruta/imagen/create-project-view.png)
-![Vista de perfil de usuario](ruta/imagen/profile-view.png)
-![Panel IoT](ruta/imagen/iot-panel-view.png)
+<img src="resources/Images/Chapter-5/Sprint2/Home.png">
+
+**Vista de inicio de sesión**
+
+<img src="resources/Images/Chapter-5/Sprint2/Login.png">
+
+**Vista de proyectos**
+
+<img src="resources/Images/Chapter-5/Sprint2/Projects.png">
+
+**Creación de proyecto - Paso 1**
+
+<img src="resources/Images/Chapter-5/Sprint2/Project Create 1.png">
+
+**Creación de proyecto - Paso 2**
+
+<img src="resources/Images/Chapter-5/Sprint2/Project Create 2.png">
+
+**Creación de proyecto - Paso 3**
+
+<img src="resources/Images/Chapter-5/Sprint2/Project Create 3.png">
+
+**Creación de proyecto - Paso 4**
+
+<img src="resources/Images/Chapter-5/Sprint2/Project Create 4.png">
+
+**Vista del colaborador**
+
+<img src="resources/Images/Chapter-5/Sprint2/Collaborator.png">
 
 **URL del video de navegación del Sprint 2:**
 [https://microsoft-stream-url/sprint2-navigation](https://microsoft-stream-url)
@@ -726,18 +745,55 @@ una vez que el backend con Spring Boot esté desplegado.
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Durante el Sprint 2 se realizó el despliegue de la primera versión del 
-Frontend Web Application de Foundly. El proceso incluyó la configuración 
-del entorno de despliegue y la publicación de la aplicación en la plataforma 
-indicada.
+Durante el Sprint 2 se realizó el despliegue del Frontend Web Application de 
+Foundly utilizando Vercel como plataforma de hosting. El proceso incluyó la 
+conexión del repositorio, configuración del proyecto con detección automática 
+del framework Angular, configuración de la rama de producción y verificación 
+del despliegue exitoso.
 
-A continuación se presentan las capturas del proceso de despliegue:
+**Paso 1: Importar repositorio en Vercel**
 
-![Configuración del proyecto en plataforma de despliegue](ruta/imagen/deploy-config.png)
-![Despliegue exitoso del frontend](ruta/imagen/deploy-success.png)
+Se accedió a la plataforma Vercel y se seleccionó el repositorio 
+Foundly-Frontend para iniciar el proceso de despliegue.
 
-**URL del Frontend Web Application desplegado:**
-https://foundly-app.netlify.app (reemplazar con URL real)
+<img src="resources/Images/Chapter-5/Sprint2/Import Project.png">
+
+**Paso 2: Configuración del proyecto**
+
+Vercel detectó automáticamente el framework Angular y configuró los comandos 
+de build correspondientes.
+
+<img src="resources/Images/Chapter-5/Sprint2/Configure Project.png">
+
+**Paso 3: Configuración de la rama de producción**
+
+En Settings > Git se configuró la rama de producción como FirstDeploy para 
+asegurar que los despliegues reflejen el estado correcto del repositorio.
+
+<img src="resources/Images/Chapter-5/Sprint2/Production Branch.png">
+
+**Paso 4: Build Logs**
+
+Se verificó el proceso de build en la consola de Vercel, confirmando la 
+ejecución exitosa de `npm run build` y la finalización del proceso de 
+compilación.
+
+<img src="resources/Images/Chapter-5/Sprint2/Build Logs.png">
+
+**Paso 5: Overview del proyecto desplegado**
+
+El tablero de Vercel muestra el estado "Ready" del proyecto, la miniatura 
+del sitio y la URL oficial asignada.
+
+<img src="resources/Images/Chapter-5/Sprint2/Overview.png">
+
+**Paso 6: Sitio en producción**
+
+El Frontend Web Application de Foundly quedó correctamente desplegado y 
+accesible mediante HTTPS en el dominio de Vercel.
+
+<img src="resources/Images/Chapter-5/Sprint2/Barra de direcciones con el candado de seguridad (HTTPS).png">
+
 
 ---
 
