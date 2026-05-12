@@ -603,8 +603,8 @@ iteración, enfocada en el desarrollo del Frontend Web Application de Foundly.
 | Sprint 1 Retrospective Summary | El equipo logró completar el Sprint 1 de forma coordinada y dentro de los plazos establecidos. Cada integrante cumplió con las secciones asignadas, lo que permitió integrar la landing page sin inconvenientes. Como oportunidad de mejora, el equipo acordó mantener revisiones periódicas en Discord para detectar bloqueos tempranos y mejorar la comunicación continua durante el Sprint 2, especialmente dado el mayor volumen de trabajo que implica el desarrollo del frontend de la Web Application. |
 | **Sprint Goal & User Stories** | |
 | Sprint 2 Goal | Nuestro enfoque está en entregar la primera versión funcional del Frontend Web Application de Foundly, integrada con una Fake API mediante db.json. Creemos que esto proporciona una experiencia navegable e interactiva tanto para emprendedores como para colaboradores, permitiéndoles explorar las funcionalidades principales de la plataforma. Esto se confirmará cuando los usuarios autenticados puedan registrarse, iniciar sesión, crear y explorar proyectos, gestionar su perfil, visualizar el panel IoT y navegar por las vistas del colaborador sin errores. |
-| Sprint 2 Velocity | 34 |
-| Sum of Story Points | 34 |
+| Sprint 2 Velocity | 35 |
+| Sum of Story Points | 68 |
 
 ---
 
@@ -630,26 +630,36 @@ implementación.
 
 ### 5.2.2.3. Sprint Backlog 2
 
-El objetivo principal del Sprint 2 es implementar el Frontend Web Application de 
-Foundly integrado con una Fake API mediante db.json, cubriendo los flujos 
+El objetivo principal del Sprint 2 es implementar el Frontend Web Application de Foundly integrado con una Fake API mediante db.json, cubriendo los flujos 
 principales de la plataforma para ambos segmentos objetivo. A continuación se 
 presenta el tablero de control del sprint:
 
-**URL del Sprint Board:** https://trello.com/b/XXXXXXXX/foundly-product-backlog
+**URL del Sprint Board:**  https://upc-team-tohi2bk.atlassian.net/jira/software/projects/FOUN/boards/67
 
-![Sprint Board Foundly Sprint 2](ruta/imagen/sprint-board-2.png)
+![Sprint Board Foundly Sprint 2](resources/Images/Chapter-5/Sprint2/sprint-board-2.png)
 
 | User Story ID | User Story Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
-|---|---|---|---|---|---|---|---|
-| US001 | Registro de usuario | T011 | Vista de registro | Implementar la vista de registro con validación de campos obligatorios integrada con fake API. | 5 | Bautista Rivera, Jose Diego | Done |
-| US002 | Inicio de sesión | T012 | Vista de login | Implementar la vista de inicio de sesión con autenticación simulada mediante db.json. | 5 | Bautista Rivera, Jose Diego | Done |
-| US003 | Cierre de sesión | T013 | Funcionalidad logout | Implementar el cierre de sesión con invalidación del estado de autenticación en el frontend. | 4 | Bautista Rivera, Jose Diego | Done |
-| US004 | Crear proyecto | T014 | Vista creación de proyecto | Desarrollar la vista de creación de proyecto con formulario y validación integrada con fake API. | 6 | Baca Camargo, Vitaly Arturo | Done |
-| US005 | Publicar proyecto | T015 | Funcionalidad publicar proyecto | Implementar la acción de publicación de proyecto con cambio de estado en db.json. | 5 | Baca Camargo, Vitaly Arturo | Done |
-| US006 | Buscar proyectos | T016 | Vista explorar proyectos | Desarrollar la vista de exploración de proyectos con listado obtenido desde fake API. | 5 | Baca Camargo, Vitaly Arturo | Done |
-| US007 | Postularse a proyecto | T017 | Funcionalidad postulación | Implementar la acción de postulación a un proyecto con registro en db.json. | 5 | Teran Zavala, Mauricio Alejandro | Done |
-| US008 | Gestionar postulaciones | T018 | Vista gestión de postulaciones | Desarrollar la vista de revisión, aceptación y rechazo de postulaciones para el emprendedor. | 5 | Teran Zavala, Mauricio Alejandro | Done |
-| US023 | Buscar proyectos con filtros | T023 | Filtros de búsqueda | Implementar filtros de búsqueda por categoría, habilidades y duración en la vista de proyectos. | 4 | Baca Camargo, Vitaly Arturo | Done |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| US001 | Registro y autenticación | FOUN-25 | Vista de registro | Implementar la vista de registro con validación de campos obligatorios integrada con fake API. | 5 | Bautista Rivera, Jose Diego | Done |
+| US002 | Registro de cuenta | FOUN-48 | Vista de login | Implementar la vista de inicio de sesión con autenticación simulada mediante db.json. | 3 | Bautista Rivera, Jose Diego | Done |
+| US003 | Login usuario | FOUN-26 | Funcionalidad logout | Implementar el cierre de sesión con invalidación del estado de autenticación en el frontend. | 3 | Bautista Rivera, Jose Diego | Done |
+| US004 | Crear proyecto | FOUN-29 | Vista creación de proyecto | Desarrollar la vista de creación de proyecto con formulario y validación integrada con fake API. | 5 | Baca Camargo, Vitaly Arturo | Done |
+| US005 | Definir proyecto | FOUN-30 | Funcionalidad publicar proyecto | Implementar la acción de publicación de proyecto con cambio de estado en db.json. | 3 | Baca Camargo, Vitaly Arturo | Done |
+| US006 | Unirse a proyecto | FOUN-33 | Funcionalidad unirse | Implementar lógica para unirse a proyectos existentes mediante el ID del proyecto. | 5 | Bautista Rivera, Jose Diego | To Do |
+| US007 | Postulación a proyecto | FOUN-34 | Gestión de postulaciones | Desarrollar el sistema de envío de postulaciones a proyectos específicos. | 3 | Baca Camargo, Vitaly Arturo | To Do |
+| US021 | Perfil de usuario | FOUN-27 | Vista perfil | Crear la vista de visualización de perfil de usuario con datos dinámicos. | 3 | Bautista Rivera, Jose Diego | To Do |
+| US022 | Editar perfil | FOUN-28 | Formulario edición | Implementar formulario para la actualización de datos personales y profesionales. | 3 | Bautista Rivera, Jose Diego | To Do |
+| US023 | Buscar proyectos | FOUN-31 | Filtros de búsqueda | Implementar buscador con filtros por categoría y tecnología. | 3 | Baca Camargo, Vitaly Arturo | Done |
+| US027 | Ver detalle | FOUN-47 | Vista detalles | Desarrollar la vista detallada de un proyecto seleccionado. | 3 | Baca Camargo, Vitaly Arturo | Done |
+| US029 | Perfil completo | FOUN-49 | Integración de datos | Asegurar que toda la información del usuario se visualice correctamente en el perfil extendido. | 5 | Bautista Rivera, Jose Diego | To Do |
+| US031 | Crear hitos | FOUN-54 | Módulo de hitos | Permitir la creación de hitos temporales dentro de un proyecto. | 5 | Baca Camargo, Vitaly Arturo | In Progress |
+| US032 | Ver hitos | FOUN-55| Listado de hitos | Visualización de la línea de tiempo o lista de hitos del proyecto. | 3 | Baca Camargo, Vitaly Arturo | In Progress |
+| US033 | Actualizar hitos | FOUN-56 | Edición de hitos | Funcionalidad para modificar fechas o nombres de hitos existentes. | 3 | Baca Camargo, Vitaly Arturo | In Progress |
+| US034 | Evidencias de hitos | FOUN-57 | Carga de archivos | Implementar la subida de evidencias para el cumplimiento de hitos. | 3 | Baca Camargo, Vitaly Arturo | In Progress |
+| US051 | Crear tareas | FOUN-50 | Gestor de tareas | Desarrollar el formulario para asignar tareas a miembros del equipo. | 5 | Bautista Rivera, Jose Diego | To Do |
+| US052 | Ver tareas | FOUN-52 | Tablero de tareas | Visualización de tareas pendientes y realizadas en el panel del proyecto. | 3 | Bautista Rivera, Jose Diego | To Do |
+| US053 | Completar tareas | FOUN-51 | Cambio de estado | Implementar la lógica de transición de tareas a estado completado. | 2 | Bautista Rivera, Jose Diego | To Do |
+| US054 | Eliminar tareas | FOUN-53 | Borrado lógico | Implementar la eliminación de tareas creadas por error. | 2 | Bautista Rivera, Jose Diego | To Do |
 
 ---
 
