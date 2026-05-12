@@ -733,7 +733,7 @@ A continuación se presentan capturas de las principales vistas implementadas:
 <img src="resources/Images/Chapter-5/Sprint2/Collaborator.png">
 
 **URL del video de navegación del Sprint 2:**
-[https://microsoft-stream-url/sprint2-navigation](https://microsoft-stream-url)
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310949_upc_edu_pe/IQBhHhpVWD5VQKEVKpGqPtUSAdbO1SYBecYiSlmOpTTCq0o?e=bbQDze&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ---
 
