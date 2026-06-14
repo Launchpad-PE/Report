@@ -912,3 +912,16 @@ En esta sección se presentan los detalles del Sprint Planning Meeting 3, en el 
 ### 5.2.3.2. Aspect Leaders and Collaborators
 
 Durante el Sprint 3, el equipo organizó el trabajo en torno a la culminación del Frontend Web Application y al inicio del desarrollo del backend de Foundly. En el frontend, los principales aspectos abordados fueron los módulos de Applications, Milestone Management y Task Management, además de la integración completa con la Fake API. En paralelo, se inició la implementación de la arquitectura del backend basada en Domain-Driven Design (DDD). Con el fin de mantener una coordinación efectiva, se estructuró la matriz de liderazgo y colaboración (LACX), donde se asignó un líder (L) por cada aspecto y colaboradores (C) que brindan apoyo en su implementación.
+
+| Team Member | GitHub Username | IAM & Auth | Profile Management | Project Management| Comments | Milestone Management | Task Management |
+|---|---|---|---|---|---|---|---|
+| Almandroz Carbajal, Pierina Marysabel | pierinaaa29 | C | C | C | C | C | L |
+| Baca Camargo, Vitaly Arturo | VitalyBaca | C | L | C | C | C | C |
+| Bautista Rivera, Jose Diego | JoseDiegoBautista | C | C | C | C | L | C |
+| Pariachi Limahuaya, Sebastian Ubaldo | SebastianLima-PE | C | C | C | L | C | C |
+| Taipe Sangama Jorge Francisco | Camotin Furious | C | L | C | C | C | C |
+| Teran Zavala, Mauricio Alejandro | mau-tz | L | C | C | C | C | C |
+
+---
+
+### 5.2.3.3. Sprint Backlog
