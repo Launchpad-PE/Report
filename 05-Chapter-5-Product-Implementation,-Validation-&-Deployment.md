@@ -621,8 +621,8 @@ implementación.
 | Team Member | GitHub Username | IAM & Auth | Gestión de proyectos | Vistas colaborador | Panel IoT | Perfil de usuario |
 |---|---|---|---|---|---|---|
 | Almandroz Carbajal, Pierina Marysabel | pierinaaa29 | C | C | C | C | C |
-| Baca Camargo, Vitaly Arturo | VitalyBaca | C | L | C | C | C |
-| Bautista Rivera, Jose Diego | JoseDiegoBautista | L | C | C | C | C |
+| Baca Camargo, Vitaly Arturo | Mr-Code-star | C | L | C | C | C |
+| Bautista Rivera, Jose Diego | Gogotes17 | L | C | C | C | C |
 | Pariachi Limahuaya, Sebastian Ubaldo | SebastianLima-PE | C | C | C | L | C |
 | Teran Zavala, Mauricio Alejandro | mau-tz | C | C | L | C | L |
 
@@ -916,8 +916,8 @@ Durante el Sprint 3, el equipo organizó el trabajo en torno a la culminación d
 | Team Member | GitHub Username | IAM & Auth | Profile Management | Project Management| Comments | Milestone Management | Task Management |
 |---|---|---|---|---|---|---|---|
 | Almandroz Carbajal, Pierina Marysabel | pierinaaa29 | C | C | C | C | C | L |
-| Baca Camargo, Vitaly Arturo | VitalyBaca | C | L | C | C | C | C |
-| Bautista Rivera, Jose Diego | JoseDiegoBautista | C | C | C | C | L | C |
+| Baca Camargo, Vitaly Arturo | Mr-Code-star | C | L | C | C | C | C |
+| Bautista Rivera, Jose Diego | Gogotes17 | C | C | C | C | L | C |
 | Pariachi Limahuaya, Sebastian Ubaldo | SebastianLima-PE | C | C | C | L | C | C |
 | Taipe Sangama Jorge Francisco | Camotin-Furious | C | L | C | C | C | C |
 | Teran Zavala, Mauricio Alejandro | mau-tz | L | C | C | C | C | C |
