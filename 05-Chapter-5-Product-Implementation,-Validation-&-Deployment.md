@@ -919,12 +919,48 @@ Durante el Sprint 3, el equipo organizó el trabajo en torno a la culminación d
 | Baca Camargo, Vitaly Arturo | VitalyBaca | C | L | C | C | C | C |
 | Bautista Rivera, Jose Diego | JoseDiegoBautista | C | C | C | C | L | C |
 | Pariachi Limahuaya, Sebastian Ubaldo | SebastianLima-PE | C | C | C | L | C | C |
-| Taipe Sangama Jorge Francisco | Camotin Furious | C | L | C | C | C | C |
+| Taipe Sangama Jorge Francisco | Camotin-Furious | C | L | C | C | C | C |
 | Teran Zavala, Mauricio Alejandro | mau-tz | L | C | C | C | C | C |
 
 ---
 
 ### 5.2.3.3. Sprint Backlog 3
+El objetivo principal del Sprint 3 es implementar en su totalidad el Frontend Web Application de Foundly integrado con una Fake API mediante db.json, cubriendo los flujos 
+principales de la plataforma para ambos segmentos objetivo. De la misma manera se implementó la primera versión funcional del Backend de Foundly utilizando la arquitectura Domain-Driven Design (DDD).A continuación se 
+presenta el tablero de control del sprint:
+
+**URL del Sprint Board:** 
+
+![Sprint Board Foundly Sprint 2](resources/Images/Chapter-5/Sprint3/)
+
+| User Story ID | User Story Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| US006 | Unirse a proyecto | FOUN-33-1 | Logic: Validación de ID | Desarrollar el validador técnico de disponibilidad del ID del proyecto. | 4 | Baca Camargo, Vitaly Arturo | En proceso |
+| | | FOUN-33-2 | UI: Botón aplicar | Diseñar el componente interactivo para realizar la solicitud de ingreso. | 5 | Baca Camargo, Vitaly Arturo | Finalizada |
+| US007 | Postulación a proyecto | FOUN-34-1 | Mock: Colección postulaciones | Estructurar en db.json la entidad relacional de postulaciones por estudiante. | 4 | Bautista Rivera, Jose Diego | Finalizada |
+| | | FOUN-34-2 | UI: Formulario de aplicación | Diseñar la pequeña sección para adjuntar carta de motivos o rol propuesto. | 4 | Bautista Rivera, Jose Diego | Finalizada |
+| US021 | Perfil de usuario | FOUN-27-1 | UI: Layout de perfil | Diseñar las secciones del dashboard (datos, habilidades, proyectos). | 5 | Baca Camargo, Vitaly Arturo | Finalizada |
+| | | FOUN-27-2 | Integration: GET Usuario | Desarrollar la consulta GET para pintar de forma dinámica los datos del estudiante. | 4 | Baca Camargo, Vitaly Arturo | Finalizada |
+| US022 | Editar perfil | FOUN-28-1 | UI: Vista edición | Diseñar campos mutables precargados con la información del usuario actual. | 4 | Limahuaya Pariachi, Sebastian | Finalizada |
+|  | | FOUN-28-2 | Integration: Petición PUT | Desarrollar la lógica de actualización asíncrona hacia la persistencia simulada. | 4 | Limahuaya Pariachi, Sebastian | Finalizada|
+| US029 | Perfil completo | FOUN-49-1 | UI: Componentes extendidos | Incorporar secciones adicionales de portafolio y redes profesionales al perfil. | 4 | Bautista Rivera, Jose Diego | Finalizada |
+| | | FOUN-49-2 | Data: Mapeo de historial | Unificar las diferentes colecciones del JSON para la vista global del usuario. | 4 | Bautista Rivera, Jose Diego | Finalizada |
+| US031 | Crear hitos | FOUN-54-1 | UI: Modulo creador | Diseñar formulario modal para definir hitos con nombre y fecha límite. | 5 | Por Asignar |Finalizada |
+| | | FOUN-54-2 | Mock: Entidad hitos | Configurar la relación lógica en db.json para anidar hitos dentro de un proyecto. | 4 | Por Asignar | Finalizada |
+| US032 | Ver hitos | FOUN-55-1 | UI: Línea de tiempo | Implementar un componente visual cronológico de hitos del proyecto. | 5 | Por Asignar | En curso |
+| | | FOUN-55-2 | Integration: Carga de hitos | Desarrollar lógica de extracción exclusiva de los hitos asociados al proyecto activo. | 4 | Por Asignar | Finalizada |
+| US033 | Actualizar hitos | FOUN-56-1 | UI: Panel de edición | Diseñar controles interactivos para alterar fechas o estados de hitos vigentes. | 4 | Por Asignar | En curso |
+| | | FOUN-56-2 | Integration: Petición PATCH | Desarrollar la persistencia de los cambios realizados sobre el hito seleccionado. | 4 | Por Asignar | En curso |
+| US034 | Evidencias de hitos | FOUN-57-1 | UI: Input de archivos | Crear la zona interactiva (drag & drop) para adjuntar enlaces/documentos. | 5 | Por Asignar | Finalizada |
+| | | FOUN-57-2 | Logic: Estado de entrega | Desarrollar la lógica que cambia automáticamente el hito a estado "Revisión". | 4 | Por Asignar | En curso |
+| US051 | Crear tareas | FOUN-50-1 | UI: Gestor de asignaciones | Desarrollar el formulario para crear actividades y seleccionar responsables. | 5 | Por Asignar | En proceso |
+| | | FOUN-50-2 | Mock: Tabla tareas | Definir la estructura base de datos de tareas dentro del entorno db.json. | 4 | Por Asignar | En proceso |
+| US052 | Ver tareas | FOUN-52-1 | UI: Tablero de control | Diseñar las columnas de estado para la distribución de actividades internas. | 5 | Por Asignar | Finalizada |
+| | | FOUN-52-2 | Integration: Render dinámico | Programar el mapeo dinámico de tareas según su estado actual (To Do, In Process). | 4 | Por Asignar | En proceso |
+| US053 | Completar tareas | FOUN-51-1 | UI: Interacción de arrastre | Añadir soporte para interactuar con las tarjetas del tablero mediante arrastre. | 5 | Por Asignar | Finalizada |
+| | | FOUN-51-2 | Logic: Cambio de estado | Codificar la mutación del campo estado en el backend al soltar una tarjeta. | 4 | Por Asignar | En proceso |
+| US054 | Eliminar tareas | FOUN-53-1 | UI: Dialogo confirmación | Añadir opción de descarte sobre las tarjetas con ventana emergente preventiva. | 4 | Por Asignar | Finalizada |
+| | | FOUN-53-2 | Logic: Acción DELETE | Programar la remoción o inactivación física de la tarea en la persistencia local. | 4 | Por Asignar | En proceso |
 
 ### 5.2.3.4. Development Evidence for Sprint Review
 ### 5.2.3.5. Execution Evidence for Sprint Review
