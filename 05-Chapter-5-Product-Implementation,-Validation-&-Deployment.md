@@ -1089,3 +1089,42 @@ A continuación, se presentan las métricas de colaboración y los principales i
 El desarrollo del Frontend Web Application durante el Sprint 3 fue posible gracias a la colaboración de los siguientes integrantes:
 
 ![Gráfico de commits por integrante](resources/Images/Chapter-5/sprint-3/contributions.jpeg)
+
+---
+
+Durante el Sprint 3, el equipo colaboró activamente en el desarrollo del Backend Web Service de Foundly. A través del repositorio de GitHub se gestionó la implementación de nuevos bounded contexts, servicios de aplicación, persistencia de datos y endpoints REST, permitiendo una integración continua de las funcionalidades requeridas por el Frontend Web Application.
+
+A continuación, se presentan las métricas de colaboración y los principales indicadores de participación registrados durante este sprint.
+
+**Project Report Collaboration Insights**
+
+**Resumen de Actividad**
+
+- Período: 15 de mayo – 15 de junio de 2026.
+- Autores Activos: 5.
+- Commits Totales: 62 commits sobre la rama develop.
+- Commits Totales en todas las ramas: 67.
+
+![Analíticos de colaboración GitHub - Sprint 3](resources/Images/Chapter-5/sprint-3/project-collaboration-backend.png)
+
+**Análisis de Colaboración**
+
+- Frecuencia de Integración: Durante el Sprint 3 se registró una integración continua del código, alcanzando un total de 62 commits en la rama principal de desarrollo, lo que permitió consolidar la primera versión funcional del Backend Web Service.
+
+- Desarrollo de la Arquitectura Base: Mr-Code-star lideró el desarrollo con 36 commits, participando principalmente en la implementación de los bounded contexts de Projects y Milestones, así como en la creación de servicios, repositorios y componentes de persistencia.
+
+- Implementación del Módulo IAM: mau-tz realizó 15 commits, enfocados en el desarrollo del bounded context de Identity and Access Management (IAM), incluyendo la gestión de usuarios, roles y mecanismos de autenticación.
+
+- Desarrollo del Módulo de Perfiles: CamotinFurious contribuyó con 10 commits, implementando el bounded context de Profiles, sus servicios de aplicación y endpoints CRUD para la gestión de perfiles de usuario.
+
+- Implementación de Funcionalidades Complementarias: SebastianLima-PE participó en el desarrollo de funcionalidades específicas, como la implementación del módulo de comentarios y mejoras de integración entre los diferentes servicios del backend.
+
+---
+
+**Contributors**
+
+El desarrollo del Backend Web Service durante el Sprint 3 fue posible gracias a la colaboración de los siguientes integrantes:
+
+![Analíticos de colaboración GitHub - Sprint 3](resources/Images/Chapter-5/sprint-3/contributions-backend.png)
+
+---
