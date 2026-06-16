@@ -1048,6 +1048,39 @@ Por otro lado, en el Backend Web Service, los commits corresponden a la primera 
 | CamotinFurious/foundly-backend | feat/configuration | 2d7f144 | fix(configuration): database and authentication fixes | Fixes password SQL configuration and backend errors | 2026-06-11 |
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 3 se desarrolló la primera versión funcional del Backend Web Service de Foundly, siguiendo los principios de Domain-Driven Design (DDD) para garantizar una arquitectura modular, mantenible y alineada con los requerimientos del negocio. Como parte de la implementación, se desarrollaron los bounded contexts de Identity and Access Management (IAM), Projects, Profiles, Comments y Environmental Monitoring, junto con sus respectivos servicios de aplicación, repositorios, entidades de dominio y endpoints REST. Asimismo, se implementó la documentación interactiva de la API mediante Swagger/OpenAPI, se configuró la contenerización utilizando Docker y se realizó el despliegue del servicio en Railway, permitiendo su integración con el Frontend Web Application y la validación de las funcionalidades desarrolladas durante el sprint
+
+
+**Endpoints para la gestión y consulta de usuarios del sistema**
+
+<img src="resources/Images/Chapter-5/sprint-3/swagger/users.png">
+
+
+**Endpoints para registro e inicio de sesión de usuarios**
+
+<img src="resources/Images/Chapter-5/sprint-3/swagger/authentication.png">
+
+
+**Endpoints para la gestión y consulta de comentarios de perfiles**
+
+<img src="resources/Images/Chapter-5/sprint-3/swagger/comments.png">
+
+**Endpoints para la consulta de métricas ambientales y dashboard IoT**
+
+<img src="resources/Images/Chapter-5/sprint-3/swagger/enviromental-iot.png">
+
+
+**Endpoints para la administración de perfiles de usuario.**
+
+<img src="resources/Images/Chapter-5/sprint-3/swagger/profiles.png">
+
+
+**Endpoints para la gestión, publicación y administración de proyectos.**
+
+<img src="resources/Images/Chapter-5/sprint-3/swagger/projects.png">
+
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 ### 5.2.3.8. Team Collaboration Insights during Sprint
