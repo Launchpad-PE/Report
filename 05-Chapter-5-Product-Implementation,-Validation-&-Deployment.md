@@ -935,7 +935,7 @@ presenta el tablero de control del sprint:
 
 | User Story ID | User Story Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| US006 | Unirse a proyecto | FOUN-33-1 | Logic: Validación de ID | Desarrollar el validador técnico de disponibilidad del ID del proyecto. | 4 | Baca Camargo, Vitaly Arturo | En proceso |
+| US006 | Unirse a proyecto | FOUN-33-1 | Logic: Validación de ID | Desarrollar el validador técnico de disponibilidad del ID del proyecto. | 4 | Baca Camargo, Vitaly Arturo | Finalizada |
 | | | FOUN-33-2 | UI: Botón aplicar | Diseñar el componente interactivo para realizar la solicitud de ingreso. | 5 | Baca Camargo, Vitaly Arturo | Finalizada |
 | US007 | Postulación a proyecto | FOUN-34-1 | Mock: Colección postulaciones | Estructurar en db.json la entidad relacional de postulaciones por estudiante. | 4 | Bautista Rivera, Jose Diego | Finalizada |
 | | | FOUN-34-2 | UI: Formulario de aplicación | Diseñar la pequeña sección para adjuntar carta de motivos o rol propuesto. | 4 | Bautista Rivera, Jose Diego | Finalizada |
@@ -945,22 +945,38 @@ presenta el tablero de control del sprint:
 |  | | FOUN-28-2 | Integration: Petición PUT | Desarrollar la lógica de actualización asíncrona hacia la persistencia simulada. | 4 | Limahuaya Pariachi, Sebastian | Finalizada|
 | US029 | Perfil completo | FOUN-49-1 | UI: Componentes extendidos | Incorporar secciones adicionales de portafolio y redes profesionales al perfil. | 4 | Bautista Rivera, Jose Diego | Finalizada |
 | | | FOUN-49-2 | Data: Mapeo de historial | Unificar las diferentes colecciones del JSON para la vista global del usuario. | 4 | Bautista Rivera, Jose Diego | Finalizada |
-| US031 | Crear hitos | FOUN-54-1 | UI: Modulo creador | Diseñar formulario modal para definir hitos con nombre y fecha límite. | 5 | Por Asignar |Finalizada |
-| | | FOUN-54-2 | Mock: Entidad hitos | Configurar la relación lógica en db.json para anidar hitos dentro de un proyecto. | 4 | Por Asignar | Finalizada |
-| US032 | Ver hitos | FOUN-55-1 | UI: Línea de tiempo | Implementar un componente visual cronológico de hitos del proyecto. | 5 | Por Asignar | En curso |
-| | | FOUN-55-2 | Integration: Carga de hitos | Desarrollar lógica de extracción exclusiva de los hitos asociados al proyecto activo. | 4 | Por Asignar | Finalizada |
-| US033 | Actualizar hitos | FOUN-56-1 | UI: Panel de edición | Diseñar controles interactivos para alterar fechas o estados de hitos vigentes. | 4 | Por Asignar | En curso |
-| | | FOUN-56-2 | Integration: Petición PATCH | Desarrollar la persistencia de los cambios realizados sobre el hito seleccionado. | 4 | Por Asignar | En curso |
-| US034 | Evidencias de hitos | FOUN-57-1 | UI: Input de archivos | Crear la zona interactiva (drag & drop) para adjuntar enlaces/documentos. | 5 | Por Asignar | Finalizada |
-| | | FOUN-57-2 | Logic: Estado de entrega | Desarrollar la lógica que cambia automáticamente el hito a estado "Revisión". | 4 | Por Asignar | En curso |
-| US051 | Crear tareas | FOUN-50-1 | UI: Gestor de asignaciones | Desarrollar el formulario para crear actividades y seleccionar responsables. | 5 | Por Asignar | En proceso |
-| | | FOUN-50-2 | Mock: Tabla tareas | Definir la estructura base de datos de tareas dentro del entorno db.json. | 4 | Por Asignar | En proceso |
-| US052 | Ver tareas | FOUN-52-1 | UI: Tablero de control | Diseñar las columnas de estado para la distribución de actividades internas. | 5 | Por Asignar | Finalizada |
-| | | FOUN-52-2 | Integration: Render dinámico | Programar el mapeo dinámico de tareas según su estado actual (To Do, In Process). | 4 | Por Asignar | En proceso |
-| US053 | Completar tareas | FOUN-51-1 | UI: Interacción de arrastre | Añadir soporte para interactuar con las tarjetas del tablero mediante arrastre. | 5 | Por Asignar | Finalizada |
-| | | FOUN-51-2 | Logic: Cambio de estado | Codificar la mutación del campo estado en el backend al soltar una tarjeta. | 4 | Por Asignar | En proceso |
-| US054 | Eliminar tareas | FOUN-53-1 | UI: Dialogo confirmación | Añadir opción de descarte sobre las tarjetas con ventana emergente preventiva. | 4 | Por Asignar | Finalizada |
-| | | FOUN-53-2 | Logic: Acción DELETE | Programar la remoción o inactivación física de la tarea en la persistencia local. | 4 | Por Asignar | En proceso |
+| US031 | Crear hitos | FOUN-54-1 | UI: Modulo creador | Diseñar formulario modal para definir hitos con nombre y fecha límite. | 5 | Bautista Rivera, Jose Diego |Finalizada |
+| | | FOUN-54-2 | Mock: Entidad hitos | Configurar la relación lógica en db.json para anidar hitos dentro de un proyecto. | 4 | Bautista Rivera, Jose Diego| Finalizada |
+| US032 | Ver hitos | FOUN-55-1 | UI: Línea de tiempo | Implementar un componente visual cronológico de hitos del proyecto. | 5 | Bautista Rivera, Jose Diego | To-Do |
+| | | FOUN-55-2 | Integration: Carga de hitos | Desarrollar lógica de extracción exclusiva de los hitos asociados al proyecto activo. | 4 | Bautista Rivera, Jose Diego | Finalizada |
+| US033 | Actualizar hitos | FOUN-56-1 | UI: Panel de edición | Diseñar controles interactivos para alterar fechas o estados de hitos vigentes. | 4 | Bautista Rivera, Jose Diego | Finalizada |
+| | | FOUN-56-2 | Integration: Petición PATCH | Desarrollar la persistencia de los cambios realizados sobre el hito seleccionado. | 4 | Bautista Rivera, Jose Diego | Finalizada |
+| US034 | Evidencias de hitos | FOUN-57-1 | UI: Input de archivos | Crear la zona interactiva (drag & drop) para adjuntar enlaces/documentos. | 5 | Bautista Rivera, Jose Diego | Finalizada |
+| | | FOUN-57-2 | Logic: Estado de entrega | Desarrollar la lógica que cambia automáticamente el hito a estado "Revisión". | 4 | Bautista Rivera, Jose Diego | Finzalizada |
+| US052 | Ver tareas | FOUN-52-1 | UI: Tablero de control | Diseñar las columnas de estado para la distribución de actividades internas. | 5 | Almandroz Carbajal, Pierina Marysabel | Finalizada |
+| | | FOUN-52-2 | Integration: Render dinámico | Programar el mapeo dinámico de tareas según su estado actual (To Do, In Process). | 4 | Almandroz Carbajal, Pierina Marysabel | To-Do |
+| US053 | Completar tareas | FOUN-51-1 | UI: Interacción de arrastre | Añadir soporte para interactuar con las tarjetas del tablero mediante arrastre. | 5 | Almandroz Carbajal, Pierina Marysabel | Finalizada |
+| | | FOUN-51-2 | Logic: Cambio de estado | Codificar la mutación del campo estado en el backend al soltar una tarjeta. | 4 | Almandroz Carbajal, Pierina Marysabel | Finalizada |
+| US054 | Eliminar tareas | FOUN-53-1 | UI: Dialogo confirmación | Añadir opción de descarte sobre las tarjetas con ventana emergente preventiva. | 4 | Almandroz Carbajal, Pierina Marysabel | Finalizada |
+| | | FOUN-53-2 | Logic: Acción DELETE | Programar la remoción o inactivación física de la tarea en la persistencia local. | 4 | Almandroz Carbajal, Pierina Marysabel | Finalizada |
+| US010 | Autenticación y Registro IAM | FOUN-60-1 | DDD: Implementar User Aggregate y Value Objects | Desarrollar la raíz agregada de usuario junto con Value Objects de validación para credenciales. | 5 | Teran Zavala, Mauricio Alejandro | Finalizada |
+| | | FOUN-60-2 | Infra: Configurar JWT y Security Filter Chain | Implementar el middleware de seguridad para la emisión y validación de tokens de acceso. | 6 | Teran Zavala, Mauricio Alejandro | Finalizada |
+| US011 | Control de Roles de Usuario | FOUN-61-1 | Domain: Entidades y Reglas de Negocio IAM | Definir entidades de Roles y Permisos asegurando consistencia con el dominio compartido. | 4 | Teran Zavala, Mauricio Alejandro | Finalizada |
+| | | FOUN-61-2 | CQRS: Commands para asignación de roles | Desarrollar los comandos y controladores REST para modificar privilegios de usuario. | 4 | Teran Zavala, Mauricio Alejandro | Finalizada |
+| US012 | Gestión de Perfiles Básicos | FOUN-65-1 | Domain: Profile Aggregate Root | Modelar la raíz agregada de Profile con Value Objects asociados a datos personales. | 5 | Taipe Sangama, Jorge Francisco | Finalizada |
+|  | | FOUN-65-2 | API: Endpoints para obtención de perfiles | Desarrollar Queries para recuperar información pública de perfiles a través del API REST. | 4 | Taipe Sangama, Jorge Francisco | Finalizada |
+| US013 | Actualización de Hoja de Vida | FOUN-66-1 | Domain: Value Objects de Perfil Avanzado | Diseñar estructuras de validación interna para habilidades académicas y enlaces externos. | 4 | Taipe Sangama, Jorge Francisco | Finalizada |
+|  |  | FOUN-66-2 | CQRS: Command de edición de perfil | Implementar el bus de comandos para persistir actualizaciones parciales sobre el agregador. | 5 | Taipe Sangama, Jorge Francisco | Finalizada |
+| US014 | Creación de Proyectos | FOUN-70-1 | Domain: Project Aggregate Root y Value Objects | Desarrollar el agregado base del proyecto gestionando sus atributos críticos iniciales. | 6 | Baca Camargo, Vitaly Arturo | Finalizada |
+|  |  | FOUN-70-2 | CQRS: Command para persistencia de proyectos | Diseñar el Command Record y el caso de uso para guardar nuevos proyectos en la base de datos. | 5 | Baca Camargo, Vitaly Arturo | Finalizada |
+| US015 | Búsqueda y Filtrado de Proyectos | FOUN-71-1 | CQRS: Query Records para listado de proyectos | Desarrollar consultas optimizadas para recuperar proyectos publicados bajo paginación técnica. | 5 | Baca Camargo, Vitaly Arturo | Finalizada |
+|  |  | FOUN-71-2 | API: Filtros avanzados por área y autor | Implementar especificaciones de filtrado dinámico en los controladores REST de proyectos. | 4 | Baca Camargo, Vitaly Arturo | Finalizada |
+| US016 | Control de Tareas del Proyecto | FOUN-75-1 | Domain: Task Entity y estados de ciclo de vida | Modelar la entidad Task con validaciones para estados (To Do, In Progress, Done). | 5 | Baca Camargo, Vitaly Arturo | Finalizada |
+|  | | FOUN-75-2 | CQRS: Command para asignación de tareas | Desarrollar la lógica técnica para adjuntar y persistir una tarea dirigida a un miembro específico. | 4 | Baca Camargo, Vitaly Arturo | Finalizada |
+| US018 | Publicación de Comentarios | FOUN-80-1 | Domain: Comment Value Objects y Relaciones | Estructurar el modelo de comentarios enlazándolo jerárquicamente al ID de proyectos. | 4 | Limahuaya Pariachi, Sebastian | Finalizada |
+|  | | FOUN-80-2 | CQRS: Command para inserción de comentarios | Desarrollar el controlador y handler técnico para publicar aportes en el muro del proyecto. | 4 | Limahuaya Pariachi, Sebastian | Finalizada |
+| US019 | Moderación de Hilos de Discusión | FOUN-81-1 | CQRS: Query para hilos de conversación | Desarrollar consultas anidadas eficientes para traer comentarios ordenados por fecha. | 5 | Limahuaya Pariachi, Sebastian | Finalizada |
+| | | FOUN-81-2 | API: Endpoint seguro para borrado lógico | Crear el comando y endpoint protegido por roles para deshabilitar comentarios no deseados. | 4 | Limahuaya Pariachi, Sebastian | Finalizada |
 
 ### 5.2.3.4. Development Evidence for Sprint Review
 
