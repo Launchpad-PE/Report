@@ -1065,6 +1065,8 @@ A continuación, se presentan las métricas de colaboración y los principales i
 - Commits Totales: 136 commits sobre la rama develop.
 - Commits Totales en todas las ramas: 155.
 
+![Analíticos de colaboración GitHub - Sprint 3](resources/Images/Chapter-5/sprint-3/project-collaboration.jpeg)
+
 **Análisis de Colaboración**
 - Frecuencia de Integración: El equipo mantuvo una integración continua durante el Sprint 3, alcanzando un total de 136 commits en la rama principal de desarrollo, lo que permitió una evolución constante del proyecto.
 
@@ -1080,4 +1082,10 @@ A continuación, se presentan las métricas de colaboración y los principales i
 
 - Funcionalidades Específicas: SebastianLima-PE colaboró con la implementación de características puntuales y mejoras funcionales que fortalecieron el desarrollo del sprint.
 
+---
 
+**Contributors**
+
+El desarrollo del Frontend Web Application durante el Sprint 3 fue posible gracias a la colaboración de los siguientes integrantes:
+
+![Gráfico de commits por integrante](resources/Images/Chapter-5/sprint-3/contributions.jpeg)
