@@ -963,6 +963,74 @@ presenta el tablero de control del sprint:
 | | | FOUN-53-2 | Logic: Acción DELETE | Programar la remoción o inactivación física de la tarea en la persistencia local. | 4 | Por Asignar | En proceso |
 
 ### 5.2.3.4. Development Evidence for Sprint Review
+
+En esta sección se presentan los commits realizados en los repositorios del Frontend Web Application y del Backend Web Service durante el Sprint 3, evidenciando los aportes de cada integrante del equipo.
+
+En el Frontend Web Application, los commits reflejan el desarrollo e integración de las funcionalidades principales del sistema, incluyendo la implementación de los módulos de gestión de postulaciones, gestión de tareas, hitos (milestones), perfil de usuario, colaboradores, componentes reutilizables, navegación, almacenamiento de estado, integración con servicios REST y mejoras en la experiencia de usuario.
+
+Por otro lado, en el Backend Web Service, los commits corresponden a la primera versión funcional del sistema, incluyendo la implementación de los bounded contexts de IAM (Identity and Access Management), Projects, Profiles y Comments, junto con sus entidades de dominio, value objects, servicios de aplicación, repositorios, persistencia mediante JPA, endpoints REST y componentes de infraestructura. Asimismo, se desarrollaron recursos para el dashboard, módulos de entorno y tareas de configuración necesarias para la integración con el Frontend Web Application.
+
+#### Frontend Web Application
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|---------|-----------|----------------|---------------------|---------------------|
+| pierinaaa29/foundly-frontend | feat/pierina | 4397213 | chore(server): add applications and tasks collections | Configures db.json collections, server scripts and endpoint paths for applications and tasks modules | 2026-06-01 |
+| pierinaaa29/foundly-frontend | feat/pierina | c1da09a | feat(applications/domain): implement application domain model | Implements value objects, entities and cross-context objects for application management | 2026-06-01 |
+| pierinaaa29/foundly-frontend | feat/pierina | 944afd9 | feat(applications/infrastructure): implement infrastructure layer | Adds API resources, assemblers, API endpoints and facade for application management | 2026-06-01 |
+| pierinaaa29/foundly-frontend | feat/pierina | 824a36f | feat(applications/application): implement application store | Implements application state management and business logic | 2026-06-01 |
+| pierinaaa29/foundly-frontend | feat/pierina | 6b85906 | feat(applications/presentation): implement application views | Adds project form, postulation list and postulation detail components | 2026-06-01 |
+| pierinaaa29/foundly-frontend | feat/pierina | 7bed656 | feat(task-management/domain): implement task domain model | Implements task entities, value objects, enums and cross-context integration | 2026-06-01 |
+| pierinaaa29/foundly-frontend | feat/pierina | 0def0f7 | feat(task-management/infrastructure): implement task infrastructure | Adds task resources, assemblers, API endpoints and facade | 2026-06-01 |
+| pierinaaa29/foundly-frontend | feat/pierina | 1c8abf7 | feat(task-management/application): implement task store | Implements state management for task operations | 2026-06-01 |
+| pierinaaa29/foundly-frontend | feat/pierina | eb896f4 | feat(task-management/presentation): implement task UI | Adds task form modal, task list, widgets and participating project views | 2026-06-01 |
+| pierinaaa29/foundly-frontend | feat/pierina | 6e9cb72 | feat(routes): register new application and task routes | Integrates all new routes into the application | 2026-06-01 |
+| pierinaaa29/foundly-frontend | feat/pierina | edb959c | feat(task-management): improve task workflow | Adds filters, dashboard, delivery form and navigation improvements | 2026-06-03 |
+| pierinaaa29/foundly-frontend | feat/pierina | feb56d5 | feat(task-management): enhance task interactions | Replaces prompts with modals for delete and reschedule actions | 2026-06-03 |
+| SebastianLima-PE/foundly-frontend | feat/profile | f96e2a1 | feat(profile): improve profile navigation | Adds footer component and profile routing with navigation support | 2026-06-01 |
+| Mr-Code-star/foundly-frontend | feat/onboarding | 0dc4ad8 | feat: complete onboarding biography flow | Implements onboarding navigation and biography step integration | 2026-06-01 |
+| SebastianLima-PE/foundly-frontend | feat/collaborators | f0ff9c4 | feat(collaborators): implement ranking feature | Adds collaborator ranking functionality and related enhancements | 2026-06-01 |
+| Mr-Code-star/foundly-frontend | feat/milestone | da9fcc0 | feat(milestone): implement milestone domain | Adds milestone entities, value objects and status enums | 2026-06-02 |
+| Mr-Code-star/foundly-frontend | feat/milestone | 43f7f3c | feat(milestone/infrastructure): implement infrastructure layer | Implements API endpoints, assemblers and response models | 2026-06-02 |
+| Mr-Code-star/foundly-frontend | feat/milestone | c9670f3 | feat(milestone): implement milestone UI components | Adds milestone components, task components and routing integration | 2026-06-02 |
+| Mr-Code-star/foundly-frontend | feat/milestone | cbec9ee | feat(milestone-modal): implement milestone modal | Adds validation, required fields and milestone creation workflow | 2026-06-02 |
+| Mr-Code-star/foundly-frontend | feat/milestone | fb66c72 | feat(milestone-detail): implement milestone detail view | Implements detailed milestone page with loading and navigation support | 2026-06-02 |
+| Gogotes17/foundly-frontend | feat/profile | 95ae364 | feat(profile): add favorites support | Adds favorite projects to profile entity and API resources | 2026-06-02 |
+| Gogotes17/foundly-frontend | feat/profile | 3dbae18 | feat(profile): implement edit mode | Adds avatar, username, role, bio, skills and experiences editing | 2026-06-02 |
+| Gogotes17/foundly-frontend | feat/project | f5c6e46 | feat(project): add favorite toggle | Implements project favorite button in project detail view | 2026-06-02 |
+| Mr-Code-star/foundly-frontend | feat/milestone | 77156da | feat(milestone): improve milestone management | Adds delete and reschedule modals and due date handling | 2026-06-10 |
+| Mr-Code-star/foundly-frontend | feat(milestone) | b3debaf | feat(milestone): improve milestone tracking | Adds progress tracking, event emission and status synchronization | 2026-06-10 |
+| Mr-Code-star/foundly-frontend | feat/dashboard | 1f7eb17 | feat(dashboard): implement milestone dashboard | Adds milestone dashboard and database integration | 2026-06-10 |
+| Gogotes17/foundly-frontend | feat(environment) | f414f95 | feat(environment): update production configuration | Updates API base URL for production deployment | 2026-06-10 |
+| Gogotes17/foundly-frontend | feat(angular) | bbae548 | feat(angular): update component style limits | Increases maximum size limits for Angular component styles | 2026-06-10 |
+| CamotinFurious/foundly-frontend | feat(environment) | fa574cd | feat(environment): update API endpoint paths | Updates API resources for user and milestone modules | 2026-06-11 |
+| CamotinFurious/foundly-frontend | feat(profile) | edf9381 | feat(profile): refactor profile integration | Refactors getByUserId method and updates profile assembler | 2026-06-11 |
+| CamotinFurious/foundly-frontend | feat(auth) | 537fde8 | feat(auth): implement HTTP interceptor | Adds authorization token management through interceptor | 2026-06-11 |
+| CamotinFurious/foundly-frontend | feat(users) | 9395d1b | feat(users): simplify API endpoint configuration | Cleans duplicated endpoint definitions | 2026-06-11 |
+| Mr-Code-star/foundly-frontend | feat(value-objects) | ef59747 | feat(value-objects): implement milestone value objects | Adds milestone, attachment, checklist and project related value objects | 2026-06-11 |
+| Mr-Code-star/foundly-frontend | feat(entity) | c29a914 | feat(entity): implement milestone entities | Adds CreateMilestoneProps and CreateMilestoneTaskProps | 2026-06-11 |
+| Mr-Code-star/foundly-frontend | feat(store) | eb2a725 | feat(store): implement milestone store | Adds milestone state management | 2026-06-11 |
+
+#### Backend Web Service
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|---------|-----------|----------------|---------------------|---------------------|
+| mau-tz/foundly-backend | feat/iam | c14430c | feat(iam): implement IAM bounded context | Implements domain, application, infrastructure and interface layers for identity and access management | 2026-06-01 |
+| mau-tz/foundly-backend | feat/iam | 591cdfc | feat(iam): add get user by email endpoint | Adds user retrieval by email and improves IAM integration | 2026-06-01 |
+| Mr-Code-star/foundly-backend | feat/project | d537627 | feat(project): implement project domain model | Adds value objects, aggregate root and domain entities for project management | 2026-06-12 |
+| Mr-Code-star/foundly-backend | feat/project | 5f5df68 | feat(project): implement command and query architecture | Adds command records, query records and application service interfaces | 2026-06-12 |
+| Mr-Code-star/foundly-backend | feat/project | 2f4a4e1 | feat(project): implement project services | Implements ProjectCommandService and ProjectQueryService | 2026-06-12 |
+| Mr-Code-star/foundly-backend | feat/project | 62cfeb3 | feat(project): implement persistence layer | Adds JPA entities and persistence management for projects and roles | 2026-06-12 |
+| Mr-Code-star/foundly-backend | feat/project | 9d2ad63 | feat(project): implement repositories | Implements JpaRepository and RepositoryImpl for project data access | 2026-06-12 |
+| Mr-Code-star/foundly-backend | feat/project | 387726f | feat(project): implement REST resources | Adds resources, assemblers and controllers for project endpoints | 2026-06-12 |
+| Mr-Code-star/foundly-backend | feat/dashboard | e80dff4 | feat(dashboard): implement dashboard resources | Adds alert, dashboard, metric card and trend resources | 2026-06-13 |
+| Mr-Code-star/foundly-backend | feat/environment | ae61992 | feat(environment): implement environmental module | Adds environmental controller, query service and mock data | 2026-06-13 |
+| CamotinFurious/foundly-backend | feat/profiles | fa143d6 | feat(profiles): implement profile domain | Adds profile aggregate, experience entity and value objects | 2026-06-03 |
+| CamotinFurious/foundly-backend | feat/profiles | 2c54fb9 | feat(profiles): implement profile services | Implements profile query service and business logic | 2026-06-03 |
+| CamotinFurious/foundly-backend | feat/profiles | 83cb665 | feat(profiles): implement CRUD endpoints | Implements profile bounded context with CRUD operations | 2026-06-07 |
+| SebastianLima-PE/foundly-backend | feat/comments | 947b08c | feat(comments): implement comments module | Adds create and retrieve operations for project comments | 2026-06-14 |
+| CamotinFurious/foundly-backend | feat/configuration | e6fc499 | feat(configuration): update backend configuration | Improves CORS configuration and backend integration settings | 2026-06-11 |
+| CamotinFurious/foundly-backend | feat/configuration | 2d7f144 | fix(configuration): database and authentication fixes | Fixes password SQL configuration and backend errors | 2026-06-11 |
+
 ### 5.2.3.5. Execution Evidence for Sprint Review
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
