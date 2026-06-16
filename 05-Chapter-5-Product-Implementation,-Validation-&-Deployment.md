@@ -1082,6 +1082,38 @@ Durante el Sprint 3 se desarrolló la primera versión funcional del Backend Web
 
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3 se implementó la primera versión funcional del Backend Web Service de Foundly utilizando Spring Boot y siguiendo los principios de Domain-Driven Design (DDD). La documentación de los servicios fue generada mediante Swagger/OpenAPI, permitiendo visualizar y probar los endpoints disponibles para los distintos bounded contexts del sistema.
+
+Asimismo, el servicio fue desplegado en Railway, proporcionando un entorno accesible para la integración y validación de las funcionalidades desarrolladas durante el sprint. A continuación, se presenta la documentación de los principales endpoints implementados.
+
+
+| Endpoint                                               | Verbo HTTP | Descripción                                    |
+| ------------------------------------------------------ | ---------- | ---------------------------------------------- |
+| `/api/v1/authentication/sign-up`                       | POST       | Registro de usuarios en la plataforma          |
+| `/api/v1/authentication/sign-in`                       | POST       | Autenticación e inicio de sesión               |
+| `/api/v1/users`                                        | GET        | Obtiene la lista de usuarios registrados       |
+| `/api/v1/users/{userId}`                               | GET        | Obtiene un usuario por identificador           |
+| `/api/v1/users/email/{email}`                          | GET        | Obtiene un usuario mediante correo electrónico |
+| `/api/v1/profiles`                                     | GET        | Lista todos los perfiles registrados           |
+| `/api/v1/profiles`                                     | POST       | Crea un nuevo perfil                           |
+| `/api/v1/profiles/{id}`                                | GET        | Obtiene un perfil por identificador            |
+| `/api/v1/profiles/{id}`                                | PUT        | Actualiza completamente un perfil              |
+| `/api/v1/profiles/{id}`                                | PATCH      | Actualiza parcialmente un perfil               |
+| `/api/v1/profiles/{id}`                                | DELETE     | Elimina un perfil                              |
+| `/api/v1/projects`                                     | GET        | Obtiene los proyectos publicados               |
+| `/api/v1/projects`                                     | POST       | Crea un nuevo proyecto                         |
+| `/api/v1/projects/{id}`                                | GET        | Obtiene un proyecto por identificador          |
+| `/api/v1/projects/{id}`                                | PATCH      | Actualiza parcialmente un proyecto             |
+| `/api/v1/projects/{id}/publish`                        | PATCH      | Publica un proyecto                            |
+| `/api/v1/projects/{id}/roles`                          | POST       | Agrega un rol a un proyecto                    |
+| `/api/v1/projects/{id}/roles/{roleId}`                 | DELETE     | Elimina un rol de un proyecto                  |
+| `/api/v1/users/{userId}/comments`                      | GET        | Lista los comentarios asociados a un usuario   |
+| `/api/v1/users/{userId}/comments`                      | POST       | Registra un comentario en un perfil            |
+| `/api/v1/environmental/projects/{projectId}/metrics`   | GET        | Obtiene métricas ambientales de un proyecto    |
+| `/api/v1/environmental/projects/{projectId}/dashboard` | GET        | Obtiene información del dashboard ambiental    |
+
+
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
