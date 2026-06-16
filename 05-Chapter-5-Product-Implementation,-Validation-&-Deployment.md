@@ -1051,3 +1051,33 @@ Por otro lado, en el Backend Web Service, los commits corresponden a la primera 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 ### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 3, el equipo colaboró activamente en el desarrollo del Frontend Web Application de Foundly, integrando nuevas funcionalidades y mejorando los módulos existentes. A través del repositorio de GitHub se gestionó el trabajo colaborativo, permitiendo una integración continua de cambios y una adecuada coordinación entre los miembros del equipo.
+
+A continuación, se presentan las métricas de colaboración y los principales indicadores de participación registrados durante este sprint.
+
+**Project Report Collaboration Insights**
+
+**Resumen de Actividad**
+
+- Período: 15 de mayo – 15 de junio de 2026.
+- Autores Activos: 6.
+- Commits Totales: 136 commits sobre la rama develop.
+- Commits Totales en todas las ramas: 155.
+
+**Análisis de Colaboración**
+- Frecuencia de Integración: El equipo mantuvo una integración continua durante el Sprint 3, alcanzando un total de 136 commits en la rama principal de desarrollo, lo que permitió una evolución constante del proyecto.
+
+- Desarrollo de Funcionalidades Principales: El integrante Mr-Code-star lideró el volumen de contribuciones con 98 commits, enfocándose principalmente en la implementación de los módulos de Milestones, mejoras en la arquitectura del sistema y funcionalidades de gestión de proyectos.
+
+- Implementación de Nuevos Módulos: pierinaaa29 realizó 50 commits, participando activamente en el desarrollo de los módulos de Applications y Task Management, incluyendo componentes de interfaz, integración con APIs y gestión del estado de la aplicación.
+
+- Desarrollo del Perfil de Usuario: Gogotes17 contribuyó con 22 commits, implementando funcionalidades relacionadas con el perfil de usuario, favoritos y mejoras en la experiencia de usuario.
+  
+- Integración de Servicios y Configuración: CamotinFurious participó con 7 commits, orientados a la integración de servicios, configuración del entorno y mejoras en la comunicación con el backend.
+
+- Mantenimiento y Optimización: mau-tz realizó aportes relacionados con tareas de mantenimiento y soporte técnico del proyecto, contribuyendo a la estabilidad de la aplicación.
+
+- Funcionalidades Específicas: SebastianLima-PE colaboró con la implementación de características puntuales y mejoras funcionales que fortalecieron el desarrollo del sprint.
+
+
