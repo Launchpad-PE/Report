@@ -1182,27 +1182,22 @@ Definición del Dockerfile como mecanismo de construcción de la aplicación den
 
 <img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-11.png">
 
-**Paso 11: Verificación de variables en producción**
 
-Comprobación de la correcta carga de las variables de entorno utilizadas durante la ejecución del servicio.
-
-<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-12.png">
-
-
-**Paso 12: Verificación del despliegue exitoso**
+**Paso 11: Verificación del despliegue exitoso**
 
 Validación del estado operativo del backend y revisión de los registros generados por Spring Boot durante el inicio del servicio.
 
 <img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-13.png">
 
-**Paso 13: Verificación de la base de datos**
+**Paso 12: Verificación de la base de datos**
 
 Comprobación de las tablas generadas automáticamente por JPA/Hibernate en la base de datos MySQL desplegada en Railway.
 
 <div align="center">
 <img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-14.png">
 </div>
-**Paso 14: Verificación de la documentación y endpoints desplegados**
+
+**Paso 13: Verificación de la documentación y endpoints desplegados**
 
 Validación del correcto funcionamiento de la documentación Swagger/OpenAPI y de los endpoints implementados en los bounded contexts IAM, Projects, Profiles, Comments y Environmental Monitoring.
 
