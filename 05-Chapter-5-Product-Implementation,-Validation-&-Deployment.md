@@ -1288,3 +1288,13 @@ El desarrollo del Backend Web Service durante el Sprint 3 fue posible gracias a 
 ![Analíticos de colaboración GitHub - Sprint 3](resources/Images/Chapter-5/sprint-3/contributions-backend.png)
 
 ---
+
+## 5.3. Validation Interviews. 
+### 5.3.1. Diseño de Entrevistas.
+### 5.3.2. Registro de Entrevistas. 
+### 5.3.3.  Evaluaciones según heurísticas.  
+## 5.4. Video About-the-Product. 
+
+
+
+
