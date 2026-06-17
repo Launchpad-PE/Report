@@ -1115,6 +1115,101 @@ Asimismo, el servicio fue desplegado en Railway, proporcionando un entorno acces
 
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 3 se realizó el despliegue del Backend Web Service de Foundly utilizando Railway como plataforma de hosting y Docker para la contenerización de la aplicación. El backend fue desarrollado con Spring Boot siguiendo los principios de Domain-Driven Design (DDD), permitiendo una arquitectura modular basada en bounded contexts. El proceso de despliegue incluyó la configuración del repositorio GitHub, la creación de una base de datos MySQL administrada por Railway, la configuración de variables de entorno, la construcción automática de la imagen Docker y la publicación del servicio en un entorno productivo. Finalmente, se verificó el correcto funcionamiento de la API mediante la documentación interactiva generada con Swagger/OpenAPI.
+
+**Paso 1: Configuración de la documentación OpenAPI y Swagger**
+
+Configuración de OpenAPI para exponer la documentación de la API y registrar los entornos de desarrollo y producción utilizados por el sistema.
+
+<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-1.png">
+
+**Paso 2: Configuración de seguridad y acceso a Swagger**
+
+Implementación de la configuración de seguridad mediante Spring Security, permitiendo el acceso a los endpoints de autenticación y a la documentación Swagger.
+
+<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-2.png">
+
+**Paso 3: Creación del Dockerfile para despliegue**
+
+Definición del Dockerfile encargado de construir y ejecutar la aplicación Spring Boot dentro de un contenedor Docker para facilitar su despliegue en Railway.
+
+<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-3.png">
+
+**Paso 4: Configuración de propiedades para producción**
+
+Configuración de la conexión a la base de datos MySQL, variables de entorno, JWT y parámetros necesarios para la ejecución en producción.
+
+<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-4.png">
+
+**Paso 5: Preparación de la rama de despliegue**
+
+Creación y configuración de la rama dedicada al despliegue en Railway, incluyendo la incorporación del Dockerfile y los ajustes necesarios para producción.
+
+<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-5.png">
+
+**Paso 6: Conexión del repositorio GitHub**
+
+Selección y vinculación del repositorio Foundly-Backend desde GitHub para habilitar el despliegue continuo.
+
+
+<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-7.png">
+
+**Paso 7: Aprovisionamiento de la base de datos MySQL**
+
+Creación de una instancia administrada de MySQL para almacenar la información persistente del sistema.
+
+<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-6.png">
+
+<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-8.png">
+
+**Paso 8: Configuración de variables de entorno**
+
+Registro de variables de entorno requeridas por la aplicación, incluyendo JWT_SECRET, PORT y SPRING_PROFILES_ACTIVE.
+
+<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-9.png">
+
+**Paso 9: Configuración del despliegue automático**
+
+Configuración de Railway para desplegar automáticamente los cambios enviados a la rama deployment-railway del repositorio.
+
+<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-10.png">
+
+
+**Paso 10: Configuración del constructor Docker**
+
+Definición del Dockerfile como mecanismo de construcción de la aplicación dentro del entorno de Railway.
+
+<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-11.png">
+
+**Paso 11: Verificación de variables en producción**
+
+Comprobación de la correcta carga de las variables de entorno utilizadas durante la ejecución del servicio.
+
+<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-12.png">
+
+
+**Paso 12: Verificación del despliegue exitoso**
+
+Validación del estado operativo del backend y revisión de los registros generados por Spring Boot durante el inicio del servicio.
+
+<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-13.png">
+
+**Paso 13: Verificación de la base de datos**
+
+Comprobación de las tablas generadas automáticamente por JPA/Hibernate en la base de datos MySQL desplegada en Railway.
+
+<div align="center">
+<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-14.png">
+</div>
+**Paso 14: Verificación de la documentación y endpoints desplegados**
+
+Validación del correcto funcionamiento de la documentación Swagger/OpenAPI y de los endpoints implementados en los bounded contexts IAM, Projects, Profiles, Comments y Environmental Monitoring.
+
+<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-15.png">
+
+
+
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 3, el equipo colaboró activamente en el desarrollo del Frontend Web Application de Foundly, integrando nuevas funcionalidades y mejorando los módulos existentes. A través del repositorio de GitHub se gestionó el trabajo colaborativo, permitiendo una integración continua de cambios y una adecuada coordinación entre los miembros del equipo.
