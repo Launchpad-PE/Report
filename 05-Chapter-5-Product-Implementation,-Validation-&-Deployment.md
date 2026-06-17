@@ -1290,7 +1290,67 @@ El desarrollo del Backend Web Service durante el Sprint 3 fue posible gracias a 
 ---
 
 ## 5.3. Validation Interviews. 
+En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
+
+
 ### 5.3.1. Diseño de Entrevistas.
+
+**Preguntas Generales**
+
+- ¿Qué fue lo primero que pensaste al ver la landing page y la aplicación web de Foundly?
+
+- ¿Te quedó claro de qué trata la herramienta y cuál es su propósito principal?
+
+- ¿Hubo algo que te generó confusión o que no entendiste del todo? ¿Cuál parte?
+
+- ¿Cómo describirías la facilidad de navegación dentro de la plataforma?
+
+- ¿Consideras que el diseño visual está equilibrado o cambiarías algo?
+
+- ¿Qué tan útil te parece esta plataforma en función de tus objetivos personales o profesionales?
+
+- ¿Notas alguna funcionalidad o sección que crees que falta o que debería mejorarse?
+
+- ¿Sientes que la plataforma transmite confianza y profesionalismo?
+
+**Preguntas para el Segmento 1 — Emprendedores y Startups en Etapa Temprana**
+
+- ¿Qué tan fácil te resultó crear un proyecto y publicarlo en la plataforma?
+
+- ¿El proceso de agregar roles o colaboradores a tu proyecto te pareció claro?
+
+- ¿Cómo percibes la opción de recibir postulaciones de colaboradores? ¿Te parece útil?
+
+- ¿Sientes que la información que se muestra sobre los colaboradores es suficiente para decidir a quién aceptar?
+
+- ¿El flujo de creación de tareas e hitos te pareció práctico para organizar tu equipo?
+
+- ¿Sientes que la interfaz refleja bien la identidad y visión de tu proyecto?
+
+- ¿Agregarías alguna funcionalidad adicional que te facilite la gestión o visibilidad de tu proyecto?
+
+- ¿Crees que usarías Foundly para publicar tus próximos proyectos reales? ¿Por qué sí o por qué no?
+
+
+**Preguntas para el Segmento 2 — Estudiantes Universitarios y Profesionales Jovenes (Colaboradores)**
+
+- ¿Qué tan fácil fue encontrar proyectos en los que quisieras postular?
+
+- ¿El formulario o proceso de postulación te pareció claro y rápido?
+
+- ¿La información mostrada por los emprendedores (duración, roles, área, recompensas) te ayudó a decidir postular?
+
+- ¿Qué tan útil te parece que los proyectos indiquen sus beneficios o recompensas para los colaboradores?
+
+- ¿Sientes que la plataforma transmite confianza y transparencia entre los miembros del equipo?
+
+- ¿Qué opinas sobre el diseño y estructura de las tarjetas de proyectos (información, etiquetas, botones)?
+
+- ¿Qué funcionalidad te gustaría que se agregue para facilitar la comunicación o el seguimiento del proyecto?
+
+- ¿Te gustaría seguir usando la plataforma para participar en más proyectos o recomendarla a otros?
+
+
 ### 5.3.2. Registro de Entrevistas. 
 ### 5.3.3.  Evaluaciones según heurísticas.  
 ## 5.4. Video About-the-Product. 
