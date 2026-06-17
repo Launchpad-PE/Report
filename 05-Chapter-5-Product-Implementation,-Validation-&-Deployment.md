@@ -1349,6 +1349,105 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 ### 5.3.2. Registro de Entrevistas. 
 ### 5.3.3.  Evaluaciones según heurísticas.  
 
+# Anexo D. Formato para Evaluación de User Experience según Heurísticas
+
+## UX Heuristics & Principles Evaluation
+
+**Usability – Inclusive Design – Information Architecture**
+
+| Campo | Detalle |
+|---|---|
+| **CARRERA** | Ingeniería de Software |
+| **CURSO** | Desarrollo de Aplicaciones Open Source |
+| **SECCIÓN** | 10177 |
+| **PROFESOR** | Mori Paiva, Hugo Allan |
+| **AUDITOR** | Launchpad-PE |
+| **CLIENTE(S)** | (Nombres de las personas que participan en la sesión) |
+
+**SITE o APP A EVALUAR:** Foundly
+
+---
+
+### TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+2. Inicio de sesión
+3. Edición del perfil de usuario
+4. Creación de un proyecto / campaña de crowdfunding
+5. Búsqueda y filtrado de proyectos
+6. Postulación a un equipo de proyecto
+7. Realización de un aporte económico a una campaña
+8. Visualización del módulo de monitoreo de impacto ambiental (IoT)
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Gestión de planes premium (suscripción freemium)
+2. Sistema de reputación de equipos
+3. Recomendaciones personalizadas según habilidades
+4. Configuración avanzada de notificaciones
+
+---
+
+### ESCALA DE SEVERIDAD
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|---|---|
+| 1 | Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a menos que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+### TABLA RESUMEN
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|---|---|---|---|
+| 1 | Al editar el perfil del usuario, los campos no validan correctamente los formatos (por ejemplo, correo sin "@"), lo que permite guardar información incorrecta. | 3 | Usability: Prevención de errores |
+| 2 | Al filtrar proyectos por palabras clave, los resultados no muestran coincidencias parciales, obligando al usuario a escribir el título exacto para encontrar un proyecto. | 2 | Usability: Flexibilidad y eficiencia de uso |
+
+---
+
+### DESCRIPCIÓN DE PROBLEMAS
+
+**PROBLEMA #1:** Al editar el perfil del usuario, los campos no validan correctamente los formatos (por ejemplo, correo sin "@"), lo que permite guardar información incorrecta.
+
+**Severidad:** 3
+
+**Heurística violada:** Usability – Prevención de errores
+
+**Problema:**
+Durante el proceso de edición del perfil, el sistema permite ingresar datos inválidos como correos electrónicos sin el símbolo "@" o números de teléfono con letras. Esto puede generar registros erróneos en la base de datos y confundir al usuario, quien podría pensar que la información fue verificada correctamente. Además, no se muestra ningún mensaje de advertencia ni confirmación visual al guardar los cambios, lo que afecta la confianza del usuario en la funcionalidad.
+
+*(Incluir captura de pantalla ilustrando el problema.)*
+
+**Recomendación:**
+Implementar validaciones en tiempo real para los campos de entrada (correo, teléfono, contraseña, etc.), mostrando mensajes claros de error y confirmación visual al guardar los cambios. Esto aumentará la confianza del usuario y evitará errores en la base de datos.
+
+---
+
+**PROBLEMA #2:** Al filtrar proyectos por palabras clave, los resultados no muestran coincidencias parciales, obligando al usuario a escribir el título exacto para encontrar un proyecto.
+
+**Severidad:** 2
+
+**Heurística violada:** Usability – Flexibilidad y eficiencia de uso
+
+**Problema:**
+Cuando el usuario realiza una búsqueda de proyectos, el sistema solo devuelve resultados si la palabra escrita coincide exactamente con el título del proyecto. Si el usuario introduce una variación mínima (como sinónimos, mayúsculas o solo una parte del nombre), no se muestran resultados. Esto limita la eficiencia de la búsqueda, incrementa la frustración y reduce la percepción de accesibilidad de la aplicación, especialmente para nuevos usuarios que no recuerdan los nombres completos de los proyectos.
+
+*(Incluir captura de pantalla ilustrando el problema.)*
+
+**Recomendación:**
+Optimizar el motor de búsqueda para que acepte coincidencias parciales, ignore diferencias entre mayúsculas y minúsculas, y reconozca sinónimos o términos relacionados. Esto hará la experiencia de búsqueda más rápida, flexible y accesible.
+
+---
+
+A través de todo el proceso de realización del proyecto hemos conseguido validar las heurísticas relacionadas a nuestra landing page y aplicación web, ya que los problemas identificados durante las sesiones de validación fueron levantados y corregidos en las versiones desplegadas de los productos digitales.
+
 ## 5.4. Video About-the-Product. 
 
 El video "About the Product" presenta de manera clara y atractiva la propuesta de valor de Foundly, los problemas que resuelve y cómo funciona la solución para ambos segmentos objetivo.
