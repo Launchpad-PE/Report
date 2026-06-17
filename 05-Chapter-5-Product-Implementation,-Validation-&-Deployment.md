@@ -1081,6 +1081,10 @@ Durante el Sprint 3 se desarrolló la primera versión funcional del Backend Web
 <img src="resources/Images/Chapter-5/sprint-3/swagger/projects.png">
 
 
+URL del servicio desplegado en Railway: https://foundly-backend-production.up.railway.app/swagger-ui/index.html#/ 
+
+URL de presentación de la demo del Backend Web Service: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310949_upc_edu_pe/IQBx6lVUcDXtRqO_3qdu8QqSAVXAOy61nd0idopAhQ2tZoM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IOkrHo 
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 3 se implementó la primera versión funcional del Backend Web Service de Foundly utilizando Spring Boot y siguiendo los principios de Domain-Driven Design (DDD). La documentación de los servicios fue generada mediante Swagger/OpenAPI, permitiendo visualizar y probar los endpoints disponibles para los distintos bounded contexts del sistema.
