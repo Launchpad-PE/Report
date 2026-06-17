@@ -24,9 +24,9 @@
 
 ### Anexo C: Videos del Producto
 
-| Recurso | Enlace |
-|---|---|
-| Video About-the-Product | — |
+| Recurso | Enlace                     |
+|---|----------------------------|
+| Video About-the-Product | https://shorturl.at/8xypo  |
 
 ---
 

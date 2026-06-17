@@ -1353,7 +1353,22 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 
 ### 5.3.2. Registro de Entrevistas. 
 ### 5.3.3.  Evaluaciones según heurísticas.  
+
 ## 5.4. Video About-the-Product. 
+
+El video "About the Product" presenta de manera clara y atractiva la propuesta de valor de Foundly, los problemas que resuelve y cómo funciona la solución para ambos segmentos objetivo.
+
+| Título del Video      | Foundly Product              | 
+|-----------------------|------------------------------|
+| Duración              | 2 minutos                    |  
+| Fecha de Grabación    | 17/06/2026                   | 
+| URL YouTube           | https://youtu.be/cxnxvIj8iWE | 
+| URL Microsoft Stream  | https://shorturl.at/8xypo    | 
+
+Screenshot del video "About the Product" :
+
+![Video About the product image.png](resources/Images/Chapter-5/sprint-3/Screenshot%20Video/Video%20About%20the%20product%20image.png)
+
 ## 5.5. Video About Team
 
 
