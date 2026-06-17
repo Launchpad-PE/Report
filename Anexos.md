@@ -26,7 +26,7 @@
 
 | Recurso | Enlace                     |
 |---|----------------------------|
-| Video About-the-Product | https://shorturl.at/8xypo  |
+| Video About-the-Product | https://shorturl.at/p83k0  |
 
 ---
 
