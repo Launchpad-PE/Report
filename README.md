@@ -30,6 +30,7 @@
 | Bautista Rivera, Jose Diego          | U202310949 |
 | Pariachi Limahuaya, Sebastian Ubaldo | U202314115 |
 | Teran Zavala, Mauricio Alejandro     | U202417423 |
+| Taipe Sangama Jorge Francisco        | U202313458 |
 
 
 **Mes y Año**: Marzo 2026
