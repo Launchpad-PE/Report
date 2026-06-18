@@ -1358,7 +1358,119 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 
 **Segmento 1: Emprededores y Startups en Etapa Temprana (Emprendedor)**
 
+<table>
+<tr>
+<th colspan="2">Entrevista #1</th>
+</tr>
+<tr>
+<td><b>Nombre</b></td>
+<td>Damaly</td>
+</tr>
+<tr>
+<td><b>Apellidos</b></td>
+<td>Almerco Rojas</td>
+</tr>
+<tr>
+<td><b>Edad</b></td>
+<td>21 años</td>
+</tr>
+<tr>
+<td><b>Distrito</b></td>
+<td>San Isidro</td>
+</tr>
+<tr>
+<td><b>Aplicaciones Usadas</b></td>
+<td>WhatsApp, Google Drive, Google Meet, Microsoft Stream</td>
+</tr>
+<tr>
+<td><b>Motivación</b></td>
+<td>Conseguir colaboradores con habilidades complementarias (diseño, marketing) y tener todo organizado en un solo lugar.</td>
+</tr>
+<tr>
+<td><b>Frustración</b></td>
+<td>Dificultad para encontrar colaboradores comprometidos y confiables; herramientas dispersas que generan desorden; falta de claridad sobre responsabilidades de cada integrante.</td>
+</tr>
+	<tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt=""></div></td>
+  </tr>
+<tr>
+	 <tr>
+    <td>Link</td>
+   <td>
+		<p><a target="_blank"  href="" title="Title">Microsoft Stream</p>
+	</td>
+  </tr>
+  <tr>
+    <td>Duracion</td>
+   <td>
+		8:05 min - 19:52 min
+	</td>
+  </tr>
+  <tr>
+<td><b>Resumen</b></td>
+<td>Damaly es una joven emprendedora que actualmente gestiona sus proyectos utilizando WhatsApp, Google Drive y Google Meet. Considera que uno de sus principales desafíos es encontrar colaboradores comprometidos que permanezcan en el proyecto hasta su finalización. Tras probar Foundly, destacó la facilidad de navegación, la organización de la información y la posibilidad de centralizar la búsqueda de colaboradores y la gestión de proyectos en una sola plataforma. Además, sugirió incorporar sistemas de reputación, referencias de usuarios y notificaciones para fortalecer la confianza y mejorar el seguimiento de actividades.</td>
+</tr>
+</table>
 
+---
+
+<table>
+<tr>
+<th colspan="2">Entrevista #2</th>
+</tr>
+<tr>
+<td><b>Nombre</b></td>
+<td>Jhoan</td>
+</tr>
+<tr>
+<td><b>Apellidos</b></td>
+<td>Janampa Gutiérrez</td>
+</tr>
+<tr>
+<td><b>Edad</b></td>
+<td>20 años</td>
+</tr>
+<tr>
+<td><b>Distrito</b></td>
+<td>Chorrillos</td>
+</tr>
+<tr>
+<td><b>Aplicaciones Usadas</b></td>
+<td>WhatsApp, Excel, Google Meet, Microsoft Stream</td>
+</tr>
+<tr>
+<td><b>Motivación</b></td>
+<td>Encontrar colaboradores de áreas complementarias como marketing, ventas y diseño, además de contar con una plataforma que permita gestionar equipos y visualizar el progreso de los proyectos de manera centralizada.</td>
+</tr>
+<tr>
+<td><b>Frustración</b></td>
+<td>Dificultad para completar equipos multidisciplinarios; gestión manual mediante WhatsApp y Excel; falta de seguimiento del avance de los integrantes y problemas de coordinación dentro de los proyectos.</td>
+</tr>
+<tr>
+	</tr>
+	<tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt=""></div></td>
+  </tr>
+<tr>
+	 <tr>
+    <td>Link</td>
+   <td>
+		<p><a target="_blank"  href="" title="Title">Microsoft Stream</p>
+	</td>
+  </tr>
+  <tr>
+    <td>Duracion</td>
+   <td>
+		8:05 min - 19:52 min
+	</td>
+  </tr>
+  <tr>
+<td><b>Resumen</b></td>
+<td>Jhoan es un emprendedor con perfil técnico que suele encontrar colaboradores para desarrollo de software, pero tiene dificultades para conseguir perfiles de marketing, ventas y diseño. Tras evaluar Foundly, destacó la facilidad de navegación, la simplicidad para crear proyectos y la utilidad de centralizar las postulaciones de colaboradores. Considera que la plataforma puede resolver problemas de organización y seguimiento que actualmente enfrenta utilizando WhatsApp y Excel. Además, recomendó incorporar sistemas de reputación, validación de perfiles, portafolios y un panel de seguimiento que permita visualizar el avance de cada integrante y recibir notificaciones sobre actualizaciones importantes.</td>
+</tr>
+</table>
 
 **Segmento 2: Estudiantes Universitarios y Profesionales (Colaborador)**
 <table>
