@@ -1368,7 +1368,7 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 | **SECCIÓN** | 10177 |
 | **PROFESOR** | Mori Paiva, Hugo Allan |
 | **AUDITOR** | Launchpad-PE |
-| **CLIENTE(S)** | (Nombres de las personas que participan en la sesión) |
+| **CLIENTE(S)** | Damaly - Gonzalo - Jhoan - Diana Carolina - Diego Alonso - Alvaro |
 
 **SITE o APP A EVALUAR:** Foundly
 
@@ -1429,7 +1429,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 **Problema:**
 Durante el proceso de edición del perfil, el sistema permite ingresar datos inválidos como correos electrónicos sin el símbolo "@" o números de teléfono con letras. Esto puede generar registros erróneos en la base de datos y confundir al usuario, quien podría pensar que la información fue verificada correctamente. Además, no se muestra ningún mensaje de advertencia ni confirmación visual al guardar los cambios, lo que afecta la confianza del usuario en la funcionalidad.
 
-*(Incluir captura de pantalla ilustrando el problema.)*
+<img src = "resources/Images/Chapter-5/sprint-3/UX Heuristics/Pantalla de Iniciar sesión (Usability – Prevención de errores).webp">
 
 **Recomendación:**
 Implementar validaciones en tiempo real para los campos de entrada (correo, teléfono, contraseña, etc.), mostrando mensajes claros de error y confirmación visual al guardar los cambios. Esto aumentará la confianza del usuario y evitará errores en la base de datos.
@@ -1445,7 +1445,7 @@ Implementar validaciones en tiempo real para los campos de entrada (correo, tel�
 **Problema:**
 Cuando el usuario realiza una búsqueda de proyectos, el sistema solo devuelve resultados si la palabra escrita coincide exactamente con el título del proyecto. Si el usuario introduce una variación mínima (como sinónimos, mayúsculas o solo una parte del nombre), no se muestran resultados. Esto limita la eficiencia de la búsqueda, incrementa la frustración y reduce la percepción de accesibilidad de la aplicación, especialmente para nuevos usuarios que no recuerdan los nombres completos de los proyectos.
 
-*(Incluir captura de pantalla ilustrando el problema.)*
+<img src = "resources/Images/Chapter-5/sprint-3/UX Heuristics/Dashboard  Inicio (Proyectos disponibles).webp">
 
 **Recomendación:**
 Optimizar el motor de búsqueda para que acepte coincidencias parciales, ignore diferencias entre mayúsculas y minúsculas, y reconozca sinónimos o términos relacionados. Esto hará la experiencia de búsqueda más rápida, flexible y accesible.
