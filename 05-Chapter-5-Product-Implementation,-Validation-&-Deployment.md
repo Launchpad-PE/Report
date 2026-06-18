@@ -931,7 +931,7 @@ presenta el tablero de control del sprint:
 
 **URL del Sprint Board:** https://upc-team-tohi2bk.atlassian.net/jira/software/projects/FOUN/boards/67/backlog?epics=visible&atlOrigin=eyJpIjoiYjRlNzE5MGJiY2RiNGQ0ZmEwMzM3ZDk2MDY4MGFmMDMiLCJwIjoiaiJ9
 
-![Sprint Board Foundly Sprint 3](resources/Images/Chapter-5/sprint-3/SprintBoard/sprint-board-3.png)
+![Sprint Board Foundly Sprint 3](resources/Images/Chapter-5/Sprint3/SprintBoard/sprint-board-3.png)
 
 | User Story ID | User Story Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -1056,31 +1056,31 @@ Durante el Sprint 3 se desarrolló la primera versión funcional del Backend Web
 
 **Endpoints para la gestión y consulta de usuarios del sistema**
 
-<img src="resources/Images/Chapter-5/sprint-3/swagger/users.png">
+<img src="resources/Images/Chapter-5/Sprint3/swagger/users.png">
 
 
 **Endpoints para registro e inicio de sesión de usuarios**
 
-<img src="resources/Images/Chapter-5/sprint-3/swagger/authentication.png">
+<img src="resources/Images/Chapter-5/Sprint3/swagger/authentication.png">
 
 
 **Endpoints para la gestión y consulta de comentarios de perfiles**
 
-<img src="resources/Images/Chapter-5/sprint-3/swagger/comments.png">
+<img src="resources/Images/Chapter-5/Sprint3/swagger/comments.png">
 
 **Endpoints para la consulta de métricas ambientales y dashboard IoT**
 
-<img src="resources/Images/Chapter-5/sprint-3/swagger/enviromental-iot.png">
+<img src="resources/Images/Chapter-5/Sprint3/swagger/enviromental-iot.png">
 
 
 **Endpoints para la administración de perfiles de usuario.**
 
-<img src="resources/Images/Chapter-5/sprint-3/swagger/profiles.png">
+<img src="resources/Images/Chapter-5/Sprint3/swagger/profiles.png">
 
 
 **Endpoints para la gestión, publicación y administración de proyectos.**
 
-<img src="resources/Images/Chapter-5/sprint-3/swagger/projects.png">
+<img src="resources/Images/Chapter-5/Sprint3/swagger/projects.png">
 
 
 URL del servicio desplegado en Railway: https://foundly-backend-production.up.railway.app/swagger-ui/index.html#/ 
@@ -1128,86 +1128,86 @@ Durante el Sprint 3 se realizó el despliegue del Backend Web Service de Foundly
 
 Configuración de OpenAPI para exponer la documentación de la API y registrar los entornos de desarrollo y producción utilizados por el sistema.
 
-<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-1.png">
+<img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-1.png">
 
 **Paso 2: Configuración de seguridad y acceso a Swagger**
 
 Implementación de la configuración de seguridad mediante Spring Security, permitiendo el acceso a los endpoints de autenticación y a la documentación Swagger.
 
-<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-2.png">
+<img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-2.png">
 
 **Paso 3: Creación del Dockerfile para despliegue**
 
 Definición del Dockerfile encargado de construir y ejecutar la aplicación Spring Boot dentro de un contenedor Docker para facilitar su despliegue en Railway.
 
-<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-3.png">
+<img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-3.png">
 
 **Paso 4: Configuración de propiedades para producción**
 
 Configuración de la conexión a la base de datos MySQL, variables de entorno, JWT y parámetros necesarios para la ejecución en producción.
 
-<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-4.png">
+<img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-4.png">
 
 **Paso 5: Preparación de la rama de despliegue**
 
 Creación y configuración de la rama dedicada al despliegue en Railway, incluyendo la incorporación del Dockerfile y los ajustes necesarios para producción.
 
-<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-5.png">
+<img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-5.png">
 
 **Paso 6: Conexión del repositorio GitHub**
 
 Selección y vinculación del repositorio Foundly-Backend desde GitHub para habilitar el despliegue continuo.
 
 
-<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-7.png">
+<img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-7.png">
 
 **Paso 7: Aprovisionamiento de la base de datos MySQL**
 
 Creación de una instancia administrada de MySQL para almacenar la información persistente del sistema.
 
-<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-6.png">
+<img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-6.png">
 
-<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-8.png">
+<img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-8.png">
 
 **Paso 8: Configuración de variables de entorno**
 
 Registro de variables de entorno requeridas por la aplicación, incluyendo JWT_SECRET, PORT y SPRING_PROFILES_ACTIVE.
 
-<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-9.png">
+<img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-9.png">
 
 **Paso 9: Configuración del despliegue automático**
 
 Configuración de Railway para desplegar automáticamente los cambios enviados a la rama deployment-railway del repositorio.
 
-<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-10.png">
+<img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-10.png">
 
 
 **Paso 10: Configuración del constructor Docker**
 
 Definición del Dockerfile como mecanismo de construcción de la aplicación dentro del entorno de Railway.
 
-<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-11.png">
+<img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-11.png">
 
 
 **Paso 11: Verificación del despliegue exitoso**
 
 Validación del estado operativo del backend y revisión de los registros generados por Spring Boot durante el inicio del servicio.
 
-<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-13.png">
+<img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-13.png">
 
 **Paso 12: Verificación de la base de datos**
 
 Comprobación de las tablas generadas automáticamente por JPA/Hibernate en la base de datos MySQL desplegada en Railway.
 
 <div align="center">
-<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-14.png">
+<img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-14.png">
 </div>
 
 **Paso 13: Verificación de la documentación y endpoints desplegados**
 
 Validación del correcto funcionamiento de la documentación Swagger/OpenAPI y de los endpoints implementados en los bounded contexts IAM, Projects, Profiles, Comments y Environmental Monitoring.
 
-<img src="resources/Images/Chapter-5/sprint-3/deployment-steps/step-15.png">
+<img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-15.png">
 
 
 
@@ -1226,7 +1226,7 @@ A continuación, se presentan las métricas de colaboración y los principales i
 - Commits Totales: 136 commits sobre la rama develop.
 - Commits Totales en todas las ramas: 155.
 
-![Analíticos de colaboración GitHub - Sprint 3](resources/Images/Chapter-5/sprint-3/project-collaboration.jpeg)
+![Analíticos de colaboración GitHub - Sprint 3](resources/Images/Chapter-5/Sprint3/project-collaboration.jpeg)
 
 **Análisis de Colaboración**
 - Frecuencia de Integración: El equipo mantuvo una integración continua durante el Sprint 3, alcanzando un total de 136 commits en la rama principal de desarrollo, lo que permitió una evolución constante del proyecto.
@@ -1249,7 +1249,7 @@ A continuación, se presentan las métricas de colaboración y los principales i
 
 El desarrollo del Frontend Web Application durante el Sprint 3 fue posible gracias a la colaboración de los siguientes integrantes:
 
-![Gráfico de commits por integrante](resources/Images/Chapter-5/sprint-3/contributions.jpeg)
+![Gráfico de commits por integrante](resources/Images/Chapter-5/Sprint3/contributions.jpeg)
 
 ---
 
@@ -1266,7 +1266,7 @@ A continuación, se presentan las métricas de colaboración y los principales i
 - Commits Totales: 62 commits sobre la rama develop.
 - Commits Totales en todas las ramas: 67.
 
-![Analíticos de colaboración GitHub - Sprint 3](resources/Images/Chapter-5/sprint-3/project-collaboration-backend.png)
+![Analíticos de colaboración GitHub - Sprint 3](resources/Images/Chapter-5/Sprint3/project-collaboration-backend.png)
 
 **Análisis de Colaboración**
 
@@ -1563,7 +1563,7 @@ El video "About the Product" presenta de manera clara y atractiva la propuesta d
 
 Screenshot del video "About the Product" :
 
-![Video About the product image.png](resources/Images/Chapter-5/sprint-3/Screenshot%20Video/Video%20About%20the%20product%20image.png)
+![Video About the product image.png](resources/Images/Chapter-5/Sprint3/Screenshot%20Video/Video%20About%20the%20product%20image.png)
 
 ## 5.5. Video About Team
 
