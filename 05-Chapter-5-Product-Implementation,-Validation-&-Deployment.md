@@ -1353,6 +1353,17 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 
 
 ### 5.3.2. Registro de Entrevistas. 
+
+En esta sección presentaremos el registro de cada entrevista de validación que hemos realizado para cada segmento objetivo de nuestro proyecto.
+
+**Segmento 1: Emprededores y Startups en Etapa Temprana (Emprendedor)**
+
+
+
+**Segmento 2: Estudiantes Universitarios y Profesionales (Colaborador)**
+
+
+
 ### 5.3.3.  Evaluaciones según heurísticas.  
 
 ## UX Heuristics & Principles Evaluation
