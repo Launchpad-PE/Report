@@ -929,9 +929,9 @@ El objetivo principal del Sprint 3 es implementar en su totalidad el Frontend We
 principales de la plataforma para ambos segmentos objetivo. De la misma manera se implementó la primera versión funcional del Backend de Foundly utilizando la arquitectura Domain-Driven Design (DDD).A continuación se 
 presenta el tablero de control del sprint:
 
-**URL del Sprint Board:** 
+**URL del Sprint Board:** https://upc-team-tohi2bk.atlassian.net/jira/software/projects/FOUN/boards/67/backlog?epics=visible&atlOrigin=eyJpIjoiYjRlNzE5MGJiY2RiNGQ0ZmEwMzM3ZDk2MDY4MGFmMDMiLCJwIjoiaiJ9
 
-![Sprint Board Foundly Sprint 2](resources/Images/Chapter-5/Sprint3/)
+![Sprint Board Foundly Sprint 3](resources/Images/Chapter-5/sprint-3/SprintBoard/sprint-board-3.png)
 
 | User Story ID | User Story Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -977,6 +977,8 @@ presenta el tablero de control del sprint:
 |  | | FOUN-80-2 | CQRS: Command para inserción de comentarios | Desarrollar el controlador y handler técnico para publicar aportes en el muro del proyecto. | 4 | Limahuaya Pariachi, Sebastian | Finalizada |
 | US019 | Moderación de Hilos de Discusión | FOUN-81-1 | CQRS: Query para hilos de conversación | Desarrollar consultas anidadas eficientes para traer comentarios ordenados por fecha. | 5 | Limahuaya Pariachi, Sebastian | Finalizada |
 | | | FOUN-81-2 | API: Endpoint seguro para borrado lógico | Crear el comando y endpoint protegido por roles para deshabilitar comentarios no deseados. | 4 | Limahuaya Pariachi, Sebastian | Finalizada |
+
+
 
 ### 5.2.3.4. Development Evidence for Sprint Review
 
@@ -1460,8 +1462,8 @@ El video "About the Product" presenta de manera clara y atractiva la propuesta d
 |-----------------------|------------------------------|
 | Duración              | 2 minutos                    |  
 | Fecha de Grabación    | 17/06/2026                   | 
-| URL YouTube           | https://youtu.be/cw0xHFTigT8 | 
-| URL Microsoft Stream  | https://shorturl.at/p83k0    | 
+| URL YouTube           | https://youtu.be/cxnxvIj8iWE | 
+| URL Microsoft Stream  | https://shorturl.at/8xypo    | 
 
 Screenshot del video "About the Product" :
 
