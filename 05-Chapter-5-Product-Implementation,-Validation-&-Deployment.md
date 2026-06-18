@@ -1392,7 +1392,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 </tr>
 	<tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt=""></div></td>
+    <td><div align="center"><img src="resources/Images/Chapter-5/Sprint3/entrevistas/Damely.png" alt=""></div></td>
   </tr>
 <tr>
 	 <tr>
@@ -1451,7 +1451,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 	</tr>
 	<tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt=""></div></td>
+    <td><div align="center"><img src="resources/Images/Chapter-5/Sprint3/entrevistas/jhoan.png" alt=""></div></td>
   </tr>
 <tr>
 	 <tr>
