@@ -1460,7 +1460,7 @@ El video "About the Product" presenta de manera clara y atractiva la propuesta d
 |-----------------------|------------------------------|
 | Duración              | 2 minutos                    |  
 | Fecha de Grabación    | 17/06/2026                   | 
-| URL YouTube           | https://youtu.be/cxnxvIj8iWE | 
+| URL YouTube           | https://www.youtube.com/watch?v=cw0xHFTigT8  | 
 | URL Microsoft Stream  | https://shorturl.at/8xypo    | 
 
 Screenshot del video "About the Product" :
