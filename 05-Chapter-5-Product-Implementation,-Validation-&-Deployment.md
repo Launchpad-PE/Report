@@ -1128,72 +1128,115 @@ Durante el Sprint 3 se realizó el despliegue del Backend Web Service de Foundly
 
 Configuración de OpenAPI para exponer la documentación de la API y registrar los entornos de desarrollo y producción utilizados por el sistema.
 
+<div align="center">
+
 <img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-1.png">
+
+</div>
 
 **Paso 2: Configuración de seguridad y acceso a Swagger**
 
 Implementación de la configuración de seguridad mediante Spring Security, permitiendo el acceso a los endpoints de autenticación y a la documentación Swagger.
 
+<div align="center">
+
 <img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-2.png">
+
+</div>
 
 **Paso 3: Creación del Dockerfile para despliegue**
 
 Definición del Dockerfile encargado de construir y ejecutar la aplicación Spring Boot dentro de un contenedor Docker para facilitar su despliegue en Railway.
 
+<div align="center">
+
 <img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-3.png">
+
+</div>
 
 **Paso 4: Configuración de propiedades para producción**
 
 Configuración de la conexión a la base de datos MySQL, variables de entorno, JWT y parámetros necesarios para la ejecución en producción.
 
+<div align="center">
+
 <img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-4.png">
+
+</div>
 
 **Paso 5: Preparación de la rama de despliegue**
 
 Creación y configuración de la rama dedicada al despliegue en Railway, incluyendo la incorporación del Dockerfile y los ajustes necesarios para producción.
 
+<div align="center">
+
 <img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-5.png">
+
+</div>
 
 **Paso 6: Conexión del repositorio GitHub**
 
 Selección y vinculación del repositorio Foundly-Backend desde GitHub para habilitar el despliegue continuo.
 
+<div align="center">
 
 <img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-7.png">
+
+</div>
 
 **Paso 7: Aprovisionamiento de la base de datos MySQL**
 
 Creación de una instancia administrada de MySQL para almacenar la información persistente del sistema.
 
+<div align="center">
+
 <img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-6.png">
 
 <img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-8.png">
+
+</div>
 
 **Paso 8: Configuración de variables de entorno**
 
 Registro de variables de entorno requeridas por la aplicación, incluyendo JWT_SECRET, PORT y SPRING_PROFILES_ACTIVE.
 
+<div align="center">
+
 <img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-9.png">
+
+</div>
 
 **Paso 9: Configuración del despliegue automático**
 
 Configuración de Railway para desplegar automáticamente los cambios enviados a la rama deployment-railway del repositorio.
 
+<div align="center">
+
 <img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-10.png">
+
+</div>
 
 
 **Paso 10: Configuración del constructor Docker**
 
 Definición del Dockerfile como mecanismo de construcción de la aplicación dentro del entorno de Railway.
 
+<div align="center">
+
 <img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-11.png">
+
+</div>
 
 
 **Paso 11: Verificación del despliegue exitoso**
 
 Validación del estado operativo del backend y revisión de los registros generados por Spring Boot durante el inicio del servicio.
 
+<div align="center">
+
 <img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-13.png">
+
+</div>
 
 **Paso 12: Verificación de la base de datos**
 
@@ -1207,8 +1250,11 @@ Comprobación de las tablas generadas automáticamente por JPA/Hibernate en la b
 
 Validación del correcto funcionamiento de la documentación Swagger/OpenAPI y de los endpoints implementados en los bounded contexts IAM, Projects, Profiles, Comments y Environmental Monitoring.
 
+<div align="center">
+
 <img src="resources/Images/Chapter-5/Sprint3/deployment-steps/step-15.png">
 
+</div>
 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
@@ -1226,7 +1272,11 @@ A continuación, se presentan las métricas de colaboración y los principales i
 - Commits Totales: 136 commits sobre la rama develop.
 - Commits Totales en todas las ramas: 155.
 
+<div align="center">
+
 ![Analíticos de colaboración GitHub - Sprint 3](resources/Images/Chapter-5/Sprint3/project-collaboration.jpeg)
+
+</div>
 
 **Análisis de Colaboración**
 - Frecuencia de Integración: El equipo mantuvo una integración continua durante el Sprint 3, alcanzando un total de 136 commits en la rama principal de desarrollo, lo que permitió una evolución constante del proyecto.
@@ -1249,7 +1299,11 @@ A continuación, se presentan las métricas de colaboración y los principales i
 
 El desarrollo del Frontend Web Application durante el Sprint 3 fue posible gracias a la colaboración de los siguientes integrantes:
 
+<div align="center">
+
 ![Gráfico de commits por integrante](resources/Images/Chapter-5/Sprint3/contributions.jpeg)
+
+</div>
 
 ---
 
@@ -1266,7 +1320,11 @@ A continuación, se presentan las métricas de colaboración y los principales i
 - Commits Totales: 62 commits sobre la rama develop.
 - Commits Totales en todas las ramas: 67.
 
+<div align="center">
+
 ![Analíticos de colaboración GitHub - Sprint 3](resources/Images/Chapter-5/Sprint3/project-collaboration-backend.png)
+
+</div>
 
 **Análisis de Colaboración**
 
@@ -1286,7 +1344,11 @@ A continuación, se presentan las métricas de colaboración y los principales i
 
 El desarrollo del Backend Web Service durante el Sprint 3 fue posible gracias a la colaboración de los siguientes integrantes:
 
-![Analíticos de colaboración GitHub - Sprint 3](resources/Images/Chapter-5/sprint-3/contributions-backend.png)
+<div align="center">
+
+![Analíticos de colaboración GitHub - Sprint 3](resources/Images/Chapter-5/Sprint3/contributions-backend.png)
+
+</div>
 
 ---
 
@@ -1404,7 +1466,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   <tr>
     <td>Duracion</td>
    <td>
-		8:05 min - 19:52 min
+		0: 00 min - 10: 42 min
 	</td>
   </tr>
   <tr>
@@ -1463,7 +1525,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   <tr>
     <td>Duracion</td>
    <td>
-		8:05 min - 19:52 min
+		0: 00 min - 08: 18 min
 	</td>
   </tr>
   <tr>
