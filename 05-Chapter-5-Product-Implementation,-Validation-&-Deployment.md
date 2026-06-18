@@ -1361,8 +1361,95 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 
 
 **Segmento 2: Estudiantes Universitarios y Profesionales (Colaborador)**
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Diego Alonso</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Esquicha Alcántara</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Surco</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="resources/Images/Chapter-5/Sprint3/entrevistas/Interview-of-Diego-Esquicha.jpeg" alt=""></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+   <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417423_upc_edu_pe/IQB5jTq9q6qBS5DZWBHBtSfFAWpOsaKAT8SckJ136dx2dD0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=87cCCW" title="Title">Microsoft Stream</p>
+	</td>
+  </tr>
+  <tr>
+    <td>Duracion</td>
+   <td>
+		8:05 min - 19:52 min
+	</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante la entrevista, Diego Esquicha coincidió en que Foundly cuenta con una base sólida gracias a una interfaz intuitiva y una experiencia de usuario fluida, extendiendo estos comentarios favorables hacia la landing page actual, la cual calificó como atractiva y bien lograda. Sin embargo, en lo que respecta al flujo de la aplicación principal, Diego enfatizó que todavía le falta un componente clave para redondear la experiencia del usuario. Manifestó la necesidad de añadir un módulo de chat integrado para el segmento de colaboradores, argumentando que la falta de un canal interactivo propio limita la fluidez del trabajo en equipo. Para él, esta funcionalidad interactiva permitirá a los usuarios comunicarse entre sí de forma directa dentro de la misma plataforma, facilitando el cierre de acuerdos y garantizando que el proyecto se complete sin fricciones.</td>
+  </tr>
+</tbody>
+</table>
 
-
+---
+ 
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Alvaro</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Rocha Cotrina<</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Chorrillos</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="resources/Images/Chapter-5/Sprint3/entrevistas/Interview-of-Alvaro-Rocha.jpeg" alt=""></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417423_upc_edu_pe/IQCwJAMNg2lMS7-zekESjulPAekvM5nndk4Ooz3wK1ifX-A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6DQRRl" title="Microsoft Stream">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duracion</td>
+    <td>7:20 min - 13:59 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> Durante la entrevista, Alvaro Rocha destacó de manera muy positiva el desarrollo del proyecto Foundly, manifestando que la plataforma destaca por ser sumamente funcional, accesible y fácil de comprender desde la primera interacción. Asimismo, validó el diseño y la estructura de la landing page, señalando que cumple con éxito el objetivo de captar la atención del usuario. No obstante, Alvaro identificó un área de mejora crítica dentro de la aplicación móvil o de escritorio; explicó que, para potenciar la colaboración efectiva, es fundamental integrar un canal de comunicación directo. Específicamente, sugirió la implementación de un chat interno dirigido al segmento de colaboradores, una herramienta que considera indispensable para que los equipos puedan interactuar en tiempo real, coordinar las tareas pendientes y asegurar la culminación exitosa de todo el proyecto.</td>
+  </tr>
+</tbody>
+</table>
 
 ### 5.3.3.  Evaluaciones según heurísticas.  
 
