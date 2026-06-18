@@ -1398,7 +1398,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 	 <tr>
     <td>Link</td>
    <td>
-		<p><a target="_blank"  href="" title="Title">Microsoft Stream</p>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQA_ClE1fEx9R7h_cunm9vrbAfuwDggA_YroGj6Ql3WKyL4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=j8vSf2" title="Title">Microsoft Stream</p>
 	</td>
   </tr>
   <tr>
@@ -1457,7 +1457,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 	 <tr>
     <td>Link</td>
    <td>
-		<p><a target="_blank"  href="" title="Title">Microsoft Stream</p>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQDDoXiRWZ5GQ6EUqcYzvyzgAd3CPDaqEiDXamrinShtp00?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=mDOPxg" title="Title">Microsoft Stream</p>
 	</td>
   </tr>
   <tr>
