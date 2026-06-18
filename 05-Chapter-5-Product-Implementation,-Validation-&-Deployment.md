@@ -1355,8 +1355,6 @@ En esta sección, se registran y explican las actividades que abarcan las entrev
 ### 5.3.2. Registro de Entrevistas. 
 ### 5.3.3.  Evaluaciones según heurísticas.  
 
-# Anexo D. Formato para Evaluación de User Experience según Heurísticas
-
 ## UX Heuristics & Principles Evaluation
 
 **Usability – Inclusive Design – Information Architecture**
