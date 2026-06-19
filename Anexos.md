@@ -27,6 +27,7 @@
 | Recurso | Enlace                     |
 |---|----------------------------|
 | Video About-the-Product | https://shorturl.at/p83k0  |
+| Video About-the-Team | [https://shorturl.at/p83k0](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQBbdBHZYVCYQ623qHHXLqr0Af7IjbP8Nj6nWAuZsBmbJPk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=eWqAH5) |
 
 ---
 
