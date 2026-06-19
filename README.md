@@ -215,7 +215,7 @@ La colaboración fue activa y equitativa, con aportes sustanciales de todos los 
   - [5.3.2. Registro de Entrevistas.](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#532-registro-de-entrevistas) 
   - [5.3.3. Evaluaciones según heurísticas.](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#533--evaluaciones-según-heurísticas) 
 - [5.4. Video About-the-Product.](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#54-video-about-the-product) 
-- [5.5. Video About Team](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#54-video-about-the-product) 
+- [5.5. Video About Team](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#55-video-about-team) 
 
 ---
 
