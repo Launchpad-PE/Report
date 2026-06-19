@@ -931,7 +931,7 @@ presenta el tablero de control del sprint:
 
 **URL del Sprint Board:** https://upc-team-tohi2bk.atlassian.net/jira/software/projects/FOUN/boards/67/backlog?epics=visible&atlOrigin=eyJpIjoiYjRlNzE5MGJiY2RiNGQ0ZmEwMzM3ZDk2MDY4MGFmMDMiLCJwIjoiaiJ9
 
-![Sprint Board Foundly Sprint 3](resources/Images/Chapter-5/Sprint3/SprintBoard/sprint-board-3.png)
+![Sprint Board Foundly Sprint 3](resources/Images/Chapter-5/sprint-3/SprintBoard/sprint-board-3.png)
 
 | User Story ID | User Story Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
