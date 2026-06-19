@@ -1741,4 +1741,15 @@ Screenshot del video "About the Product" :
 
 ## 5.5. Video About Team
 
+El video "About the team" presenta de manera clara y consica, la sinceridad de los integrantes en la participacion del proyecto.
 
+| Título del Video      | Foundly Product              | 
+|-----------------------|------------------------------|
+| Duración              | 19 minutos                    |  
+| Fecha de Grabación    | 17/06/2026                   | 
+| URL YouTube           | https://www.youtube.com/watch?v=cw0xHFTigT8  | 
+| URL Microsoft Stream  | [https://shorturl.at/p83k0 ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQBbdBHZYVCYQ623qHHXLqr0Af7IjbP8Nj6nWAuZsBmbJPk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UFKfQ8)   | 
+
+Screenshot del video "About the Product" :
+
+![Video About the product image.png](resources/Images/Chapter-5/Sprint3/12.png)
