@@ -89,11 +89,41 @@ A continuación se presenta la captura de los analíticos de colaboración y com
 | Vitaly Arturo Baca Camargo | `Mr-Code-star` | 189 | 4872 | 419 |
 | Bautista Rivera, Jose Diego | `Gogotes17` | 34 | 630 | 20 |
 | Sebastián Ubaldo Pariachi Limahuaya | `SebastianLima-PE` | 23 | 382 | 75 |
-| Ariana Lizeth Ramírez Carrasco | `pierinaaa29` | 6 | 247 | 49 |
+| Almandroz Carbajal, Pierina Marysabel | `pierinaaa29` | 6 | 247 | 49 |
 | Mauricio Alejandro Teran Zavala | `mau-tz` | 5 | 127 | 4 |
 
 La colaboración fue activa y equitativa, con aportes sustanciales de todos los integrantes en la redacción y organización del informe.
 
+## AV2 — Sprint 3
+
+Durante esta fase, el equipo desarrolló y consolidó la primera versión funcional de la plataforma Foundly, incluyendo avances en análisis, diseño, implementación, validación y despliegue del producto. Los principales aspectos desarrollados fueron:
+
+- Definición y planificación de las actividades correspondientes al Sprint 3.
+- Asignación de responsabilidades mediante Aspect Leaders y colaboradores del equipo.
+- Elaboración y seguimiento del Sprint Backlog.
+- Implementación de la primera versión funcional del Frontend Web Application de Foundly.
+- Desarrollo del Backend Web Service utilizando Spring Boot y una arquitectura basada en Domain-Driven Design (DDD).
+- Implementación de los bounded contexts de Identity and Access Management (IAM), Projects, Profiles, Comments y Environmental Monitoring.
+- Documentación de servicios REST mediante Swagger/OpenAPI.
+- Despliegue del Backend en Railway utilizando Docker y base de datos MySQL.
+- Realización de entrevistas de validación con usuarios pertenecientes al segmento objetivo.
+- Ejecución de evaluaciones heurísticas para identificar oportunidades de mejora en la experiencia de usuario.
+- Elaboración del Video About-the-Product mostrando las funcionalidades implementadas.
+- Elaboración del Video About-the-Team presentando la organización y contribuciones de los integrantes.
+
+A continuación, se presenta la captura de los analíticos de colaboración y commits en GitHub correspondientes a este entregable.
+
+![Project Report Collaboration Insights TB1](resources/Images/Collaboration_Insights/image.png)
+
+| Integrante                          | Usuario GitHub   | Commits |
+| ----------------------------------- | ---------------- | ------- |
+| Vitaly Arturo Baca Camargo          | Mr-Code-star     | 38      |
+| Mauricio Alejandro Teran Zavala     | mau-tz           | 9       |
+| Ariana Lizeth Ramírez Carrasco      | pierinaaa29      | 8       |
+| Sebastián Ubaldo Paricchi Limahuaya | SebastianLima-PE | 7       |
+| Bautista Rivera Jose Diego          | Gogotes17        | 3       |
+
+La colaboración del equipo durante el Sprint 3 fue constante y efectiva, permitiendo completar la implementación de los principales componentes del sistema. Los avances abarcaron el desarrollo del frontend, backend, documentación de servicios, despliegue en la nube, validación con usuarios y actividades de aseguramiento de calidad, contribuyendo significativamente al progreso del producto.
 
 
 # Tabla de Contenidos
