@@ -1373,6 +1373,18 @@ En esta sección se presentan los detalles del Sprint Planning Meeting 4, en el 
 | Sum of Story Points             | 76   |
 
 ### 5.2.4.2. Aspect Leaders and Collaborators
+
+Durante el Sprint 4, el equipo organizó el trabajo en torno a la culminación de los Bounded Contexts del backend de Foundly. Los principales aspectos abordados fueron el desarrollo e implementación completa de las reglas de negocio y persistencia para los módulos de Applications (postulaciones a proyectos) y Milestone Management (hitos de control). En paralelo, se trabajó en el refinamiento de los flujos de transición dentro de Task Management, asegurando mayor coherencia en los procesos. Finalmente, se diseñó desde cero el nuevo Bounded Context de Message, destinado a habilitar el chat interactivo dentro de la aplicación.
+
+| Team Member                           | GitHub Username  | IAM & Auth | Profile Management | Project Management | Comments | Milestone Management | Task Management |
+|---------------------------------------|------------------|------------|--------------------|--------------------|----------|----------------------|-----------------|
+| Almandroz Carbajal, Pierina Marysabel | pierinaaa29      | C          | C                  | L                  | C        | C                    | L               |
+| Baca Camargo, Vitaly Arturo           | Mr-Code-star     | C          | C                  | L                  | C        | C                    | L               |
+| Bautista Rivera, Jose Diego           | Gogotes17        | C          | C                  | C                  | C        | L                    | C               |
+| Pariachi Limahuaya, Sebastian Ubaldo  | SebastianLima-PE | C          | C                  | C                  | L        | C                    | C               |
+| Taipe Sangama, Jorge Francisco        | Camotin-Furious  | C          | L                  | C                  | C        | C                    | C               |
+| Teran Zavala, Mauricio Alejandro      | mau-tz           | L          | C                  | C                  | C        | C                    | C               |
+
 ### 5.2.4.3. Sprint Backlog 4
 ### 5.2.4.4. Development Evidence for Sprint Review
 ### 5.2.4.5. Execution Evidence for Sprint Review
