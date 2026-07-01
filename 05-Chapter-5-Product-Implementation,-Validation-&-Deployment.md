@@ -1352,6 +1352,17 @@ El desarrollo del Backend Web Service durante el Sprint 3 fue posible gracias a 
 
 ---
 
+## 5.2.4. Sprint 4
+### 5.2.4.1. Sprint Planning 4
+### 5.2.4.2. Aspect Leaders and Collaborators
+### 5.2.4.3. Sprint Backlog 4
+### 5.2.4.4. Development Evidence for Sprint Review
+### 5.2.4.5. Execution Evidence for Sprint Review
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
 ## 5.3. Validation Interviews. 
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
 
