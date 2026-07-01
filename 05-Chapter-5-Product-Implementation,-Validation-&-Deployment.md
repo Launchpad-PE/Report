@@ -1354,6 +1354,24 @@ El desarrollo del Backend Web Service durante el Sprint 3 fue posible gracias a 
 
 ## 5.2.4. Sprint 4
 ### 5.2.4.1. Sprint Planning 4
+
+En esta sección se presentan los detalles del Sprint Planning Meeting 4, en el cual el equipo definió el objetivo, la capacidad y las User Stories a incluir en esta iteración, enfocada en culminar el desarrollo de los módulos de Applications, Milestone Management y Task Management en el backend, así como en diseñar e implementar el nuevo Bounded Context de Message para habilitar el chat interactivo dentro de la plataforma utilizando una arquitectura basada en Domain-Driven Design (DDD).
+
+| Sprint #                        | Sprint 4|
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**  |  |
+| Date      | 2026-06-30 |
+| Time                            | 4:00 PM  |
+| Location                        | Reunión virtual mediante Discord |
+| Prepared By                     | Baca Camargo, Vitaly Arturo |
+| Attendees (to planning meeting) | Baca Camargo, Vitaly Arturo / Bautista Rivera, Jose Diego / Pariachi Limahuaya, Sebastian Ubaldo / Taipe Sangama Jorge Francisco / Teran Zavala, Mauricio Alejandro|
+| Sprint 3 Review Summary         | Durante el Sprint 3 se logró consolidar la primera versión funcional de la arquitectura del Backend utilizando un enfoque de Diseño Guiado por el Dominio (DDD) y patrones CQRS. Se completaron e implementaron con éxito los servicios nucleares para la gestión de identidades y accesos (IAM), el control y mapeo de perfiles de usuario, el ciclo de vida básico de los proyectos (creación y filtrado avanzado), así como el sistema de publicación y moderación de comentarios en los hilos de discusión.                                                                                                                            |
+| Sprint 2 Retrospective Summary  | El equipo mejoró notablemente la cohesión técnica al adoptar patrones avanzados de desarrollo en el lado del servidor, logrando mapear entidades robustas y Value Objects con validaciones sólidas. Como principal oportunidad de mejora, se acordó retomar y priorizar los módulos que fueron postergados para asegurar la completitud del MVP. Para el siguiente paso, el equipo concluyó que es indispensable desarrollar el backend de Applications y Milestones, refinar la lógica de asignación y tableros en Task Management, e introducir el nuevo Bounded Context (BC) de Message para habilitar la comunicación en tiempo real.                                                                                                                   |
+| **Sprint Goal & User Stories**  |    |
+| Sprint 4 Goal                   | Nuestro enfoque para este sprint está centrado en culminar losBounded Contexts del backend del ecosistema Foundly. Esto abarca el desarrollo e implementación completa de las reglas de negocio y persistencia para los módulos de Applications (postulaciones a proyectos) y Milestone Management (hitos de control), el refinamiento de los flujos de transición en Task Management, y el diseño desde cero del nuevo Bounded Context de Message para habilitar el chat interactivo dentro de la aplicación. El sprint se considerará exitoso cuando todos los endpoints expuestos cumplan con las especificaciones de dominio y estén listos para soportar la integración total del sistema. |
+| Sprint 3 Velocity               | 42   |
+| Sum of Story Points             | 76   |
+
 ### 5.2.4.2. Aspect Leaders and Collaborators
 ### 5.2.4.3. Sprint Backlog 4
 ### 5.2.4.4. Development Evidence for Sprint Review
