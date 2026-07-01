@@ -239,6 +239,16 @@ La colaboración del equipo durante el Sprint 3 fue constante y efectiva, permit
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](05-Chapter-5-Product-Implementation,-Validation-&-Deployment.md#5236-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](05-Chapter-5-Product-Implementation,-Validation-&-Deployment.md#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint](05-Chapter-5-Product-Implementation,-Validation-&-Deployment.md#5238-team-collaboration-insights-during-sprint)
+
+  - [5.2.4. Sprint 4](05-Chapter-5-Product-Implementation,-Validation-&-Deployment.md#524-sprint-4)
+    - [5.2.4.1. Sprint Planning 4](05-Chapter-5-Product-Implementation,-Validation-&-Deployment.md#5241-sprint-planning-4)
+    - [5.2.4.2. Aspect Leaders and Collaborators](05-Chapter-5-Product-Implementation,-Validation-&-Deployment.md#5242-aspect-leaders-and-collaborators)
+    - [5.2.4.3. Sprint Backlog 3](05-Chapter-5-Product-Implementation,-Validation-&-Deployment.md#5243-sprint-backlog-4)
+    - [5.2.4.4. Development Evidence for Sprint Review](05-Chapter-5-Product-Implementation,-Validation-&-Deployment.md#5244-development-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](05-Chapter-5-Product-Implementation,-Validation-&-Deployment.md#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](05-Chapter-5-Product-Implementation,-Validation-&-Deployment.md#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](05-Chapter-5-Product-Implementation,-Validation-&-Deployment.md#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](05-Chapter-5-Product-Implementation,-Validation-&-Deployment.md#5248-team-collaboration-insights-during-sprint)
       
 - [5.3. Validation Interviews.](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#53-validation-interviews) 
   - [5.3.1. Diseño de Entrevistas.](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#531-diseño-de-entrevistas) 
