@@ -61,7 +61,7 @@ Para el desarrollo del **Project Report**, el equipo utiliza un repositorio dent
   - Vitaly Arturo Baca Camargo ( `Mr-Code-star` )
   - Bautista Rivera, Jose Diego ( `Gogotes17` )
   - Sebastián Ubaldo Pariachi Limahuaya ( `SebastianLima-PE` )
-  - Ariana Lizeth Ramírez Carrasco ( `pierinaaa29` )
+  - Almandroz Carbajal, Pierina Marysabel ( `pierinaaa29` )
   - Mauricio Alejandro Teran Zavala ( `mau-tz` )
 - La actividad se distribuyó en ramas temáticas por secciones del informe, asegurando revisiones cruzadas mediante *pull requests*.
 
@@ -119,7 +119,7 @@ A continuación, se presenta la captura de los analíticos de colaboración y co
 | ----------------------------------- | ---------------- | ------- |
 | Vitaly Arturo Baca Camargo          | Mr-Code-star     | 38      |
 | Mauricio Alejandro Teran Zavala     | mau-tz           | 9       |
-| Ariana Lizeth Ramírez Carrasco      | pierinaaa29      | 8       |
+| Almandroz Carbajal, Pierina Marysabel     | pierinaaa29      | 8       |
 | Sebastián Ubaldo Paricchi Limahuaya | SebastianLima-PE | 7       |
 | Bautista Rivera Jose Diego          | Gogotes17        | 3       |
 
