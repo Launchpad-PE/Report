@@ -1389,31 +1389,30 @@ Durante el Sprint 4, el equipo organizó el trabajo en torno a la culminación d
 
 En esta sección se detallan las actividades de ingeniería y el progreso técnico alcanzado durante el desarrollo del Sprint 4. En esta iteración, el equipo completó con éxito la implementación en el backend de los módulos postergados de Applications y Milestone Management, aplicando los principios de Domain-Driven Design (DDD) y segregación de responsabilidades mediante CQRS. Asimismo, se realizaron las refactorizaciones correspondientes para la optimización del flujo técnico en Task Management y se diseñó de manera íntegra el nuevo Bounded Context de Message, logrando un ecosistema de servicios robusto, modular y completamente finalizado para la plataforma.
 
-**URL del Sprint Board:** 
+**URL del Sprint Board:**
+https://upc-team-tohi2bk.atlassian.net/jira/software/projects/FOUN/boards/67/backlog
 
-![Sprint Board Foundly Sprint 4]()
+![SprintBacklog4.png](resources/Images/Chapter-5/sprint4/SprintBacklog4.png)
 
-| User Story ID | User Story Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| User Story ID | User Story Title | Task ID | Engineering Task Title | Description | Estimation (Hours) | Assigned To | Status |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| US032 | Ver hitos (Deuda S3) | FOUN-55-1 | UI: Línea de tiempo | Implementar un componente visual cronológico de hitos del proyecto (Frontend). | 5 | Bautista Rivera, Jose Diego | Finalizada |
-| US052 | Ver tareas (Deuda S3) | FOUN-52-2 | Integration: Render dinámico | Programar el mapeo dinámico de tareas según su estado actual en las columnas correspondientes. | 4 | Almandroz Carbajal, Pierina Marysabel | Finalizada |
-| US007 | Postulación (Backend) | FOUN-85-1 | Domain: Application Aggregate Root | Modelar la raíz agregada Application con Value Objects para controlar el estado de postulación (Pending, Accepted, Rejected). | 5 | Almandroz Carbajal, Pierina Marysabel | Finalizada |
-| US007 | Postulación (Backend) | FOUN-85-2 | CQRS: Command para registrar postulación | Desarrollar el comando Record, el handler y el controlador REST para persistir una nueva aplicación a un proyecto. | 4 | Almandroz Carbajal, Pierina Marysabel | Finalizada |
-| US006 | Unirse a proyecto | FOUN-86-1 | Domain: Reglas de validación de postulación | Desarrollar las políticas de dominio que impidan postulaciones duplicadas o en proyectos inactivos. | 4 | Almandroz Carbajal, Pierina Marysabel | Finalizada |
-| US006 | Unirse a proyecto | FOUN-86-2 | CQRS: Query para consultar mis postulaciones | Implementar el Query Record y endpoint optimizado para listar el historial de aplicaciones de un estudiante. | 4 | Almandroz Carbajal, Pierina Marysabel | Finalizada |
-| US031 | Gestión de Hitos (Backend) | FOUN-90-1 | Domain: Milestone Entity y Value Objects | Modelar la entidad Milestone y sus Value Objects asociados a plazos de tiempo dentro del contexto del proyecto. | 4 | Bautista Rivera, Jose Diego | Finalizada |
-| US031 | Gestión de Hitos (Backend) | FOUN-90-2 | CQRS: Command de creación de hitos | Desarrollar el caso de uso y bus de comandos para agregar hitos estructurados en la base de datos relacional. | 4 | Bautista Rivera, Jose Diego | Finalizada |
-| US033 | Actualizar hitos | FOUN-91-1 | CQRS: Command para modificar hitos | Configurar el handler técnico para alterar de manera parcial (PATCH/PUT) las propiedades de un hito en curso. | 4 | Bautista Rivera, Jose Diego | Finalizada |
-| US034 | Evidencias de hitos | FOUN-92-1 | Domain: Evidencia de Hito Value Object | Definir la estructura lógica y validación de URLs o metadatos de archivos cargados como evidencia de cumplimiento. | 4 | Bautista Rivera, Jose Diego | Finalizada |
-| US034 | Evidencias de hitos | FOUN-92-2 | API: Endpoint de carga y cambio de estado | Implementar el servicio REST que recibe la evidencia e invoca la transición de estado del hito hacia "Review". | 4 | Bautista Rivera, Jose Diego | Finalizada |
-| US016 | Control de Tareas Back | FOUN-75-3 | CQRS: Refactor Command actualización estado | Refactorizar el bus de comandos para optimizar las transiciones de las tareas directamente en el base de datos. | 4 | Baca Camargo, Vitaly Arturo | Finalizada |
-| US017 | Tablero Kanban Back | FOUN-76-3 | API: Endpoint seguro de asignación de tareas | Desarrollar el controlador para actualizar dinámicamente el desarrollador asignado a una tarea específica. | 4 | Baca Camargo, Vitaly Arturo | Finalizada |
-| US060 | Chat: Enviar Mensajes | FOUN-100-1 | Domain: Message Aggregate Root | Modelar la raíz agregada Message con propiedades de emisor, receptor, timestamp y contenido del chat. | 5 | Limahuaya Pariachi, Sebastian | Finalizada |
-| US060 | Chat: Enviar Mensajes | FOUN-100-2 | CQRS: Command para envío de mensajes | Implementar el handler técnico y caso de uso para persistir de manera asíncrona los mensajes en la base de datos. | 4 | Limahuaya Pariachi, Sebastian | Finalizada |
-| US061 | Historial de Chat | FOUN-101-1 | CQRS: Query para hilos de mensajes | Desarrollar consultas de lectura optimizadas y ordenadas cronológicamente para recuperar la conversación de un proyecto. | 5 | Limahuaya Pariachi, Sebastian | Finalizada |
-| US061 | Historial de Chat | FOUN-101-2 | API: Controlador REST del Bounded Context | Configurar los endpoints HTTP del módulo de mensajería bajo los estándares arquitectónicos del sistema. | 6 | Limahuaya Pariachi, Sebastian | Finalizada |
+| User Story ID | User Story Title | Task ID   | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+| :--- | :--- |:----------| :--- | :--- | :--- | :--- | :--- |
+| US032 | Ver hitos (Deuda S3) | FOUN-85-1 | UI: Línea de tiempo | Implementar un componente visual cronológico de hitos del proyecto (Frontend). | 5 | Bautista Rivera, Jose Diego | Finalizada |
+| US052 | Ver tareas (Deuda S3) | FOUN-85-2 | Integration: Render dinámico | Programar el mapeo dinámico de tareas según su estado actual en las columnas correspondientes. | 4 | Almandroz Carbajal, Pierina Marysabel | Finalizada |
+| US007 | Postulación (Backend) | FOUN-73-1 | Domain: Application Aggregate Root | Modelar la raíz agregada Application con Value Objects para controlar el estado de postulación (Pending, Accepted, Rejected). | 5 | Almandroz Carbajal, Pierina Marysabel | Finalizada |
+| US007 | Postulación (Backend) | FOUN-73-2 | CQRS: Command para registrar postulación | Desarrollar el comando Record, el handler y el controlador REST para persistir una nueva aplicación a un proyecto. | 4 | Almandroz Carbajal, Pierina Marysabel | Finalizada |
+| US006 | Unirse a proyecto | FOUN-77-1 | Domain: Reglas de validación de postulación | Desarrollar las políticas de dominio que impidan postulaciones duplicadas o en proyectos inactivos. | 4 | Almandroz Carbajal, Pierina Marysabel | Finalizada |
+| US006 | Unirse a proyecto | FOUN-77-2 | CQRS: Query para consultar mis postulaciones | Implementar el Query Record y endpoint optimizado para listar el historial de aplicaciones de un estudiante. | 4 | Almandroz Carbajal, Pierina Marysabel | Finalizada |
+| US031 | Gestión de Hitos (Backend) | FOUN-78-1 | Domain: Milestone Entity y Value Objects | Modelar la entidad Milestone y sus Value Objects asociados a plazos de tiempo dentro del contexto del proyecto. | 4 | Bautista Rivera, Jose Diego | Finalizada |
+| US031 | Gestión de Hitos (Backend) | FOUN-78-2 | CQRS: Command de creación de hitos | Desarrollar el caso de uso y bus de comandos para agregar hitos estructurados en la base de datos relacional. | 4 | Bautista Rivera, Jose Diego | Finalizada |
+| US033 | Actualizar hitos | FOUN-79-1 | CQRS: Command para modificar hitos | Configurar el handler técnico para alterar de manera parcial (PATCH/PUT) las propiedades de un hito en curso. | 4 | Bautista Rivera, Jose Diego | Finalizada |
+| US034 | Evidencias de hitos | FOUN-86-1 | Domain: Evidencia de Hito Value Object | Definir la estructura lógica y validación de URLs o metadatos de archivos cargados como evidencia de cumplimiento. | 4 | Bautista Rivera, Jose Diego | Finalizada |
+| US034 | Evidencias de hitos | FOUN-86-2 | API: Endpoint de carga y cambio de estado | Implementar el servicio REST que recibe la evidencia e invoca la transición de estado del hito hacia "Review". | 4 | Bautista Rivera, Jose Diego | Finalizada |
+| US016 | Control de Tareas Back | FOUN-81-3 | CQRS: Refactor Command actualización estado | Refactorizar el bus de comandos para optimizar las transiciones de las tareas directamente en el base de datos. | 4 | Baca Camargo, Vitaly Arturo | Finalizada |
+| US017 | Tablero Kanban Back | FOUN-82-3 | API: Endpoint seguro de asignación de tareas | Desarrollar el controlador para actualizar dinámicamente el desarrollador asignado a una tarea específica. | 4 | Baca Camargo, Vitaly Arturo | Finalizada |
+| US060 | Chat: Enviar Mensajes | FOUN-83-1 | Domain: Message Aggregate Root | Modelar la raíz agregada Message con propiedades de emisor, receptor, timestamp y contenido del chat. | 5 | Limahuaya Pariachi, Sebastian | Finalizada |
+| US060 | Chat: Enviar Mensajes | FOUN-83-2 | CQRS: Command para envío de mensajes | Implementar el handler técnico y caso de uso para persistir de manera asíncrona los mensajes en la base de datos. | 4 | Limahuaya Pariachi, Sebastian | Finalizada |
+| US061 | Historial de Chat | FOUN-84-1 | CQRS: Query para hilos de mensajes | Desarrollar consultas de lectura optimizadas y ordenadas cronológicamente para recuperar la conversación de un proyecto. | 5 | Limahuaya Pariachi, Sebastian | Finalizada |
+| US061 | Historial de Chat | FOUN-84-2 | API: Controlador REST del Bounded Context | Configurar los endpoints HTTP del módulo de mensajería bajo los estándares arquitectónicos del sistema. | 6 | Limahuaya Pariachi, Sebastian | Finalizada |
 
 ### 5.2.4.4. Development Evidence for Sprint Review
 ### 5.2.4.5. Execution Evidence for Sprint Review
