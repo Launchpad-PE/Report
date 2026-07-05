@@ -1,8 +1,14 @@
+\newpage
+
 # Capítulo II: Requirements Elicitation & Analysis
+
 ## 2.1. Competidores
+
+En esta sección se identifican y analizan los principales competidores de Foundly. Dado que la propuesta de valor de Foundly —una plataforma que integra formación de equipos multidisciplinarios, gestión de proyectos, sistema de reputación y monitoreo de impacto ambiental vía IoT— no cuenta con competidores directos que ofrezcan el mismo conjunto de funcionalidades en la región, el análisis se centra en **competidores indirectos con ofertas parcialmente similares**: plataformas globales donde emprendedores y creadores actualmente publican, visibilizan e impulsan sus proyectos.
+
 ### 2.1.1. Análisis competitivo
 
-En esta sección se realizará el análisis competitivo de los competidores identificados en la sección inicial con el objetivo de tener una idea más clara sobre nuestro producto frente a los competidores y aprender para mejorar nuestro producto.
+En esta sección se realizará el análisis competitivo de los competidores identificados con el objetivo de tener una idea más clara sobre nuestro producto frente a estas plataformas y aprender de ellas para mejorar nuestro producto.
 
 <table>
 <thead>
@@ -13,7 +19,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 <tbody>
   <tr>
     <td colspan="2">¿Por qué llevar a cabo este análisis?</td>
-    <td colspan="4">Este análisis se lleva a cabo para poder investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado</td>
+    <td colspan="4">Este análisis se lleva a cabo para poder investigar, analizar y comparar el comportamiento de los competidores indirectos en el mercado, identificando sus fortalezas, debilidades y los espacios de oportunidad para la propuesta de valor de Foundly.</td>
   </tr>
   <tr>
     <td colspan="2"><div align="center">Nombre</div></td>
@@ -32,7 +38,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td>Foundly es una plataforma de crowdfunding colaborativo diseñada para que las personas puedan crear grupos o unirse a comunidades que buscan resolver problemas, desarrollar startups o impulsar proyectos sociales. Se enfoca en Perú y Latinoamérica, donde el crowdfunding aún tiene gran potencial de crecimiento. Además, incorpora un <strong>módulo de monitoreo de impacto ambiental con integración IoT</strong> que permite a proyectos con enfoque sostenible visualizar métricas en tiempo real como calidad del aire y humedad, diferenciándose de cualquier plataforma de crowdfunding existente en la región.</td>
+    <td>Foundly es una plataforma de colaboración diseñada para que las personas puedan crear grupos o unirse a comunidades que buscan resolver problemas, desarrollar startups o impulsar proyectos sociales, integrando la formación de equipos multidisciplinarios con la gestión estructurada de proyectos. Se enfoca en Perú y Latinoamérica, donde este tipo de plataformas colaborativas aún tiene gran potencial de crecimiento. Además, incorpora un <strong>módulo de monitoreo de impacto ambiental con integración IoT</strong> que permite a proyectos con enfoque sostenible visualizar métricas en tiempo real como calidad del aire y humedad, diferenciándose de cualquier plataforma existente en la región.</td>
     <td>Kickstarter es una de las plataformas de crowdfunding más grandes del mundo, fundada en 2009 en Estados Unidos. Su objetivo principal es ayudar a creadores, emprendedores y startups creativas a lanzar proyectos innovadores en áreas como tecnología, arte, música, cine, diseño y videojuegos, brindándoles visibilidad y exposición ante una comunidad interesada en nuevas ideas.</td>
     <td>Indiegogo es una plataforma global fundada en 2008 en Estados Unidos, considerada una de las principales alternativas a Kickstarter. Se caracteriza por su flexibilidad en la publicación de proyectos y por abarcar iniciativas relacionadas con tecnología, diseño, salud, causas sociales y estilo de vida, permitiendo a los emprendedores dar mayor visibilidad a sus ideas.</td>
     <td>GoFundMe, fundada en 2010 en Estados Unidos, es una de las plataformas de crowdfunding personal y solidario más grandes del mundo. A diferencia de Kickstarter o Indiegogo, se centra en causas personales, sociales y humanitarias (salud, emergencias, educación, funerales, desastres naturales, etc.) en lugar de proyectos creativos o startups.</td>
@@ -43,7 +49,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
      <ul>
     <li><strong>Colaboración integral:</strong> Conecta personas con ideas, habilidades y tiempo, permitiendo formar equipos de trabajo multidisciplinarios alrededor de cada proyecto.</li>
     <li><strong>Módulo IoT de impacto ambiental:</strong> Única plataforma colaborativa que integra monitoreo de métricas ambientales en tiempo real (calidad del aire, humedad y participación), permitiendo que proyectos sostenibles evidencien su impacto de manera concreta.</li>
-    <li><strong>Accesibilidad y bajo costo de entrada:</strong> Con el modelo freemium (5 proyectos gratuitos antes de pagar), cualquier persona puede iniciar proyectos sin necesidad de grandes recursos económicos.</li>
+    <li><strong>Accesibilidad y bajo costo de entrada:</strong> Con el modelo freemium, cualquier persona puede crear proyectos, postularse y gestionar equipos sin necesidad de pagar.</li>
     <li><strong>Plataforma enfocada en comunidad:</strong> Permite que los usuarios formen grupos organizados con roles, tareas y objetivos compartidos, fortaleciendo el trabajo colaborativo.</li>
     <li><strong>Impulso al emprendimiento local y social:</strong> Brinda un espacio para que emprendedores y comunidades desarrollen ideas y proyectos de impacto dentro de un entorno colaborativo.</li>
     <li><strong>Transparencia y confianza:</strong> Permite visualizar el progreso del proyecto, verificar perfiles de los integrantes y dar seguimiento a las responsabilidades asignadas, generando mayor confianza dentro del equipo.</li>
@@ -69,7 +75,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     </td>
     <td>
       <ul>
-        <li>Acceso inmediato a financiamiento solidario: cualquier persona puede abrir una campaña en minutos, sin requisitos complejos ni planes de negocio.</li>
+        <li>Acceso inmediato a apoyo solidario: cualquier persona puede abrir una campaña en minutos, sin requisitos complejos ni planes de negocio.</li>
         <li>Enfoque en causas personales y sociales: ideal para emergencias médicas, desastres naturales, educación o apoyo comunitario.</li>
         <li>Alto nivel de confianza: es la plataforma de donaciones más reconocida a nivel mundial.</li>
         <li>Facilidad de uso y viralización: integración con redes sociales que permite compartir campañas y llegar a más donantes.</li>
@@ -82,8 +88,8 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td>Mercado Objetivo</td>
     <td>
       <ul>
-    <li><strong>Emprendedores y startups en etapa temprana:</strong> estudiantes y jóvenes profesionales (18–25 años) en Perú con proyección a LATAM, que buscan validar ideas, formar equipos multidisciplinarios y desarrollar proyectos innovadores.</li>
-    <li><strong>Profesionales y estudiantes con habilidades:</strong> desarrolladores, diseñadores, especialistas en marketing y gestores de proyectos que desean aportar su talento y conocimientos en proyectos reales mientras adquieren experiencia colaborativa.</li>
+    <li><strong>Emprendedores y startups en etapa temprana:</strong> estudiantes y recién egresados (18–25 años) en Perú con proyección a LATAM, que buscan validar ideas, formar equipos multidisciplinarios y desarrollar proyectos innovadores.</li>
+    <li><strong>Estudiantes y recién egresados con habilidades:</strong> desarrolladores, diseñadores, especialistas en marketing y gestores de proyectos que desean aportar su talento y conocimientos en proyectos reales mientras adquieren experiencia colaborativa.</li>
     <li><strong>Proyectos con enfoque sostenible:</strong> equipos o emprendedores que buscan medir y evidenciar el impacto ambiental de sus iniciativas mediante tecnología IoT.</li>
 </ul>
     </td>
@@ -101,7 +107,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 </td>
     <td>
       <ul>
-        <li>Creadores de campañas (beneficiarios): personas que atraviesan emergencias médicas, familias afectadas por desastres naturales, comunidades y ONGs que buscan financiamiento para causas sociales.</li>
+        <li>Creadores de campañas (beneficiarios): personas que atraviesan emergencias médicas, familias afectadas por desastres naturales, comunidades y ONGs que buscan apoyo para causas sociales.</li>
         <li>Donantes (aportantes solidarios): individuos que desean ayudar a personas en situaciones difíciles.</li>
       </ul>
     </td>
@@ -143,7 +149,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td>
 		<ul>
     <li><strong>Productos:</strong> proyectos colaborativos creados por los usuarios.</li>
-    <li><strong>Servicios:</strong> ecosistema digital seguro, accesible y colaborativo, con herramientas para la creación de equipos, gestión de tareas, seguimiento de avances y un módulo IoT de monitoreo de impacto ambiental en tiempo real.</li>
+    <li><strong>Servicios:</strong> ecosistema digital seguro, accesible y colaborativo, con herramientas para la creación de equipos, gestión de tareas, seguimiento de avances, sistema de reputación y un módulo IoT de monitoreo de impacto ambiental en tiempo real.</li>
 </ul>
     </td>
     <td>
@@ -169,8 +175,8 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td>Precios y Costos</td>
     <td>
       <ul>
-        <li><strong>Plan Freemium:</strong> hasta 5 proyectos creados/postulados.</li>
-        <li><strong>Plan Premium (Mensual/Anual):</strong> proyectos ilimitados + mayor visibilidad en el buscador.</li>
+        <li><strong>Plan Gratuito:</strong> creación de proyectos, postulación, formación de equipos, gestión de tareas e hitos y sistema de reputación.</li>
+        <li><strong>Plan Premium (Mensual/Anual):</strong> acceso al módulo IoT de monitoreo de impacto ambiental y métricas avanzadas.</li>
       </ul>
     </td>
     <td>
@@ -207,10 +213,10 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td>Fortalezas</td>
     <td>
       <ul>
-        <li>Los usuarios no solo aportan dinero, sino también habilidades, tiempo e ideas, formando equipos de trabajo.</li>
-        <li>Con el modelo freemium (5 proyectos gratis), cualquier persona puede iniciar sin necesidad de gran capital.</li>
+        <li>Los usuarios aportan habilidades, tiempo e ideas, formando equipos de trabajo multidisciplinarios alrededor de cada proyecto.</li>
+        <li>Con el modelo freemium, cualquier persona puede iniciar sin necesidad de pagar, reduciendo la barrera de entrada.</li>
         <li>Llena un vacío de mercado en regiones donde las grandes plataformas globales no tienen presencia oficial.</li>
-        <li>Único diferenciador tecnológico en el mercado regional: módulo IoT que permite a proyectos ambientales medir y evidenciar su impacto en tiempo real, algo que ningún competidor directo ofrece.</li>
+        <li>Único diferenciador tecnológico en el mercado regional: módulo IoT que permite a proyectos ambientales medir y evidenciar su impacto en tiempo real, algo que ningún competidor ofrece.</li>
       </ul>
     </td>
     <td>
@@ -242,10 +248,10 @@ En esta sección se realizará el análisis competitivo de los competidores iden
     <td>Debilidades</td>
     <td>
       <ul>
-        <li>Al ser un proyecto nuevo, necesitará mucho esfuerzo en marketing para generar confianza frente a un público poco familiarizado con el crowdfunding.</li>
+        <li>Al ser un proyecto nuevo, necesitará mucho esfuerzo en marketing para generar confianza frente a un público poco familiarizado con plataformas de colaboración estructurada.</li>
         <li>Aunque se implementen medidas de verificación, siempre existe el riesgo de que un proyecto no cumpla lo prometido, afectando la reputación.</li>
-        <li>En Perú y gran parte de Latinoamérica, el concepto de crowdfunding aún no es masivo, por lo que será necesario invertir en educación y sensibilización del público.</li>
-        <li>Sin integración con pasarelas de pago internacionales consolidadas, a diferencia de sus competidores globales.</li>
+        <li>En Perú y gran parte de Latinoamérica, el concepto de colaboración estructurada en proyectos aún no es masivo, por lo que será necesario invertir en educación y sensibilización del público.</li>
+        <li>Menor trayectoria y reconocimiento de marca frente a los competidores globales consolidados.</li>
       </ul>
     </td>
     <td>
@@ -254,6 +260,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
         <li>Riesgo de incumplimiento de proyectos, afectando la confianza en la plataforma.</li>
         <li>Proceso de revisión de proyectos que retrasa los lanzamientos (1–3 días hábiles).</li>
         <li>Comisiones relativamente altas (5% + tarifas de pago).</li>
+        <li>No ofrece herramientas de formación de equipos ni gestión colaborativa de proyectos.</li>
       </ul>
     </td>
     <td>
@@ -262,6 +269,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
         <li>Reputación afectada por proyectos fallidos o retrasados en entregas.</li>
         <li>Altas tarifas de procesamiento y transferencia en algunos países.</li>
         <li>Competencia con Amazon Launchpad y otros marketplaces post-campaña.</li>
+        <li>No ofrece herramientas de formación de equipos ni gestión colaborativa de proyectos.</li>
       </ul>
     </td>
     <td>
@@ -269,7 +277,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
         <li>Dependencia de la viralización en redes sociales para el éxito de las campañas.</li>
         <li>Riesgo de fraudes y campañas engañosas, que afectan su credibilidad.</li>
         <li>Limitada diversificación de servicios (no ofrece logística ni acompañamiento post-campaña).</li>
-        <li>Menor atractivo para donantes en mercados emergentes con baja capacidad adquisitiva.</li>
+        <li>Menor atractivo para usuarios en mercados emergentes con baja capacidad adquisitiva.</li>
       </ul>
     </td>
   </tr>
@@ -312,8 +320,8 @@ En esta sección se realizará el análisis competitivo de los competidores iden
       <ul>
         <li>Plataformas como Kickstarter, Indiegogo y GoFundMe pueden expandirse a Latinoamérica y captar rápidamente usuarios gracias a su marca.</li>
         <li>Nuevas startups regionales podrían lanzar plataformas similares adaptadas cultural y económicamente al público local.</li>
-        <li>Casos de fraude o incumplimiento de proyectos pueden afectar la reputación del crowdfunding en general, desincentivando a potenciales usuarios.</li>
-        <li>La ausencia de leyes claras sobre crowdfunding en Perú y Latinoamérica puede derivar en futuras regulaciones estrictas que limiten su operación.</li>
+        <li>Casos de fraude o incumplimiento de proyectos en plataformas digitales pueden afectar la confianza general del público, desincentivando a potenciales usuarios.</li>
+        <li>Herramientas de gestión y networking consolidadas (LinkedIn, Discord, Trello) podrían incorporar funcionalidades de formación de equipos similares.</li>
       </ul>
     </td>
     <td>
@@ -342,23 +350,23 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-En esta sección se presentan las estrategias y tácticas preliminares que aplicará Foundly para afrontar las fortalezas de la competencia, aprovechar sus debilidades, capitalizar las oportunidades del entorno y mitigar las amenazas identificadas en el análisis FODA.
+En esta sección se presentan las estrategias y tácticas preliminares que aplicará Foundly para afrontar las fortalezas de la competencia, aprovechar sus debilidades, capitalizar las oportunidades del entorno y mitigar las amenazas identificadas en el análisis SWOT.
 
 ---
 
 ##### Estrategias para aprovechar las debilidades de los competidores
 
-Los principales competidores identificados Kickstarter, Indiegogo y GoFundMe presentan debilidades concretas que Foundly puede explotar de manera directa:
+Los competidores indirectos identificados —Kickstarter, Indiegogo y GoFundMe— presentan debilidades concretas que Foundly puede explotar de manera directa:
 
-- **Kickstarter e Indiegogo no tienen presencia oficial en Perú ni en gran parte de Sudamérica.** Foundly aprovechará este vacío posicionándose como la primera plataforma de crowdfunding colaborativo adaptada al contexto latinoamericano, con soporte en español, métodos de pago locales y una propuesta de valor orientada a las necesidades del emprendedor peruano.
+- **Kickstarter e Indiegogo no tienen presencia oficial en Perú ni en gran parte de Sudamérica.** Foundly aprovechará este vacío posicionándose como la primera plataforma de colaboración estructurada de proyectos adaptada al contexto latinoamericano, con soporte en español y una propuesta de valor orientada a las necesidades del emprendedor peruano.
 
-- **Kickstarter aplica un proceso de revisión de proyectos de 1 a 3 días hábiles**, lo que retrasa el lanzamiento de campañas. Foundly ofrecerá publicación inmediata de proyectos, reduciendo la fricción de entrada y permitiendo que los emprendedores actúen con mayor agilidad.
+- **Ninguno de los competidores ofrece formación de equipos ni gestión colaborativa.** Estas plataformas se centran en la visibilidad y recaudación de campañas, pero no resuelven el problema de encontrar colaboradores comprometidos ni de gestionar el trabajo del equipo. Foundly se enfoca precisamente en ese vacío: conectar personas con habilidades complementarias y darles herramientas de gestión, seguimiento y reputación.
 
-- **Kickstarter e Indiegogo cobran comisiones de entre 5% y 8% más tarifas de procesamiento**, lo que encarece el crowdfunding para proyectos pequeños. El modelo freemium de Foundly con hasta 5 proyectos gratuitos representa una alternativa de menor costo de entrada, especialmente atractiva para emprendedores en etapas tempranas.
+- **Kickstarter aplica un proceso de revisión de proyectos de 1 a 3 días hábiles**, lo que retrasa el lanzamiento de iniciativas. Foundly ofrecerá publicación inmediata de proyectos, reduciendo la fricción de entrada y permitiendo que los emprendedores actúen con mayor agilidad.
 
-- **Ningún competidor integra formación de equipos multidisciplinarios ni monitoreo de impacto ambiental con IoT.** Foundly se diferencia al ofrecer ambas funcionalidades en un solo ecosistema, cubriendo necesidades que las plataformas globales ignoran por completo.
+- **Ningún competidor integra monitoreo de impacto ambiental con IoT.** Foundly se diferencia al ofrecer esta funcionalidad como parte de su plan premium, cubriendo una necesidad que las plataformas globales ignoran por completo.
 
-- **Táctica:** Campañas de comunicación directa destacando las ventajas comparativas frente a la competencia, usando mensajes como "sin listas de espera", "sin comisiones al inicio" y "el equipo también importa", dirigidas a emprendedores que ya conocen Kickstarter o Indiegogo pero no pueden acceder a ellas desde Perú.
+- **Táctica:** Campañas de comunicación directa destacando las ventajas comparativas frente a la competencia, usando mensajes como "sin listas de espera", "el equipo también importa" y "mide tu impacto real", dirigidas a emprendedores que conocen las plataformas globales pero no encuentran en ellas una solución para formar y gestionar equipos.
 
 ---
 
@@ -366,9 +374,9 @@ Los principales competidores identificados Kickstarter, Indiegogo y GoFundMe pre
 
 Kickstarter, Indiegogo y GoFundMe cuentan con marcas globalmente reconocidas, grandes bases de usuarios y modelos consolidados de confianza. Para afrontar estas fortalezas:
 
-- **Estrategia de Diferenciación:** Foundly no compite en el mismo terreno que los competidores globales, sino que construye una categoría propia basada en colaboración, formación de equipos, gestión de proyectos e integración de monitoreo ambiental mediante tecnología IoT. A diferencia de las plataformas tradicionales donde los usuarios principalmente buscan visibilidad para sus proyectos, Foundly conecta personas que aportan habilidades, tiempo e ideas, mientras permite gestionar tareas y visualizar métricas ambientales en proyectos sostenibles de manera estructurada.
+- **Estrategia de Diferenciación:** Foundly no compite en el mismo terreno que las plataformas globales, sino que construye una categoría propia basada en colaboración, formación de equipos, gestión de proyectos, sistema de reputación e integración de monitoreo ambiental mediante tecnología IoT. A diferencia de las plataformas tradicionales donde los usuarios principalmente buscan visibilidad para sus proyectos, Foundly conecta personas que aportan habilidades, tiempo e ideas, mientras permite gestionar tareas y visualizar métricas ambientales en proyectos sostenibles de manera estructurada.
 
-- **Módulo IoT como diferenciador tecnológico único:** Foundly incorpora un módulo de monitoreo de impacto ambiental con integración IoT que permite a proyectos sostenibles visualizar métricas en tiempo real como calidad del aire, humedad y participación ciudadana. Ningún competidor directo ofrece esta funcionalidad, lo que refuerza la propuesta de valor frente a un mercado con creciente interés en la sostenibilidad.
+- **Módulo IoT como diferenciador tecnológico único:** Foundly incorpora un módulo de monitoreo de impacto ambiental con integración IoT que permite a proyectos sostenibles visualizar métricas en tiempo real como calidad del aire, humedad y participación de usuarios. Ningún competidor ofrece esta funcionalidad, lo que refuerza la propuesta de valor frente a un mercado con creciente interés en la sostenibilidad.
 
 - **Táctica:** Implementar un sistema de verificación de usuarios y proyectos, junto con seguimiento de hitos y un sistema de reputación, para construir confianza progresiva entre los usuarios y compensar la menor trayectoria de marca frente a competidores consolidados.
 
@@ -380,8 +388,7 @@ Kickstarter, Indiegogo y GoFundMe cuentan con marcas globalmente reconocidas, gr
 
 - **Táctica:** En la fase inicial se ejecutará una campaña de educación y sensibilización sobre qué es la colaboración estructurada en proyectos y cómo funciona, mediante talleres, webinars gratuitos y alianzas con universidades, incubadoras de negocios, coworkings y ONGs locales. El objetivo es posicionar a Foundly como pionera en colaboración de proyectos adaptada al contexto latinoamericano antes de que los competidores globales decidan expandirse.
 
-
-- **Estrategia de Marketing Digital Segmentado:** Se implementarán campañas diferenciadas en Facebook, Instagram, TikTok y LinkedIn, segmentadas por edad, intereses y afinidad con el emprendimiento o causas sociales, orientadas a los dos segmentos objetivos: emprendedores y colaboradores.
+- **Estrategia de Marketing Digital Segmentado:** Se implementarán campañas diferenciadas en Facebook, Instagram, TikTok y LinkedIn, segmentadas por edad, intereses y afinidad con el emprendimiento o causas sociales, orientadas a los dos segmentos objetivo: emprendedores y colaboradores.
 
 - **Táctica:** Se desarrollará contenido visual y narrativo como videos cortos, reels, historias y testimonios de usuarios reales que muestren casos de proyectos desarrollados exitosamente, tutoriales sobre cómo crear y gestionar proyectos colaborativos y demostraciones del funcionamiento del módulo IoT para proyectos ambientales.
 
@@ -389,31 +396,31 @@ Kickstarter, Indiegogo y GoFundMe cuentan con marcas globalmente reconocidas, gr
 
 ##### Estrategias para mitigar las amenazas del entorno
 
-- **Amenaza: expansión de competidores globales a Latinoamérica.** Si Kickstarter o Indiegogo deciden ingresar a la región, Foundly ya contará con una base de usuarios establecida, alianzas institucionales y una propuesta de valor que va más allá del crowdfunding tradicional. La velocidad de entrada al mercado es la principal defensa.
+- **Amenaza: expansión de competidores globales a Latinoamérica.** Si Kickstarter o Indiegogo deciden ingresar a la región, Foundly ya contará con una base de usuarios establecida, alianzas institucionales y una propuesta de valor centrada en la colaboración que va más allá de la visibilidad de campañas. La velocidad de entrada al mercado es la principal defensa.
 
   - **Táctica:** Acelerar la captación de usuarios y la generación de alianzas con universidades e incubadoras durante los primeros 12 meses, creando barreras de fidelización antes de que los competidores globales puedan reaccionar.
 
-- **Amenaza: casos de fraude que afectan la reputación del crowdfunding en general.** El ecosistema de crowdfunding a nivel global enfrenta desconfianza derivada de proyectos incumplidos o campañas fraudulentas, lo que puede afectar a Foundly aunque no sea directamente responsable.
+- **Amenaza: casos de fraude que afectan la confianza en plataformas digitales.** El ecosistema digital enfrenta desconfianza derivada de proyectos incumplidos o perfiles falsos, lo que puede afectar a Foundly aunque no sea directamente responsable.
 
   - **Táctica:** Implementar desde el lanzamiento un sistema de verificación de identidad, validación de proyectos y seguimiento obligatorio de hitos con evidencias. El módulo de reputación permitirá que los usuarios evalúen proyectos y equipos, generando transparencia y disuadiendo comportamientos fraudulentos.
 
-- **Amenaza: baja adopción inicial de nuevas plataformas colaborativas en Perú** Al ser una propuesta innovadora, Foundly podría enfrentar resistencia inicial por parte de usuarios acostumbrados a utilizar herramientas tradicionales o plataformas internacionales para gestionar sus proyectos.
+- **Amenaza: baja adopción inicial de nuevas plataformas colaborativas en Perú.** Al ser una propuesta innovadora, Foundly podría enfrentar resistencia inicial por parte de usuarios acostumbrados a utilizar herramientas tradicionales o plataformas internacionales para gestionar sus proyectos.
 
-- **Táctica:** Desde el inicio, Foundly impulsará estrategias de educación digital, alianzas con universidades, incubadoras y comunidades tecnológicas para incentivar la adopción temprana de la plataforma y fortalecer su posicionamiento en el mercado local.
+  - **Táctica:** Desde el inicio, Foundly impulsará estrategias de educación digital, alianzas con universidades, incubadoras y comunidades tecnológicas para incentivar la adopción temprana de la plataforma y fortalecer su posicionamiento en el mercado local.
 
 ## 2.2. Entrevistas
 
-En esta sección se abordará la investigación en base a la información que se obtendrá de los segmentos entrevistados con el objetivo de conocer mejor a nuestros segmentos objetivos y aprender de ellos y sus procesos.
+En esta sección se abordará la investigación en base a la información que se obtendrá de los segmentos entrevistados con el objetivo de conocer mejor a nuestros segmentos objetivo y aprender de ellos y sus procesos.
 
 ### 2.2.1. Diseño de entrevistas
- 
+
 ---
- 
+
 #### Segmento 1: Emprendedores y Startups en Etapa Temprana
- 
+
 **Introducción:**
 Buenos días/tardes, mi nombre es [nombre del entrevistador] y el día de hoy estaremos realizando una breve entrevista para conocer más sobre cómo los emprendedores gestionan actualmente sus proyectos, las dificultades que enfrentan al momento de formar equipos de trabajo y cómo organizan sus actividades.
-El objetivo de esta entrevista es recopilar información que nos ayude a comprender mejor sus necesidades y problemas dentro de proyectos colaborativos. 
+El objetivo de esta entrevista es recopilar información que nos ayude a comprender mejor sus necesidades y problemas dentro de proyectos colaborativos.
 
 1. ¿Cómo organizas actualmente tus proyectos o ideas?
 2. ¿Qué dificultades tienes para encontrar personas con habilidades complementarias para tu proyecto?
@@ -424,19 +431,18 @@ El objetivo de esta entrevista es recopilar información que nos ayude a compren
 7. ¿Qué características consideras importantes en una plataforma para encontrar colaboradores?
 8. ¿Qué aspectos te generarían mayor confianza al trabajar con personas desconocidas?
 9. ¿Cómo haces seguimiento al progreso de tu proyecto actualmente?
-10 Si pudieras mejorar la forma en la que trabajas actualmente con tu equipo, ¿qué cambiarías o agregarías?
- 
+10. Si pudieras mejorar la forma en la que trabajas actualmente con tu equipo, ¿qué cambiarías o agregarías?
+
 **Cierre:**
 Muchas gracias por compartir su experiencia y perspectivas. Su opinión es muy valiosa para diseñar una herramienta que apoye de verdad a los emprendedores en etapa temprana.
- 
+
 ---
- 
+
 #### Segmento 2: Estudiantes Universitarios y Profesionales Jóvenes
- 
+
 **Introducción:**
 Buenos días/tardes, mi nombre es [nombre del entrevistador] y el día de hoy estaremos realizando una breve entrevista para conocer más sobre la experiencia de estudiantes universitarios y jóvenes profesionales al participar en proyectos colaborativos.
 Buscamos entender qué los motiva a unirse a nuevos proyectos, qué dificultades enfrentan al trabajar en equipo y cómo organizan actualmente sus actividades dentro de estos proyectos.
-
 
 1. ¿Has participado en proyectos fuera de la universidad o trabajo formal?
 2. ¿Qué te motiva a unirte a nuevos proyectos?
@@ -453,6 +459,7 @@ Buscamos entender qué los motiva a unirse a nuevos proyectos, qué dificultades
 Muchas gracias por su tiempo y comentarios. Su aporte nos ayudará a crear una plataforma más útil y atractiva para jóvenes con interés en colaborar y aprender de proyectos reales.
 
 ### 2.2.2. Registro de entrevistas
+
 En esta sección presentamos los registros de las entrevistas que hicimos para cada segmento objetivo de nuestra aplicación.
 
 **Segmento 1: Emprendedores y Startups en Etapa Temprana**
@@ -485,11 +492,11 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
     <td>WhatsApp, Google Drive, Google Meet, Microsoft Stream</td>
   </tr>
   <tr>
-    <td>Motivacion</td>
+    <td>Motivación</td>
     <td>Conseguir colaboradores con habilidades complementarias (diseño, marketing) y tener todo organizado en un solo lugar.</td>
   </tr>
   <tr>
-    <td>Frustracion</td>
+    <td>Frustración</td>
     <td>Dificultad para encontrar colaboradores comprometidos y confiables; herramientas dispersas que generan desorden; falta de claridad sobre responsabilidades de cada integrante.</td>
   </tr>
   <tr>
@@ -498,21 +505,21 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQAtlpdvvdHRSrBCkWDfX2oOAU381turmdbK_48ER5JT7YI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=WPDG5B" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQAtlpdvvdHRSrBCkWDfX2oOAU381turmdbK_48ER5JT7YI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=WPDG5B" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
-    <td>Duracion</td>
+    <td>Duración</td>
     <td>0:00 min - 03:53 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td> Damaly es una joven emprendedora de 20 años que gestiona sus proyectos con WhatsApp, Google Drive y Meet. Señala que la mayor dificultad es encontrar personas comprometidas: identifica colaboradores con habilidades de diseño o marketing, pero muchos abandonan el proyecto por falta de tiempo. Además, la ausencia de un sistema claro de seguimiento genera confusión sobre quién es responsable de cada tarea. Desea una plataforma centralizada donde pueda buscar colaboradores por habilidades, ver perfiles verificados con referencias, y hacer seguimiento del avance sin depender de múltiples herramientas.</td>
+    <td>Damaly es una joven emprendedora de 21 años que gestiona sus proyectos con WhatsApp, Google Drive y Meet. Señala que la mayor dificultad es encontrar personas comprometidas: identifica colaboradores con habilidades de diseño o marketing, pero muchos abandonan el proyecto por falta de tiempo. Además, la ausencia de un sistema claro de seguimiento genera confusión sobre quién es responsable de cada tarea. Desea una plataforma centralizada donde pueda buscar colaboradores por habilidades, ver perfiles verificados con referencias, y hacer seguimiento del avance sin depender de múltiples herramientas.</td>
   </tr>
 </tbody>
 </table>
 
 ---
- 
+
 <table>
 <thead>
   <tr>
@@ -541,11 +548,11 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
     <td>Trello, WhatsApp, Discord, Google Meet, Microsoft Stream</td>
   </tr>
   <tr>
-    <td>Motivacion</td>
+    <td>Motivación</td>
     <td>Encontrar colaboradores comprometidos con habilidades complementarias (programación, diseño, marketing) y centralizar la gestión del proyecto en una sola herramienta.</td>
   </tr>
   <tr>
-    <td>Frustracion</td>
+    <td>Frustración</td>
     <td>Colaboradores que abandonan el proyecto cuando aumenta la carga de trabajo; tareas que no se completan en fecha, generando retrasos en cadena; necesidad de usar múltiples plataformas separadas.</td>
   </tr>
   <tr>
@@ -555,10 +562,10 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   <tr>
     <td>Link</td>
 	  <td>
-	<p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQAtlpdvvdHRSrBCkWDfX2oOAU381turmdbK_48ER5JT7YI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=WPDG5B" title="Title"> Microsoft Stream</p></td>	
+	<p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQAtlpdvvdHRSrBCkWDfX2oOAU381turmdbK_48ER5JT7YI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=WPDG5B" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
-    <td>Duracion</td>
+    <td>Duración</td>
     <td>03:53 min - 7:01 min</td>
   </tr>
   <tr>
@@ -569,7 +576,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 </table>
 
 ---
- 
+
 <table>
 <thead>
   <tr>
@@ -587,7 +594,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Edad</td>
-    <td>20</td>
+    <td>20 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
@@ -598,11 +605,11 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
     <td>WhatsApp, Excel, Google Meet, Microsoft Stream</td>
   </tr>
   <tr>
-    <td>Motivacion</td>
+    <td>Motivación</td>
     <td>Encontrar personas de áreas que no domina (marketing, ventas, diseño) y contar con una herramienta que permita asignar tareas y visualizar el progreso del proyecto de forma clara.</td>
   </tr>
   <tr>
-    <td>Frustracion</td>
+    <td>Frustración</td>
     <td>Dificultad para completar el equipo en áreas no técnicas; gestión manual con WhatsApp y Excel que dispersa la información; falta de seguimiento claro que genera retrasos y descoordinación.</td>
   </tr>
   <tr>
@@ -612,22 +619,21 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   <tr>
     <td>Link</td>
 	  <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQAtlpdvvdHRSrBCkWDfX2oOAU381turmdbK_48ER5JT7YI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=WPDG5B" title="Title">Microsoft Stream</p>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQAtlpdvvdHRSrBCkWDfX2oOAU381turmdbK_48ER5JT7YI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=WPDG5B" title="Title">Microsoft Stream</a></p>
 	</td>
   </tr>
   <tr>
-    <td>Duracion</td>
+    <td>Duración</td>
     <td>7:01 min - 11:02 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>"Nombre" es un emprendedor con perfil técnico que gestiona sus proyectos de forma muy manual usando WhatsApp y Excel. Su principal dificultad es conseguir colaboradores fuera de su área: encuentra programadores fácilmente, pero completar el equipo con perfiles de marketing, ventas o diseño es complicado. Además, la falta de un sistema de seguimiento hace que cada integrante avance por su cuenta sin coordinación, generando retrasos. Requiere validación de identidad, referencias de usuarios y una herramienta unificada para encontrar colaboradores, asignar responsabilidades y visualizar el avance del proyecto.</td>
+    <td>Jhoan es un emprendedor con perfil técnico que gestiona sus proyectos de forma muy manual usando WhatsApp y Excel. Su principal dificultad es conseguir colaboradores fuera de su área: encuentra programadores fácilmente, pero completar el equipo con perfiles de marketing, ventas o diseño es complicado. Además, la falta de un sistema de seguimiento hace que cada integrante avance por su cuenta sin coordinación, generando retrasos. Requiere validación de identidad, referencias de usuarios y una herramienta unificada para encontrar colaboradores, asignar responsabilidades y visualizar el avance del proyecto.</td>
   </tr>
 </tbody>
 </table>
 
 ---
- 
 
 **Segmento 2: Estudiantes Universitarios y Profesionales Jóvenes**
 
@@ -659,11 +665,11 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
     <td>GitHub, Discord, Google Meet, Microsoft Stream</td>
   </tr>
   <tr>
-    <td>Motivacion</td>
+    <td>Motivación</td>
     <td>Participar en proyectos innovadores con objetivos claros, aprender nuevas tecnologías y ganar experiencia real colaborando con personas comprometidas.</td>
   </tr>
   <tr>
-    <td>Frustracion</td>
+    <td>Frustración</td>
     <td>Proyectos sin estructura clara ni objetivos definidos; falta de comunicación e incumplimiento de tareas por parte de algunos integrantes.</td>
   </tr>
   <tr>
@@ -673,22 +679,22 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   <tr>
     <td>Link</td>
      <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQBo9vejJzlJQpu5_o2qFST-AWwEHsyVFmkZNvXa3riJJ_8?e=AFrndm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQBo9vejJzlJQpu5_o2qFST-AWwEHsyVFmkZNvXa3riJJ_8?e=AFrndm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p>
 	</td>
   </tr>
   <tr>
-    <td>Duracion</td>
+    <td>Duración</td>
     <td>0:00 min - 4:10 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>Diana es un estudiante con experiencia en hackathons y proyectos de software que se une a proyectos cuando le generan aprendizaje real. Su frustración principal es encontrar proyectos que aparentan ser interesantes pero carecen de estructura o dirección clara. También señala problemas de comunicación: integrantes que no responden o no cumplen con lo asignado. Antes de unirse a un proyecto, desea conocer los objetivos, su rol y el tiempo de dedicación requerido. Valora que se reconozca quién cumplió sus responsabilidades y busca una mejor organización de tareas y comunicación entre integrantes.</td>
+    <td>Diana es una estudiante con experiencia en hackathons y proyectos de software que se une a proyectos cuando le generan aprendizaje real. Su frustración principal es encontrar proyectos que aparentan ser interesantes pero carecen de estructura o dirección clara. También señala problemas de comunicación: integrantes que no responden o no cumplen con lo asignado. Antes de unirse a un proyecto, desea conocer los objetivos, su rol y el tiempo de dedicación requerido. Valora que se reconozca quién cumplió sus responsabilidades y busca una mejor organización de tareas y comunicación entre integrantes.</td>
   </tr>
 </tbody>
 </table>
 
 ---
- 
+
 <table>
 <thead>
   <tr>
@@ -717,11 +723,11 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
     <td>WhatsApp, Google Meet, documentos compartidos, Microsoft Stream</td>
   </tr>
   <tr>
-    <td>Motivacion</td>
+    <td>Motivación</td>
     <td>Desarrollar soluciones tecnológicas con impacto real, trabajar con personas de ideas innovadoras y ganar aprendizaje práctico colaborando con perfiles de distintas áreas.</td>
   </tr>
   <tr>
-    <td>Frustracion</td>
+    <td>Frustración</td>
     <td>Proyectos que no definen bien sus objetivos ni lo que buscan del colaborador; roles mal definidos que provocan duplicación de tareas o responsabilidades sin atender.</td>
   </tr>
   <tr>
@@ -731,14 +737,12 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   <tr>
     <td>Link</td>
    <td>
-		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQBo9vejJzlJQpu5_o2qFST-AWwEHsyVFmkZNvXa3riJJ_8?e=AFrndm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQBo9vejJzlJQpu5_o2qFST-AWwEHsyVFmkZNvXa3riJJ_8?e=AFrndm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p>
 	</td>
   </tr>
   <tr>
-    <td>Duracion</td>
-   <td>
-		4:10 min -  8:53 min
-	</td>
+    <td>Duración</td>
+   <td>4:10 min - 8:53 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -748,7 +752,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 </table>
 
 ---
- 
+
 <table>
 <thead>
   <tr>
@@ -762,7 +766,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Rocha Cotrina<</td>
+    <td>Rocha Cotrina</td>
   </tr>
   <tr>
     <td>Edad</td>
@@ -777,11 +781,11 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
     <td>Trello, GitHub, reuniones virtuales, Microsoft Stream</td>
   </tr>
   <tr>
-    <td>Motivacion</td>
+    <td>Motivación</td>
     <td>Aplicar conocimientos técnicos en proyectos reales con objetivos claros, aprender nuevas formas de trabajo en equipo y ganar experiencia colaborando con personas de distintas áreas.</td>
   </tr>
   <tr>
-    <td>Frustracion</td>
+    <td>Frustración</td>
     <td>Proyectos sin estructura ni descripción clara del perfil que buscan; falta de compromiso de algunos integrantes; desorganización cuando no hay seguimiento al avance de las tareas.</td>
   </tr>
   <tr>
@@ -793,17 +797,16 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
     <td><p><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQBo9vejJzlJQpu5_o2qFST-AWwEHsyVFmkZNvXa3riJJ_8?e=AFrndm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Microsoft Stream">Microsoft Stream</a></p></td>
   </tr>
   <tr>
-    <td>Duracion</td>
+    <td>Duración</td>
     <td>8:53 min - 12:58 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td> Alvaro es un estudiante con experiencia en proyectos universitarios y de desarrollo de software que participa para aplicar lo aprendido en situaciones reales. Su frustración principal es la falta de compromiso de ciertos integrantes y la desorganización cuando no existe alguien que haga seguimiento de tareas. Antes de unirse a un proyecto necesita conocer objetivos, roles, responsabilidades y tiempo de participación esperado. Confiaría más viendo perfiles verificados, referencias y avances concretos del proyecto. Busca transparencia sobre quién cumple sus tareas y una mejora en organización, comunicación y seguimiento dentro del equipo.</td>
+    <td>Alvaro es un estudiante con experiencia en proyectos universitarios y de desarrollo de software que participa para aplicar lo aprendido en situaciones reales. Su frustración principal es la falta de compromiso de ciertos integrantes y la desorganización cuando no existe alguien que haga seguimiento de tareas. Antes de unirse a un proyecto necesita conocer objetivos, roles, responsabilidades y tiempo de participación esperado. Confiaría más viendo perfiles verificados, referencias y avances concretos del proyecto. Busca transparencia sobre quién cumple sus tareas y una mejora en organización, comunicación y seguimiento dentro del equipo.</td>
   </tr>
 </tbody>
 </table>
 
-			
 ### 2.2.3. Análisis de entrevistas
 
 En esta sección se presenta el análisis consolidado de las entrevistas realizadas a cada segmento objetivo, con el fin de obtener información concisa y accionable que sirva como base para la definición de las características más relevantes del producto.
@@ -868,9 +871,9 @@ Los hallazgos más relevantes para el diseño de Foundly a partir de este segmen
 
 ---
 
-#### Segmento 2: Colaboradores  Estudiantes y Jóvenes Profesionales
+#### Segmento 2: Colaboradores — Estudiantes y Jóvenes Profesionales
 
-Este segmento estuvo conformado por estudiantes universitarios y jóvenes profesionales con experiencia en proyectos colaborativos, hackathons y voluntariados tecnológicos. Su perspectiva como colaboradores no como líderes de proyecto permitió identificar un conjunto de necesidades y frustraciones complementarias a las del Segmento 1, revelando los dos lados del mismo ecosistema de colaboración.
+Este segmento estuvo conformado por estudiantes universitarios y jóvenes profesionales con experiencia en proyectos colaborativos, hackathons y voluntariados tecnológicos. Su perspectiva como colaboradores —no como líderes de proyecto— permitió identificar un conjunto de necesidades y frustraciones complementarias a las del Segmento 1, revelando los dos lados del mismo ecosistema de colaboración.
 
 ##### Herramientas utilizadas actualmente
 
@@ -915,7 +918,7 @@ Los colaboradores expresan la necesidad de que su aporte sea visible y reconocid
 - La motivación es frágil y condicional. Los colaboradores se unen con entusiasmo, pero la desorganización, la falta de reconocimiento y el incumplimiento de expectativas los hacen abandonar. Retener a los colaboradores requiere ofrecer estructura, claridad y reconocimiento desde el primer día.
 - La transparencia del proyecto es un filtro de calidad. Antes de comprometerse, los colaboradores buscan señales de seriedad: objetivos claros, liderazgo verificable y avances concretos. Una plataforma que facilite esta visibilidad actúa como filtro natural que atrae colaboradores más comprometidos y ahuyenta proyectos sin sustento.
 - El reconocimiento formal cambia el comportamiento. Si los colaboradores saben que su trabajo quedará registrado, que será evaluado por el equipo y que contribuirá a construir su reputación dentro de la plataforma, tienen más incentivos para cumplir con sus responsabilidades y mantener un alto nivel de compromiso.
-- Los colaboradores son también embajadores potenciales. Cuando la experiencia dentro de un proyecto es positiva organización clara, reconocimiento del aporte y aprendizaje real los colaboradores recomiendan la plataforma activamente a su red, actuando como canal de crecimiento orgánico.
+- Los colaboradores son también embajadores potenciales. Cuando la experiencia dentro de un proyecto es positiva —organización clara, reconocimiento del aporte y aprendizaje real— los colaboradores recomiendan la plataforma activamente a su red, actuando como canal de crecimiento orgánico.
 - Existe complementariedad directa con el Segmento 1. Las necesidades del colaborador responden punto a punto a los dolores del emprendedor: donde el emprendedor necesita encontrar talento comprometido, el colaborador necesita encontrar proyectos serios; donde el emprendedor necesita seguimiento de tareas, el colaborador necesita claridad de roles. Foundly puede resolver ambos lados de esta ecuación desde una misma plataforma.
 
 ---
@@ -935,6 +938,8 @@ Estos hallazgos validan la propuesta de valor de Foundly como plataforma colabor
 
 ## 2.3. Needfinding
 
+En esta sección se presentan y explican los artefactos resultantes del proceso de análisis de la información recolectada durante las entrevistas a los segmentos objetivo. A partir de los hallazgos identificados, el equipo elaboró los User Personas que representan a cada segmento, el User Task Matrix que concentra las tareas que realizan para cumplir sus objetivos, los User Journey Maps que ilustran su experiencia actual, y los Empathy Maps que profundizan en sus pensamientos, emociones y necesidades. Estos artefactos constituyen la base para las decisiones de diseño y desarrollo del producto, manteniendo al usuario como centro del proceso.
+
 ### 2.3.1. User Personas
 
 Tras analizar las entrevistas realizadas a cada segmento objetivo, el equipo definió los perfiles de usuario ideal que representan a los actores principales del modelo de negocio de Foundly. Los User Personas fueron construidos considerando las personalidades, motivaciones, frustraciones y comportamientos identificados durante el proceso de investigación, con el objetivo de mantener al usuario como centro de las decisiones de diseño y desarrollo.
@@ -945,11 +950,11 @@ Tras analizar las entrevistas realizadas a cada segmento objetivo, el equipo def
 
 Para el segmento de emprendedores se elaboró el User Persona representativo de jóvenes desarrolladores y emprendedores tecnológicos en etapa temprana interesados en desarrollar sus ideas de manera estructurada y colaborativa. Su construcción consideró los hallazgos obtenidos en el análisis de entrevistas realizadas a este segmento, identificando factores clave como:
 
-Perfil técnico: Usuarios con conocimientos en desarrollo de software, tecnología o innovación que buscan transformar una idea en un proyecto real y funcional.
-Formación de equipos: Presentan dificultades para encontrar colaboradores comprometidos con habilidades complementarias como diseño, marketing o ventas.
-Gestión de proyectos: Utilizan herramientas dispersas como WhatsApp, Google Drive, Trello o Excel, generando desorganización y falta de seguimiento claro.
-Seguimiento de avances: Necesitan visualizar responsabilidades, tareas pendientes y progreso del proyecto sin depender de reuniones constantes o procesos manuales.
-Confianza y compromiso: Buscan trabajar con personas responsables, con perfiles verificados y referencias previas que generen mayor seguridad dentro del equipo.
+- **Perfil técnico:** Usuarios con conocimientos en desarrollo de software, tecnología o innovación que buscan transformar una idea en un proyecto real y funcional.
+- **Formación de equipos:** Presentan dificultades para encontrar colaboradores comprometidos con habilidades complementarias como diseño, marketing o ventas.
+- **Gestión de proyectos:** Utilizan herramientas dispersas como WhatsApp, Google Drive, Trello o Excel, generando desorganización y falta de seguimiento claro.
+- **Seguimiento de avances:** Necesitan visualizar responsabilidades, tareas pendientes y progreso del proyecto sin depender de reuniones constantes o procesos manuales.
+- **Confianza y compromiso:** Buscan trabajar con personas responsables, con perfiles verificados y referencias previas que generen mayor seguridad dentro del equipo.
 
 <img src="resources/Images/Chapter-2/Juan Fernandez.png">
 
@@ -957,24 +962,21 @@ Este perfil evidencia la necesidad de una solución que centralice la búsqueda 
 
 #### Segmento 2: Colaborador
 
-Para el segmento de colaboradores se elaboró el User Persona representativo de estudiantes universitarios y jóvenes profesionales interesados en participar en proyectos colaborativos para adquirir experiencia práctica y trabajar en iniciativas reales. Su construcción consideró los hallazgos obtenidos en el análisis de entrevistas realizadas a este segmento, identificando factores clave como:
+Para el segmento de colaboradores se elaboró el User Persona representativo de estudiantes universitarios y recién egresados interesados en participar en proyectos colaborativos para adquirir experiencia práctica y trabajar en iniciativas reales. Su construcción consideró los hallazgos obtenidos en el análisis de entrevistas realizadas a este segmento, identificando factores clave como:
 
-Perfil académico y profesional: Usuarios entre 18 y 26 años con conocimientos en áreas como desarrollo, diseño, marketing u otras disciplinas complementarias, que buscan aplicar sus habilidades en proyectos reales fuera del entorno académico.
-Búsqueda de experiencia práctica: Desean participar en proyectos que les permitan aprender nuevas tecnologías, metodologías de trabajo y adquirir experiencia colaborando con personas de distintas áreas.
-Necesidad de proyectos estructurados: Buscan proyectos con objetivos claros, roles definidos y líderes comprometidos que realicen seguimiento constante al progreso del equipo.
-Reconocimiento del trabajo: Valoran que su esfuerzo y participación sean visibles dentro del proyecto, evitando escenarios donde su trabajo no sea reconocido o quede sin registro.
-Herramientas actuales limitadas: Actualmente utilizan herramientas dispersas como WhatsApp, Trello, Discord y Google Meet, lo que muchas veces genera desorganización en la colaboración.
+- **Perfil académico y profesional:** Usuarios entre 18 y 25 años con conocimientos en áreas como desarrollo, diseño, marketing u otras disciplinas complementarias, que buscan aplicar sus habilidades en proyectos reales fuera del entorno académico.
+- **Búsqueda de experiencia práctica:** Desean participar en proyectos que les permitan aprender nuevas tecnologías, metodologías de trabajo y adquirir experiencia colaborando con personas de distintas áreas.
+- **Necesidad de proyectos estructurados:** Buscan proyectos con objetivos claros, roles definidos y líderes comprometidos que realicen seguimiento constante al progreso del equipo.
+- **Reconocimiento del trabajo:** Valoran que su esfuerzo y participación sean visibles dentro del proyecto, evitando escenarios donde su trabajo no sea reconocido o quede sin registro.
+- **Herramientas actuales limitadas:** Actualmente utilizan herramientas dispersas como WhatsApp, Trello, Discord y Google Meet, lo que muchas veces genera desorganización en la colaboración.
 
 <img src="resources/Images/Chapter-2/Jesli Bautista.png">
 
-
 Este perfil evidencia la necesidad de una plataforma que permita encontrar proyectos confiables, visualizar avances reales, mejorar la organización del trabajo y generar mayor reconocimiento para los colaboradores dentro de cada proyecto.
-
-
 
 ### 2.3.2. User Task Matrix
 
-**Usuario Emprededor**
+**Usuario Emprendedor**
 
 <div align="center">
 
@@ -1014,7 +1016,7 @@ Se observa que las tareas más críticas para el emprendedor se concentran en la
 | Subir evidencias de trabajo            | Media      | Alta        |
 | Hacer seguimiento del progreso         | Media      | Importante  |
 | Recibir notificaciones                 | Alta       | Alta        |
-| Trabajar Proyectos con Iot             | Alta       | Alta        |                           
+| Trabajar proyectos con IoT             | Alta       | Alta        |
 
 </div>
 
@@ -1026,7 +1028,7 @@ El User Journey Mapping permite visualizar el recorrido completo que experimenta
 
 ---
 
-#### Segmento Emprededor
+#### Segmento Emprendedor
 
 El Customer Journey Map del segmento emprendedor permitió identificar el recorrido actual que experimentan los usuarios desde que detectan la necesidad de buscar apoyo para su proyecto hasta la evaluación final del trabajo realizado por su equipo. A través de este análisis se evidenció que los emprendedores atraviesan múltiples etapas marcadas por procesos manuales, herramientas dispersas y dificultades para mantener una colaboración estructurada.
 
@@ -1072,9 +1074,29 @@ A nivel emocional, el journey evidencia cómo el colaborador inicia con motivaci
 
 En conclusión, este Customer Journey Map valida la necesidad de una plataforma como Foundly que permita a los colaboradores encontrar proyectos confiables, conocer información clara antes de postular, trabajar de manera organizada y contar con un historial verificable de participación dentro de cada proyecto.
 
-### 2.3.4. As - Is Scemario Mapping
+### 2.3.4. Empathy Mapping
 
-**Segmento Emprededor**
+#### Segmento Emprendedor
+
+A partir del Empathy Map del segmento emprendedor se identificó que su principal necesidad no es desarrollar la idea del proyecto, sino encontrar personas confiables y organizar el trabajo de manera eficiente. El análisis evidencia que actualmente enfrenta dificultades para encontrar colaboradores comprometidos, definir responsabilidades claras y realizar seguimiento del progreso sin depender de múltiples herramientas externas como WhatsApp, Google Drive y Trello.
+
+Asimismo, se identificó que uno de sus mayores dolores es la falta de compromiso de algunos colaboradores y la ausencia de trazabilidad sobre las tareas realizadas. Esto genera frustración, estrés y desconfianza durante el desarrollo del proyecto.
+
+En conjunto, el mapa permitió validar que el emprendedor necesita una plataforma centralizada que facilite la búsqueda de talento, la organización del equipo y el seguimiento estructurado del proyecto.
+
+<img src="resources/Images/Chapter-2/Empathy Map/Empathy map - Juan Fernandez.png">
+
+#### Segmento Colaborador
+
+A partir del Empathy Map del segmento colaborador se identificó que su principal necesidad no es únicamente encontrar proyectos donde participar, sino asegurarse de que estos sean proyectos serios, organizados y con objetivos claros. El análisis evidencia que actualmente los colaboradores enfrentan incertidumbre antes de unirse a un proyecto debido a la falta de información sobre roles, responsabilidades y nivel de compromiso del equipo.
+
+Asimismo, se identificó que uno de sus principales dolores es que su esfuerzo muchas veces no queda registrado ni reconocido formalmente, además de enfrentar problemas de desorganización, duplicación de tareas y falta de seguimiento dentro del equipo.
+
+<img src="resources/Images/Chapter-2/Empathy Map/Empathy map - Jesli Bautista.png">
+
+### 2.3.5. As-Is Scenario Mapping
+
+**Segmento Emprendedor**
 
 A partir del As-Is Scenario Map del emprendedor se identificó que el principal problema no radica en generar ideas de negocio, sino en ejecutar los proyectos de manera organizada. El análisis evidencia que actualmente los emprendedores dependen de herramientas dispersas como WhatsApp, Google Drive y Trello para buscar colaboradores, coordinar tareas y hacer seguimiento, lo que genera desorden operativo.
 
@@ -1090,29 +1112,6 @@ Asimismo, se identificaron problemas como procesos de incorporación informales,
 
 <img src="resources/Images/Chapter-2/As-is scenario mapping/as-is scenario mapping colaborador.jpg">
 
-
-
-### 2.3.5. Empathy Mapping
-
-<h4>Segmento Emprededor</h4>
-
-A partir del Empathy Map del segmento emprendedor se identificó que su principal necesidad no es desarrollar la idea del proyecto, sino encontrar personas confiables y organizar el trabajo de manera eficiente. El análisis evidencia que actualmente enfrenta dificultades para encontrar colaboradores comprometidos, definir responsabilidades claras y realizar seguimiento del progreso sin depender de múltiples herramientas externas como WhatsApp, Google Drive y Trello.
-
-Asimismo, se identificó que uno de sus mayores dolores es la falta de compromiso de algunos colaboradores y la ausencia de trazabilidad sobre las tareas realizadas. Esto genera frustración, estrés y desconfianza durante el desarrollo del proyecto.
-
-En conjunto, el mapa permitió validar que el emprendedor necesita una plataforma centralizada que facilite la búsqueda de talento, la organización del equipo y el seguimiento estructurado del proyecto.
-
-<img src="resources/Images/Chapter-2/Empathy Map/Empathy map - Juan Fernandez.png">
-
-<h4>Segmento Colaborador</h4>
-
-A partir del Empathy Map del segmento colaborador se identificó que su principal necesidad no es únicamente encontrar proyectos donde participar, sino asegurarse de que estos sean proyectos serios, organizados y con objetivos claros. El análisis evidencia que actualmente los colaboradores enfrentan incertidumbre antes de unirse a un proyecto debido a la falta de información sobre roles, responsabilidades y nivel de compromiso del equipo.
-
-Asimismo, se identificó que uno de sus principales dolores es que su esfuerzo muchas veces no queda registrado ni reconocido formalmente, además de enfrentar problemas de desorganización, duplicación de tareas y falta de seguimiento dentro del equipo.
-
-<img src="resources/Images/Chapter-2/Empathy Map/Empathy map - Jesli Bautista.png">
-
-
 ## 2.4. Big Picture Event Storming
 
 **Step 1 – Free Exploration**
@@ -1123,7 +1122,7 @@ En esta primera etapa, el equipo realizó una sesión de lluvia de ideas para ca
 
 **Step 2 – Structured Organization**
 
-Después de listar los eventos, el equipo los organizó en flujos de negocio lógicos que reflejan las principales etapas en la creacion, colaboracion, gestion de los proyectos. Esta estructura ayudó a identificar los procesos clave y las áreas de mejora que posteriormente podrían abordarse mediante soluciones digitales o de gestión.
+Después de listar los eventos, el equipo los organizó en flujos de negocio lógicos que reflejan las principales etapas en la creación, colaboración y gestión de los proyectos. Esta estructura ayudó a identificar los procesos clave y las áreas de mejora que posteriormente podrían abordarse mediante soluciones digitales o de gestión.
 
 <img src="resources/Images/Chapter-2/Big event storming/time-lines.png.jpg" alt="time-lines"/>
 
@@ -1131,15 +1130,15 @@ Después de listar los eventos, el equipo los organizó en flujos de negocio ló
 
 En esta sección se establece un glosario de términos clave del dominio de negocio, construido bajo el enfoque de Domain-Driven Design (DDD) propuesto por Eric Evans. El propósito de este glosario es garantizar un lenguaje común y compartido entre todos los miembros del equipo, evitando ambigüedades y facilitando una comunicación clara y consistente durante el desarrollo del proyecto.
 
-| Termino | Definición |
+| Término | Definición |
 |--------|-----------|
 | Project (Proyecto) | Iniciativa colaborativa creada dentro de la plataforma con el objetivo de generar impacto ambiental o social. Incluye descripción, objetivos, actividades y métricas de impacto, y puede requerir colaboradores. |
-| Entrepreneur (Organizador) | Usuario que crea y gestiona un proyecto dentro de la plataforma, coordinando actividades, atrayendo participantes y generando impacto medible. |
+| Entrepreneur (Emprendedor) | Usuario que crea y gestiona un proyecto dentro de la plataforma, coordinando actividades, atrayendo participantes y generando impacto medible. |
 | Collaborator (Colaborador) | Usuario que se une a un proyecto existente aportando habilidades, conocimientos o tiempo para participar activamente en el desarrollo y cumplimiento de los objetivos del proyecto. |
-| Team (Equipo) | Grupo de usuarios (organizadores y colaboradores) que trabajan en un proyecto de manera estructurada, con roles definidos, responsabilidades y objetivos compartidos. |
+| Team (Equipo) | Grupo de usuarios (emprendedores y colaboradores) que trabajan en un proyecto de manera estructurada, con roles definidos, responsabilidades y objetivos compartidos. |
 | Reputation (Reputación) | Indicador del nivel de participación y confiabilidad de un usuario dentro de la plataforma, basado en su actividad, cumplimiento de tareas y desempeño dentro de los proyectos. |
 | Metrics (Métricas) | Indicadores que muestran el progreso de un proyecto y el impacto generado, incluyendo participación, cumplimiento de tareas y datos ambientales. |
-| Subscription (Subscripción) | Modelo de acceso a la plataforma mediante un pago recurrente que otorga beneficios adicionales y funcionalidades avanzadas. |
+| Subscription (Suscripción) | Modelo de acceso a la plataforma mediante un pago recurrente que otorga beneficios adicionales y funcionalidades avanzadas, como el módulo de monitoreo de impacto ambiental. |
 | Milestone (Hito) | Punto de control dentro de un proyecto que representa un objetivo grupal. Agrupa tareas individuales y permite medir el avance del proyecto. |
 | Task (Tarea) | Actividad individual asignada a un usuario dentro de un hito, con estado, responsable y seguimiento de progreso. |
 | Sensor Data (Datos de sensores) | Información capturada desde dispositivos IoT (simulados), como temperatura, humedad y calidad del aire, asociada a un proyecto o actividad. |
