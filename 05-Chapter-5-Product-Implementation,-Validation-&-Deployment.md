@@ -1353,6 +1353,9 @@ El desarrollo del Backend Web Service durante el Sprint 3 fue posible gracias a 
 ---
 
 ## 5.2.4. Sprint 4
+
+El Sprint 4 representa un hito fundamental en el desarrollo del backend de Foundly, ya que se enfoca en la culminación de los Bounded Contexts (BCs) pendientes y la consolidación de la arquitectura completa del sistema. Durante esta iteración, el equipo abordó el desarrollo e implementación de los módulos de Applications (postulaciones a proyectos), Milestone Management (gestión de hitos) y Task Management (gestión de tareas), aplicando rigurosamente los principios de Domain-Driven Design (DDD) y el patrón CQRS para garantizar una separación clara entre comandos y consultas.
+
 ### 5.2.4.1. Sprint Planning 4
 
 En esta sección se presentan los detalles del Sprint Planning Meeting 4, en el cual el equipo definió el objetivo, la capacidad y las User Stories a incluir en esta iteración, enfocada en culminar el desarrollo de los módulos de Applications, Milestone Management y Task Management en el backend, así como en diseñar e implementar el nuevo Bounded Context de Message para habilitar el chat interactivo dentro de la plataforma utilizando una arquitectura basada en Domain-Driven Design (DDD).
@@ -1452,6 +1455,8 @@ Finalmente, se realizaron tareas de configuración e infraestructura para eerfil
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 4, se completó la implementación y documentación de todos los servicios del backend de Foundly, consolidando un ecosistema robusto y modular que abarca desde la gestión de identidades hasta la mensajería en tiempo real. A continuación, se presenta el listado completo de endpoints disponibles, organizados por Bounded Context, que evidencian la culminación del desarrollo backend de la plataforma.
 
 
 | Endpoint                                               | Verbo HTTP | Descripción                                                   |
