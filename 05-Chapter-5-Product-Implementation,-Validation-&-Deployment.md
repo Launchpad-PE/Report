@@ -1415,6 +1415,41 @@ https://upc-team-tohi2bk.atlassian.net/jira/software/projects/FOUN/boards/67/bac
 | US061 | Historial de Chat | FOUN-84-2 | API: Controlador REST del Bounded Context | Configurar los endpoints HTTP del módulo de mensajería bajo los estándares arquitectónicos del sistema. | 6 | Limahuaya Pariachi, Sebastian | Finalizada |
 
 ### 5.2.4.4. Development Evidence for Sprint Review
+
+En esta sección se presentan los commits realizados en el repositorio del Backend Web Service durante el sprint 4, evidenciando los aportes de cada integrante del equipo.
+
+En el Backend Web Service, los commits reflejan la consolidación de nuevos bounded contexts y la extensión de los ya existentes. Se implementaron los bounded contexts de Tasks y Applications, incluyendo sus capas de dominio (agregados, comandos, queries y repositorios), aplicación (servicios de comando y consulta), infraestructura (entidades JPA, assemblers y repositorios) e interfaces (controladores REST y recursos). Dló el bounded context de Milestones con sus capas completas de dominio,aplicación, infraestructura e interfaces, incluyendo la gestión de milestone tasks, checklist steps y sus respectivos endpoints REST, además de correcciones posteriores relacionadas con el cascade delete de tareas, la serialización de enums a del parámetro projectId.
+
+Asimismo, se implementó el bounded context de Messaging, incorporando el eirectos entre usuarios mediante WebSocket (STOMP) y endpoints REST, juntocon su capa de persistencia y un servicio de anti-corruption layer (ACL) para la integración con IAM.
+
+Por otro lado, se realizó una refactorización del bounded context de Applications para migrar los identificadores de tipo Long a String basados en UUID, abarcando agregados,
+comandos, queries, repositorios, entidades JPA y assemblers. En el boundedn mejoras de seguridad y control de acceso, restringiendo las operacionesde consulta, edición y eliminación al creador de la tarea (rol emprendedor), derivando el creatorId del usuario autenticado, y se agregaron los endpoints PATCH para reprogramar
+fecha límite y POST para marcar la entrega de una tarea como completada.
+
+Finalmente, se realizaron tareas de configuración e infraestructura para eerfile, variables de entorno de MySQL, configuración de CORS yactualización de la URL de Swagger/OpenAPI), así como la incorporación de mensajes de validación internacionalizados (en/es) mediante messages.properties.
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|---|
+| Launchpad-PE/Foundly-Backend | deployment-raliway | 8427047 | Agregar Dockerfile para Railway | Adds a Dockerfile to containerize the service for deployment on Railway | 2026-06-16 |
+| Launchpad-PE/Foundly-Backend | deployment-raliway | 8181b94 | Fix: Corregir configuración CORS para Railway | Replaces allowedOrigins with allowedOriginPatterns, enables allowCredentials and disables the conflicting WebConfig CORS setup so tokens can be sent from the Railway/local frontend | 2026-06-16 |
+| Launchpad-PE/Foundly-Backend | develop | 49efad2 | feat: implement direct messaging functionality with send and retrieve operations | Adds the Messaging bounded context (domain, application, infrastructure and interfaces) with REST and WebSocket (STOMP) support for sending and retrieving direct messages | 2026-06-24 |
+| Launchpad-PE/Foundly-Backend | develop | c9f29a2 | feat(dev): Add messages.properties and validations | Adds internationalized validation messages (en/es) for profile and project creation resources | 2026-06-28 |
+| Launchpad-PE/Foundly-Backend | feat/milestones | 910b788 | feat(milestones): add domain layer | Implements the Milestone aggregate, MilestoneTask entity, commands, queries and value objects | 2026-06-26 |
+| Launchpad-PE/Foundly-Backend | feat/milestones | 3da270e | feat(milestones): add application layer | Implements MilestoneCommandService and MilestoneQueryService | 2026-06-26 |
+| Launchpad-PE/Foundly-Backend | feat/milestones | c8f20bc | feat(milestones): add infrastructure layer | Adds JPA entities, assemblers and repositories for milestones and milestone tasks | 2026-06-26 |
+| Launchpad-PE/Foundly-Backend | feat/milestones | 254b4d1 | feat(milestones): add interfaces layer | Adds MilestonesController, MilestoneTasksController and their REST resources/assemblers | 2026-06-26 |
+| Launchpad-PE/Foundly-Backend | feat/milestones | 4b41a24 | feat(milestones): add milestones and milestone tasks bounded context with full DDD layers | Consolidates the Milestones bounded context (domain, application, infrastructure, interfaces) into develop | 2026-06-30 |
+| Launchpad-PE/Foundly-Backend | feat/milestones | aa5e7b1 | feat(milestones): fix enum serialization to lowercase | Fixes MilestoneStatus and MilestoneTaskStatus enum serialization to output lowercase values | 2026-07-04 |
+| Launchpad-PE/Foundly-Backend | feat/milestones | 0bbe4d9 | fix(milestones): fix cascade delete for milestone tasks | Fixes cascade delete behavior between MilestonePersistenceEntity and MilestoneTaskPersistenceEntity | 2026-07-04 |
+| Launchpad-PE/Foundly-Backend | fix/applications | 952ba64 | feat(tasks, applications): add domain layer - aggregates, commands, queries and repositories | Implements the Task and Application aggregates, their commands, queries and repository interfaces | 2026-06-29 |
+| Launchpad-PE/Foundly-Backend | fix/applications | 70528e2 | feat(tasks, applications): add application layer - command and query services | Implements TaskCommandService, TaskQueryService, ApplicationCommandService and ApplicationQueryService | 2026-06-29 |
+| Launchpad-PE/Foundly-Backend | fix/applications | 78e7f2c | feat(tasks, applications): add infrastructure layer - JPA entity, assembler and repository | Adds JPA entities, assemblers and repositories for tasks and applications persistence | 2026-06-29 |
+| Launchpad-PE/Foundly-Backend | fix/applications | 1d67f29 | feat(tasks, applications): add interfaces layer - REST controller and resources | Adds TasksController, ApplicationsController and their REST resources/assemblers | 2026-06-29 |
+| Launchpad-PE/Foundly-Backend | fix/applications | b0ce771 | refactor(entity): migrate JPA entity to String-based IDs with UUID | Changes IDs from Long to String(36) for UUID support, adds audit fields and lifecycle callbacks | 2026-06-30 |
+| Launchpad-PE/Foundly-Backend | feat/task | eb06c79 | feat(tasks): derive task creatorId from authenticated user | Resolves creatorId from the Spring Security authentication context instead of trusting the request body, preventing user impersonation | 2026-07-04 |
+| Launchpad-PE/Foundly-Backend | feat/task | f8b171a | feat(tasks): restrict get/patch/delete to the task's creator (emprendedor) | Adds isOwner()/forbidden() checks so only the task's creator can get, patch or delete it, returning 403 otherwise | 2026-07-04 |
+| Launchpad-PE/Foundly-Backend | feat/task | 97061af | feat(tasks): add POST /tasks/{id}/complete endpoint for delivery (emprendedor only) | Adds the completeTask endpoint so the creator can mark a task COMPLETED with a delivery URL and notes | 2026-07-04 |
+
 ### 5.2.4.5. Execution Evidence for Sprint Review
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
