@@ -1417,6 +1417,66 @@ https://upc-team-tohi2bk.atlassian.net/jira/software/projects/FOUN/boards/67/bac
 ### 5.2.4.4. Development Evidence for Sprint Review
 ### 5.2.4.5. Execution Evidence for Sprint Review
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+
+| Endpoint                                               | Verbo HTTP | Descripción                                                   |
+| ------------------------------------------------------ | ---------- | --------------------------------------------------------------|
+| `/api/v1/authentication/sign-up`                       | POST       | Registro de usuarios en la plataforma                         |
+| `/api/v1/authentication/sign-in`                       | POST       | Autenticación e inicio de sesión                              |
+| `/api/v1/users`                                        | GET        | Obtiene la lista de usuarios registrados                      |
+| `/api/v1/users/{userId}`                               | GET        | Obtiene un usuario por identificador                          |
+| `/api/v1/users/email/{email}`                          | GET        | Obtiene un usuario mediante correo electrónico                |
+| `/api/v1/profiles`                                     | GET        | Lista todos los perfiles registrados                          |
+| `/api/v1/profiles`                                     | POST       | Crea un nuevo perfil                                          |
+| `/api/v1/profiles/{id}`                                | GET        | Obtiene un perfil por identificador                           |
+| `/api/v1/profiles/{id}`                                | PUT        | Actualiza completamente un perfil                             |
+| `/api/v1/profiles/{id}`                                | PATCH      | Actualiza parcialmente un perfil                              |
+| `/api/v1/profiles/{id}`                                | DELETE     | Elimina un perfil                                             |
+| `/api/v1/profiles/user/{userId}`                       | GET        | Obtiene el perfil por el userId                               |
+| `/api/v1/projects`                                     | GET        | Obtiene los proyectos publicados                              |
+| `/api/v1/projects`                                     | POST       | Crea un nuevo proyecto                                        |
+| `/api/v1/projects/{id}`                                | GET        | Obtiene un proyecto por identificador                         |
+| `/api/v1/projects/{id}`                                | PATCH      | Actualiza parcialmente un proyecto                            |
+| `/api/v1/projects/{id}/publish`                        | PATCH      | Publica un proyecto                                           |
+| `/api/v1/projects/{id}/roles`                          | POST       | Agrega un rol a un proyecto                                   |
+| `/api/v1/projects/{id}/roles/{roleId}`                 | DELETE     | Elimina un rol de un proyecto                                 |
+| `/api/v1/projects/me`                                  | GET        | Obtener un proyecto creado por el usuario auntenticado        |
+| `/api/v1/projects/area/{area}`                         | GET        | Obtener proyectos por area                                    |
+| `/api/v1/users/{userId}/comments`                      | GET        | Lista los comentarios asociados a un usuario                  |
+| `/api/v1/users/{userId}/comments`                      | POST       | Registra un comentario en un perfil                           |
+| `/api/v1/environmental/projects/{projectId}/metrics`   | GET        | Obtiene métricas ambientales de un proyecto                   |
+| `/api/v1/environmental/projects/{projectId}/dashboard` | GET        | Obtiene información del dashboard ambiental                   |
+| `/api/v1/messages`                                     | POST       | Envía un mensaje directo a otro usuario (autenticado vía JWT) |
+| `/api/v1/messages/{otherUserId}`                       | GET        | Obtiene el historial de conversación con otro usuario         |
+| `/api/v1/messages/conversations`                       | GET        | Lista todas las conversaciones del usuario autenticado        |
+| `/api/v1/applications`                                 | POST       | Envía una postulación a un rol de proyecto                    |
+| `/api/v1/applications/{id}`                            | GET        | Obtiene una postulación por ID                                |
+| `/api/v1/applications`                                 | GET        | Lista postulaciones (filtra por projectId y/o userId)         |
+| `/api/v1/applications/{id}/status`                     | PATCH      | Acepta o rechaza una postulación                              |
+| `/api/v1/applications/check`                           | GET        | Verifica si un usuario ya postuló a un proyecto               |
+| `/api/v1/milestones/{id}`                              | GET        | Obtiene un hito por ID                                        |
+| `/api/v1/milestones/{id}`                              | PUT        | Actualiza completamente un hito                               |
+| `/api/v1/milestones/{id}`                              | DELETE     | Elimina un hito                                               |
+| `/api/v1/milestones/{id}`                              | PATCH      | Actualiza parcialmente un hito                                |
+| `/api/v1/milestones?projectId={id}`                    | GET        | Lista todos los hitos de un proyecto                          |
+| `/api/v1/milestones`                                   | POST       | Crea un nuevo hito con tareas opcionales                      |
+| `/api/v1/milestones/{id}/reschedule`                   | PATCH      | Reprograma la fecha de vencimiento                            |
+| `/api/v1/milestones/{milestoneId}/tasks`               | POST       | Agrega una tarea a un hito                                    |
+| `/api/v1/milestone-tasks/{id}/complete`                | POST       | Marca una tarea como completada con entrega                   |
+| `/api/v1/milestone-tasks/{id}/status`                  | PATCH      | Actualiza el estado de una tarea                              |
+| `/api/v1/milestone-tasks/{id}`                         | GET        | Obtiene una tarea por ID                                      |
+| `/api/v1/milestone-tasks/{id}`                         | DELETE     | Elimina una tarea                                             |
+| `/api/v1/tasks?projectId={id}&assigneeId={id}` | GET | Lista tareas por proyecto y asignado |
+| `/api/v1/tasks` | POST | Crea una nueva tarea (emprendedor) |
+| `/api/v1/tasks/{id}/complete` | POST | Marca tarea como completada (solo creador) |
+| `/api/v1/tasks/{id}` | GET | Obtiene una tarea por ID (solo creador) |
+| `/api/v1/tasks/{id}` | DELETE | Elimina una tarea (solo creador) |
+| `/api/v1/tasks/{id}` | PATCH | Actualiza parcialmente una tarea (solo creador) |
+| `/api/v1/tasks/{id}/due-date` | PATCH | Reprograma fecha de vencimiento (solo creador) |
+| `/api/v1/tasks?projectId={id}` | GET | Lista tareas por proyecto |
+| `/api/v1/tasks?assigneeId={id}` | GET | Lista tareas por asignado |
+
+
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 
