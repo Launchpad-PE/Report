@@ -1274,7 +1274,7 @@ A continuación, se presentan las métricas de colaboración y los principales i
 
 <div align="center">
 
-![Analíticos de colaboración GitHub - Sprint 3](resources/Images/Chapter-5/Sprint3/project-collaboration.jpeg)
+<img src="resources/Images/Chapter-5/Sprint3/project-collaboration.jpeg">
 
 </div>
 
@@ -1301,8 +1301,7 @@ El desarrollo del Frontend Web Application durante el Sprint 3 fue posible graci
 
 <div align="center">
 
-![Gráfico de commits por integrante](resources/Images/Chapter-5/Sprint3/contributions.jpeg)
-
+<img src="resources/Images/Chapter-5/Sprint3/contributions.jpeg">
 </div>
 
 ---
@@ -1322,7 +1321,7 @@ A continuación, se presentan las métricas de colaboración y los principales i
 
 <div align="center">
 
-![Analíticos de colaboración GitHub - Sprint 3](resources/Images/Chapter-5/Sprint3/project-collaboration-backend.png)
+<img src="resources/Images/Chapter-5/Sprint3/project-collaboration-backend.png">
 
 </div>
 
@@ -1346,8 +1345,7 @@ El desarrollo del Backend Web Service durante el Sprint 3 fue posible gracias a 
 
 <div align="center">
 
-![Analíticos de colaboración GitHub - Sprint 3](resources/Images/Chapter-5/Sprint3/contributions-backend.png)
-
+<img src="resources/Images/Chapter-5/Sprint3/contributions-backend.png">
 </div>
 
 ---
@@ -1395,7 +1393,7 @@ En esta sección se detallan las actividades de ingeniería y el progreso técni
 **URL del Sprint Board:**
 https://upc-team-tohi2bk.atlassian.net/jira/software/projects/FOUN/boards/67/backlog
 
-![SprintBacklog4.png](resources/Images/Chapter-5/sprint4/SprintBacklog4.png)
+<img src="resources/Images/Chapter-5/sprint4/SprintBacklog4.png">
 
 | User Story ID | User Story Title | Task ID   | Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | :--- | :--- |:----------| :--- | :--- | :--- | :--- | :--- |
@@ -1537,9 +1535,10 @@ A continuación, se presentan las métricas de colaboración y los principales i
 
 <div align="center">
 
-![Analíticos de colaboración GitHub - Sprint 4](resources/Images/Chapter-5/Sprint4/project-collaboration-frontend.jpeg)
+<img src="resources/Images/Chapter-5/Sprint4/project-collaboration-frontend.jpeg"></img>
 
 </div>
+
 
 **Análisis de Colaboración**
 
@@ -1563,7 +1562,7 @@ El desarrollo del Frontend Web Application durante el Sprint 4 fue posible graci
 
 <div align="center">
 
-![Gráfico de commits por integrante](resources/Images/Chapter-5/Sprint4/contributors-frontend.jpeg)
+<img src="resources/Images/Chapter-5/Sprint4/contributors-frontend.jpeg">
 
 </div>
 
@@ -1582,7 +1581,7 @@ Durante el Sprint 4, el equipo consolidó la arquitectura completa del Backend W
 
 <div align="center">
 
-![Analíticos de colaboración GitHub - Sprint 4](resources/Images/Chapter-5/Sprint4/project-collaboration-backend.jpeg)
+<img src="resources/Images/Chapter-5/Sprint4/project-collaboration-backend.jpeg">
 
 </div>
 
@@ -1606,7 +1605,7 @@ El desarrollo del Backend Web Service durante el Sprint 4 fue posible gracias a 
 
 <div align="center">
 
-![Analíticos de colaboración GitHub - Sprint 4](resources/Images/Chapter-5/Sprint4/contributors-backend.jpeg)
+<img src="resources/Images/Chapter-5/Sprint4/contributors-backend.jpeg">
 
 </div>
 
