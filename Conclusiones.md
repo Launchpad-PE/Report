@@ -1,3 +1,5 @@
+\newpage
+
 # Conclusiones
 
 ## AV1
@@ -90,13 +92,43 @@ Durante el Sprint 3, el equipo consolidó la integración entre el Frontend Web 
 
 ---
 
+## TB2
+
+Durante el Sprint 4, el equipo completó el ciclo de vida de desarrollo de Foundly, alcanzando la versión final de los productos digitales. El backend RESTful en Spring Boot quedó implementado al 100%, cubriendo la totalidad de los bounded contexts definidos en la arquitectura, y el Frontend Web Application quedó completamente integrado con los servicios reales en todos sus flujos. Asimismo, se incorporó un módulo de chat que permite la comunicación directa entre los miembros de un equipo dentro de la plataforma, eliminando la dependencia de canales externos como WhatsApp o Discord, que fue uno de los principales dolores identificados durante las entrevistas de los primeros sprints.
+
+### En relación a los Problem Statements
+
+1. **Problem Statement 1** — Con la solución completa e integrada de extremo a extremo, Foundly demuestra que es posible resolver en una sola plataforma la dificultad de conformar equipos y gestionar proyectos: los usuarios pueden crear proyectos, encontrar colaboradores, formar equipos, asignar tareas, dar seguimiento a hitos y ahora también comunicarse directamente mediante el chat integrado. La incorporación del chat cierra la brecha más señalada por los entrevistados —la dispersión de la comunicación en herramientas externas— consolidando a Foundly como un ecosistema de colaboración verdaderamente centralizado.
+
+2. **Problem Statement 2** — La versión final de la plataforma valida que la gestión estructurada reduce los factores de fracaso identificados en los antecedentes. El flujo completo de hitos, tareas, evidencias y reputación, operando sobre el backend definitivo y complementado por la comunicación interna vía chat, ofrece la transparencia y cohesión de equipo que las herramientas dispersas no lograban proporcionar. Las validaciones finales confirmaron que los usuarios perciben la plataforma como un entorno confiable para desarrollar sus proyectos de inicio a fin.
+
+### En relación a los Assumptions
+
+1. **Assumption sobre el comportamiento del Emprendedor** — Con la plataforma completa, se confirmó que los emprendedores valoran contar con todas las herramientas de gestión en un solo lugar. La posibilidad de coordinar al equipo mediante el chat integrado, sin salir de la plataforma, reforzó la percepción de Foundly como un espacio de trabajo completo y no solo como un punto de encuentro inicial.
+
+2. **Assumption sobre el comportamiento del Colaborador** — Las validaciones finales confirmaron que los colaboradores permanecen más activos cuando la comunicación del equipo ocurre dentro de la misma plataforma donde gestionan sus tareas. El chat integrado, junto con el sistema de reputación consolidado, refuerza el sentido de pertenencia al equipo y facilita la coordinación diaria del trabajo.
+
+3. **Assumption sobre el panel IoT** — Con el backend implementado al 100%, el módulo IoT opera de forma estable sobre la infraestructura definitiva de servicios. Las validaciones finales reafirmaron que el monitoreo de impacto ambiental en tiempo real se mantiene como el diferenciador más valorado de la plataforma y como el principal incentivo de conversión hacia el plan Premium.
+
+### En relación a los Hypothesis Statements y criterios de éxito
+
+1. **Hipótesis 1 — Conformación de equipos** — Con la versión final de la plataforma, el ciclo completo de conformación de equipos —publicación, búsqueda, postulación, aceptación y coordinación mediante chat— opera sin fricciones de extremo a extremo. Las validaciones finales mostraron que los usuarios logran conformar y coordinar equipos íntegramente dentro de Foundly, lo que posiciona favorablemente el cumplimiento del criterio del 50% de equipos completos en el lanzamiento piloto.
+
+2. **Hipótesis 2 — Conversión a plan Premium** — Con todos los flujos funcionales y el módulo IoT operando sobre el backend definitivo, los usuarios validadores experimentaron el valor completo del plan Premium. El interés de conversión se mantuvo consistente con las mediciones de sprints anteriores, lo que respalda la viabilidad del criterio del 15% de conversión durante el primer año del lanzamiento.
+
+3. **Hipótesis 3 — Retención de colaboradores** — El sistema de reputación, las evidencias y el historial de participación quedaron plenamente operativos, y el chat integrado añade un factor adicional de permanencia al concentrar la actividad del equipo dentro de la plataforma. Las validaciones finales sugieren que la combinación de reconocimiento formal y comunicación centralizada favorece el cumplimiento del criterio de retención del 70%.
+
+4. **Hipótesis 4 — Activación del módulo IoT** — El módulo IoT alcanzó su versión final consumiendo métricas desde el backend completo, con visualización estable y comprensible para usuarios sin perfil técnico. La solución queda técnicamente lista para la integración con dispositivos físicos en producción, sosteniendo la viabilidad del criterio del 40% de activación en proyectos con enfoque ambiental.
+
+---
+
 ## Recomendaciones y Roadmap
 
 A partir de los resultados obtenidos, el equipo propone los siguientes pasos para el roadmap de los productos digitales que conforman el modelo de negocio de Foundly:
 
 1. **Corto plazo — Lanzamiento piloto (0 a 3 meses)**
 
-   - Publicar el Landing Page y la Web Application en producción con los sprints desarrollados durante el curso, integrados con el backend RESTful en Spring Boot.
+   - Publicar el Landing Page y la Web Application en producción con la versión final desarrollada durante el curso, integrada al 100% con el backend RESTful en Spring Boot.
    - Activar el panel IoT en modo demo para todos los proyectos de la categoría hardware, sin requerir hardware físico.
    - Incorporar un flujo de onboarding guiado para nuevos emprendedores que reduzca la fricción en la creación del primer proyecto.
    - Establecer alianzas con al menos dos incubadoras universitarias para captar los primeros 50 proyectos piloto.
@@ -104,6 +136,7 @@ A partir de los resultados obtenidos, el equipo propone los siguientes pasos par
 2. **Mediano plazo — Crecimiento (3 a 9 meses)**
 
    - Implementar el motor de recomendaciones de proyectos basado en el perfil y habilidades del colaborador.
+   - Enriquecer el módulo de chat con funcionalidades como archivos adjuntos, menciones y notificaciones push, fortaleciendo la comunicación interna de los equipos.
    - Incorporar verificación de identidad mediante correo institucional universitario para aumentar la confianza en la comunidad.
    - Ampliar las categorías de sensores IoT e incorporar soporte para protocolo HTTP polling como alternativa a MQTT.
    - Lanzar campañas de adquisición de usuarios en LinkedIn, Instagram y comunidades de emprendimiento para alcanzar los 2,000 usuarios activos establecidos como meta.
