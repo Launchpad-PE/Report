@@ -34,12 +34,18 @@ Proyecto<br>
 
 </div>
 
+<div style="page-break-before: always;"></div>
+
 # Registro de Versiones del Informe
 
-| Versión | Fecha | Autores                                                                                                                                                                         | Descripción de modificación |
-|---|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| Versión | Fecha | Autores | Descripción de modificación |
+|---|---|---|---|
 | AV1 | 15/03/2026 | Almandroz Carbajal, Pierina Marysabel<br>Baca Camargo, Vitaly Arturo<br>Bautista Rivera, Jose Diego<br>Pariachi Limahuaya, Sebastián Ubaldo<br>Teran Zavala, Mauricio Alejandro | Para la AV1 se creó la estructura completa del informe incluyendo carátula, registro de versiones, tabla de contenidos y Student Outcomes.<br><br>**Capítulo I — Introducción:** Se redactó el Startup Profile, Solution Profile, Lean UX Process y segmentos objetivo.<br><br>**Capítulo II — Requirements Elicitation & Analysis:** Se elaboró el análisis de competidores, diseño y registro de entrevistas, needfinding (User Personas, Task Matrix, Journey Mapping, Empathy Mapping), Big Picture Event Storming y Ubiquitous Language.<br><br>**Capítulo III — Requirements Specification:** Se desarrollaron las User Stories, Impact Mapping y Product Backlog.<br><br>**Capítulo IV — Product Design:** Se completaron las Style Guidelines, Information Architecture, Landing Page UI Design, Web Applications UX/UI Design, Web Prototyping, Domain-Driven Software Architecture, Software Object-Oriented Design y Database Design.<br><br>**Capítulo V — Product Implementation:** Se realizó el Software Configuration Management y la evidencia del Sprint 1, incluyendo planning, backlog, development evidence, execution evidence, services documentation, deployment evidence y collaboration insights.<br><br>Finalmente, se añadieron conclusiones preliminares, bibliografía y anexos. |
-| AV2 | 12/05/2026 | Baca Camargo, Vitaly Arturo<br>Bautista Rivera, Jose Diego<br>Pariachi Limahuaya, Sebastián Ubaldo<br>Teran Zavala, Mauricio Alejandro<br/> Taipe Sangama, Jorge Francisco      | Para la AV2 el enfoque principal fue el desarrollo frontend de la aplicación web utilizando Angular como framework y JSON Server como API simulada para el consumo de datos.<br><br>Capítulo V — Product Implementation, Validation & Deployment: Se llevó a cabo el Sprint Planning 2, donde se definieron los objetivos y se distribuyeron las tareas del equipo para este ciclo. A partir de ello se elaboró el Sprint Backlog 2 con las historias de usuario priorizadas para esta entrega.<br><br>En cuanto al desarrollo, se implementaron las siguientes secciones de la aplicación web: Login y Register (autenticación de usuarios con formularios reactivos), Dashboard principal (vista general del sistema con acceso a las funcionalidades clave), Perfil de usuario (visualización y edición de datos personales) y Creación de proyectos (módulo para registrar y configurar nuevos proyectos dentro de la plataforma).<br><br>Se estableció la conexión con JSON Server mediante servicios HTTP en Angular, implementando operaciones GET, POST, PUT y DELETE para la gestión de datos en cada módulo. Asimismo, se aplicaron criterios de Responsive Design para garantizar una experiencia de usuario adaptada a distintos tamaños de pantalla.<br><br>Finalmente, se documentó la evidencia de desarrollo, evidencia de ejecución, documentación de servicios, evidencia de despliegue y los collaboration insights del equipo durante el sprint. |
+| TB1 | 12/05/2026 | Baca Camargo, Vitaly Arturo<br>Bautista Rivera, Jose Diego<br>Pariachi Limahuaya, Sebastián Ubaldo<br>Teran Zavala, Mauricio Alejandro | Para la AV2 el enfoque principal fue el desarrollo frontend de la aplicación web utilizando Angular como framework y JSON Server como API simulada para el consumo de datos.<br><br>Capítulo V — Product Implementation, Validation & Deployment: Se llevó a cabo el Sprint Planning 2, donde se definieron los objetivos y se distribuyeron las tareas del equipo para este ciclo. A partir de ello se elaboró el Sprint Backlog 2 con las historias de usuario priorizadas para esta entrega.<br><br>En cuanto al desarrollo, se implementaron las siguientes secciones de la aplicación web: Login y Register (autenticación de usuarios con formularios reactivos), Dashboard principal (vista general del sistema con acceso a las funcionalidades clave), Perfil de usuario (visualización y edición de datos personales) y Creación de proyectos (módulo para registrar y configurar nuevos proyectos dentro de la plataforma).<br><br>Se estableció la conexión con JSON Server mediante servicios HTTP en Angular, implementando operaciones GET, POST, PUT y DELETE para la gestión de datos en cada módulo. Asimismo, se aplicaron criterios de Responsive Design para garantizar una experiencia de usuario adaptada a distintos tamaños de pantalla.<br><br>Finalmente, se documentó la evidencia de desarrollo, evidencia de ejecución, documentación de servicios, evidencia de despliegue y los collaboration insights del equipo durante el sprint. |
+| AV2 | 19/06/2026 | Baca Camargo, Vitaly Arturo<br>Bautista Rivera, Jose Diego<br>Pariachi Limahuaya, Sebastián Ubaldo<br>Teran Zavala, Mauricio Alejandro | Para la AV2 el enfoque principal fue el desarrollo del Backend Web Service de Foundly utilizando Spring Boot, aplicando los principios de Domain-Driven Design (DDD), arquitectura por capas y persistencia de datos mediante MySQL.<br><br>**Capítulo V — Product Implementation, Validation & Deployment:** Se llevó a cabo el Sprint Planning 3, donde se definieron los objetivos técnicos del backend y la distribución de responsabilidades del equipo. A partir de ello se elaboró el Sprint Backlog 3 con las historias de usuario priorizadas para la implementación de los servicios backend.<br><br>Durante este sprint se desarrollaron e integraron los bounded contexts de **Identity and Access Management (IAM), Projects, Profiles, Comments y Environmental Monitoring**, implementando entidades de dominio, repositorios, servicios de aplicación, controladores REST y persistencia de datos mediante Spring Data JPA y MySQL.<br><br>Asimismo, se implementó la autenticación y autorización basada en **JWT y Spring Security**, permitiendo el registro e inicio de sesión seguro de usuarios. También se desarrolló la documentación de servicios mediante **OpenAPI/Swagger**, facilitando la validación y prueba de los endpoints REST del sistema.<br><br>Como parte de las actividades de despliegue, se configuró la contenerización del proyecto utilizando **Docker**, la gestión de variables de entorno para producción y el despliegue automático del backend en **Railway**, incluyendo la integración con una base de datos MySQL en la nube.<br><br>Finalmente, se documentó la evidencia de desarrollo, evidencia de ejecución, documentación de servicios, evidencia de despliegue, entrevistas de validación con usuarios y los collaboration insights del equipo durante el Sprint 3, verificando el correcto funcionamiento de la arquitectura backend y los servicios implementados. |
+
+
+<div style="page-break-before: always;"></div>
 
 # Project Report Collaboration Insights
 
@@ -52,7 +58,7 @@ Para el desarrollo del **Project Report**, el equipo utiliza un repositorio dent
   - Vitaly Arturo Baca Camargo ( `Mr-Code-star` )
   - Bautista Rivera, Jose Diego ( `Gogotes17` )
   - Sebastián Ubaldo Pariachi Limahuaya ( `SebastianLima-PE` )
-  - Almandroz Carbajal, Pierina Marysabel ( `pierinaaa29` )
+  - Ariana Lizeth Ramírez Carrasco ( `pierinaaa29` )
   - Mauricio Alejandro Teran Zavala ( `mau-tz` )
 - La actividad se distribuyó en ramas temáticas por secciones del informe, asegurando revisiones cruzadas mediante *pull requests*.
 
@@ -85,7 +91,34 @@ A continuación se presenta la captura de los analíticos de colaboración y com
 
 La colaboración fue activa y equitativa, con aportes sustanciales de todos los integrantes en la redacción y organización del informe.
 
-## AV2 — Sprint 3
+---
+
+## TB1 — Informe Parcial (Semana 7)
+
+Durante esta fase, el equipo elaboró el **informe Parcial**, que incluyó los siguientes aspectos:
+
+- **Registro de Versiones del Informe**, documentando los cambios realizados.
+- **Contenido preliminar** con tabla de contenidos y *Student Outcomes*.
+- **Capítulo III** con corrección de nomenclatura y estructura correcta para User Stories y Product Backlog.
+- **Capítulo V** con las actualizaciones del Sprint 2 Product Implementation, Validation & Deployment.
+- *\*Conclusiones preliminares, bibliografía y anexos.*
+
+A continuación se presenta la captura de los analíticos de colaboración y commits en GitHub para este entregable:
+
+![Project Report Collaboration Insights TB1](resources/Images/Collaboration_Insights/Insights(TB1).png)
+
+| Integrante | Usuario GitHub | Commits | Adiciones | Eliminaciones |
+|---|---|---|---|---|
+| Vitaly Arturo Baca Camargo | `Mr-Code-star` | 28 | 22129 | 4025 |
+| Jose Diego Bautista Rivera | `Gogotes17` | 15 | 1813 | 11 |
+| Sebastián Ubaldo Pariachi Limahuaya | `SebastianLima-PE` | 2 | 2435 | 401 |
+| Mauricio Alejandro Teran Zavala | `mau-tz` | 5 | 3524 | 2566 |
+
+La colaboración fue activa para los 4 integrantes mencionados, con aportes sustanciales de todos los integrantes en la redacción y organización del informe.
+
+---
+
+## AV2 — (Semana 12)
 
 Durante esta fase, el equipo desarrolló y consolidó la primera versión funcional de la plataforma Foundly, incluyendo avances en análisis, diseño, implementación, validación y despliegue del producto. Los principales aspectos desarrollados fueron:
 
@@ -106,16 +139,18 @@ A continuación, se presenta la captura de los analíticos de colaboración y co
 
 ![Project Report Collaboration Insights TB1](resources/Images/Collaboration_Insights/image.png)
 
-| Integrante                            | Usuario GitHub   | Commits |
-|---------------------------------------|------------------|---------|
-| Vitaly Arturo Baca Camargo            | Mr-Code-star     | 38      |
-| Mauricio Alejandro Teran Zavala       | mau-tz           | 9       |
-| Almandroz Carbajal, Pierina Marysabel | pierinaaa29      | 8       |
-| Taipe Sangama, Jorge Taipe            | Camotin-Furious | 6       |
-| Sebastián Ubaldo Paricchi Limahuaya   | SebastianLima-PE | 7       |
-| Bautista Rivera Jose Diego            | Gogotes17        | 3       |
+| Integrante                          | Usuario GitHub   | Commits |
+| ----------------------------------- | ---------------- | ------- |
+| Vitaly Arturo Baca Camargo          | Mr-Code-star     | 38      |
+| Mauricio Alejandro Teran Zavala     | mau-tz           | 9       |
+| Ariana Lizeth Ramírez Carrasco      | pierinaaa29      | 8       |
+| Sebastián Ubaldo Paricchi Limahuaya | SebastianLima-PE | 7       |
+| Bautista Rivera Jose Diego          | Gogotes17        | 3       |
 
 La colaboración del equipo durante el Sprint 3 fue constante y efectiva, permitiendo completar la implementación de los principales componentes del sistema. Los avances abarcaron el desarrollo del frontend, backend, documentación de servicios, despliegue en la nube, validación con usuarios y actividades de aseguramiento de calidad, contribuyendo significativamente al progreso del producto.
+
+
+<div style="page-break-before: always;"></div>
 
 
 # Tabla de Contenidos
