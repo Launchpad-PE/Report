@@ -1572,7 +1572,7 @@ Se verificó que el repositorio contara con el Dockerfile y la estructura necesa
 Se configuraron los parámetros de producción de Spring Boot, incluyendo la conexión a MySQL, el puerto de ejecución y la configuración del token JWT.
 
 <div align ="center">
-	<img src="resources/Images/Chapter-5/sprint4/readme.md/6.png">
+	<img src="resources/Images/Chapter-5/sprint4/readme.md/7.png">
 </div>
 
 **Aplicación desplegada**
@@ -1580,7 +1580,7 @@ Se configuraron los parámetros de producción de Spring Boot, incluyendo la con
 Finalmente, se verificó el despliegue exitoso del backend accediendo a la documentación Swagger, donde se observan todos los endpoints REST disponibles y operativos.
 
 <div align ="center">
-	<img src="resources/Images/Chapter-5/sprint4/readme.md/7.png">
+	<img src="resources/Images/Chapter-5/sprint4/readme.md/8.png">
 </div>
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
