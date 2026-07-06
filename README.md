@@ -80,7 +80,7 @@ Durante esta fase, el equipo elaboró el **informe inicial**, que incluyó los s
 
 A continuación se presenta la captura de los analíticos de colaboración y commits en GitHub para este entregable:
 
-![Project Report Collaboration Insights TB1](resources/Images/Collaboration_Insights/Project%20Report%20Collaboration%20Insights(AV1).png)
+<img src="resources/Images/Collaboration_Insights/Project%20Report%20Collaboration%20Insights(AV1).png">
 
 | Integrante | Usuario GitHub | Commits | Adiciones | Eliminaciones |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ Durante esta fase, el equipo elaboró el **informe Parcial**, que incluyó los s
 
 A continuación se presenta la captura de los analíticos de colaboración y commits en GitHub para este entregable:
 
-![Project Report Collaboration Insights TB1](resources/Images/Collaboration_Insights/Insights(TB1).png)
+<img src="resources/Images/Collaboration_Insights/Insights(TB1).png">
 
 | Integrante | Usuario GitHub | Commits | Adiciones | Eliminaciones |
 |---|---|---|---|---|
@@ -138,13 +138,13 @@ Durante esta fase, el equipo desarrolló y consolidó la primera versión funcio
 
 A continuación, se presenta la captura de los analíticos de colaboración y commits en GitHub correspondientes a este entregable.
 
-![Project Report Collaboration Insights TB1](resources/Images/Collaboration_Insights/image.png)
+<img src="resources/Images/Collaboration_Insights/image.png">
 
 | Integrante                          | Usuario GitHub   | Commits |
 | ----------------------------------- | ---------------- | ------- |
 | Vitaly Arturo Baca Camargo          | Mr-Code-star     | 38      |
 | Mauricio Alejandro Teran Zavala     | mau-tz           | 9       |
-| Ariana Lizeth Ramírez Carrasco      | pierinaaa29      | 8       |
+| Almandroz Carbajal, Pierina Marysabel| pierinaaa29      | 8       |
 | Sebastián Ubaldo Paricchi Limahuaya | SebastianLima-PE | 7       |
 | Bautista Rivera Jose Diego          | Gogotes17        | 3       |
 
@@ -174,46 +174,23 @@ Durante esta fase, el equipo completó la culminación de los Bounded Contexts p
 
 A continuación, se presenta la captura de los analíticos de colaboración y commits en GitHub correspondientes a este entregable.
 
-### Frontend Web Application - Project Report Collaboration Insights (Sprint 4)
+<img src="resources/Images/Chapter-5/sprint4/project-collaboration-insights.jpeg">
 
-![Project Report Collaboration Insights TB2 Frontend](resources/Images/Chapter-5/sprint4/project-collaboration-frontend.jpeg)
+| Integrante                          | Usuario GitHub   | Commits |
+| ----------------------------------- | ---------------- | ------- |
+| Vitaly Arturo Baca Camargo          | Mr-Code-star     | 56      |
+| Mauricio Alejandro Teran Zavala     | mau-tz           | 15      |
+| Taipe Sangama, Jorge Francisco      | CamotinFurious   | 12      |
+| Sebastián Ubaldo Paricchi Limahuaya | SebastianLima-PE | 11      |
+| Bautista Rivera Jose Diego          | Gogotes17        | 3       |
 
-| Integrante                          | Usuario GitHub   | Commits | Rol Principal                                |
-| ----------------------------------- | ---------------- | ------- | -------------------------------------------- |
-| Vitaly Arturo Baca Camargo          | Mr-Code-star     | ~45     | Arquitecto Frontend, Milestones módulo       |
-| Almandroz Carbajal, Pierina Marysabel | pierinaaa29    | ~40     | Desarrollo de Applications y Task Management |
-| Bautista Rivera Jose Diego          | Gogotes17        | ~25     | UI Timeline de Hitos, Integración Frontend   |
-| Taipe Sangama, Jorge Francisco      | CamotinFurious   | ~20     | Integración de Servicios, Configuración      |
-| Sebastián Ubaldo Pariachi Limahuaya | SebastianLima-PE | ~8      | Características Puntuales, Mejoras           |
-| Mauricio Alejandro Teran Zavala     | mau-tz           | ~4      | Soporte Técnico, Mantenimiento              |
-
-**Resumen de Actividad Frontend:**
-- **Total de commits:** ~142 commits en rama develop
-- **Commits totales en todas las ramas:** ~168
-- **Período:** 28 de junio – 5 de julio de 2026
+**Resumen de Actividad:**
+- **Total de commits:** ~ 97 commits en la rama main
+- **Commits totales en todas las ramas:** ~89
+- **Período:** 5 de junio – 5 de julio de 2026
 - **Enfoque:** Completar deuda técnica de Sprint 3, integración de APIs del backend finalizado, componentes visuales avanzados.
 
 La colaboración fue constante y efectiva, permitiendo completar todas las funcionalidades pendientes del frontend y su integración total con el backend finalizado de Foundly.
-
-### Backend Web Service - Project Report Collaboration Insights (Sprint 4)
-
-![Project Report Collaboration Insights TB2 Backend](resources/Images/Chapter-5/sprint4/project-collaboration-backend.jpeg)
-
-| Integrante                          | Usuario GitHub   | Commits | Rol Principal                          |
-| ----------------------------------- | ---------------- | ------- | -------------------------------------- |
-| Vitaly Arturo Baca Camargo          | Mr-Code-star     | ~12     | Bounded Context Milestones (Completo) |
-| Almandroz Carbajal, Pierina Marysabel | pierinaaa29    | ~8      | Bounded Context Applications y Tasks   |
-| Sebastián Ubaldo Pariachi Limahuaya | SebastianLima-PE | ~6      | Bounded Context Messaging (WebSocket) |
-| Bautista Rivera Jose Diego          | Gogotes17        | ~3      | Refactorización UUID, Mejoras         |
-| Taipe Sangama, Jorge Francisco      | CamotinFurious   | ~2      | Configuración, Infraestructura        |
-
-**Resumen de Actividad Backend:**
-- **Total de commits:** 31 commits en rama develop
-- **Commits totales en todas las ramas:** 52
-- **Período:** 28 de junio – 5 de julio de 2026
-- **Enfoque:** Implementación y finalización de Bounded Contexts pendientes, consolidación de arquitectura DDD completa.
-
-El equipo completó exitosamente la implementación de todos los Bounded Contexts del Backend Web Service, consolidando una arquitectura modular, segura y completamente funcional que soporta la totalidad de las operaciones de la plataforma Foundly.
 
 ---
 
