@@ -43,6 +43,7 @@ Proyecto<br>
 | AV1 | 15/03/2026 | Almandroz Carbajal, Pierina Marysabel<br>Baca Camargo, Vitaly Arturo<br>Bautista Rivera, Jose Diego<br>Pariachi Limahuaya, Sebastián Ubaldo<br>Teran Zavala, Mauricio Alejandro | Para la AV1 se creó la estructura completa del informe incluyendo carátula, registro de versiones, tabla de contenidos y Student Outcomes.<br><br>**Capítulo I — Introducción:** Se redactó el Startup Profile, Solution Profile, Lean UX Process y segmentos objetivo.<br><br>**Capítulo II — Requirements Elicitation & Analysis:** Se elaboró el análisis de competidores, diseño y registro de entrevistas, needfinding (User Personas, Task Matrix, Journey Mapping, Empathy Mapping), Big Picture Event Storming y Ubiquitous Language.<br><br>**Capítulo III — Requirements Specification:** Se desarrollaron las User Stories, Impact Mapping y Product Backlog.<br><br>**Capítulo IV — Product Design:** Se completaron las Style Guidelines, Information Architecture, Landing Page UI Design, Web Applications UX/UI Design, Web Prototyping, Domain-Driven Software Architecture, Software Object-Oriented Design y Database Design.<br><br>**Capítulo V — Product Implementation:** Se realizó el Software Configuration Management y la evidencia del Sprint 1, incluyendo planning, backlog, development evidence, execution evidence, services documentation, deployment evidence y collaboration insights.<br><br>Finalmente, se añadieron conclusiones preliminares, bibliografía y anexos. |
 | TB1 | 12/05/2026 | Baca Camargo, Vitaly Arturo<br>Bautista Rivera, Jose Diego<br>Pariachi Limahuaya, Sebastián Ubaldo<br>Teran Zavala, Mauricio Alejandro | Para la AV2 el enfoque principal fue el desarrollo frontend de la aplicación web utilizando Angular como framework y JSON Server como API simulada para el consumo de datos.<br><br>Capítulo V — Product Implementation, Validation & Deployment: Se llevó a cabo el Sprint Planning 2, donde se definieron los objetivos y se distribuyeron las tareas del equipo para este ciclo. A partir de ello se elaboró el Sprint Backlog 2 con las historias de usuario priorizadas para esta entrega.<br><br>En cuanto al desarrollo, se implementaron las siguientes secciones de la aplicación web: Login y Register (autenticación de usuarios con formularios reactivos), Dashboard principal (vista general del sistema con acceso a las funcionalidades clave), Perfil de usuario (visualización y edición de datos personales) y Creación de proyectos (módulo para registrar y configurar nuevos proyectos dentro de la plataforma).<br><br>Se estableció la conexión con JSON Server mediante servicios HTTP en Angular, implementando operaciones GET, POST, PUT y DELETE para la gestión de datos en cada módulo. Asimismo, se aplicaron criterios de Responsive Design para garantizar una experiencia de usuario adaptada a distintos tamaños de pantalla.<br><br>Finalmente, se documentó la evidencia de desarrollo, evidencia de ejecución, documentación de servicios, evidencia de despliegue y los collaboration insights del equipo durante el sprint. |
 | AV2 | 19/06/2026 | Baca Camargo, Vitaly Arturo<br>Bautista Rivera, Jose Diego<br>Pariachi Limahuaya, Sebastián Ubaldo<br>Teran Zavala, Mauricio Alejandro | Para la AV2 el enfoque principal fue el desarrollo del Backend Web Service de Foundly utilizando Spring Boot, aplicando los principios de Domain-Driven Design (DDD), arquitectura por capas y persistencia de datos mediante MySQL.<br><br>**Capítulo V — Product Implementation, Validation & Deployment:** Se llevó a cabo el Sprint Planning 3, donde se definieron los objetivos técnicos del backend y la distribución de responsabilidades del equipo. A partir de ello se elaboró el Sprint Backlog 3 con las historias de usuario priorizadas para la implementación de los servicios backend.<br><br>Durante este sprint se desarrollaron e integraron los bounded contexts de **Identity and Access Management (IAM), Projects, Profiles, Comments y Environmental Monitoring**, implementando entidades de dominio, repositorios, servicios de aplicación, controladores REST y persistencia de datos mediante Spring Data JPA y MySQL.<br><br>Asimismo, se implementó la autenticación y autorización basada en **JWT y Spring Security**, permitiendo el registro e inicio de sesión seguro de usuarios. También se desarrolló la documentación de servicios mediante **OpenAPI/Swagger**, facilitando la validación y prueba de los endpoints REST del sistema.<br><br>Como parte de las actividades de despliegue, se configuró la contenerización del proyecto utilizando **Docker**, la gestión de variables de entorno para producción y el despliegue automático del backend en **Railway**, incluyendo la integración con una base de datos MySQL en la nube.<br><br>Finalmente, se documentó la evidencia de desarrollo, evidencia de ejecución, documentación de servicios, evidencia de despliegue, entrevistas de validación con usuarios y los collaboration insights del equipo durante el Sprint 3, verificando el correcto funcionamiento de la arquitectura backend y los servicios implementados. |
+| TB2 | 05/07/2026 | Almandroz Carbajal, Pierina Marysabel<br>Baca Camargo, Vitaly Arturo<br>Bautista Rivera, Jose Diego<br>Pariachi Limahuaya, Sebastián Ubaldo<br>Teran Zavala, Mauricio Alejandro<br>Taipe Sangama, Jorge Francisco | Para la TB2, el equipo completó la culminación de los Bounded Contexts pendientes del Backend Web Service y continuó con la integración y refinamiento del Frontend Web Application de Foundly.<br><br>**Capítulo V — Product Implementation, Validation & Deployment:** Se llevó a cabo el Sprint Planning 4, completando la arquitectura completa del backend. Durante este sprint se implementaron y finalizaron los bounded contexts de **Applications (postulaciones a proyectos), Milestones (gestión de hitos), Tasks (gestión de tareas) y Messaging (chat en tiempo real)**.<br><br>Se aplicaron rigurosos principios de **Domain-Driven Design (DDD)** y el patrón **CQRS (Command Query Responsibility Segregation)** para garantizar una separación clara entre comandos y consultas. Se completaron todas las capas arquitectónicas: dominio (agregados, value objects, comandos y queries), aplicación (servicios de comando y consulta), infraestructura (entidades JPA, assemblers, repositorios) e interfaces (controladores REST y resources).<br><br>**Frontend Web Application:** Se resolvió la deuda técnica del Sprint 3 mediante la implementación de componentes de Timeline para hitos, renderizado dinámico de tareas por estado, integración mejorada de APIs y refinamiento de componentes de usuario (perfiles, favoritos, postulaciones).<br><br>**Messaging Bounded Context:** Se implementó un nuevo módulo de mensajería que permite comunicación en tiempo real entre usuarios mediante **WebSocket (STOMP)** y endpoints REST, incluyendo capa de persistencia y anti-corruption layer (ACL) para integración con IAM.<br><br>**Mejoras de Seguridad:** Se refactorizaron identificadores de tipo Long a String basados en **UUID**, se mejoró el control de acceso restringiendo operaciones al creador de tareas (emprendedor), se agregaron endpoints de reprogramación y completitud de tareas.<br><br>**Configuración e Internacionalización:** Se implementaron mensajes de validación internacionalizados (en/es) mediante messages.properties, optimización de CORS y configuración final para despliegue en Railway.<br><br>Se documentó completamente la evidencia de desarrollo, ejecución, documentación de servicios, despliegue en Railway, entrevistas de validación y los collaboration insights del equipo durante el Sprint 4, consolidando una plataforma completa, modular y lista para producción. | |
 
 
 <div style="page-break-before: always;"></div>
@@ -149,6 +150,72 @@ A continuación, se presenta la captura de los analíticos de colaboración y co
 
 La colaboración del equipo durante el Sprint 3 fue constante y efectiva, permitiendo completar la implementación de los principales componentes del sistema. Los avances abarcaron el desarrollo del frontend, backend, documentación de servicios, despliegue en la nube, validación con usuarios y actividades de aseguramiento de calidad, contribuyendo significativamente al progreso del producto.
 
+---
+
+## TB2 — Informe Final (Semana 15)
+
+Durante esta fase, el equipo completó la culminación de los Bounded Contexts pendientes del Backend Web Service y continuó con la integración del Frontend Web Application. Los principales aspectos desarrollados fueron:
+
+- Definición y planificación de las actividades correspondientes al Sprint 4.
+- Asignación de responsabilidades mediante Aspect Leaders y colaboradores del equipo.
+- Elaboración y seguimiento del Sprint Backlog con historias de usuario de alta prioridad.
+- **Implementación del Bounded Context de Applications:** Gestión de postulaciones a proyectos con agregados, servicios CQRS, repositorios y endpoints REST.
+- **Implementación del Bounded Context de Milestones:** Gestión completa de hitos de proyectos con validaciones de dominio, transiciones de estado y endpoints para creación, actualización, eliminación y reschedule.
+- **Refinamiento del Bounded Context de Tasks:** Mejoras en seguridad, control de acceso restringido al creador, endpoints PATCH para reprogramación y POST para marcar entregas completadas.
+- **Implementación del Bounded Context de Messaging:** Nuevo módulo de chat en tiempo real mediante WebSocket (STOMP), endpoints REST, persistencia de mensajes y anti-corruption layer (ACL) para integración con IAM.
+- **Refactorización de Identificadores:** Migración de IDs de Long a String basados en UUID en Applications, Tasks y Milestones.
+- **Internacionalización y Configuración:** Implementación de mensajes de validación internacionalizados (en/es), optimización de CORS y configuración final para despliegue en Railway.
+- **Frontend Web Application:** Resolución de deuda técnica del Sprint 3, implementación de componentes visuales (Timeline de hitos), renderizado dinámico de tareas, integración de APIs mejorada.
+- **Documentación de Servicios:** Actualización completa de la documentación OpenAPI/Swagger con todos los nuevos endpoints de los bounded contexts finales.
+- **Despliegue en Producción:** Continuidad del despliegue del Backend en Railway con base de datos MySQL y optimización de variables de entorno.
+- **Evidencia de Validación:** Realización de entrevistas de validación con usuarios pertenecientes a ambos segmentos objetivo.
+- **Ejecución de Evaluaciones Heurísticas:** Identificación de oportunidades de mejora en la experiencia de usuario basadas en principios UX.
+- **Elaboración de Videos de Demostración:** Videos técnicos mostrando funcionalidades de Sprint 4, videos de presentación del equipo y demostración del producto completo.
+
+A continuación, se presenta la captura de los analíticos de colaboración y commits en GitHub correspondientes a este entregable.
+
+### Frontend Web Application - Project Report Collaboration Insights (Sprint 4)
+
+![Project Report Collaboration Insights TB2 Frontend](resources/Images/Chapter-5/Sprint4/contributions.jpeg)
+
+| Integrante                          | Usuario GitHub   | Commits | Rol Principal                                |
+| ----------------------------------- | ---------------- | ------- | -------------------------------------------- |
+| Vitaly Arturo Baca Camargo          | Mr-Code-star     | ~45     | Arquitecto Frontend, Milestones módulo       |
+| Almandroz Carbajal, Pierina Marysabel | pierinaaa29    | ~40     | Desarrollo de Applications y Task Management |
+| Bautista Rivera Jose Diego          | Gogotes17        | ~25     | UI Timeline de Hitos, Integración Frontend   |
+| Taipe Sangama, Jorge Francisco      | CamotinFurious   | ~20     | Integración de Servicios, Configuración      |
+| Sebastián Ubaldo Pariachi Limahuaya | SebastianLima-PE | ~8      | Características Puntuales, Mejoras           |
+| Mauricio Alejandro Teran Zavala     | mau-tz           | ~4      | Soporte Técnico, Mantenimiento              |
+
+**Resumen de Actividad Frontend:**
+- **Total de commits:** ~142 commits en rama develop
+- **Commits totales en todas las ramas:** ~168
+- **Período:** 28 de junio – 5 de julio de 2026
+- **Enfoque:** Completar deuda técnica de Sprint 3, integración de APIs del backend finalizado, componentes visuales avanzados.
+
+La colaboración fue constante y efectiva, permitiendo completar todas las funcionalidades pendientes del frontend y su integración total con el backend finalizado de Foundly.
+
+### Backend Web Service - Project Report Collaboration Insights (Sprint 4)
+
+![Project Report Collaboration Insights TB2 Backend](resources/Images/Chapter-5/Sprint4/contributions-backend.jpeg)
+
+| Integrante                          | Usuario GitHub   | Commits | Rol Principal                          |
+| ----------------------------------- | ---------------- | ------- | -------------------------------------- |
+| Vitaly Arturo Baca Camargo          | Mr-Code-star     | ~12     | Bounded Context Milestones (Completo) |
+| Almandroz Carbajal, Pierina Marysabel | pierinaaa29    | ~8      | Bounded Context Applications y Tasks   |
+| Sebastián Ubaldo Pariachi Limahuaya | SebastianLima-PE | ~6      | Bounded Context Messaging (WebSocket) |
+| Bautista Rivera Jose Diego          | Gogotes17        | ~3      | Refactorización UUID, Mejoras         |
+| Taipe Sangama, Jorge Francisco      | CamotinFurious   | ~2      | Configuración, Infraestructura        |
+
+**Resumen de Actividad Backend:**
+- **Total de commits:** 31 commits en rama develop
+- **Commits totales en todas las ramas:** 52
+- **Período:** 28 de junio – 5 de julio de 2026
+- **Enfoque:** Implementación y finalización de Bounded Contexts pendientes, consolidación de arquitectura DDD completa.
+
+El equipo completó exitosamente la implementación de todos los Bounded Contexts del Backend Web Service, consolidando una arquitectura modular, segura y completamente funcional que soporta la totalidad de las operaciones de la plataforma Foundly.
+
+---
 
 <div style="page-break-before: always;"></div>
 
