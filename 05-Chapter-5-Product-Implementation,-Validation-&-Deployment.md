@@ -1452,6 +1452,11 @@ Finalmente, se realizaron tareas de configuración e infraestructura para eerfil
 | Launchpad-PE/Foundly-Backend | feat/task | 97061af | feat(tasks): add POST /tasks/{id}/complete endpoint for delivery (emprendedor only) | Adds the completeTask endpoint so the creator can mark a task COMPLETED with a delivery URL and notes | 2026-07-04 |
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
+
+URL del servicio desplegado en Railway: https://foundly-backend-production-eeec.up.railway.app/swagger-ui/index.html
+
+URL de presentación de la demo del Backend Web Service:
+
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 4, se completó la implementación y documentación de todos los servicios del backend de Foundly, consolidando un ecosistema robusto y modular que abarca desde la gestión de identidades hasta la mensajería en tiempo real. A continuación, se presenta el listado completo de endpoints disponibles, organizados por Bounded Context, que evidencian la culminación del desarrollo backend de la plataforma.
