@@ -12,7 +12,6 @@ Carrera de Ingeniería de Software
 
 #### Desarrollo de Aplicaciones Open Source
 
-**Ciclo:** 2026-1
  
 NRC
 
@@ -29,12 +28,12 @@ Equipo
 
 **Launchpad-PE**
 
-**Producto**
+Producto
 
-Foundly
+**Foundly**
 
 
- Integrantes
+#### Integrantes
 
 |Código| Apellidos y Nombres                      |  
 |----------| ------------------------------------ |
