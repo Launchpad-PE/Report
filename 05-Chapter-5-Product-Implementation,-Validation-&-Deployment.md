@@ -1535,7 +1535,7 @@ A continuación, se presentan las métricas de colaboración y los principales i
 
 <div align="center">
 
-<img src="resources/Images/Chapter-5/Sprint4/project-collaboration-frontend.jpeg"></img>
+<img src="resources/Images/Chapter-5/sprint4/project-collaboration-frontend.jpeg"></img>
 
 </div>
 
@@ -1562,7 +1562,7 @@ El desarrollo del Frontend Web Application durante el Sprint 4 fue posible graci
 
 <div align="center">
 
-<img src="resources/Images/Chapter-5/Sprint4/contributors-frontend.jpeg">
+<img src="resources/Images/Chapter-5/sprint4/contributors-frontend.jpeg">
 
 </div>
 
@@ -1581,7 +1581,7 @@ Durante el Sprint 4, el equipo consolidó la arquitectura completa del Backend W
 
 <div align="center">
 
-<img src="resources/Images/Chapter-5/Sprint4/project-collaboration-backend.jpeg">
+<img src="resources/Images/Chapter-5/sprint4/project-collaboration-backend.jpeg">
 
 </div>
 
@@ -1605,7 +1605,7 @@ El desarrollo del Backend Web Service durante el Sprint 4 fue posible gracias a 
 
 <div align="center">
 
-<img src="resources/Images/Chapter-5/Sprint4/contributors-backend.jpeg">
+<img src="resources/Images/Chapter-5/sprint4/contributors-backend.jpeg">
 
 </div>
 
