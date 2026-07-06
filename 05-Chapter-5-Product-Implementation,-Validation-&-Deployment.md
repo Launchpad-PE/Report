@@ -1517,39 +1517,71 @@ Durante el Sprint 4, se completó la implementación y documentación de todos l
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
+Durante el Sprint 4 se realizó el despliegue del Backend Web Application de Foundly utilizando Railway como plataforma de hosting. El proceso comprendió la creación y configuración de la base de datos MySQL, la conexión del repositorio de GitHub, la definición de las variables de entorno, la configuración del Dockerfile para la construcción de la aplicación y la verificación del despliegue exitoso mediante la documentación interactiva de Swagger UI. A continuación, se presentan las evidencias del proceso de despliegue realizado.
+
+**Creación del servicio de base de datos (MySQL)**
+
+Se creó una instancia de MySQL en Railway para alojar la base de datos de producción del backend.
+
 <div align ="center">
 	<img src="resources/Images/Chapter-5/sprint4/readme.md/1.png">
 </div>
+
+**Base de datos creada y en estado Online**
+
+Se verificó que el servicio MySQL estuviera operativo antes de desplegar el backend.
 
 <div align ="center">
 	<img src="resources/Images/Chapter-5/sprint4/readme.md/2.png">
 </div>
 
+**Configuración del servicio Backend**
+
+Se configuró el servicio del backend en Railway definiendo las variables de entorno necesarias, como el puerto de ejecución, el perfil de Spring Boot y la clave JWT.
+
 <div align ="center">
 	<img src="resources/Images/Chapter-5/sprint4/readme.md/3.png">
 </div>
+
+**Conexión con GitHub y rama de producción**
+
+El repositorio Foundly-Backend fue vinculado a Railway utilizando la rama deployment-final, permitiendo despliegues automáticos mediante GitHub.
 
 <div align ="center">
 	<img src="resources/Images/Chapter-5/sprint4/readme.md/4.png">
 </div>
 
+**Configuración del Dockerfile**
+
+Railway fue configurado para construir la aplicación utilizando el Dockerfile ubicado en la raíz del repositorio.
+
 <div align ="center">
 	<img src="resources/Images/Chapter-5/sprint4/readme.md/5.png">
 </div>
 
-<div align ="center">
-	<img src="resources/Images/Chapter-5/sprint4/readme.md/6.png">
-</div>
+**Repositorio con Dockerfile**
+
+Se verificó que el repositorio contara con el Dockerfile y la estructura necesaria para la construcción de la imagen del backend.
 
 <div align ="center">
 	<img src="resources/Images/Chapter-5/sprint4/readme.md/6.png">
 </div>
+
+**Configuración de producción**
+
+Se configuraron los parámetros de producción de Spring Boot, incluyendo la conexión a MySQL, el puerto de ejecución y la configuración del token JWT.
+
+<div align ="center">
+	<img src="resources/Images/Chapter-5/sprint4/readme.md/6.png">
+</div>
+
+**Aplicación desplegada**
+
+Finalmente, se verificó el despliegue exitoso del backend accediendo a la documentación Swagger, donde se observan todos los endpoints REST disponibles y operativos.
 
 <div align ="center">
 	<img src="resources/Images/Chapter-5/sprint4/readme.md/7.png">
 </div>
-
-
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 
