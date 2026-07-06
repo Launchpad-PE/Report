@@ -1,40 +1,24 @@
 <div align="center">
+
 <img src="resources/Images/Presentation/UPC_logo_transparente.png" alt="Logo-UPC" width="150">
-  
-## Universidad Peruana de Ciencias Aplicadas
 
-Carrera de Ingeniería de Software
+**Universidad Peruana de Ciencias Aplicadas**<br>
+**Carrera de Ingeniería de Software**
 
-
-
-
-#### 1ASI0729
-
-#### Desarrollo de Aplicaciones Open Source
-
- 
-NRC
-
-**10177**
-
-### Informe de Trabajo Final
-
-Docente
-
-**Mori Paiva, Hugo Allan**
-
-Equipo
-
-
+**1ASI0729**<br>
+**Desarrollo de Aplicaciones Open Source**<br>
+NRC<br>
+**10177**<br>
+**Informe del Trabajo Final**<br>
+Docente<br>
+**Mori Paiva, Hugo Allan**<br>
+Equipo<br>
 **Launchpad-PE**
 
-Producto
-
+Proyecto<br>
 **Foundly**
 
-
-#### Integrantes
-
+<br>**Integrantes**
 |Código| Apellidos y Nombres                      |  
 |----------| ------------------------------------ |
 |u202316845| Almandroz Carbajal, Pierina Marysabel| 
@@ -44,17 +28,11 @@ Producto
 |u202417423| Teran Zavala, Mauricio Alejandro     | 
 |u202313458| Taipe Sangama Jorge Francisco        |
 
-**Período 202610**
+**Período 202610**  
 
 **Junio 2026**
 
----
-
 </div>
-
-<div class="page"></div>
-
-<br>
 
 # Registro de Versiones del Informe
 
