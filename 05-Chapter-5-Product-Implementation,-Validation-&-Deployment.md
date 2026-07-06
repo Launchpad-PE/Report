@@ -1516,6 +1516,41 @@ Durante el Sprint 4, se completó la implementación y documentación de todos l
 
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+<div align ="center">
+	<img src="resources/Images/Chapter-5/sprint4/readme.md/1.png">
+</div>
+
+<div align ="center">
+	<img src="resources/Images/Chapter-5/sprint4/readme.md/2.png">
+</div>
+
+<div align ="center">
+	<img src="resources/Images/Chapter-5/sprint4/readme.md/3.png">
+</div>
+
+<div align ="center">
+	<img src="resources/Images/Chapter-5/sprint4/readme.md/4.png">
+</div>
+
+<div align ="center">
+	<img src="resources/Images/Chapter-5/sprint4/readme.md/5.png">
+</div>
+
+<div align ="center">
+	<img src="resources/Images/Chapter-5/sprint4/readme.md/6.png">
+</div>
+
+<div align ="center">
+	<img src="resources/Images/Chapter-5/sprint4/readme.md/6.png">
+</div>
+
+<div align ="center">
+	<img src="resources/Images/Chapter-5/sprint4/readme.md/7.png">
+</div>
+
+
+
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 4, el equipo colaboró activamente en la culminación de los Bounded Contexts pendientes del Backend Web Service y en la integración continua del Frontend Web Application de Foundly. A través del repositorio de GitHub se gestionó el trabajo colaborativo, permitiendo una integración constante de nuevas funcionalidades, refinamiento de módulos existentes y una adecuada coordinación entre los miembros del equipo.
