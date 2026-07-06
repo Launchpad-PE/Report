@@ -3,37 +3,51 @@
   
 ## Universidad Peruana de Ciencias Aplicadas
 
-**Facultad:** Ingeniería
+Carrera de Ingeniería de Software
 
-**Ingeniería de Software**
+
+
+
+#### 1ASI0729
+
+#### Desarrollo de Aplicaciones Open Source
 
 **Ciclo:** 2026-1
  
-1ASI0729 - Desarrollo de Aplicaciones Open Source 
+NRC
 
-**NRC:** 10177
-
-**Profesor:** Mori Paiva, Hugo Allan 
+**10177**
 
 ### Informe de Trabajo Final
 
-**Nombre del startup:** Launchpad-PE
+Docente
 
-**Nombre del producto:** Foundly
+**Mori Paiva, Hugo Allan**
 
-#### Relación de integrantes
-
-| Integrante                           | Código     |
-| ------------------------------------ | ---------- |
-| Almandroz Carbajal, Pierina Marysabel| U202316845 |
-| Baca Camargo, Vitaly Arturo          | U20231C426 |
-| Bautista Rivera, Jose Diego          | U202310949 |
-| Pariachi Limahuaya, Sebastian Ubaldo | U202314115 |
-| Teran Zavala, Mauricio Alejandro     | U202417423 |
-| Taipe Sangama Jorge Francisco        | U202313458 |
+Equipo
 
 
-**Mes y Año**: Marzo 2026
+**Launchpad-PE**
+
+**Producto**
+
+Foundly
+
+
+ Integrantes
+
+|Código| Apellidos y Nombres                      |  
+|----------| ------------------------------------ |
+|u202316845| Almandroz Carbajal, Pierina Marysabel| 
+|u20231C426| Baca Camargo, Vitaly Arturo          |
+|u202310949| Bautista Rivera, Jose Diego          |
+|u202314115| Pariachi Limahuaya, Sebastian Ubaldo |
+|u202417423| Teran Zavala, Mauricio Alejandro     | 
+|u202313458| Taipe Sangama Jorge Francisco        |
+
+**Período 202610**
+
+**Junio 2026**
 
 ---
 
