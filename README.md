@@ -176,7 +176,7 @@ A continuación, se presenta la captura de los analíticos de colaboración y co
 
 ### Frontend Web Application - Project Report Collaboration Insights (Sprint 4)
 
-![Project Report Collaboration Insights TB2 Frontend](resources/Images/Chapter-5/Sprint4/contributions.jpeg)
+![Project Report Collaboration Insights TB2 Frontend](resources/Images/Chapter-5/sprint4/project-collaboration-frontend.jpeg)
 
 | Integrante                          | Usuario GitHub   | Commits | Rol Principal                                |
 | ----------------------------------- | ---------------- | ------- | -------------------------------------------- |
@@ -197,7 +197,7 @@ La colaboración fue constante y efectiva, permitiendo completar todas las funci
 
 ### Backend Web Service - Project Report Collaboration Insights (Sprint 4)
 
-![Project Report Collaboration Insights TB2 Backend](resources/Images/Chapter-5/Sprint4/contributions-backend.jpeg)
+![Project Report Collaboration Insights TB2 Backend](resources/Images/Chapter-5/sprint4/project-collaboration-backend.jpeg)
 
 | Integrante                          | Usuario GitHub   | Commits | Rol Principal                          |
 | ----------------------------------- | ---------------- | ------- | -------------------------------------- |

@@ -1526,7 +1526,7 @@ A continuación, se presentan las métricas de colaboración y los principales i
 
 ---
 
-## Frontend Web Application - Project Report Collaboration Insights
+## Frontend Web Application
 
 **Resumen de Actividad**
 
@@ -1569,7 +1569,7 @@ El desarrollo del Frontend Web Application durante el Sprint 4 fue posible graci
 
 ---
 
-## Backend Web Service - Project Report Collaboration Insights
+## Backend Web Service
 
 Durante el Sprint 4, el equipo consolidó la arquitectura completa del Backend Web Service de Foundly mediante la implementación de los Bounded Contexts finales (Applications, Milestones, Tasks y Messaging). A través del repositorio de GitHub se gestionó la implementación de nuevos bounded contexts, servicios de aplicación con patrones CQRS, capas de persistencia completas y endpoints REST, permitiendo una integración continua con el Frontend Web Application.
 
