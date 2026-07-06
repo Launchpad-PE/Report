@@ -1520,6 +1520,97 @@ Durante el Sprint 4, se completó la implementación y documentación de todos l
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 
+Durante el Sprint 4, el equipo colaboró activamente en la culminación de los Bounded Contexts pendientes del Backend Web Service y en la integración continua del Frontend Web Application de Foundly. A través del repositorio de GitHub se gestionó el trabajo colaborativo, permitiendo una integración constante de nuevas funcionalidades, refinamiento de módulos existentes y una adecuada coordinación entre los miembros del equipo.
+
+A continuación, se presentan las métricas de colaboración y los principales indicadores de participación registrados durante este sprint.
+
+---
+
+## Frontend Web Application - Project Report Collaboration Insights
+
+**Resumen de Actividad**
+
+- Período: 5 de junio – 5 de julio de 2026.
+- Autores Activos: 5.
+- Commits Totales: 51 commits sobre la rama TestBackendConnect.
+- Commits Totales en todas las ramas: 56.
+
+<div align="center">
+
+![Analíticos de colaboración GitHub - Sprint 4](resources/Images/Chapter-5/Sprint4/project-collaboration-frontend.jpeg)
+
+</div>
+
+**Análisis de Colaboración**
+
+- **Frecuencia de Integración**: El equipo mantuvo una integración continua durante el Sprint 4, alcanzando un total de 56 commits en la rama principal de TestBackendConnect , permitiendo la evolución constante del proyecto e incorporación de nuevas características y mejoras en componentes existentes.
+
+- **Desarrollo de Funcionalidades Principales**: Mr-Code-star continuó liderando el volumen de contribuciones con contribuciones significativas, enfocándose en la implementación de los módulos de Milestones, refinamiento de la arquitectura del sistema y consolidación de funcionalidades de gestión de proyectos.
+
+- **Implementación de Deuda Técnica Sprint 3**: pierinaaa29 continuó con el desarrollo activo, completando la deuda técnica del Sprint 3 relacionada con tareas y aplicaciones, incluyendo componentes de interfaz, integración con APIs mejoradas y gestión del estado de la aplicación.
+
+- **Integración de Timeline y UI de Hitos**: Bautista Rivera, Jose Diego (Gogotes17) implementó componentes visuales cronológicos para la presentación de hitos del proyecto, mejorando la experiencia de usuario en la visualización del progreso del proyecto.
+  
+- **Integración de Servicios y Configuración**: CamotinFurious continuó con tareas de integración de servicios, configuración del entorno y mejoras en la comunicación con el backend desplegado.
+
+- **Soporte Técnico y Mantenimiento**: mau-tz realizó aportes relacionados con tareas de soporte técnico y mantenimiento del proyecto, contribuyendo a la estabilidad general de la aplicación.
+
+- **Funcionalidades Específicas**: SebastianLima-PE colaboró en la implementación de características puntuales de integración y mejoras funcionales que fortalecieron el ecosistema de la plataforma.
+
+**Contributors**
+
+El desarrollo del Frontend Web Application durante el Sprint 4 fue posible gracias a la colaboración de los siguientes integrantes:
+
+<div align="center">
+
+![Gráfico de commits por integrante](resources/Images/Chapter-5/Sprint4/contributors-frontend.jpeg)
+
+</div>
+
+---
+
+## Backend Web Service - Project Report Collaboration Insights
+
+Durante el Sprint 4, el equipo consolidó la arquitectura completa del Backend Web Service de Foundly mediante la implementación de los Bounded Contexts finales (Applications, Milestones, Tasks y Messaging). A través del repositorio de GitHub se gestionó la implementación de nuevos bounded contexts, servicios de aplicación con patrones CQRS, capas de persistencia completas y endpoints REST, permitiendo una integración continua con el Frontend Web Application.
+
+**Resumen de Actividad**
+
+- Período: 28 de junio – 5 de julio de 2026.
+- Autores Activos: 4.
+- Commits Totales: 31 commits sobre la rama develop.
+- Commits Totales en todas las ramas: 52.
+
+<div align="center">
+
+![Analíticos de colaboración GitHub - Sprint 4](resources/Images/Chapter-5/Sprint4/project-collaboration-backend.jpeg)
+
+</div>
+
+**Análisis de Colaboración**
+
+- **Frecuencia de Integración**: Durante el Sprint 4 se registró una integración continua del código, alcanzando un total de 31 commits en la rama principal de desarrollo, lo que permitió consolidar la versión final y completa del Backend Web Service con todos los bounded contexts implementados y funcionales.
+
+- **Desarrollo de Bounded Contexts Finales**: Mr-Code-star lideró el desarrollo en la rama feat/milestones con contribuciones significativas, participando principalmente en la implementación completa del bounded context de Milestones (domain, application, infrastructure, interfaces), refinamiento de enums y correcciones de cascade delete entre entidades.
+
+- **Implementación de Applications y Tasks**: Almandroz Carbajal, Pierina Marysabel (pierinaaa29) participó activamente en las ramas feat/applications y feat/tasks, completando las capas de dominio, aplicación, infraestructura e interfaces para la gestión de postulaciones y tareas dentro de los proyectos.
+
+- **Desarrollo del Bounded Context de Messaging**: Limahuaya Pariachi, Sebastian (SebastianLima-PE) implementó desde cero el nuevo Bounded Context de Messaging, incorporando funcionalidad de chat directo entre usuarios mediante WebSocket (STOMP) y endpoints REST, junto con la capa de persistencia y anticorruption layer (ACL).
+
+- **Refactorización y Mejoras de Seguridad**: Bautista Rivera, Jose Diego (Gogotes17) y Taipe Sangama, Jorge Francisco (CamotinFurious) contribuyeron en la refactorización de identificadores de tipo Long a String basados en UUID, mejoras de seguridad y control de acceso, así como configuración e infraestructura para el despliegue.
+
+- **Soporte de Configuración e Internacionalización**: Teran Zavala, Mauricio Alejandro (mau-tz) participó en tareas de configuración e infraestructura, incorporación de mensajes de validación internacionalizados (en/es) y optimización de la configuración de despliegue en Railway.
+
+**Contributors**
+
+El desarrollo del Backend Web Service durante el Sprint 4 fue posible gracias a la colaboración de los siguientes integrantes:
+
+<div align="center">
+
+![Analíticos de colaboración GitHub - Sprint 4](resources/Images/Chapter-5/Sprint4/contributors-backend.jpeg)
+
+</div>
+
+---
 
 ## 5.3. Validation Interviews. 
 En esta sección, se registran y explican las actividades que abarcan las entrevistas de validación durante el desarrollo de nuestro proyecto. El objetivo principal de realizar estas entrevistas de validación es obtener retroalimentación, comprender las necesidades y expectativas de los usuarios, así como validar o refutar las hipótesis sobre el producto. Para lograr esto, haremos que nuestros entrevistados de ambos segmentos interactúen con la landing page y la aplicación web.
