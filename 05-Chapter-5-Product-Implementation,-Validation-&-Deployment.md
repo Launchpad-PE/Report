@@ -1588,6 +1588,15 @@ Finalmente, se verificó el despliegue exitoso del backend accediendo a la docum
 	<img src="resources/Images/Chapter-5/sprint4/readme.md/8.png">
 </div>
 
+**Deployment automático exitoso en Vercel – Rama develop (Foundly Frontend)**
+
+La captura muestra el panel de Vercel del proyecto foundly-frontend, evidenciando que se ejecutó un deployment automático tras hacer merge del pull request #12 desde la rama **Launchpad-PE/TestBackendConnect** hacia la rama **develop.**
+
+<div align ="center">
+	<img src="resources/Images/Chapter-5/sprint4/readme.md/9.jpeg">
+</div>
+
+
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 4, el equipo colaboró activamente en la culminación de los Bounded Contexts pendientes del Backend Web Service y en la integración continua del Frontend Web Application de Foundly. A través del repositorio de GitHub se gestionó el trabajo colaborativo, permitiendo una integración constante de nuevas funcionalidades, refinamiento de módulos existentes y una adecuada coordinación entre los miembros del equipo.
