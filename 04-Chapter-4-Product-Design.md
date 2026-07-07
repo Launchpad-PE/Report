@@ -281,7 +281,7 @@ Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayu
 
 <img src="resources/Images/Chapter-4/web-aplication/view general/wirefame/WIREFRAME FIGMA.png" alt="Wireframe Figma Web Application">
 
-Link del Figma = https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=37-30&t=idjFXcEp21eRWifQ-1
+Link del Figma : https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=37-30&t=idjFXcEp21eRWifQ-1
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -426,7 +426,7 @@ A continuación, se presenta el prototipo que se realizó en base a los mockups 
 
 <img src="resources/Images/Chapter-4/Prototyping/Prototyping.png">
 
-Link de Figma = https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=0-1&t=pwFb1BAZpRtspezu-1
+Link de Figma : https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=0-1&t=pwFb1BAZpRtspezu-1
 
 ## 4.6. Domain-Driven Software Architecture
 
