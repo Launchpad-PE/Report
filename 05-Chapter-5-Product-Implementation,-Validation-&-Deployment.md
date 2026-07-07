@@ -1453,6 +1453,43 @@ Finalmente, se realizaron tareas de configuración e infraestructura para eerfil
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
+Durante el Sprint 4 se completó el desarrollo del **Backend Web Application** de Foundly. Como evidencia de la implementación, se validó el funcionamiento de los servicios REST mediante **Swagger/OpenAPI**, verificando que los endpoints de cada bounded context estuvieran correctamente expuestos y disponibles para su consumo.
+
+A continuación, se presentan las principales evidencias de ejecución correspondientes a los módulos implementados durante este sprint.
+
+**Endpoints de Authentication, Messages and Environmental Monitoring**
+
+En esta evidencia se observa la correcta implementación de los endpoints relacionados con la autenticación de usuarios, la mensajería entre usuarios y el monitoreo ambiental de los proyectos.
+
+**Endpoints de gestion de Users**
+
+Se validó el funcionamiento de los endpoints encargados de la gestión de usuarios, incluyendo la consulta de usuarios registrados y la obtención de información específica mediante identificadores y correo electrónico.
+
+**Endpoints de gestion de Profiles**
+
+Se implementaron y verificaron los servicios para la administración de perfiles, permitiendo crear, consultar, actualizar y eliminar la información asociada a cada usuario.
+
+**Endpoints de gestion de Projects**
+
+Se comprobó la correcta ejecución de los servicios responsables de la gestión de proyectos, incluyendo su creación, publicación, consulta, actualización y administración de roles.
+
+**Endpoints de gestion de Applications**
+
+Se verificaron los endpoints destinados a la gestión de postulaciones, permitiendo registrar solicitudes, consultar postulaciones y actualizar su estado.
+
+**Endpoints de gestion de Milestones**
+
+Se validó el funcionamiento de los servicios para la administración de hitos de los proyectos, incluyendo operaciones de creación, consulta, actualización, reprogramación y eliminación.
+
+**Endpoints de gestion de Milestones Tasks**
+
+Se comprobó la implementación de los endpoints encargados de la gestión de tareas asociadas a los hitos, incluyendo la creación, actualización de estado, finalización y eliminación de tareas.
+
+**Endpoints de gestion de Tasks**
+
+Finalmente, se verificó la correcta implementación de los servicios correspondientes a la gestión general de tareas, permitiendo crear, consultar, actualizar, completar y eliminar tareas del sistema.
+
+
 URL del servicio desplegado en Railway: https://foundly-backend-production-eeec.up.railway.app/swagger-ui/index.html
 
 URL de presentación de la demo del Backend Web Service: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310949_upc_edu_pe/IQC_g_l16teXQa-DRff4VjpNAQWVE7pqRCLKcJ2zl5bKyxA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aMRVg5
