@@ -1524,6 +1524,8 @@ Durante el Sprint 4, se completó la implementación y documentación de todos l
 
 Durante el Sprint 4 se realizó el despliegue del Backend Web Application de Foundly utilizando Railway como plataforma de hosting. El proceso comprendió la creación y configuración de la base de datos MySQL, la conexión del repositorio de GitHub, la definición de las variables de entorno, la configuración del Dockerfile para la construcción de la aplicación y la verificación del despliegue exitoso mediante la documentación interactiva de Swagger UI. A continuación, se presentan las evidencias del proceso de despliegue realizado.
 
+##### Deployment Backend
+
 **Creación del servicio de base de datos (MySQL)**
 
 Se creó una instancia de MySQL en Railway para alojar la base de datos de producción del backend.
@@ -1588,14 +1590,7 @@ Finalmente, se verificó el despliegue exitoso del backend accediendo a la docum
 	<img src="resources/Images/Chapter-5/sprint4/readme.md/8.png">
 </div>
 
-**Deployment automático exitoso en Vercel – Rama develop (Foundly Frontend)**
-
-La captura muestra el panel de Vercel del proyecto foundly-frontend, evidenciando que se ejecutó un deployment automático tras hacer merge del pull request #12 desde la rama **Launchpad-PE/TestBackendConnect** hacia la rama **develop.**
-
-<div align ="center">
-	<img src="resources/Images/Chapter-5/sprint4/readme.md/9.jpeg">
-</div>
-
+##### Deployment Frontend
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 
