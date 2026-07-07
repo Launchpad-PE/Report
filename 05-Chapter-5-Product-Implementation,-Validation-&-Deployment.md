@@ -86,13 +86,13 @@ En resumen, trabajar únicamente con la rama `main` permitió avanzar con agilid
 
 Enlace de despliegue: https://launchpad-pe.github.io/Foundly-Landing-Page/
 
-![Landing Page desplegada en GitHub Pages](resources/Images/Chapter-5/SourceCodeManagement-Images/LANDINGPAGE.png)
+<img src="resources/Images/Chapter-5/SourceCodeManagement-Images/LANDINGPAGE.png">
 
 **Landing Page — Repositorio GitHub**
 
 Enlace del repositorio: https://github.com/Launchpad-PE/Foundly-Landing-Page
 
-![Repositorio GitHub — Landing Page](resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio-LandingPage.png)
+<img src="resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio-LandingPage.png">
 
 ### 5.1.3. Source Code Style Guide & Conventions
 En esta sección se establecen las convenciones y reglas de estilo de código que el equipo aplicará durante el desarrollo de la aplicación web de Foundly. Estas prácticas garantizan la coherencia, legibilidad y calidad del código a lo largo del ciclo de vida del proyecto, facilitando su mantenimiento y escalabilidad.
@@ -400,19 +400,19 @@ Para desplegar nuestro landing page hemos optado por usar Github Pages el cual b
 
 1. Ingresamos al repositorio de nuestra landing page
 
-![Organización del repositorio](resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio.png)
+<img src="resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio.png">
 
 2. Ingresamos al repositorio de nuestra landing page
 
-![Reposirotio Landing Page](resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio-LandingPage.png) 
+<img src="resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio-LandingPage.png">
 
 3. Ingresamos a la sección de "Settings" del repositorio
 
-![Settings del repositorio](resources/Images/Chapter-5/SourceCodeManagement-Images/LandingPage_Settings.png)
+<img src="resources/Images/Chapter-5/SourceCodeManagement-Images/LandingPage_Settings.png">
 
 4. En la sección de "Pages", seleccionamos la rama "main" y la carpeta raíz (root) para desplegar nuestro sitio web.
 
-![Configuración de Github Pages](resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio_Github_Pages.png)
+<img src="resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio_Github_Pages.png2">
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos
@@ -458,7 +458,7 @@ equipo de desarrollo debe realizar. A diferencia del Product Backlog, que contie
 En este caso, el Sprint Backlog 1 está orientado al desarrollo de la Landing Page de la plataforma Foundly, incluyendo la implementación del hero, secciones de
 servicios, modales, páginas de rol, footer, asistente virtual y ajustes de responsividad.
 
-Enlace: [Enlace Sprint 1](https://upc-team-tohi2bk.atlassian.net/jira/software/projects/FOUN/boards/67/backlog?epics=visible&selectedIssue=FOUN-14&atlOrigin=eyJpIjoiMzI4YjgzNDU5OWYyNDI1MWEwN2U0ZGRhMDliZGRhNjYiLCJwIjoiaiJ9) 
+Enlace Sprint 1= https://upc-team-tohi2bk.atlassian.net/jira/software/projects/FOUN/boards/67/backlog?epics=visible&selectedIssue=FOUN-14&atlOrigin=eyJpIjoiMzI4YjgzNDU5OWYyNDI1MWEwN2U0ZGRhMDliZGRhNjYiLCJwIjoiaiJ9
 
 <p align="center">
   <img src="resources/Images/Chapter-5/Sprint1/Sprint1_Done.png" alt="Sprint Backlog 1" width="250"/>
@@ -526,13 +526,13 @@ el desarrollo de nuestro Sprint 1.
 Lo que se logró en el Sprint 1 es desplegar una primera versión de la landing page. En esta logramos desarrollar la barra navegadora, las secciones establecidas
 de la Landing Page y el formulario de contacto. También se adoptó exitosamente la metodología GitFlow, trabajando en la branch principal “main”.
 
-![Inicio](resources/Images/Chapter-5/Execution_Evidence/Inicio.png)
-![Que Ofrecemos](resources/Images/Chapter-5/Execution_Evidence/Que_Ofrecemos.png)
-![Somos Foundly](resources/Images/Chapter-5/Execution_Evidence/Somos_Foundly.png)
-![Rol](resources/Images/Chapter-5/Execution_Evidence/Rol.png)
-![Proyectos IoT](resources/Images/Chapter-5/Execution_Evidence/Proyectos_IoT.png)
-![Proyectos En Vivo](resources/Images/Chapter-5/Execution_Evidence/Proyectos_EnVivo.png)
-![Planes](resources/Images/Chapter-5/Execution_Evidence/Plan.png)
+<img src="resources/Images/Chapter-5/Execution_Evidence/Inicio.png">
+<img src="resources/Images/Chapter-5/Execution_Evidence/Que_Ofrecemos.png">
+<img src="resources/Images/Chapter-5/Execution_Evidence/Somos_Foundly.png">
+<img src="resources/Images/Chapter-5/Execution_Evidence/Rol.png">
+<img src="resources/Images/Chapter-5/Execution_Evidence/Proyectos_IoT.png">
+<img src="resources/Images/Chapter-5/Execution_Evidence/Proyectos_EnVivo.png">
+<img src="resources/Images/Chapter-5/Execution_Evidence/Plan.png">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Durante el desarrollo del Sprint 1, logramos avances significativos en la creación y configuración del repositorio del proyecto destinado a la Landing Page. Contar con esta base desde el inicio facilitó la organización del trabajo y la estructuración de las ideas del equipo.
@@ -542,11 +542,11 @@ En la siguiente etapa, optamos por aprovechar las herramientas colaborativas de 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 A continuación, detallaremos los procesos realizados a lo largo del Sprint 1: Lo primero que realizamos fue crear dos repositorios en GitHub, uno para nuestro
 Landing Page.
-![Repositorio Landing Page](resources/Images/Chapter-5/Software_Deployment_Evidence/Repositorio-LandingPage.png)
+<img src="resources/Images/Chapter-5/Software_Deployment_Evidence/Repositorio-LandingPage.png">
 
 Finalmente configuramos GitHub Pages para obtener un enlace directo a la Landing Page, facilitando la revisión continua de los cambios realizados.
 Link: https://launchpad-pe.github.io/Launchpad-PE-Landing-Page/ 
-![GitHub Pages](resources/Images/Chapter-5/Software_Deployment_Evidence/GitHub_Pages.png)
+<img src="resources/Images/Chapter-5/Software_Deployment_Evidence/GitHub_Pages.png">
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 Mediante la sección de Insights de GitHub, se presenta a continuación la evidencia de colaboración del repositorio del Landing Page, mostrando la contribución de cada miembro del equipo durante el desarrollo del Sprint 1.
@@ -555,7 +555,7 @@ Mediante la sección de Insights de GitHub, se presenta a continuación la evide
 
 #### Analíticos de GitHub — Report
 
-![Gráfica de contribuciones — Landing Page](resources/Images/Chapter-5/Team_Colaboration/Contributors.png)
+<img src="resources/Images/Chapter-5/Team_Colaboration/Contributors.png">
 
  #### Analíticos de GitHub — Landing Page
  
@@ -731,6 +731,8 @@ A continuación se presentan capturas de las principales vistas implementadas:
 **Vista del colaborador**
 
 <img src="resources/Images/Chapter-5/Sprint2/Collaborator.png">
+
+**Url del Frontend:** https://foundly-pi.vercel.app
 
 **URL del video de navegación del Sprint 2:**
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310949_upc_edu_pe/IQBhHhpVWD5VQKEVKpGqPtUSAdbO1SYBecYiSlmOpTTCq0o?e=bbQDze&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -931,7 +933,7 @@ presenta el tablero de control del sprint:
 
 **URL del Sprint Board:** https://upc-team-tohi2bk.atlassian.net/jira/software/projects/FOUN/boards/67/backlog?epics=visible&atlOrigin=eyJpIjoiYjRlNzE5MGJiY2RiNGQ0ZmEwMzM3ZDk2MDY4MGFmMDMiLCJwIjoiaiJ9
 
-![Sprint Board Foundly Sprint 3](resources/Images/Chapter-5/sprint-3/SprintBoard/sprint-board-3.png)
+<img src = "resources/Images/Chapter-5/sprint-3/SprintBoard/sprint-board-3.png">
 
 | User Story ID | User Story Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -2177,7 +2179,7 @@ El video "About the Product" presenta de manera clara y atractiva la propuesta d
 
 Screenshot del video "About the Product" :
 
-![Video About the product image.png](resources/Images/Chapter-5/Sprint3/Screenshot%20Video/Video%20About%20the%20product%20image.png)
+<img src = "resources/Images/Chapter-5/Sprint3/Screenshot%20Video/Video%20About%20the%20product%20image.png">
 
 ## 5.5. Video About Team
 
@@ -2192,4 +2194,4 @@ El video "About the team" presenta de manera clara y conciso, la sinceridad de l
 
 Screenshot del video "About the Team" :
 
-![Video About the product image.png](resources/Images/Chapter-5/Sprint3/12.png)
+<img src = "resources/Images/Chapter-5/Sprint3/12.png">
