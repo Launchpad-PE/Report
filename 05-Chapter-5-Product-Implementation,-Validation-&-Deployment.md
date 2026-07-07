@@ -84,13 +84,13 @@ En resumen, trabajar únicamente con la rama `main` permitió avanzar con agilid
 
 **Landing Page — GitHub Pages**
 
-Enlace de despliegue: https://launchpad-pe.github.io/Launchpad-PE-Landing-Page/
+Enlace de despliegue: https://launchpad-pe.github.io/Foundly-Landing-Page/
 
 ![Landing Page desplegada en GitHub Pages](resources/Images/Chapter-5/SourceCodeManagement-Images/LANDINGPAGE.png)
 
 **Landing Page — Repositorio GitHub**
 
-Enlace del repositorio: https://github.com/Launchpad-PE/Launchpad-PE-Landing-Page
+Enlace del repositorio: https://github.com/Launchpad-PE/Foundly-Landing-Page
 
 ![Repositorio GitHub — Landing Page](resources/Images/Chapter-5/SourceCodeManagement-Images/Repositorio-LandingPage.png)
 
