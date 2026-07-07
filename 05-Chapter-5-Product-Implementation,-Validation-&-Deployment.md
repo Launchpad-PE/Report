@@ -1596,7 +1596,7 @@ Durante el Sprint 4, se completó la implementación y documentación de todos l
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
-Durante el Sprint 4 se realizó el despliegue del Backend Web Application de Foundly utilizando Railway como plataforma de hosting. El proceso comprendió la creación y configuración de la base de datos MySQL, la conexión del repositorio de GitHub, la definición de las variables de entorno, la configuración del Dockerfile para la construcción de la aplicación y la verificación del despliegue exitoso mediante la documentación interactiva de Swagger UI. A continuación, se presentan las evidencias del proceso de despliegue realizado.
+Durante el Sprint 4 se realizó el despliegue de la solución completa de Foundly, incluyendo tanto el Backend Web Application como el Frontend Web Application. Para el backend se utilizó Railway como plataforma de hosting, donde se configuró la base de datos MySQL, las variables de entorno y el proceso de construcción mediante Docker. Para el frontend se empleó Vercel, aprovechando su integración con GitHub para automatizar el proceso de compilación y despliegue de la aplicación Angular. A continuación, se presentan las evidencias correspondientes al proceso de despliegue de ambos componentes.
 
 ##### Deployment Backend
 
@@ -1665,6 +1665,37 @@ Finalmente, se verificó el despliegue exitoso del backend accediendo a la docum
 </div>
 
 ##### Deployment Frontend
+
+**Importación del repositorio**
+
+Se seleccionó el repositorio Foundly-Frontend desde GitHub para iniciar el proceso de despliegue en Vercel.
+
+**Configuración del proyecto**
+
+Vercel detectó automáticamente el framework Angular y configuró el proyecto con el directorio raíz correspondiente, permitiendo preparar la aplicación para su compilación y despliegue.
+
+**Inicio del despliegue**
+
+Una vez revisada la configuración del proyecto, se inició el proceso de compilación y despliegue del Frontend Web Application mediante Vercel.
+
+**Despliegue completado**
+
+Finalizada la compilación, Vercel confirmó el despliegue exitoso del proyecto y mostró una vista previa de la aplicación publicada.
+
+**Verificación del despliegue**
+
+Desde el panel principal de Vercel se verificó que el proyecto se encontrara en estado Ready, comprobando la URL pública, la rama utilizada para producción y el correcto funcionamiento del despliegue.
+
+**Configuración del acceso público**
+
+Para permitir que cualquier usuario pudiera acceder a la aplicación sin necesidad de autenticarse en Vercel, se deshabilitó la opción Vercel Authentication desde la configuración del proyecto.
+
+Posteriormente, se confirmó la desactivación de la autenticación para que el despliegue quedara disponible públicamente.
+
+**Aplicación en producción**
+
+Finalmente, se verificó que la aplicación estuviera correctamente desplegada y accesible mediante HTTPS, confirmando el funcionamiento del Frontend Web Application de Foundly en su entorno de producción.
+
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 
