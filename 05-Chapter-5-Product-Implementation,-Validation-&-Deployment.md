@@ -1459,33 +1459,70 @@ A continuación, se presentan las principales evidencias de ejecución correspon
 
 **Endpoints de Authentication, Messages and Environmental Monitoring**
 
+<div align="center">
+	<img src="resources/Images/Chapter-5/sprint4/evidences-backend/6.jpeg">
+</div>
+
 En esta evidencia se observa la correcta implementación de los endpoints relacionados con la autenticación de usuarios, la mensajería entre usuarios y el monitoreo ambiental de los proyectos.
 
+**Endpoints de gestion de Comments**
+
+<div align="center">
+	<img src="resources/Images/Chapter-5/sprint4/evidences-backend/5.jpeg">
+</div>
+
+Se verificó la correcta implementación de los servicios destinados a la gestión de comentarios en los perfiles de usuario. Los endpoints permiten consultar los comentarios asociados a un usuario y registrar nuevos comentarios, facilitando la interacción y retroalimentación entre los miembros de la plataforma.
+
+
 **Endpoints de gestion de Users**
+
+<div align="center">
+	<img src="resources/Images/Chapter-5/sprint4/evidences-backend/1.jpeg">
+</div>
+
 
 Se validó el funcionamiento de los endpoints encargados de la gestión de usuarios, incluyendo la consulta de usuarios registrados y la obtención de información específica mediante identificadores y correo electrónico.
 
 **Endpoints de gestion de Profiles**
 
+<div align="center">
+	<img src="resources/Images/Chapter-5/sprint4/evidences-backend/4.jpeg">
+</div>
+
+
 Se implementaron y verificaron los servicios para la administración de perfiles, permitiendo crear, consultar, actualizar y eliminar la información asociada a cada usuario.
 
 **Endpoints de gestion de Projects**
 
+<div align="center">
+	<img src="resources/Images/Chapter-5/sprint4/evidences-backend/3.jpeg">
+</div>
+
+
 Se comprobó la correcta ejecución de los servicios responsables de la gestión de proyectos, incluyendo su creación, publicación, consulta, actualización y administración de roles.
 
-**Endpoints de gestion de Applications**
+**Endpoints de gestion de Applications y Endpoints de gestion de Milestones**
 
-Se verificaron los endpoints destinados a la gestión de postulaciones, permitiendo registrar solicitudes, consultar postulaciones y actualizar su estado.
+<div align="center">
+	<img src="resources/Images/Chapter-5/sprint4/evidences-backend/8.jpeg">
+</div>
 
-**Endpoints de gestion de Milestones**
-
-Se validó el funcionamiento de los servicios para la administración de hitos de los proyectos, incluyendo operaciones de creación, consulta, actualización, reprogramación y eliminación.
+Se verificaron los endpoints destinados a la gestión de postulaciones, permitiendo registrar solicitudes, consultar postulaciones y actualizar su estado. Ademas, se validó el funcionamiento de los servicios para la administración de hitos de los proyectos, incluyendo operaciones de creación, consulta, actualización, reprogramación y eliminación.
 
 **Endpoints de gestion de Milestones Tasks**
+
+<div align="center">
+	<img src="resources/Images/Chapter-5/sprint4/evidences-backend/7.jpeg">
+</div>
 
 Se comprobó la implementación de los endpoints encargados de la gestión de tareas asociadas a los hitos, incluyendo la creación, actualización de estado, finalización y eliminación de tareas.
 
 **Endpoints de gestion de Tasks**
+
+<div align="center">
+	<img src="resources/Images/Chapter-5/sprint4/evidences-backend/2.jpeg">
+</div>
+
 
 Finalmente, se verificó la correcta implementación de los servicios correspondientes a la gestión general de tareas, permitiendo crear, consultar, actualizar, completar y eliminar tareas del sistema.
 
