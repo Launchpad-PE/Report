@@ -1,8 +1,10 @@
+\newpage
+
 # Capítulo IV: Product Design
+
 ## 4.1. Style Guidelines
-En esta sección, se presentan las guías de estilos para nuestro landing page y aplicación web de nuestro startup. Estas guías permiten establecer estilos previo al
-desarrollo de nuestra página web. Además, los estilos seleccionados permitirán al usuario navegar por la página de manera sencilla, comoda y que atraiga
-visualmente, junto con recursos visuales que muestran nuestra propuesta de solución a la problemática.
+
+En esta sección se presentan las guías de estilo para el landing page y la aplicación web de nuestro startup. Estas guías permiten establecer los estilos previos al desarrollo de nuestra plataforma web. Además, los estilos seleccionados permitirán al usuario navegar por la página de manera sencilla, cómoda y visualmente atractiva, junto con recursos visuales que muestran nuestra propuesta de solución a la problemática.
 
 ### 4.1.1. General Style Guidelines
 
@@ -22,7 +24,7 @@ Se ha seleccionado una paleta de cinco colores que representa la identidad de Fo
 | Gris | `#91908C` | Color neutro. Mantiene el balance visual aportando elegancia y neutralidad. |
 | Blanco | `#FFFFFF` | Fondo base. Brinda claridad y limpieza, permitiendo que los demás colores destaquen. |
 
-![Paleta de colores — Foundly](resources/Images/Chapter-4/StyleGuidelines-Images/Colors%20-%20Foundly%20App.png)
+<img src="resources/Images/Chapter-4/StyleGuidelines-Images/Colors%20-%20Foundly%20App.png">
 
 ---
 
@@ -32,7 +34,7 @@ El branding de Foundly define la identidad visual de la marca con el objetivo de
 
 El logotipo fue diseñado para comunicar dinamismo y crecimiento, reflejando la velocidad con la que los emprendimientos pueden avanzar cuando cuentan con el equipo y las herramientas adecuadas. La marca busca proyectar confianza, modernidad y cercanía con su comunidad de usuarios.
 
-![Logotipo — Foundly](resources/Images/Chapter-4/StyleGuidelines-Images/Foundly-Logo.png)
+ <img src="resources/Images/Chapter-4/StyleGuidelines-Images/Foundly-Logo.png">
 
 ---
 
@@ -73,20 +75,21 @@ Los tonos de comunicación definen cómo Foundly se dirige a cada segmento, con 
 
 - **Emprendedores y Startups en Etapa Temprana:** Se utiliza un lenguaje inspirador y profesional que destaca el potencial de sus proyectos y el impulso que Foundly puede brindarles para alcanzar sus metas. El tono es confiable, cercano y orientado a la acción, enfatizando la facilidad de encontrar colaboradores dentro de una sola plataforma.
 
-- **Estudiantes Universitarios y Profesionales (Colaboradores):** Se emplea un lenguaje motivacional y dinámico que resalta las oportunidades de crecimiento profesional, la posibilidad de adquirir experiencia práctica real y los beneficios de colaborar en proyectos con impacto. El tono es fresco, accesible y orientado al desarrollo personal y profesional.
-  
-### 4.1.2. Web Style Guidelines
-Para las pautas de estilo web, se aplicarán diversos principios del diseño del landing page para adaptar la lectura de la página a las necesidades del usuario. Se mencionarán los principios utilizados:
+- **Estudiantes Universitarios y Recién Egresados (Colaboradores):** Se emplea un lenguaje motivacional y dinámico que resalta las oportunidades de crecimiento profesional, la posibilidad de adquirir experiencia práctica real y los beneficios de colaborar en proyectos con impacto. El tono es fresco, accesible y orientado al desarrollo personal y profesional.
 
-- **Diseño Responsivo:**  
+### 4.1.2. Web Style Guidelines
+
+Para las pautas de estilo web, se aplicarán diversos principios del diseño del landing page para adaptar la lectura de la página a las necesidades del usuario. Se mencionan los principios utilizados:
+
+- **Diseño Responsivo:**
   Ofreceremos adaptabilidad a dispositivos de diferentes resoluciones, desde un móvil pequeño hasta pantallas grandes de computadoras. Esto garantiza que los usuarios puedan disfrutar de la experiencia de navegar en nuestra página web sin tener que visualizarla desde otro dispositivo.
 
-- **Consistencia Visual:**  
+- **Consistencia Visual:**
   La consistencia visual de nuestra landing page se logrará mediante el uso de colores atractivos, tipografía elegante y dinámica, así como un espaciado adecuado para la correcta visualización de secciones y elementos. También se incluirán elementos visuales que representen nuestro logo y los objetivos de la startup. Esto ayuda a reforzar nuestra identidad de marca y facilita la navegación.
 
-- **Accesibilidad:**  
+- **Accesibilidad:**
   Buscamos garantizar la inclusividad en nuestra página web, especialmente para personas con discapacidad visual. Se incluirán descripciones alternativas en las imágenes y se mantendrá un contraste adecuado entre textos y fondos para asegurar una correcta legibilidad.
-  
+
 ## 4.2. Information Architecture
 
 En Foundly, la arquitectura de la información se orienta a estructurar el contenido de manera clara, coherente y accesible tanto en la landing page como en la aplicación web. Nuestro objetivo es que los emprendedores, colaboradores y usuarios interesados en proyectos sostenibles puedan navegar de forma intuitiva, identificar rápidamente las secciones relevantes y acceder sin esfuerzo a las funcionalidades principales, incluyendo el monitoreo de impacto ambiental mediante IoT.
@@ -104,7 +107,7 @@ En Foundly se aplican distintos sistemas de organización de la información par
 Se destacará la información más relevante mediante jerarquías visuales que guíen al usuario a través de los distintos niveles de contenido de la plataforma. Algunos ejemplos de aplicación:
 
 - En la página de inicio, la sección de roles permite al visitante identificarse como Emprendedor o Colaborador, mostrando en cada tarjeta información diferenciada y priorizada según su perfil.
-- La sección de monitoreo IoT presenta las métricas de sensores calidad del aire, humedad, temperatura, entre otras de forma destacada dentro de cada campaña, facilitando la evaluación rápida del estado del prototipo.
+- La sección de monitoreo IoT presenta las métricas de sensores (calidad del aire, humedad, temperatura, entre otras) de forma destacada dentro de cada proyecto, facilitando la evaluación rápida del estado del prototipo.
 
 **Secuencial (Step-by-step)**
 
@@ -117,7 +120,7 @@ Se aplica en todos los procesos clave que requieren que el usuario complete una 
 
 **Matricial (Matrix Organization)**
 
-Se aplica en la sección de planes de suscripción, donde la información se presenta en formato comparativo. Los planes Gratuito y Premium se disponen en columnas paralelas, permitiendo al usuario identificar rápidamente las diferencias entre ambas opciones, como el acceso a métricas IoT avanzadas, el número de proyectos permitidos, la visibilidad en el ranking y las herramientas de análisis disponibles.
+Se aplica en la sección de planes de suscripción, donde la información se presenta en formato comparativo. Los planes Gratuito y Premium se disponen en columnas paralelas, permitiendo al usuario identificar rápidamente las diferencias entre ambas opciones, como el acceso a métricas IoT avanzadas, la visibilidad en el ranking y las herramientas de análisis disponibles.
 
 ---
 
@@ -150,11 +153,11 @@ Las etiquetas siguen un formato bilingüe (español / inglés) para garantizar c
 |---|---|
 | **Inicio / Home** | Presenta una visión general de Foundly, destacando la conexión entre emprendedores y colaboradores, y el monitoreo de prototipos con IoT en tiempo real. |
 | **Nosotros / About Us** | Describe al equipo detrás de Foundly, su misión, visión y el impacto que busca generar en el ecosistema emprendedor peruano. |
-| **Servicios / Services** | Explica los beneficios principales de la plataforma: formación de equipos colaborativo, gestión de proyectos y monitoreo IoT. |
+| **Servicios / Services** | Explica los beneficios principales de la plataforma: formación de equipos colaborativos, gestión de proyectos y monitoreo IoT. |
 | **Proyectos / Projects** | Permite explorar los proyectos publicados por emprendedores, incluyendo aquellos con panel de monitoreo IoT activo. |
-| **IoT en Vivo / IoT Live** | Muestra métricas de sensores en tiempo real calidad del aire, humedad, temperatura, entre otras vinculadas a las campañas activas de la plataforma. |
+| **IoT en Vivo / IoT Live** | Muestra métricas de sensores en tiempo real (calidad del aire, humedad, temperatura, entre otras) vinculadas a los proyectos activos de la plataforma. |
 | **Planes / Plans** | Presenta los planes Gratuito y Premium con sus características, diferencias y precios, permitiendo al usuario elegir el que mejor se adapta a sus necesidades. |
-| **Emprendedor / Entrepreneur** | Sección dirigida al segmento emprendedor, con información sobre cómo crear proyectos, gestionar equipos. |
+| **Emprendedor / Entrepreneur** | Sección dirigida al segmento emprendedor, con información sobre cómo crear proyectos y gestionar equipos. |
 | **Colaborador / Collaborator** | Sección dirigida al segmento colaborador, con información sobre cómo postularse a proyectos, publicar evidencias y construir reputación. |
 | **Contacto / Contact Us** | Proporciona los medios de comunicación disponibles: correo electrónico, WhatsApp y redes sociales del equipo. |
 | **Registro / Sign Up** | Permite crear una cuenta en la plataforma eligiendo el rol de Emprendedor o Colaborador para personalizar la experiencia desde el inicio. |
@@ -162,107 +165,101 @@ Las etiquetas siguen un formato bilingüe (español / inglés) para garantizar c
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-Para mejorar la visibilidad de Foundly y destacar el enfoque IoT y sostenible, implementaremos las siguientes etiquetas:
+Para mejorar la visibilidad de Foundly y destacar el enfoque colaborativo, IoT y sostenible, implementaremos las siguientes etiquetas:
 
-### Landing Page SEO Tags and Meta Tags
+#### Landing Page SEO Tags and Meta Tags
 ```html
 <head>
-    <meta charset="UTF-8" /> 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
-    <title>Foundly - Crowdfunding colaborativo con monitoreo IoT</title> 
-    <meta name="description" content="Foundly conecta emprendedores y colaboradores para impulsar proyectos innovadores colaborativo y monitoreo ambiental mediante IoT." /> 
-    <meta name="keywords" content="crowdfunding, emprendimiento, IoT, monitoreo ambiental, startups, colaboración, proyectos sostenibles" /> 
-    <meta name="author" content="Foundly Startup Team" /> 
-    <meta name="copyright" content="© Foundly, 2026" /> </head>
-
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Foundly - Plataforma de colaboración con monitoreo IoT</title>
+    <meta name="description" content="Foundly conecta emprendedores y colaboradores para formar equipos, gestionar proyectos y monitorear el impacto ambiental mediante IoT." />
+    <meta name="keywords" content="colaboración, emprendimiento, formación de equipos, IoT, monitoreo ambiental, startups, proyectos sostenibles" />
+    <meta name="author" content="Foundly Startup Team" />
+    <meta name="copyright" content="© Foundly, 2026" />
+</head>
 ```
+
 #### Web Application SEO Tags and Meta Tags
 ```html
-<head> 
-    <meta charset="UTF-8" /> 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
-    <title>Foundly - Plataforma colaborativa con monitoreo IoT</title> 
-    <meta name="description" content="Crea proyectos, forma equipos y monitorea el impacto ambiental mediante IoT con Foundly." /> 
-    <meta name="keywords" content="crowdfunding colaborativo, IoT, impacto ambiental, proyectos sostenibles, startups" /> 
-    <meta name="author" content="Foundly Startup Team" /> </head>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Foundly - Plataforma colaborativa con monitoreo IoT</title>
+    <meta name="description" content="Crea proyectos, forma equipos y monitorea el impacto ambiental mediante IoT con Foundly." />
+    <meta name="keywords" content="colaboración, formación de equipos, IoT, impacto ambiental, proyectos sostenibles, startups" />
+    <meta name="author" content="Foundly Startup Team" />
+</head>
 ```
 
 ### 4.2.4. Searching Systems
 
 El sistema de búsqueda de Foundly está diseñado para facilitar que los usuarios encuentren proyectos, colaboradores o métricas IoT de forma rápida y precisa:
 
-Búsqueda básica: Un campo de búsqueda en la parte superior para localizar proyectos, emprendedores o métricas de impacto mediante palabras clave.
+**Búsqueda básica:** Un campo de búsqueda en la parte superior para localizar proyectos, emprendedores o métricas de impacto mediante palabras clave.
 
-Filtros avanzados:
+**Filtros avanzados:**
 - Categoría del proyecto
 - Tipo de colaboración
 - Proyectos con monitoreo IoT
 - Nivel de impacto ambiental
 
-Ordenación de resultados:
+**Ordenación de resultados:**
 - Relevancia
 - Más recientes
 - Mayor impacto ambiental
 - Más colaboradores
 
-Vista clara de resultados:
+**Vista clara de resultados:**
 Cada resultado mostrará imagen, título del proyecto, breve descripción, creador, métricas IoT y botones de acción.
 
-Sugerencias en tiempo real:
+**Sugerencias en tiempo real:**
 Mientras el usuario escribe, se ofrecerán sugerencias de proyectos o perfiles relevantes.
 
 ### 4.2.5. Navigation Systems
 
 Foundly ofrece una navegación clara e intuitiva para guiar al usuario en cada etapa:
 
-Menú principal: Inicio, Proyectos, Impacto IoT, Servicios, Nosotros, Contacto y accesos rápidos a Login/Registro.
+**Menú principal:** Inicio, Proyectos, Impacto IoT, Servicios, Nosotros, Contacto y accesos rápidos a Login/Registro.
 
-Barra de búsqueda destacada: En la parte superior de la landing y de la app para buscar proyectos, colaboradores o métricas IoT.
+**Barra de búsqueda destacada:** En la parte superior de la landing y de la app para buscar proyectos, colaboradores o métricas IoT.
 
-Botones de llamada a la acción (CTA):
+**Botones de llamada a la acción (CTA):**
 - Crear Proyecto
 - Unirse a Proyecto
 - Ver Impacto IoT
-  
-Navegación consistente: Estructura uniforme en todas las páginas, manteniendo el menú fijo y accesos rápidos.
 
-Soporte responsivo: Navegación adaptada a dispositivos móviles y tablets.
+**Navegación consistente:** Estructura uniforme en todas las páginas, manteniendo el menú fijo y accesos rápidos.
+
+**Soporte responsivo:** Navegación adaptada a dispositivos móviles y tablets.
 
 ## 4.3. Landing Page UI Design
+
 ### 4.3.1. Landing Page Wireframe
 
-Para elaborar nuestro prototipo de baja fidelidad, hemos utilizado la plataforma Figma, que nos permite crear, representar y exportar nuestros prototipos. Gracias a esta herramienta, podemos presentar un Wireframe de una buena calidad de una manera sencilla.
+Para elaborar nuestro prototipo de baja fidelidad, hemos utilizado la plataforma Figma, que nos permite crear, representar y exportar nuestros prototipos. Gracias a esta herramienta, podemos presentar un Wireframe de buena calidad de una manera sencilla.
 
 **Landing Page Desktop**
 
 <img src="resources/Images/Chapter-4/landing page/Landing page-wireframe.png">
 
-**Landing Page Movil**
+**Landing Page Móvil**
 
-<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 1.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 1.png" alt="Landing page móvil">
 
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 2.png" alt="Landing page móvil">
 
-<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 2.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 3.png" alt="Landing page móvil">
 
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 4.png" alt="Landing page móvil">
 
-<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 3.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 5.png" alt="Landing page móvil">
 
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 6.png" alt="Landing page móvil">
 
-<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 4.png" alt ="Landing page movil">
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 7-update.png" alt="Landing page móvil">
 
-
-<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 5.png" alt ="Landing page movil">
-
-
-<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 6.png" alt ="Landing page movil">
-
-
-<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 7-update.png" alt ="Landing page movil">
-
-
-<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 8.png" alt ="Landing page movil">
-
-
+<img src="resources/Images/Chapter-4/mobile-wireframe/iPhone 16 Plus - 8.png" alt="Landing page móvil">
 
 ### 4.3.2. Landing Page Mock-up
 
@@ -277,13 +274,14 @@ Hemos finalizado con éxito el mock-up de la página de inicio, aplicando los pr
 <img src="resources/Images/Chapter-4/mobile-wireframe/LandingPage-Mobile.png" alt="Landing Page Mobile">
 
 ## 4.4. Web Applications UX/UI Design
+
 ### 4.4.1. Web Applications Wireframes
 
-Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos 'Figma' para crear los wireframes de manera eficiente y colaborativa.
+Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos Figma para crear los wireframes de manera eficiente y colaborativa.
 
-<img src="resources/Images/Chapter-4/web-aplication/view general/wirefame/WIREFRAME FIGMA.png" alt ="WireFrame Figma Web Aplication">
+<img src="resources/Images/Chapter-4/web-aplication/view general/wirefame/WIREFRAME FIGMA.png" alt="Wireframe Figma Web Application">
 
-[Link del Figma](https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=37-30&t=idjFXcEp21eRWifQ-1)
+Link del Figma = https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=37-30&t=idjFXcEp21eRWifQ-1
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -311,7 +309,7 @@ Cuando un colaborador desea explorar un proyecto publicado por un emprendedor, p
 
 <img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/WireFlow/Wireflow 3.jpeg" alt="Wireflow 3 — Cambio de plan de suscripción">
 
-Desde la pantalla de inicio del usuario autenticado, es posible acceder a la opción de cambio de plan. Esta acción redirige a una vista comparativa donde se muestran las distintas opciones de suscripción disponibles Plan Gratuito y Plan Premium con sus características, diferencias y precio, permitiendo al usuario seleccionar el que mejor se adapta a sus necesidades.
+Desde la pantalla de inicio del usuario autenticado, es posible acceder a la opción de cambio de plan. Esta acción redirige a una vista comparativa donde se muestran las distintas opciones de suscripción disponibles (Plan Gratuito y Plan Premium) con sus características, diferencias y precio, permitiendo al usuario seleccionar el que mejor se adapta a sus necesidades.
 
 ---
 
@@ -353,7 +351,7 @@ Los mockups constituyen una representación visual de alta fidelidad de la inter
 
 <img src="resources/Images/Chapter-4/web-aplication/view general/mockup/captura de todo el mockup sin flujo.png" alt="Web Application Mock-ups — Vista general Foundly">
 
-[Ver mockups completos en Figma](https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=0-1&t=pwFb1BAZpRtspezu-1)
+Ver mockups completos en Figma = https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=0-1&t=pwFb1BAZpRtspezu-1
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
@@ -373,7 +371,7 @@ Desde la pantalla principal del colaborador, se listan los proyectos disponibles
 
 <img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 2.jpeg" alt="User Flow 2 — Creación de hito">
 
-El emprendedor accede a la sección *Hitos* dentro de su proyecto y selecciona el botón *Crear Hito*. Completa los datos requeridos título, descripción, fecha de vencimiento y porcentaje objetivo y confirma la creación. El hito queda publicado y visible para todos los miembros del equipo.
+El emprendedor accede a la sección *Hitos* dentro de su proyecto y selecciona el botón *Crear Hito*. Completa los datos requeridos (título, descripción, fecha de vencimiento y porcentaje objetivo) y confirma la creación. El hito queda publicado y visible para todos los miembros del equipo.
 
 ---
 
@@ -389,16 +387,13 @@ El emprendedor completa el formulario de creación de proyecto con los datos req
 
 <img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 4.jpg" alt="User Flow 4 — Creación de tarea">
 
-El emprendedor accede a la sección *Tareas* de su proyecto y selecciona el botón *Crear Tarea*. Completa los campos requeridos título, descripción, fecha de entrega, prioridad y colaborador asignado y presiona *Enviar* para registrar la tarea. El colaborador asignado recibe una notificación con los detalles de la tarea creada.
+El emprendedor accede a la sección *Tareas* de su proyecto y selecciona el botón *Crear Tarea*. Completa los campos requeridos (título, descripción, fecha de entrega, prioridad y colaborador asignado) y presiona *Enviar* para registrar la tarea. El colaborador asignado recibe una notificación con los detalles de la tarea creada.
 
 ---
-
----
-
 
 **User Goal 5:** Como colaborador, quiero ver y completar las tareas que me ha asignado el emprendedor en el proyecto en el que participo.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 7.jpeg" alt="User Flow 7 — Visualización y realización de tarea">
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 7.jpeg" alt="User Flow 5 — Visualización y realización de tarea">
 
 El colaborador accede a la sección *Tareas* del proyecto donde participa. Para cada tarea asignada dispone de dos acciones:
 
@@ -409,7 +404,7 @@ El colaborador accede a la sección *Tareas* del proyecto donde participa. Para 
 
 **User Goal 6:** Como colaborador, quiero ver las tareas de un hito, revisar el avance de mis compañeros y completar las tareas que tengo asignadas.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 8.jpg" alt="User Flow 8 — Gestión de tareas dentro de un hito">
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Userflow 8.jpg" alt="User Flow 6 — Gestión de tareas dentro de un hito">
 
 El colaborador accede a la sección *Hitos* y selecciona el botón *Ver hito* para revisar la descripción y el estado del hito seleccionado. Desde esta vista puede:
 
@@ -421,23 +416,21 @@ El colaborador accede a la sección *Hitos* y selecciona el botón *Ver hito* pa
 
 **User Goal 7:** Como emprendedor, quiero activar el monitoreo IoT en mi proyecto para que los colaboradores puedan visualizar las métricas de sensores en tiempo real.
 
-<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Sin título.jpg" alt="User Flow 9 — Activación del panel IoT">
+<img src="resources/Images/Chapter-4/web-aplication/User Flow Diagrams/UserFlow/Sin título.jpg" alt="User Flow 7 — Activación del panel IoT">
 
-El flujo de activación IoT se inicia durante la creación del proyecto, donde el emprendedor habilita la opción de monitoreo de sensores y selecciona la categoría correspondiente calidad del aire, agua y riego, energía solar o salud y bienestar. Una vez activado, el panel IoT queda integrado en el dashboard general del proyecto, donde muestra métricas en tiempo real como temperatura, humedad, CO₂ u otras variables según la categoría elegida. Estas métricas se actualizan automáticamente cada 5 segundos, permitiendo a colaboradores hacer seguimiento continuo del estado del prototipo y facilitar la toma de decisiones basada en datos.
+El flujo de activación IoT se inicia durante la creación del proyecto, donde el emprendedor habilita la opción de monitoreo de sensores y selecciona la categoría correspondiente (calidad del aire, agua y riego, energía solar o salud y bienestar). Una vez activado, el panel IoT queda integrado en el dashboard general del proyecto, donde muestra métricas en tiempo real como temperatura, humedad, CO₂ u otras variables según la categoría elegida. Estas métricas se actualizan automáticamente cada 5 segundos, permitiendo a los colaboradores hacer seguimiento continuo del estado del prototipo y facilitar la toma de decisiones basada en datos.
 
 ## 4.5. Web Applications Prototyping
 
-A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
+A continuación, se presenta el prototipo que se realizó en base a los mockups desarrollados y documentados en puntos anteriores. El prototipo nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
 
 <img src="resources/Images/Chapter-4/Prototyping/Prototyping.png">
 
-[Link de Figma](https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=0-1&t=pwFb1BAZpRtspezu-1)
+Link de Figma = https://www.figma.com/design/5w3Mgz6F3KzoDXQeX93wxn/Mock-Up-Aplicacion-web?node-id=0-1&t=pwFb1BAZpRtspezu-1
 
 ## 4.6. Domain-Driven Software Architecture
 
-La arquitectura de software de Foundly se construye a partir de los resultados obtenidos en el Big Picture Event Storming, que permitió comprender en profundidad los flujos clave del dominio de atención residencial y las interacciones entre colaboradores y emprededores. A partir de este análisis inicial, se desarrolló una visión más estructurada del dominio utilizando los principios de Domain-Driven Design (DDD).
-
-En las siguientes secciones se presenta cada nivel del modelo, explicando la estructura, responsabilidades y comunicación entre los elementos que conforman la arquitectura de Foundly.
+En esta sección se presenta la arquitectura de software de Foundly, plataforma web de colaboración que conecta emprendedores y colaboradores para formar equipos, gestionar proyectos y monitorear el impacto ambiental mediante IoT. Para representar la arquitectura se utiliza el modelo C4 (Context, Containers, Components y Code), que permite describir el sistema desde distintos niveles de abstracción, facilitando su comprensión tanto para audiencias técnicas como no técnicas.
 
 ### 4.6.1. Design-Level Event Storming
 
@@ -445,7 +438,7 @@ Para identificar los eventos de dominio, el equipo realizó una sesión de Event
 
 El desarrollo del proceso de Domain-Driven Design se realizó en la herramienta Miro:
 
-[Ver Event Storming en Miro](https://miro.com/welcomeonboard/cHVMcFFueFZFQjcyVWkrMUNzNWVjSGZYSDhFaEpXSUlRV0FZYnF3QTAzczloRXhSTFlFbkVIcThvM044OWZBWjYxNTlQSFRFbk1TbzRUSkpJNG9YOFBmdzQ3QVkzWmFoalVhN1FnMGw5YWlnYVpwYUllM1N0TTdtanFXTytoaE5zVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=425540868454)
+Ver Event Storming en Miro = https://miro.com/welcomeonboard/cHVMcFFueFZFQjcyVWkrMUNzNWVjSGZYSDhFaEpXSUlRV0FZYnF3QTAzczloRXhSTFlFbkVIcThvM044OWZBWjYxNTlQSFRFbk1TbzRUSkpJNG9YOFBmdzQ3QVkzWmFoalVhN1FnMGw5YWlnYVpwYUllM1N0TTdtanFXTytoaE5zVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=425540868454
 
 A partir de este proceso se identificaron los siguientes Bounded Contexts:
 
