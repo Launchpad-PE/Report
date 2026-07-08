@@ -35,7 +35,7 @@
 
 | Entrega | Título | Enlace |
 |---|---|---|
-| TB1 | Exposición TB1 — Foundly | — |
-| TP | Exposición TP — Foundly | — |
+| AV1 | Exposición AV1 — Foundly | [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQDrBPMNMy0WRZwejJSVevXXAR4sk24Z0B5wos8ELM832XU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=r1eUIt) |
+| TB1 | Exposición TB1 — Foundly | [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQCD8VfhN8j3RoOZVERUFdsLAYzHjDPZqdL1DmiYE8M5PkM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=xeYwdq) |
+| AV2 | Exposición AV2 — Foundly | [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c426_upc_edu_pe/IQAA5TIbIuYBQrxhpTrVy3qCASvxj4w-RINl2qO5prWtI4U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wnP0QI) |
 | TB2 | Exposición TB2 — Foundly | — |
-| TF | Exposición TF — Foundly | — |
